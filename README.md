@@ -1,6 +1,6 @@
 # Chantier de traduction fr ModPack Omega
 
-## TODO
+## TODO test test test
 
 * trad du dossier **A_Traduire**
 * chk eng --> fr, voir si il n'y a pas encors des mod sans `_l_french`
