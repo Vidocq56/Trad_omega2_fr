@@ -1,6 +1,16 @@
-# Traduction fr ModPack Omega
+# Chantier de traduction fr ModPack Omega
 
-## Creating Localisation Files
+## TODO
+
+* trad du dossier **A_Traduire**
+* chk eng --> fr, voir si il n'y a pas encors des mod sans `_l_french`
+* test ingame voirs si le reorga crash
+* Listes des mod du pack ici et checklist pour les id's
+* add - `/localisation-synced` et des sub de `/common` pour la trad.
+
+### Pour rapelle
+
+### Creating Localisation Files
 
 >In the root mod folder (not in common), create a folder named "localisation" spelled with an s. Note, some other paradox titles may use the Americanized "localization" with a z.
 Optionally, create language subfolders within the "localisation" folder. This is organizationally helpful but not required.
@@ -12,7 +22,7 @@ The first line of any localisation file must be l_language:, otherwise it will n
 Example file name: mod_buildings_l_english.yml
 >Naming a YML file the same as a vanilla YML file will overwrite vanilla. Doing this is not recommended, unless you are trying to change (almost) all of the entries in the file. Localisation entries can be overwritten individually, by saving them in the "Replace" folder. See overwrite section.
 
-## File Encoding
+### File Encoding
 
 >Open the YML file using a text editor. Editors such as Notepad++ and Visual Studio Code are recommended, however, if those aren't .available, even standard Notepad will work.
 Convert the file to UTF-8 with BOM
