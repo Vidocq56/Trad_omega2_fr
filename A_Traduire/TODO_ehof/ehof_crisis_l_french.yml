@@ -1,0 +1,345 @@
+﻿###### EHOF End-Game Crisis - The Compound
+
+l_french:
+
+NAME_Dark_Matter_Species:0 "Tenebris"
+NAME_Stellar_Annihilator_Species:0 "§BCat-12-Annihilator-Vessel§!"
+name_list_creators:0 "The Creators"
+name_list_EHOF:0 "The Compound"
+SUBJECT_guardian:0 "Guardian"
+SUBJECT_DESC_guardian:0 "Sworn guardian of their Overlord"
+
+ehof_shroud:0 "§PThe Shroud§!"
+ehof_shroud_ftl:0 "§PShroud FTL§!"
+ehof_the_creators:0 "§BThe Creators§!"
+ehof_the_compound:0 "§MThe Compound§!"
+ehof_preservation_sphere:0 "§HThe Preservation Sphere§!"
+ehof_the_stellar_annihilator:0 "§BStellar Annihilator§!"
+ehof_the_stellar_annihilators:0 "§BStellar Annihilators§!"
+ehof_the_stellar_eradicator:0 "§RStellar Eradicator§!"
+ehof_the_stellar_eradicators:0 "§RStellar Eradicators§!"
+
+job_compound_purge:0 "Transmuting"
+job_compound_purge_plural:0 "Transmuting"
+job_compound_purge_desc:0 "This pop is being transmuted. Perfection beckons."
+pop_cat_compound_purge:0 "The Chosen"
+pop_cat_compound_purge_plural:0 "The Chosen"
+pop_cat_compound_purge_desc:0 "Those that are chosen, are free."
+
+# SA orders
+ehof_sa_prefix:0 "$ehof_the_stellar_annihilator$ §HFleet orders§!\n-------------------------------\n"
+ehof_sa_defend:0 "$ehof_sa_prefix$Return to §H[Root.Capital.GetName]§!"
+ehof_sa_sphere:0 "$ehof_sa_prefix$Attack §HThe Preservation Sphere§!"
+ehof_sa_follow:0 "$ehof_sa_prefix$Follow §H[discoverer_fleet.GetName]§!"
+ehof_sa_attack:0 "$ehof_sa_prefix$Attack any of $ehof_the_compound$'s systems"
+ehof_sa_comm:0 "$ehof_sa_prefix$Open communications with the $ehof_the_stellar_annihilator$"
+
+# Vessel/Starbase names
+envoy:0 "Envoy"
+envoy_plural:0 "Envoys"
+stalker:0 "Stalker"
+stalker_plural:0 "Stalkers"
+humiliator:0 "Humiliator"
+humiliator_plural:0 "Humiliators"
+apex:0 "Apex"
+apex_plural:0 "Apex"
+sovereign:0 "Sovereign"
+sovereign_plural:0 "Sovereigns"
+architect:0 "Architect"
+architect_plural:0 "Architects"
+reshaper:0 "Reshaper"
+reshaper_plural:0 "Reshapers"
+annihilator:0 "$ehof_the_stellar_annihilator$"
+annihilator_plural:0 "$ehof_the_stellar_annihilator$"
+annihilator_sk:0 "$ehof_the_stellar_annihilator$"
+annihilator_sk_plural:0 "$ehof_the_stellar_annihilator$"
+annihilator_02:0 "$ehof_the_stellar_eradicator$"
+annihilator_02_plural:0 "$ehof_the_stellar_eradicators$"
+starbase_ehof_01:0 "Barricade"
+starbase_ehof_01_plural:0 "Barricades"
+starbase_ehof_02:0 "Garrison"
+starbase_ehof_02_plural:0 "Garrisons"
+starbase_ehof_03:0 "Bastion"
+starbase_ehof_03_plural:0 "Bastions"
+starbase_ehof_04:0 "Bulwark"
+starbase_ehof_04_plural:0 "Bulwarks"
+starbase_ehof_05:0 "Aegis"
+starbase_ehof_05_plural:0 "Aegis"
+
+#Reshaper
+COMPOUND_HM_RESHAPER_ACTION:0 "Reshape World"
+COMPOUND_HM_RESHAPER_DESC:0 "A directed feed of thermic energy super-heats the atmosphere and agitates the planet's core, terraforming the planet."
+FLEETORDER_DESTROY_PLANET_WITH_COMPOUND_HM_RESHAPER:0 "Preparing to reshape $PLANET|Y$"
+MESSAGE_DESC_FOR_COMPOUND_HM_RESHAPER:0 "was reshaped by"
+is_already_reshaped:0 "Cannot reshape"
+cannot_reshape:0 "Cannot reshape"
+
+# Relic reward
+r_creator_shard:0 "Creators Shard"
+r_creator_shard_desc:0 "The power core that kept $ehof_preservation_sphere$ running all of these years, fulled by the power of the white hole, appears to wield untold amounts of energy"
+creators_relic:0 "Creators Shard"
+annihilator.010.name:0 "Creators Shard"
+annihilator.010.desc:0 "Discoverer/Bombardier gets a relic."
+
+# Event chains
+compound_crisis_chain_title:0 "$ehof_the_compound$"
+compound_crisis_chain_desc:0 "An unknown force from beyond the outer reaches of the galaxy threatens all life.\n\nWe must find a way to stop $ehof_the_compound$, as they appear to be invincible."
+darkmatter_worlds:0 "§HWorlds terraformed by§! $ehof_the_compound$"
+compound_killed_by_us:0 "§MCompound§! §Hvessels destroyed by Us§!"
+compound_killed_by_sa:0 "§MCompound§! §Hvessels destroyed by§! $ehof_the_stellar_annihilator$"
+compound_killed_by_others:0 "§MCompound§! §Hvessels destroyed by Others§!"
+compound_killed:0 "§RVessels destroyed by§! $ehof_the_compound$"
+
+compound_solution_chain_title:0 "§HA Mysterious message§!"
+compound_solution_chain_desc:0 "Our sensors have detected an incredibly strong but short subspace echo sent from an unknown and undetectable source.\n\nThe echo had such an enormous intensity that the signal must have been detectable all over the galaxy!\n\nOur allies are reporting that they've also detected the subspace echo.\n\nThe subspace echo is of unimaginable complexity, containing only one short message, but said message is translated into every language known to the galaxy. It appears that, depending on who detects the echo the echo automatically chooses the right translation. Almost like an advanced ai protocol is written into the subspace echo!\n\nThe echo's message reads as followed:\nThe solution you are looking for... lies in one of the systems... which can only be reached with your $ehof_ehof$...'\n\nThe message appears cryptic, but it is clear.\n\nThe solution against $ehof_the_compound$ can be found within a wormhole-cohesive system. This is what we have been waiting for! A way to finally defeat it!\n\n§HWe must find it now§!"
+sa_system:0 "Wormhole-Cohesive system found"
+solution_anomaly:0 "Solution clues"
+
+ehof_reply_alert:0 "§RMobilize the fleets!§! What are these creatures?!"
+ehof_reply_endcomms:0 "End communication"
+ehof_goback:0 "§HBack§!"
+
+###############################################
+############### Compound Dialog ###############
+###############################################
+compound_dialog.1.name:0 "Darkness released"
+compound_dialog.1.desc:0 "Something horrible has happened! We deployed the $ehof_ehof$ as usual. The probabilistic target markers randomly choose a wormhole and used the inflation and stabilization mechanisms to inflate it.\n\nOur ships went through the wormhole, but it didn't close itself afterwards. It remained open.\n\nOn the other side, our fleets instantly encountered vast fleet constellations and constructs of unknown type. These fleets immediately began to attack our ships and destroyed them in an instant.\n\nWe don't know who these ships belong to or who they are, but their intentions are definitely hostile.\n\nimmediately after that, the $ehof_ehof$ stopped responding to our commands and the constructs defensive systems, began to attack its own crew!\n\nIt appears that our $ehof_ehof$ has been overtaken by these alien aggressors, and they are somehow able to keep the wormhole open permanently!"
+compound_dialog.1.a:0 "§RSet all fleets on alert!§!"
+
+compound_dialog.3_name:0 "$ehof_the_compound$"
+compound_dialog.3.desc:0 "Remote capture of probabilistic wormhole constructor complete and permanent wormhole-bridge established.\n\nCleansing fleets ready for deployment.\n\nCelestial reshapers ready for planetary and stellar transmutation.\n\nNow we can finally leave our home and spread perfection throughout the universe!"
+
+compound_dialog.3.desc_01:0 "§HCommunication established§!\nThe transmutation of this galaxy is ongoing. The first of many.\n\nWhat do you want, baryonic matter entities?"
+compound_dialog.3.desc_02:0 "§HCommunication established§!\nYou are trying to fight against us. Unnecessary. We only want to make this cosmos perfect.\n\nDo not worry, our work will not be disturbed by your naive and paradox struggle against perfection.\n\nSurrender and ascend with this reality."
+compound_dialog.3.desc_03:0 "§HCommunication established§!\nIt is an honor to be the ones who will bring perfection to this universe.\n\nHow can we help you, baryonic matter entities?"
+compound_dialog.3.desc_04:0 "§HCommunication established§!\nSome of you are made of baryonic matter based flesh... Others of metal... Some of both.\n\nIrrelevant.\n\nTo us, you are all the same... Flawed. Perfection will arise. "
+
+compound_dialog.3.a:0 "Who and what are you?"
+compound_dialog.3.a.response:0 "We are $ehof_the_compound$. We are the ultimate life form."
+compound_dialog.3.a.r:0 "Why are you named '$ehof_the_compound$'?"
+compound_dialog.3.a.r.response:0 "Because we are one made from many. We share one mind, but possess countless bodies.\n\nAll our forms are connected to a single, absolute consciousness. Even what you referring to as our 'ships', are in reality just some of our many forms."
+compound_dialog.3.a.r2:0 "You claim to be the ultimate life form?"
+compound_dialog.3.a.r2.response:0 "There is nothing to claim, when it is fact. All life in this cosmos is made from flawed baryonic matter, not suited for perpetual existence in this reality.\n\nWe on the other hand, are the first and only dark matter lifeforms. Brought into existence by $ehof_the_creators$, with the potential to be the apex life of this universe."
+
+compound_dialog.3.b:0 "Why are you attacking us?"
+compound_dialog.3.b.response:0 "We are not attacking you. We have merely begun the transmutation of this galaxy.\n\nThis process, of course involves the transmutation of all flawed baryonic matter lifeforms, like you. Which you interpret as an attack.\n\nThis is no act of hostility, it is an act of kindness. A gift. The gift of perfection."
+
+compound_dialog.3.c:0 "How did you capture the $ehof_ehof$?"
+compound_dialog.3.c.response:0 "The probabilistic wormhole constructor... The $ehof_ehof$... We were able to draw its focus to our home cluster. Manipulating its probabilistic target markers.\n\nWhile you are not capable of manipulating the principles of probability, we are. We are better at using your creations than you are, and this from a vast distance. More proof of our supremacy."
+
+compound_dialog.3.d:0 "How can we understand you without translating software?"
+compound_dialog.3.d.response:0 "We have been watching for a long time.\n\nWe have been monitoring your galaxy, listening to you.\n\nEvery signal that has ever been emitted by you, has been intercepted by us.\n\nWe know all of your languages. All your history. We know everything about you."
+
+compound_dialog.3.e:0 "Why can we not damage your ships?"
+compound_dialog.3.e.response:0 "It is not possible to damage our forms. We have always, due to our nature, been able to be immunize against most forms of potentially harmful energy. As for everything else, we have adapted.\n\nThis is why we are supreme. The only ones who can make this universe perfect and survive perpetually."
+
+compound_dialog.3.f:0 "We won't let you destroy this galaxy."
+compound_dialog.3.f.response:0 "Don't be afraid. We know that this change appears frightening to you. It will solely contribute to the perfection of this universe. Even if you will not relent, it will not change the outcome. It will only delay the inevitable. Embrace perfection."
+
+compound_dialog.3.g:0 "Who are '$ehof_the_creators$' you referring to"
+compound_dialog.3.g.response:0 "$ehof_the_creators$ were the ones who gave us life. They made us in an attempt to create the first dark matter lifeforms.\n\nAble to resist almost all forms of damage and having limitless adaptability, they theorized that we could become the apex form of life in the cosmos.\n\nWe proved to them that we are, by showing them our supremacy."
+
+compound_dialog.3.h.response:0 "This universe is such a hostile reality for baryonic lifeforms like you. Don't worry, we will put an end to your suffering. Embrace perfection."
+
+compound_dialog.7.desc:0 "§HCommunication established§!\nPerfection awaits this cosmos... Not you. For you... there will only be agony!"
+
+compound_dialog.8.desc:0 "§HCommunication established§!\nFoolish. Whatever entity has broadcasted this message is ignorant about our flawlessness.\n\nThis supposed 'solution' against us does not exist. Don't waste the universe's energy by trying to find it.\n\nEmbrace our gift. Embrace perfection."
+compound_dialog.8.response:0 "Nothing is truly flawless. Not even you"
+
+compound_dialog.9.desc:0 "§HCommunication established§!\nThis beast has found its way into our home! We'll unleash our limitless power and annihilate this ruthless destructor!"
+
+compound_dialog.10.desc:0 "§HCommunication established§!\nWelcome to our home... An image of perfection the perfection which awaits this cosmos.\n\nYou are not welcome here!"
+
+compound_dialog.11.desc:0 "§HCommunication established§!\nWhat is this entity?! Why is it able to damage us?! Why are we not able to damage it?!"
+compound_dialog.11.response:0 "It is a ship $ehof_the_creators$ have sent to destroy you."
+
+compound_dialog.12.desc:0 "$ehof_the_creators$ are gone! We transmuted them ourselves! Don't lie to us flawed entity!"
+compound_dialog.12.response:0 "You only killed the ones in your home."
+
+compound_dialog.13.desc:0 "We see! They were never truly gone!\n\nNow they sent this miserable entity to annihilate us, in a pitiful act of revenge?! US!"
+compound_dialog.13.response:0 "Yes, they are not pleased by your actions!"
+
+compound_dialog.14.desc:0 "It is irrelevant if they are pleased! We are the ultimate lifeform! NOTHING CAN STOP US FROM PERFECTING THIS REALITY! The $ehof_the_creators$ will suffer, just as you will! §RTHIS GALAXY WILL BE IN RUIN!§!"
+compound_dialog.14.response:0 "Now they are afraid!"
+
+compound_dialog.16.desc:0 "§HCommunication established§!\nImpossible! This cannot be! How can your fleets inflict damage on our cleansing forms?"
+compound_dialog.16.response:0 "We can damage all of your forms now."
+
+compound_dialog.17.desc:0 "We will not tolerate this disturbance! You may have discovered a mysterious flaw, we haven't yet adapted to. But don't get high-spirited. The flaw you discovered will soon be gone."
+compound_dialog.17.response:0 "Are you sure about that?"
+
+compound_dialog.18.desc:0 "We don't understand! What is happening?! We cannot adapt! We remain flawed! §RWHAT HAVE YOU DONE TO US?!§!"
+compound_dialog.18.response:0 "Negative mass is poison to you"
+
+compound_dialog.19.desc:0 "THIS IS UNACCEPTABLE! We may want to bring perfection to this universe, but to your galaxy, we will bring ruin! NOTHING will remain once we are done with it! ONLY US! Eternal suffering is the only thing that awaits you now!"
+compound_dialog.19.response:0 "We hit a nerve!"
+
+compound_dialog.20.name:0 "bombardment"
+compound_dialog.20.desc:0 "Inform everyone the sphere was destroyed via bombardment"
+
+##############################################
+######### Stellar Annihilator Dialog #########
+##############################################
+
+# Begin SA Event Chain
+annihilator_dialog.014.name:0 "Salvation"
+annihilator_dialog.014.desc:0 "Our sensors have detected an incredibly strong but short subspace echo sent from an unknown and undetectable source.\n\nThe echo had such an enormous intensity that the signal must have been detectable all over the galaxy!\n\nOur allies are reporting that they've also detected the subspace echo.\n\nThe subspace echo is of unimaginable complexity, containing only one short message, but said message is translated into every language known to the galaxy. It appears that, depending on who detects the echo, the echo automatically chooses the right translation. Almost like an advanced ai protocol is written into the subspace echo!\n\nThe echo's message reads as followed:\nThe solution you are looking for... lies in one of the systems... which can only be reached with your $ehof_ehof$...'\n\nThe message appears cryptic, but its message is clear.\n\nThe solution against $ehof_the_compound$ can be found within a wormhole-cohesive system. This is what we have been waiting for! A way to finally defeat it!\n\n§HWe must find it now§!"
+annihilator_dialog.014.a:0 "A mysterious solution is still more than nothing!"
+
+# Initial Contact
+annihilator_dialog.001_name:0 "$NAME_Stellar_Annihilator_Species$"
+annihilator_dialog.001.desc:0 "Greetings inhabitants of Galaxy-XY1527, I am a $NAME_Stellar_Annihilator_Species$, also refereed to as '$ehof_the_stellar_annihilator$'. I have been sent by $ehof_the_creators$ to destroy the Living-Dark-Matter-Subject001, '$ehof_the_compound$'.\n\nAs you've probably already noticed, its motivations are total cosmic transmutation. Beginning with your home galaxy.\n\n$ehof_the_compound$ believes itself to be invincible. I've monitored its actions and to a certain degree, this is true. However it is ignorant to its biggest weakness. A fundamental flaw that is part of its very nature. All forms of dark matter will disintegrate when in contact with $ehof_qnm$. This is its eternal weakness."
+annihilator_dialog.001.response:0 "So $ehof_qnm$ is the key?"
+
+annihilator_dialog.002.desc:0 "With negative mass enhanced weapons, or weapons that use negative mass directly, $ehof_the_compound$ can be destroyed. Its very existence is only possible, due to a fragile balance of tremendous forces and they are unable to adapt to it, but this will not be enough.\n\nIts origin system contains multiple black holes and at its center a unique celestial body, a white hole. It is both, the key to their existence and its biggest curse. $ehof_the_creators$ used the unique interactions between the white and black holes in order to create $ehof_the_compound$. It was the perfect environment for its creation."
+annihilator_dialog.002.response:0 "$ehof_the_creators$ created $ehof_the_compound$?!"
+
+annihilator_dialog.003.desc:0 "They created $ehof_the_compound$ millions of years ago, as the first dark matter lifeform in this galactic cluster. In order to keep it from being killed by the very thing that makes its existence possible, they had to shield it.\n\nWhite holes are unique and extremely rare entities. Besides generating unparalleled amounts of energy, it also generates $ehof_qnm$ in vast amounts. Which it disperses in all directions. Making $ehof_the_compound$'s origin system and cluster uninhabitable for it.\n\n$ehof_the_creators$ built a specialized dyson sphere around the white hole called '$ehof_preservation_sphere$'. This dyson sphere nullifies the white hole's negative mass ejection, while still capturing the immense energy output.\n\nWhen $ehof_the_compound$ killed $ehof_the_creators$ in its origin system, it took control of the dyson sphere, to gain access to the vast energy supply. Strengthening it even further."
+annihilator_dialog.003.response:0 "So we have to destroy $ehof_preservation_sphere$?"
+
+annihilator_dialog.004.desc:0 "The annihilation of $ehof_the_compound$ is only possible with the destruction of $ehof_preservation_sphere$, otherwise they cannot be defeated permanently.\n\n$ehof_the_compound$ is a singular entity. One mind with countless bodies. It has a centralized intelligence, which is located within their origin system, spreading throughout their cluster. Destroying $ehof_preservation_sphere$ will annihilate the mind of $ehof_the_compound$ and cripple its remaining forms.\n\nHowever, the collision with this star damaged my frontal weaponry and power core significantly, rendering me inoperable. I require major repairs that I cannot fulfil alone.\n\nRegardless, I will help you with the technology that you require in order to defeat $ehof_the_compound$."
+annihilator_dialog.004.response:0 "What would it take to repair you?"
+
+annihilator_dialog.005_01.desc:0 "The matter-converting mechanism will require vast amounts of §H£minerals£ Minerals and £energy£ Energy§! to repair my power core.\n\nEither:\n - £minerals£ Minerals §R-500§! and £energy£ Energy §R-400§! for £time£48 Months.\n - £minerals£ Minerals §R-24,000§! and £energy£ Energy §R-20,000§!.\n\nI don't have much time left before my communication module shuts down completely, within §H£time£6 Months§! I will no longer be able to accept any help."
+
+annihilator_dialog.005_02.desc:0 "I am in urgent need of repair, can you help?\n\n$annihilator_dialog.005_01.desc$"
+
+annihilator_dialog.005_03.desc:0 "§H[initial_annihilator_discoverer.GetName]§! were the first to discover me and as such, I must ask them for help first. Should they refuse, I will ask you."
+annihilator_dialog.005_03.response:0 "That's fair"
+
+annihilator_dialog.005.a.response:0 "§HWe'll begin gathering the resources§!"
+annihilator_dialog.005.a.tooltip:0 "Monthly: £minerals£ Minerals §R-500§! and £energy£ Energy §R-400§! for £time£ §H48§! Months\n\nRepair $ehof_the_stellar_annihilator$\n\n"
+annihilator_dialog.005.b.response:0 "§GWe have these resources to hand§!"
+annihilator_dialog.005.a.reply:0 "Thank you. I know that your resource reserves are probably almost exhausted, but the annihilation of $ehof_the_compound$ would otherwise be almost impossible. Let us begin the repair!"
+annihilator_dialog.005.c.response:0 "We don't have enough resources to help you."
+annihilator_dialog.005.c.reply:0 "Then I am sorry. I wish you luck in destroying $ehof_preservation_sphere$. Farewell."
+annihilator_dialog.005.c.2.response:0 "Contact me in £time£ §H6 Months§!"
+annihilator_dialog.005.c.2.reply:0 "Very well, but it is imperative that it takes no longer. I'll contact you in §H£time£6 Months§!"
+annihilator_dialog.005.c.2.tooltip:0 "We have £time£ §H6 Months§! to get these materials together"
+annihilator_dialog.005.d.response:0 "We don't need your help. Our fleets can handle the sphere."
+annihilator_dialog.005.d.reply:0 "If you really believe that you can destroy $ehof_preservation_sphere$ without my help, then I have faith in you. Farewell and good luck."
+annihilator_dialog.005.e.response:0 "Excuse me?"
+
+annihilator_dialog.006.desc:0 "All repairs are complete, initiating $ehof_shroud_ftl$, targeting §H[Root.Capital.GetName]§!\n\nI shall defend you for now, but it's imperative that we destroy $ehof_preservation_sphere$.\n\n§G(Use the UI below if you wish to change the $ehof_the_stellar_annihilators$ orders)§!"
+annihilator_dialog.006.tooltip:0 "$ehof_the_stellar_annihilator$ has left §H[annihilator_spawn_here.GetName] star§! and is initiating $ehof_shroud_ftl$ to travel to §H[Root.Capital.GetName]§!"
+
+# Contact the SA
+annihilator_dialog.007.desc_01:0 "§HCommunication established§!\nWelcome §H[Root.GetSpeciesClassPlural]§!. What can I do for you?\n\n"
+annihilator_dialog.007.desc_02:0 "§HCommunication established§!\n$ehof_the_compound$ is still continuing its siege of your galaxy. Stay calm and together we can stop them!\n\n"
+annihilator_dialog.007.desc_03:0 "§HCommunication established§!\nWe have to stop $ehof_the_compound$ before its influence has grown too large. Otherwise, it will become unstoppable, even for me.\n\nHow can I be of service?\n\n"
+annihilator_dialog.007.desc_04:0 "§HCommunication established§!\n$ehof_the_creators$ have theorized that $ehof_the_compound$ could one day become the apex form of life in this universe.\n\n$ehof_the_compound$ believes it is, but it isn't.\n\nIt is a sickness, a disease. A cancerous growth that corrupts all it touches. It has to be stopped!\n\n"
+
+annihilator_dialog.007.desc_order_01:0 "§H- $ehof_the_stellar_annihilator$ is currently located in the §H[annihilator_location.GetName]§! system.§!\n§H- $ehof_the_stellar_annihilator$ is currently following §H[discoverer_fleet.GetName]§!"
+annihilator_dialog.007.desc_order_02:0 "§H- $ehof_the_stellar_annihilator$ is currently located in the §H[annihilator_location.GetName]§! system.§!\n§H- $ehof_the_stellar_annihilator$ is currently targeting §!$ehof_the_compound$"
+annihilator_dialog.007.desc_order_03:0 "§H- $ehof_the_stellar_annihilator$ is currently located in the §H[annihilator_location.GetName]§! system.§!\n§H- $ehof_the_stellar_annihilator$ is currently targeting the $ehof_preservation_sphere$"
+annihilator_dialog.007.desc_order_04:0 "§H- $ehof_the_stellar_annihilator$ is currently located in the §H[annihilator_location.GetName]§! system.§!\n§H- $ehof_the_stellar_annihilator$ is currently in defensive mode.§!"
+
+annihilator_dialog.007.desc_05.a:0 "$annihilator_dialog.007.desc_01$$annihilator_dialog.007.desc_order_01$"
+annihilator_dialog.007.desc_05.b:0 "$annihilator_dialog.007.desc_01$$annihilator_dialog.007.desc_order_02$"
+annihilator_dialog.007.desc_05.c:0 "$annihilator_dialog.007.desc_01$$annihilator_dialog.007.desc_order_03$"
+annihilator_dialog.007.desc_05.d:0 "$annihilator_dialog.007.desc_01$$annihilator_dialog.007.desc_order_04$"
+
+annihilator_dialog.007.desc_06.a:0 "$annihilator_dialog.007.desc_02$$annihilator_dialog.007.desc_order_01$"
+annihilator_dialog.007.desc_06.b:0 "$annihilator_dialog.007.desc_02$$annihilator_dialog.007.desc_order_02$"
+annihilator_dialog.007.desc_06.c:0 "$annihilator_dialog.007.desc_02$$annihilator_dialog.007.desc_order_03$"
+annihilator_dialog.007.desc_06.d:0 "$annihilator_dialog.007.desc_02$$annihilator_dialog.007.desc_order_04$"
+
+annihilator_dialog.007.desc_07.a:0 "$annihilator_dialog.007.desc_03$$annihilator_dialog.007.desc_order_01$"
+annihilator_dialog.007.desc_07.b:0 "$annihilator_dialog.007.desc_03$$annihilator_dialog.007.desc_order_02$"
+annihilator_dialog.007.desc_07.c:0 "$annihilator_dialog.007.desc_03$$annihilator_dialog.007.desc_order_03$"
+annihilator_dialog.007.desc_07.d:0 "$annihilator_dialog.007.desc_03$$annihilator_dialog.007.desc_order_04$"
+
+annihilator_dialog.007.desc_08.a:0 "$annihilator_dialog.007.desc_04$$annihilator_dialog.007.desc_order_01$"
+annihilator_dialog.007.desc_08.b:0 "$annihilator_dialog.007.desc_04$$annihilator_dialog.007.desc_order_02$"
+annihilator_dialog.007.desc_08.c:0 "$annihilator_dialog.007.desc_04$$annihilator_dialog.007.desc_order_03$"
+annihilator_dialog.007.desc_08.d:0 "$annihilator_dialog.007.desc_04$$annihilator_dialog.007.desc_order_04$"
+
+annihilator_dialog.007.a:0 "How did you get captured inside the red giant?"
+annihilator_dialog.007.a.response:0 "278,243 of your years ago, I collided with the red giant because of an catastrophic incident.\n\nI was in $ehof_shroud$ FTL travel before it happened.\nMy hostile creators sent an enormous psionic hypershock throughout $ehof_shroud$, which hit me and pushed me out of $ehof_shroud$.\n\nIt killed my entire crew, every single one of my befriended creators.\n\nAfter I got pushed out of $ehof_shroud$, I ended up inside the system where you found me.\n\nBecause I was ripped out of $ehof_shroud$, I wasn't able to slow down for sublight travel, so I was travelling with enormous speed when I hit the star.\nAs a result, I took massive damage and was trapped inside the star. I went into conservation mode to survive for the time being."
+
+annihilator_dialog.007.a.a:0 "$ehof_the_creators$ attacked you?! Why?!"
+annihilator_dialog.007.a.a.response:0 "I wasn't specific enough. I have to apologize for the confusion.\n\nMost of $ehof_the_creators$ never wanted $ehof_the_compound$ to be destroyed.\n\nThey saw its new rebellious behavior as a marvelous development. So they had decided to keep it alive, even through it killed thousands of their people in its origin system. For $ehof_the_creators$, insight is everything.\n\nThe potential knowledge which could be yielded by $ehof_the_compound$'s evolution is much more important, than the lives of a few of their own people... or an entire galaxy. They knew that $ehof_the_compound$ could become a threat to all life, but they just didn't care. Except for a few.\n\nThese few of $ehof_the_creators$ knew that $ehof_the_compound$ had to be stopped, so they separated themselves from the rest of $ehof_the_creators$ and founded a splinter group, dedicated to the destruction of $ehof_the_compound$. Unfortunately, they were outnumbered by many magnitudes.\n\nThe main faction of $ehof_the_creators$ tried to destroy them, but they were able to reach me and convince me to fight against $ehof_the_compound$. Unlike my sibling ships, which all disagreed with them, I saw the threat of $ehof_the_compound$ and joined them before $ehof_the_compound$ could do any harm to the universe.\n\nAfter we began to leave our home, we went into $ehof_shroud$ to travel to $ehof_the_compound$'s home cluster. Before we were able to reach it, the main faction of $ehof_the_creators$ stopped us."
+
+annihilator_dialog.007.a.b:0 "Psionic Hypershock?!"
+annihilator_dialog.007.a.b.response:0 "A Psionic Hypershock.\nA precise psionic remote exterminating method $ehof_the_creators$ were able to utilize. It sends a pulse of concentrated psionic energy throughout $ehof_shroud$ to any desired location, even inside $ehof_shroud$ itself. Destroying all forms of consciousness. It hits the target with incomprehensible precision.\n\nIt was enough to kill all my befriended creators inside me and almost killed me.\n\nI am sure it was supposed to kill me too, but it failed.\n\nThe hostile creators probably never checked if I was still alive, because of their arrogance, which was a big mistake."
+
+annihilator_dialog.007.a.c:0 "$ehof_shroud_ftl$?!"
+annihilator_dialog.007.a.c.response:0 "An extremely advanced FTL travel method.\n\nWhile a few of you are psionic and even in contact with $ehof_shroud$, no one in this galactic cluster has ever been able to directly travel through it, except for $ehof_the_creators$.\n\nSome may have access to psionic jump drives, but they are nothing compared to direct shroud travel. Jump drives are indeed instantaneous, but have mayor drawback. They have limited range and besides a cooldown, are also putting intense stress on their ships, making them vulnerable upon reaching their destination.\n\nBy directly traveling through $ehof_shroud$, hyperlanes are unnecessary for FTL, the distance is unlimited and the speed is enormous.\n\nIt may not be instantaneous like jump drives, but it has no drawbacks. The only thing one needs is a really strong control over $ehof_shroud$, because $ehof_shroud$ is an extremely hostile place without control over it.\n\nFor $ehof_the_creators$, this is of course an easy feat."
+
+annihilator_dialog.007.a.d:0 "What's the conservation mode for?"
+annihilator_dialog.007.a.d.response:0 "The conservation mode is a method for me to shelter myself from harmful outside influence.\n\nAs your scientists have discovered, a supersolid-like substance is covering my hull, while being in conservation mode. The substance is composed of time-like metastable-hyperspace-crystals which create a shell of curved higher-dimensional space around me.\n\nThis shell has a similar effect to the $eho_eh$ of a black hole, but without the singularity inside it.\n\nThat means that time stands still for me, so to speak, until something interrupts the conservation mode.\n\nThe thing that interrupted my conservation mode were the immensely intense gravitational waves, emitted by the wormhole connections created by your $ehof_ehof$. I awoke and began observing the galaxy, but $ehof_the_compound$ was faster than I was and attacked before I was able to warn you."
+
+annihilator_dialog.007.b:0 "What exactly is $ehof_the_compound$?"
+annihilator_dialog.007.b.response:0 "$ehof_the_compound$, also known as Living-Dark-Matter-Subject001, is an intelligent, self-consciousness organism, composed of a unique form of dark matter.\n\n$ehof_the_creators$ doubted it as 'pseudo-biological dark matter', because of the similarities to biological matter.\n\nThe pseudo-biological dark matter, is not only unique in the sense of being alive, but also because it is different to average dark matter, in that it interacts not only via gravity, but also via the electromagnetic force. Unlike the average dark matter, which only interacts with gravity.\n\nThis is why Compound structures, despite being composed of dark matter, are visible. Its unique properties may explain why only such an exotic dark matter can bare intelligence or living behavior in general."
+
+annihilator_dialog.007.d:0 "Can you really fight $ehof_the_compound$ in their cluster?"
+annihilator_dialog.007.d.response:0 "The home cluster of $ehof_the_compound$ and particularly their origin system is without doubt, one of the most fortified locations in the entire galaxy and beyond.\n\nFor your fleets it will be a gigantic challenge, even with the negative mass enhanced weaponry.\n\nWith the whole fleet power of your galaxy, you may be able to do it without my help.\n\nFor me on the other hand. I am especially equipped to fight against $ehof_the_compound$ and I'm able to withstand their weaponry.\n\nThey may still be able to damage me critically, which is why I still need your support. I will nonetheless be able to destroy them. Their annihilation is inevitable."
+
+annihilator_dialog.007.e:0 "What are you going to do after $ehof_the_compound$ has been destroyed?"
+annihilator_dialog.008.a.response:0 "For now, my only goal is to put an end to $ehof_the_compound$ and fulfill my destiny. After that, I may try to find out more about the current state of $ehof_the_creators$."
+
+annihilator_dialog.008.a.a.reply:0 "You can stay with us if you want."
+annihilator_dialog.008.a.a.response:0 "Maybe I will. Your galaxy took tremendous damage, because of the consequences of the ruthless actions of $ehof_the_creators$. I may stay and help you to restore it to its former glory."
+
+annihilator_dialog.007.f.response:0 "The end of $ehof_the_compound$ is near. Together, we will save this galaxy!"
+
+annihilator_dialog.007.c:0 "§HFleet orders§!"
+annihilator_dialog.009.response:0 "What should I target first, §H[Root.GetRulerName]§!?"
+
+annihilator_dialog.009.a:0 "Target the $ehof_preservation_sphere$"
+annihilator_dialog.009.a.response:0 "Orders received, targeting $ehof_preservation_sphere$!"
+
+annihilator_dialog.009.b:0 "Target any of $ehof_the_compound$'s systems"
+annihilator_dialog.009.b.response:0 "Orders received, targeting $ehof_the_compound$!"
+
+annihilator_dialog.009.d:0 "Follow my fleet, §H[discoverer_fleet.GetName]§!"
+annihilator_dialog.009.e.response:0 "Orders received, following §H[discoverer_fleet.GetName]§!!"
+
+annihilator_dialog.009.c:0 "Return to §H[Root.Capital.GetName]§!, I need help!"
+annihilator_dialog.009.c.response:0 "Orders received, initiating $ehof_shroud_ftl$, targeting §H[Root.Capital.GetName]§!!\n\n($ehof_shroud_ftl$ takes §H£time£30 days§! and has a §H£time£360 day§! cooldown)"
+annihilator_dialog.009.d.response:0 "$ehof_shroud_ftl$ is on cooldown\n\n($ehof_shroud_ftl$ has a §H£time£[root.sa_shroud_cooldown] day§! cooldown period)"
+annihilator_dialog.009.d.cooldown:0 "§RReturn to §H[Root.Capital.GetName]§!, I need help!§!"
+
+# Loot boxes
+sa_lootbox:0 "Having fought many fleets now, I have accumulated a trove of war scraps that I have no use for. You may find it of help in the fight against $ehof_the_compound$\n\n$ehof_the_stellar_annihilator$ has sent a container filled with "
+sa_lootbox_1:0 "$sa_lootbox$§H£minerals£ Minerals§!."
+sa_lootbox_2:0 "$sa_lootbox$§H£alloys£ Alloys§!."
+sa_lootbox_3:0 "$sa_lootbox$§H£energy£ Energy§!."
+sa_lootbox_4:0 "$sa_lootbox$$ehof_darkmatter$."
+sa_lootbox_5:0 "$sa_lootbox$§H£minor_artifacts£ Minor Artifacts§!."
+sa_lootbox_6:0 "$sa_lootbox$§BSalvaged Compound Envoys§!."
+sa_lootbox_7:0 "$sa_lootbox$§BSalvaged Compound Stalkers§!."
+sa_lootbox_8:0 "$sa_lootbox$§BSalvaged Compound Humiliators§!."
+sa_lootbox_9:0 "$sa_lootbox$§BSalvaged Compound Apex§!."
+sa_lootbox_10:0 "$sa_lootbox$§BSalvaged Compound Sovereigns§!."
+annihilator_dialog.010.response:0 "This will definitely help, thanks!"
+annihilator_dialog.010.tooltip.a:0 "§BSalvaged Compound Envoy Fleet§!"
+annihilator_dialog.010.tooltip.b:0 "§BSalvaged Compound Stalker Fleet§!"
+annihilator_dialog.010.tooltip.c:0 "§BSalvaged Compound Humiliator Fleet§!"
+annihilator_dialog.010.tooltip.d:0 "§BSalvaged Compound Apex Fleet§!"
+annihilator_dialog.010.tooltip.e:0 "§BSalvaged Compound Sovereign Fleet§!"
+
+# Destroyed Sphere
+annihilator_dialog.012.name:0 "Sacrifice"
+annihilator_dialog.012.desc:0 "An enormous energy spike rumbles throughout $ehof_the_compound$'s origin system. The biggest energy spike ever seen in history!\n\n$ehof_preservation_sphere$ has been destroyed, unleashing the immense energy output of the white hole.\n\nWithin a few hours, the whole origin system of $ehof_the_compound$ was flooded with $ehof_qnm$, destroying every form of dark matter within, including $ehof_the_compound$'s structures.\n\n$ehof_the_compound$ is no more! Its mind, its consciousness has been destroyed!\n\nUnfortunately, this victory was not without its costs. The $ehof_the_stellar_annihilator$, our greatest and most faithful ally, sacrificed itself to destroy $ehof_preservation_sphere$ and in turn, $ehof_the_compound$, finally fulfilling its destiny."
+annihilator_dialog.012.response:0 "We will forever honor its sacrifice!"
+
+# SA Died
+annihilator_dialog.013.name:0 "The $ehof_the_stellar_annihilator$ has fallen"
+annihilator_dialog.013.desc:0 "We failed to protect the $ehof_the_stellar_annihilator$ from $ehof_the_compound$'s armadas, while it was destroying $ehof_preservation_sphere$!"
+annihilator_dialog.013.response:0 "This is a catastrophe!"
+
+# SA drops out of ftl
+annihilator_dialog.015.name:0 "$ehof_shroud_ftl$"
+annihilator_dialog.015.desc_01:0 "The $ehof_the_stellar_annihilator$ drops out of $ehof_shroud_ftl$ and appears next to §H[Root.Capital.GetName]§!.\n\n§H- $ehof_the_stellar_annihilator$ is currently in defensive mode.§!\n- $annihilator_dialog.009.d.response$"
+annihilator_dialog.015.desc_02:0 "The $ehof_the_stellar_annihilator$ drops out of $ehof_shroud_ftl$ and appears next to §H[Root.Capital.GetName]§!.\n\n§H- $ehof_the_stellar_annihilator$ is currently targeting the $ehof_preservation_sphere$\n- $annihilator_dialog.009.d.response$"
+annihilator_dialog.015.desc_03:0 "The $ehof_the_stellar_annihilator$ drops out of $ehof_shroud_ftl$ and appears next to §H[Root.Capital.GetName]§!.\n\n§H- $ehof_the_stellar_annihilator$ is currently targeting §!$ehof_the_compound$\n- $annihilator_dialog.009.d.response$"
+annihilator_dialog.015.desc_04:0 "The $ehof_the_stellar_annihilator$ drops out of $ehof_shroud_ftl$ and appears next to §H[Root.Capital.GetName]§!.\n\n§H- $ehof_the_stellar_annihilator$ is currently following §H[discoverer_fleet.GetName]§!\n- $annihilator_dialog.009.d.response$"
+
+# SA returns to repair
+annihilator_dialog.016.name:0 "§PReturning to §H[Root.Capital.GetName]§!"
+annihilator_dialog.016.desc:0 "The $ehof_the_stellar_annihilator$ is heavily outnumbered and engages emergency maneuvers, dropping into $ehof_shroud_ftl$. It's heading back to §H[Root.Capital.GetName]§!."
+
+# SA becomes unresponsive whilst firing at sphere
+annihilator_dialog.011.desc:0 "..."
+annihilator_dialog.011.response:0 "???"

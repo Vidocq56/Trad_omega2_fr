@@ -1,0 +1,82 @@
+﻿l_english:
+ job_queen_drone:0 "Breeder Queen"
+ job_queen_drone_desc:0 "The queen is best understood as the reproductive element rather than a leader. She will try to take control of the planet by destabilizing and rallying other members of the colony."
+ district_hollow_housing:0 "Cave Complex"
+ district_hollow_housing_desc:0 "A vast network of caves and caverns used to withhold many pops, harvest the planets energy and mine."
+ district_hollow_housing_plural:0 "Cave Complexes" 
+ district_queen_den:0 "Proliferation Lairs"
+ district_queen_den_desc:0 "Tended by the scientific and gentle care of specialists, these underground Proliferation Lairs stimulate our spawn and synaptic network into faster growth."
+ district_queen_den_plural:0 "Proliferation Lairs"
+ district_subterranean_network:0 "Subterranean Resource Network"
+ district_subterranean_network_desc:0 "An interconnected and self-sufficient network of caverns and caves. Caverns filled with Fungus lead to the diffenrent caves where Minerals are gathered from the mantle and Energy from the liquid outer core."
+ district_subterranean_network_plural:0 "Subterranean Resource Networks"
+ district_soldier_den:0 "Soldiers Den"
+ district_soldier_den_desc:0 "Soldiers Dens are the quarters of the most formidable members."
+ district_soldier_den_plural:0 "Soldiers Dens"
+ mod_job_queen_drone_add:0 "Breeder Queens"
+ job_queen_drone_plural:0 "Breeder Queens"
+ job_queen_drone_effect_desc:0 "Breeder Queens increase §HPop Growth§! but destabilize the planet."
+ 
+ 
+ trait_digital:0 "Digital Entity"
+ trait_digital_desc:0 "§LThese pops are no longer part of the material plane, they exist as a digital version in a Matryoshka Planet.§!\n"
+ trait_pc_hollow_preference:0 "Hollow Planet Preference"
+ trait_pc_hollow_preference_desc:0 "§LClimate preference is determined by eons of evolution, design, or skillful genetic manipulation.§!\n"
+ trait_pc_matryoshka_preference:0 "Digital Entity"
+ trait_pc_matryoshka_preference_desc:0 "§LThese pops are no longer part of the material plane, they exist as a digital version in a Matryoshka Planet.§!\n"
+ mod_pc_hollow_habitability:0 "Hollow Planet Habitability"
+ mod_pc_matryoshka_habitability:0 "Matryoshka World Habitability"
+
+ 
+ district_matryoshka_housing:0 "Planetary Hard Drive"
+ district_matryoshka_housing_desc:0 "This is where digital pops are stored."
+ district_matryoshka_housing_plural:0 "Planetary Hard Drives"
+ district_matryoshka_cpu_module:0 "Central Processing Unit"
+ district_matryoshka_cpu_module_desc:0 "Digitalized pops can work simulating diferent realities to expand knowledge."
+ district_matryoshka_cpu_module_plural:0 "Central Processing Units"
+ district_matryoshka_bus_module:0 "Antivirus Agent"
+ district_matryoshka_bus_module_desc:0 "Every computer can be afected by malware and virus. This piece of hardware is an antivirus, providing maintenance and security agents."
+ district_matryoshka_bus_module_plural:0 "Antivirus Agents"
+ district_matryoshka_recursive_function:0 "Recursive Function"
+ district_matryoshka_recursive_function_desc:0 "Special computing modules that are extremely efficient at copying and backuping data."
+ district_matryoshka_recursive_function_plural:0 "Recursive Functions"
+ 
+ ap_matryoshka_project:0 "Matryoshka Project"
+ ap_matryoshka_project_desc:1 "A universe within a world. The endless power of virtual reality."
+ allow_matryoshka_project:0 "§HUnlocks Decision:§! $ap_matryoshka_project$"
+ decision_matryoshka_project:0 "$ap_matryoshka_project$"
+ decision_matryoshka_project_effects:1 "Turns the planet into an §Y$pc_matryoshka$§!, increasing £housing£ §Y$PLANET_HOUSING_TITLE$§!, §YResearch Production§! and unlocking special £district£ §YMatryoshka Districts§! at the expense of the planet's natural resources becoming §Rinaccessible§!, preventing all further construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!.\nEvery §YPop§! will be §YDigitalized§! allowing them to only resettle between §Y$pc_matryoshka$§!."
+ decision_matryoshka_project_effects_short:2 "Increases £housing£ §Y$PLANET_HOUSING_TITLE$§! and §YResearch Production§!\nEnables £district£ §YMatryoshka Districts§!\nDisables construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!"
+ decision_matryoshka_project_requirements:0 "£trigger_no£ §RAll district slots on the planet must be filled with§! §Y$district_nexus_plural$§!"
+ decision_matryoshka_project_desc:1 "A universe within a world, the energy gathered from the planets core poweres a planet size computer that simulates a virtual universe."
+
+ 
+ 
+ ap_hollow_project:0 "Hollowing Project"
+ ap_hollow_project_desc:1 "Without a blueprint or a leader, thousands of us moving specks of dirt will create a complex, spongelike structure with parallel levels connected by a network of tunnels"
+ allow_hollow_project:0 "§HUnlocks Decision:§! $ap_hollow_project$"
+ decision_hollow_project:0 "$ap_hollow_project$"
+ decision_hollow_project_effects:1 "Turns the planet into an §Y$pc_hollow$§!, increasing £housing£ §Y$PLANET_HOUSING_TITLE$§!, §YResource Production§! and §YPop Growth§! and unlocking special £district£ §YHollow Districts§! at the expense of the planet's natural resources becoming §Rinaccessible§!, preventing all further construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!."
+ decision_hollow_project_effects_short:2 "Increases £housing£ §Y$PLANET_HOUSING_TITLE$§! and §YPop Growth§!\nEnables £district£ §YHollow Districts§!\nDisables construction of £district£ §YGenerator§!, §YMining§! and §YAgriculture Districts§!"
+ decision_hollow_project_requirements:0 "£trigger_no£ §RAll district slots on the planet must be filled with§! §Y$district_hive_plural$§!"
+ decision_hollow_project_desc:1 "Without a blueprint or a leader, thousands of us moving specks of dirt will create a complex, spongelike structure with parallel levels connected by a network of tunnels"
+ 
+ 
+ pc_hollow:0 "Hollow Planet"
+ pc_hollow_desc:0 "Caves and caverns run through all the planets crust and a great part of the mantle, using the planets inner core as a heat and energy source to support life in the lower levels."
+ 
+ pc_matryoshka:0 "Matryoshka World"
+ pc_matryoshka_desc:0 "A planet size computer that uses the planets core to power a virtual reality. Pops that relocate to this planet will be digitalized. Forever."
+ 
+ 
+ eq.200.name:0 "§HHollowing§!: [Root.GetName] Complete"
+ eq.200.desc:0 "Caves and Caverns sprawl inside the globe's crust reaching the mantle, and its done.\n\nScant few years have passed since the start of this grand project, but it is already difficult to recall what the surface of [Root.GetName] was like. Verdant? Rugged? It is all mounds and caverns now, miles in every direction.\n\nA place once molded by chance and the unthinking laws of nature, now a design wrought from indomitable purpose."
+ eq.200.a:0 "We dig it."
+ 
+ eq.300.name:0 "§HMatryoshka§!: [Root.GetName] Encased"
+ eq.300.desc:0 "Layers upon layers of computer panels absorbing the energy of the planets core to power a virtual world.\n\nScant few years have passed since the start of this grand project, it is impossible to recall what the surface of [Root.GetName] was like. Verdant? Rugged? It is all steel now, miles in every direction.\n\nA place once molded by chance and the unthinking laws of nature, now a design wrought from indomitable purpose."
+ eq.300.a:0 "Impressive."
+
+
+ decision_prospect_hollow:0 "$decision_prospect$"
+ decision_prospect_hollow_desc:0 "$decision_prospect_desc$"

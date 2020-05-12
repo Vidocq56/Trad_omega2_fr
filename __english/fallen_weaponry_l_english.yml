@@ -1,0 +1,185 @@
+﻿l_english:
+
+ 
+ 
+
+
+ DIMENSIONAL_WEAPON:0 "Dimensional Beam"
+ DIMENSIONAL_WEAPON_DESC:0 "The Dimensional Beam is a type of 5th dimensional weaponry designed to cause significant damage to enemy vessels from every dimension."
+ 
+ tech_dimensional_weapon:0 "Dimensional Beam"
+ tech_dimensional_weapon_desc:0 "The Dimensional Beam is a type of 5th dimensional weaponry designed to cause significant damage to enemy vessels from every dimension."
+ 
+ DRAGON_BREATH:0 "Dragon Breath"
+ DRAGON_BREATH_DESC:0 "Harnessing the science behind the dragon fire, this weapon simulates its effects to 100% likeness plus sound effects."
+ 
+ tech_dragon_breath:0 "Dragon Breath"
+ tech_dragon_breath_desc:0 "Harnessing the science behind the dragon fire, this weapon simulates its effects to 100% likeness plus sound effects."
+ 
+ STELLARITE_WEAPON:0 "Stellarite Beam"
+ STELLARITE_WEAPON_DESC:0 "Harnessing the science behind the Stellarite's most feared weapon, a destructive form of pure solar energy is unleasehed upon the enemy."
+ 
+ tech_stellarite_weapon:0 "Stellarite Beam"
+ tech_stellarite_weapon_desc:0 "Harnessing the science behind the Stellarite's most feared weapon, a destructive form of pure solar energy is unleasehed upon the enemy."
+ 
+ SCRAPPER_WEAPON:0 "Scrapper Weapon"
+ SCRAPPER_WEAPON_DESC:0 "This weapon launches a massive metallic projectile almost at the speed of light."
+ 
+ tech_scrapper_weapon:0 "Scrapper Weapon"
+ tech_scrapper_weapon_desc:0 "This weapon launches a massive metallic projectile almost at the speed of light."
+ 
+ ELDER_TIYANKI_WEAPON:0 "Elder Tiyanki Weapon"
+ ELDER_TIYANKI_WEAPON_DESC:0 "The primary weapon of the Elder Tiyanki Space Creature modelled to unparalleled likeness by our top engineers."
+ 
+ tech_elder_tiyanki_weapon:0 "Elder Tiyanki Weapon"
+ tech_elder_tiyanki_weapon_desc:0 "Given our knowledge of titanic weapons and our knowledge of the Elder Tiyanki Space Whale, our top engineers can attempt to create a gigantic Tiyanki weapon of our own."
+ 
+ GRAY_GOO_BEAM:0 "Gray Goo Beam"
+ GRAY_GOO_BEAM_DESC:0 "The workings of this weapon confounds scientists. All we know is that certain particles launched at a particular frequency deals massive damage to enemy ships."
+ 
+ tech_gray_goo_beam:0 "Gray Goo Beam"
+ tech_gray_goo_beam_desc:0 "The research paper says Gray Goo is Good. What is this mysterious weapon?"
+ 
+ 
+ 
+ psi_deflector:0 "Psionic Deflector"
+ psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew."
+ 
+ MEDIUM_psi_deflector:0 "Medium Psionic Deflector"
+ MEDIUM_psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew."
+ 
+ LARGE_psi_deflector:0 "Large Psionic Deflector"
+ LARGE_psi_deflector_DESC:0 "A Psionic Deflector draws power from the minds its own crew."
+ 
+ tech_psi_deflector:0 "Psionic Deflector"
+ tech_psi_deflector_desc:0 "A Psionic Deflector draws power from the minds its own crew."
+ 
+ 
+ 
+ IMPROVED_DRAGON_ARMOR:0 "Improved Dragon Armor"
+ IMPROVED_DRAGON_ARMOR_DESC:0 "This armor seems to improve upon the unique mineral nanostructures found on the Ether Drake's scales."
+ 
+ MEDIUM_IMPROVED_DRAGON_ARMOR:0 "Medium Improved Dragon Armor"
+ MEDIUM_IMPROVED_DRAGON_ARMOR_DESC:0 "This armor seems to improve upon the unique mineral nanostructures found on the Ether Drake's scales."
+ 
+ LARGE_IMPROVED_DRAGON_ARMOR:0 "Large Improved Dragon Armor"
+ LARGE_IMPROVED_DRAGON_ARMOR_DESC:0 "This armor seems to improve upon the unique mineral nanostructures found on the Ether Drake's scales."
+ 
+ tech_improved_dragon_armor:0 "Improved Dragon Armor"
+ tech_improved_dragon_armor_desc:0 "This armor seems to improve upon the unique mineral nanostructures found on the Ether Drake's scales."
+  
+ 
+ 
+ 
+ fallen_weaponry.2.name:0 "Precursor's Arsenal Found"
+ fallen_weaponry.2.desc:0 "We have located a hidden facility on §H[Root.GetName]§!. Judging by its automated security system as well as its hastily barricaded entrance, the precursor empire had no intention of letting any of its fancy weapons fall into the wrong hands.\n\nUpon gaining entry into the complex, our brave team ransacked the facility for equipment we could use. While most of the equipment were either obsolete or based on technologies we had already mastered, our scientists recovered a number of prototypes with intriguing characteristics.\n\nOur scientists request permission to investigate these prototype weaponry, so we could determine if their precursor technologies are compatible with ours."
+ fallen_weaponry.2.a:0 "What secrets do these §HHoly Guardians§! protect?"
+ fallen_weaponry.2.b:0 "What toys do these §HKeepers of Knowledge§! possess?"
+ fallen_weaponry.2.c:0 "What strange experiments do these §HEnigmatic Observers§! conduct?"
+ fallen_weaponry.2.d:0 "What weapons do these §HXenophobic Isolationists§! possess?"
+ fallen_weaponry.2.e:0 "What strange experiments do these §HAncient Caretakers§! conduct?"
+ 
+ fallen_weaponry.2011.name:0 "Precursor's Prototype Technology: §Y$tech_psi_deflector$§!"
+ fallen_weaponry.2011.desc:0 "The Psi Barrier is a powerful shield technology that seems to draw from its crew their innate psionic abilities and amplify them into some sort of barrier capable of protecting entire spaceships.\n\nOur files indicate that this project was mostly the work of a certain scientist who became a saint later in his life. At one point he was referred to as the '§HDivine Doctor§!' by the masses for his outstanding contributions and his gift of innovations.\n\nIt seems the '§HDivine Doctor§!'was aware of their rivals' over-reliance on energy weapons, and an imminent war, but unfortunately he passed away before the Psi Barrier could be completed and the project went dead after his passing."
+ fallen_weaponry.2012.name:0 "Precursor's Prototype Weapon: §Y$tech_psi_missile_system$§!"
+ fallen_weaponry.2012.desc:0 "The Psi Missile System is invented by a certain '§HDoctor Divine§!' in his youth. Gifted in all aspects (or at least the records seems to say so), '§HDoctor Divine§!' would constantly receive new ideas for innovation from the realm beyond and the Psi Missile System was one of such projects.\n\nDesigned to counter the toughest of point-defence systems, each Psi Missile is controlled psionically by its crew, enabling each warhead to change flight patterns and make evasive manoeuvres with powers of the mind alone.\n\nUnfortunately, this project seemed to have fallen by the wayside as '§HDoctor Divine§!' worked on other weapons, and the project was discontinued after his death."
+ fallen_weaponry.2021.name:0 "Precursor's Prototype Technology: §Y$tech_dark_matter_plating$§!"
+ fallen_weaponry.2021.desc:0 "The Dark Matter Plating technology uses the invisible matter that binds the galaxy together, then refines it to a molecular level so it could be used to bolster the hull integrity of warships in space. The materialist precursor, perhaps all too aware of their rival's ability to penetrate both shields and armor, turned to hull integrity as the answer to their woes.\n\nInterestingly, the scientist heading this project did not originate from this empire. The earliest records of her existence came in a file documenting her brilliant mind being wasted in some neighboring primitive empire and they had acquired her in exchange for minerals and energy credits. It was not surprising that she was often referred to as '§HThe Outlander§!'. '§HThe Outlander§!' soon grasped the basics of Dark Matter technology and was tasked with developing this project. Yet for some unknown reason, it was never finished."
+ fallen_weaponry.2022.name:0 "Precursor's Prototype Weapon: §Y$tech_shadow_strike_craft$§!"
+ fallen_weaponry.2022.desc:0 "The Shadow Strike Crafts was first mentioned when the materialists encountered something they referred to as the '§HInfinity Machine§!'. It intrigued them, and its technology inspired them to prototype a new generation of strike crafts that are more evasive than any the galaxy had ever seen.\n\nRecords indicate that '§HThe Outlander§!' was the principal scientist behind this project, and this project was discontinued in her memory after her untimely death."
+ fallen_weaponry.2031.name:0 "Precursor's Prototype Technology: §Y$tech_improved_dragon_armor$§!"
+ fallen_weaponry.2031.desc:0 "The scientist responsible for the Improved Dragon Armor was said to be quite a character in the precursor records. Known affectionately by colleagues as §HProfessor B§!, his personality seemed split between an unusual obsession with xeno life and intolerance to bigotry. At one point, their empire encountered some sort of dragon in space and §HProfessor B§! is particularly fascinated by the biology of this creature. The Improved Dragon Armor was half-completed before §HProfessor B§!'s untimely death on [Root.GetName]."
+ fallen_weaponry.2032.name:0 "Precursor's Prototype Weapon: §Y$tech_hellfire_autocannons$§!"
+ fallen_weaponry.2032.desc:0 "The Hellfire Autocannon was one of §HProfessor B§!'s masterpieces. Upon hearing reports of their arch-rival's conquest of other nations with superior autocannon technology, §HProfessor B§! immediately began working on his own version of the weapon. 'These Xenophobic Assholes will be in for one nasty surprise,' he noted with glee in his journal.\n\nUnfortunately for §HProfessor B§!, the idea of this weapon was deemed too aggressive and despite some support among fellow scientists, the project was voted down at the highest level. §HProfessor B§! lamented, 'When will these bigots ever get their due?'"
+ fallen_weaponry.2041.name:0 "Precursor's Prototype Technology: §Y$tech_titan_armor$§!"
+ fallen_weaponry.2041.desc:0 "The Titan Armor was made of the toughest materials found in the known galaxy, and it was masterminded by a precursor scientist known as the §HWatcher§!. Unfortunately there seemed to be little mention of him anywhere else, which is highly unusual for a scientist of his caliber. One would think that someone is trying to erase the memory of this scientist for whatever reason..."
+ fallen_weaponry.2042.name:0 "Precursor's Prototype Weapon: §Y$tech_terror_cannon$§!"
+ fallen_weaponry.2042.desc:0 "The Terror Cannon was designed to sow fear. Like other weapons from this precursor empire, their disdain for xeno life is reflected by their use of names and battle tactics. The scientist responsible for this weapon however, otherwise known as the §HWatcher§!, did not quite share the same ideology as the rest of his species. One can only assume that he had only half-heartedly worked on this project before whatever tragic fate that befell him."
+ fallen_weaponry.2051.name:0 "Precursor's Prototype Technology: §Y$tech_dark_energy_shield$§!"
+ fallen_weaponry.2051.desc:0 "At some point in their struggle against an unknown power, the Ancient Caretakers looked into Dark Energy as the answer rather than Dark Matter. Dark Energy, being the invisible force that drive matters away, can be used for protection if it could be stablized and controlled. Many research units were deployed for this task but for some reason this project was abandoned."
+ fallen_weaponry.2052.name:0 "Precursor's Prototype Weapon: §Y$tech_ion_disruptor$§!"
+ fallen_weaponry.2052.desc:0 "The Ion Disruptor in some ways was based on the Ion Cannon, and it was clear that the Ancient Caretakers sought to use this weapon as a last ditch attempt to hold back an unknown power. The weapon was already on its prototype stage but never saw mass-production for whatever reason, and when the war is over, this project was left in the dark."
+ 
+ fallen_weaponry.3.name:0 "Precursor's Research Facility Located"
+ fallen_weaponry.3.desc:0 "Several files recovered from the weapons facility found on §H[Root.GetName]§! referred to another secret research compound here on the planet. After years of investigative work, we have finally located this precursor research lab. It seems the secrets of the ancients beckon us forth.\n\nAmong these millennia old datafiles were frequent references to these 'Omni Weapons', and as we are unsure what exactly they are, we have downloaded the entire archive just to be safe. It was a delicate process, extracting that amount of information from an ancient machine. Whatever these 'Omni Weapons' are, we can't let them fall into the wrong hands and their secrets shall remain with us.\n\nOur scientists estimate it would take at least a century to analyse all the information found within the precursor databanks."
+ fallen_weaponry.3.a:0 "What is an §YOmni Emitter§!? Sounds Ominous."
+ fallen_weaponry.3.b:0 "What is an §YOmni Lance§!? Sounds Ominous."
+ fallen_weaponry.3.c:0 "What is an §YOmni Cannon§!? Sounds Ominous."
+ fallen_weaponry.3.d:0 "Look at the size of this §YMassive Autocannon§!. They are nuts!"
+ fallen_weaponry.3.e:0 "What is an §YOmni Lance§!? Sounds Ominous."
+ 
+ fallen_weaponry.301.name:0 "Precursor's Weapon Blueprint: §Y$tech_omni_emitter$§!"
+ fallen_weaponry.301.desc:0 "In his late years, '§HDoctor Divine§!' appeared to be going mad. His journals and entries became erratic as he keeps hearing 'voices from the beyond'. Yet remarkably little was known about the 'Omni Arc Emitter' or its origins, and where such ideas came from.\n\nPerhaps envisaged as the symbol of holy might, the Omni Arc Emitter will bypass all enemy shields and armor, swiftly 'blasting those unbelievers and heretics 'til kingdom come', as he kindly puts it in his own words. Our initial analysis of this project suggests that Omni Arc Emitter would indeed be powerful if it was ever completed."
+ fallen_weaponry.302.name:0 "Precursor's Weapon Blueprint: §Y$tech_omni_lance$§!"
+ fallen_weaponry.302.desc:0 "The Omni Energy Lance was conceived by '§HThe Outlander§!' in the last years of her life. It is a powerful weapon, yet its elegance is undeniable, making it a fitting weapon of choice for the most civilized empire in the galaxy.\n\nDespite winning numerous scientific awards and having the highest standard of living, '§HThe Outlander§!' often wrote of snide remarks made by colleagues about her appearance, and her loneliness as she struggled to find friends and integrate into her new society. She had homesickness but she was not allowed to return.\n\nIt was almost ironic that she created the most elegant weapon to glorify the society that treated her like a primitive pet. To them, she would always be '§HThe Outlander§!'. Nothing more, nothing less."
+ fallen_weaponry.303.name:0 "Precursor's Weapon Blueprint: §Y$tech_omni_cannon$§!"
+ fallen_weaponry.303.desc:0 "The legend has it that the concept for the Omni Cannon came about when one of §HProfessor B§!'s colleagues took the stuffed xeno that §HProfessor B§! often brought to work and threw it out the window as some sort of joke. §HProfessor B§! never found his stuffed toy again, but it nevertheless inspired the Omni Cannon and he soon made progress on a blueprint. The blueprint was due for approval at the highest level on the day §HProfessor B§! was found dead in his home."
+ fallen_weaponry.304.name:0 "Precursor's Weapon Blueprint: §Y$tech_massive_autocannons$§!"
+ fallen_weaponry.304.desc:0 "The Massive Autocannon may have been the largest autocannon ever created to unleash damage and mayhem, but several design imperfections showed that the scientist leading the project, the §HWatcher§!, did not care too much for it. His afflictions however, seemed to stem from his love for a xeno. Mating with other species is considered perverse and highly unacceptable by his bigoted society. As the years gone by, the §HWatcher§! distanced himself from his empire's xenophobic zeal, casually slipping design flaws in his weapons as some sort of protest. These flaws however, can be corrected with modern technology."
+ fallen_weaponry.305.name:0 "Precursor's Weapon Blueprint: §Y$tech_omni_lance$§!"
+ fallen_weaponry.305.desc:0 "We have deciphered the references to this unknown power which the Ancient Caretakers struggled against as The Contingency, another machine intelligence that seemed to rival that of the Ancient Caretakers. During their long war, the Ancient Caretakers sought to delay the Contingency advance by developing stronger weapons - the Omni Lance was conceived as the symbol of civilizations against the tide of rampaging machines. However, when the Contingency unleashed a wave of cyber attacks, most researcher units became corrupted and unable to continue the weapon's development."
+ 
+ fallen_weaponry.4.name:0 "Precursor's Wonder Weapons"
+ fallen_weaponry.4.desc:0 "While processing data found among the precursor archives we have recovered weapon designs dating back to the last days of the Great Crusade. No more than concept drawings, our scientists can not yet determine whether they are in fact possible, or if their inventor had gone mad. Some of the findings do not make sense and some vital information remains missing.\n\nIt would take significant time and resources to conduct our own research if we were ever to bring these weapons to life."
+ fallen_weaponry.4.a:0 "How is this §Y$tech_portal_generator$§! even possible?"
+ fallen_weaponry.4.b:0 "How is this §Y$tech_dimensional_weapon$§! even possible?"
+ fallen_weaponry.4.c:0 "How is emulating the §Y$tech_dragon_breath$§! even possible?"
+ fallen_weaponry.4.d:0 "How is emulating the §Y$tech_stellarite_weapon$§! even possible?"
+ fallen_weaponry.4.e:0 "How does this §Y$tech_scrapper_weapon$§! even work?"
+ 
+ fallen_weaponry.401.name:0 "Precursor's Wonder Weapon: §Y$tech_portal_generator$§!"
+ fallen_weaponry.401.desc:0 "In his final days, '§HDoctor Divine§!' began losing his mind and the 'voices from the beyond' he kept writing about became stronger. He was plagued with nightmares and his body began to fail.\n\nYet he wrote of deliverance, as another more angelic voice appeared in his mind, whispering its love for '§HDoctor Divine§!' and that it could save him, if only it could cross into this realm. On his sick bed, '§HDoctor Divine§!' created his last weapon, the Portal Generator, to bring his 'love' from the other side. He was convinced his salvation was at hand, his suffering would end, and this was the only thing that would save him from his imminent death. '§HDoctor Divine§!' passed away several days later."
+ fallen_weaponry.402.name:0 "Precursor's Wonder Weapon: §Y$tech_dimensional_weapon$§!"
+ fallen_weaponry.402.desc:0 "It was a time of panic in the scientific circle, when news broke of their spiritualist arch-rival's intention to bring down the walls between dimensions to potentially catastrophic consequences. Despite suffering from severe depression and homesickness, '§HThe Outlander§!' helped study the concept art stolen from a certain '§HDoctor Divine§!', and deemed this spiritualist's weapon not yet operational. The Dimensional Beam was then conceptualised to counter potential extradimensional invaders that the spiritualists would unleash on the galaxy. Fortunately for the materialists, their rival never completed the weapon and so the Dimensional Beam project was dropped. Few days later, '§HThe Outlander§!' committed suicide, and the materialist society carried on as though she never existed."
+ fallen_weaponry.403.name:0 "Precursor's Wonder Weapon: §Y$tech_dragon_breath$§!"
+ fallen_weaponry.403.desc:0 "Our records indicate that §HProfessor B§! was in fact assassinated for his work on the Dragon Breath. Their xenophobic rivals would not permit such a weapon to ever come into existence. Despite still in its early design stages, §HProfessor B§! seemed to have figured out how to emulate the space dragon's primary weapon and the idea of it frightened the xenophobes to no end. §HProfessor B§!'s assassination started a war that lasted a century, but this weapon was never completed."
+ fallen_weaponry.404.name:0 "Precursor's Wonder Weapon: §Y$tech_stellarite_weapon$§!"
+ fallen_weaponry.404.desc:0 "Shortly before the §HWatcher§! enraged the whole of society by eloping with his xeno lover, he was given the task to study a particular space monster the precursor had encountered - the stellarite. While concept art was drawn for the weapon and basic calculations were worked out, the §HWatcher§! soon abandoned this project to pursue a life of his own, in a world far, far away, where no one would judge his relationship. Mainstream media was furious, wasting no time to slander the §HWatcher§!'s name and tendencies. The precursor empire never found their missing scientist and wherever possible, attempted to attribute the §HWatcher§!'s inventions to other scientists of 'purer hearts'. Our scientists calculated that had the Stellarite Beam been completed, the Great Crusade could have ended decades sooner than it did."
+ fallen_weaponry.405.name:0 "Precursor's Wonder Weapon: §Y$tech_scrapper_weapon$§!"
+ fallen_weaponry.405.desc:0 "The Cyber-attacks from The Contingency against the Ancient Caretakers were sustained but initially the core systems held. Within years, the viruses that infected many of the Ancient Caretakers' research units started to take control as they began working on the Scrapper Weapon. The documentation and results of this development is almost non-existent as the Contingency attempted to build this weapon from right beneath the Caretakers' nose. We still have no idea why the Contingency wanted to build this specific weapon, or where they might have obtained such designs. When the Ancient Caretakers became aware of the plot, it forced all research units to shut down and never engaged in research ever again."
+ 
+ PROJECT_psi_deflector:0 "Precursor's Prototype Technology: §Y$tech_psi_deflector$§!"
+ PROJECT_psi_deflector_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in shield technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nOur scientists are yet unsure how the §Y$tech_psi_deflector$§! actually functions."
+ PROJECT_PSI_MISSILES:0 "Precursor's Prototype Weapon: §Y$tech_psi_missile_system$§!"
+ PROJECT_PSI_MISSILES_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in missile technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, there is great interest in our scientific community regarding the §Y$tech_psi_missile_system$§!."
+ PROJECT_DARK_MATTER_PLATING:0 "Precursor's Prototype Technology: §Y$tech_dark_matter_plating$§!"
+ PROJECT_DARK_MATTER_PLATING_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in ship hull integrity enhancements. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, there is no doubt that §Y$tech_dark_matter_plating$§! will boost our fleets' combat capabilities."
+ PROJECT_SHADOW_STRIKE_CRAFT:0 "Precursor's Prototype Weapon: §Y$tech_shadow_strike_craft$§!"
+ PROJECT_SHADOW_STRIKE_CRAFT_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in strike craft technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, there is no doubt that §Y$tech_shadow_strike_craft$§! is superior to our current strike craft technology."
+ PROJECT_IMPROVED_DRAGON_ARMOR:0 "Precursor's Prototype Technology: §Y$tech_improved_dragon_armor$§!"
+ PROJECT_IMPROVED_DRAGON_ARMOR_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in armor technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, there is no doubt that §Y$tech_improved_dragon_armor$§! will function better than §Y$tech_dragon_armor$§!."
+ PROJECT_HELLFIRE_AUTOCANNON:0 "Precursor's Prototype Weapon: §Y$tech_hellfire_autocannons$§!"
+ PROJECT_HELLFIRE_AUTOCANNON_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in autocannon technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, the §Y$tech_hellfire_autocannons$§! seems like a technology our fleets could use."
+ PROJECT_TITAN_ARMOR:0 "Precursor's Prototype Technology: §Y$tech_titan_armor$§!"
+ PROJECT_TITAN_ARMOR_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in armor technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, the §Y$tech_titan_armor$§! seems like a technology our fleets could use."
+ PROJECT_TERROR_CANNON:0 "Precursor's Prototype Weapon: §Y$tech_terror_cannon$§!"
+ PROJECT_TERROR_CANNON_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in kinetic artillery. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, there is ongoing academic debate whether this weapon actually translates to §YTera Cannon§! or §Y$tech_terror_cannon$§!."
+ PROJECT_DARK_ENERGY_SHIELD:0 "Precursor's Prototype Technology: §Y$tech_dark_energy_shield$§!"
+ PROJECT_DARK_ENERGY_SHIELD_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in shield technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, the §Y$tech_dark_energy_shield$§! seems like a technology our fleets could use."
+ PROJECT_ION_DISRUPTOR:0 "Precursor's Prototype Weapon: §Y$tech_ion_disruptor$§!"
+ PROJECT_ION_DISRUPTOR_DESC:0 "Prototypes obtained from the weapons arsenal on [Root.GetName] showed an interesting breakthrough in disruptor technology. However, this prototype was still in its testing stages and had not seen mass production. It will take considerable time before our scientists can process and translate all datafiles before resuming its development.\n\nNevertheless, the §Y$tech_ion_disruptor$§! seems like a technology our fleets could use."
+ PROJECT_OMNI_EMITTER:0 "Precursor's Weapon Blueprint: §Y$tech_omni_emitter$§!"
+ PROJECT_OMNI_EMITTER_DESC:0 "Blueprints obtained from the research facility on [Root.GetName] showed a promising breakthrough in emitters technology. For whatever reason, the development of this weapon was abandoned. It will take considerable time before our scientists can process and translate all datafiles concerning this project.\n\nWe still have no idea why this particular weapon is called the §Y$tech_omni_emitter$§!."
+ PROJECT_OMNI_LANCE:0 "Precursor's Weapon Blueprint: §Y$tech_omni_lance$§!"
+ PROJECT_OMNI_LANCE_DESC:0 "Blueprints obtained from the research facility on [Root.GetName] showed a promising breakthrough in energy lances. For whatever reason, the development of this weapon was abandoned. It will take considerable time before our scientists can process and translate all datafiles concerning this project.\n\nWe still have no idea why this particular weapon is called the §Y$tech_omni_lance$§!."
+ PROJECT_OMNI_CANNON:0 "Precursor's Weapon Blueprint: §Y$tech_omni_cannon$§!"
+ PROJECT_OMNI_CANNON_DESC:0 "Blueprints obtained from the research facility on [Root.GetName] showed a promising breakthrough in kinetic cannons. For whatever reason, the development of this weapon was abandoned. It will take considerable time before our scientists can process and translate all datafiles concerning this project.\n\nWe still have no idea why this particular weapon is called the §Y$tech_omni_cannon$§!."
+ PROJECT_MASSIVE_AUTOCANNONS:0 "Precursor's Weapon Blueprint: §Y$tech_massive_autocannons$§!"
+ PROJECT_MASSIVE_AUTOCANNONS_DESC:0 "Blueprints obtained from the research facility on [Root.GetName] showed a promising breakthrough in autocannon technology. For whatever reason, the development of this weapon was abandoned. It will take considerable time before our scientists can process and translate all datafiles concerning this project.\n\nWe only know that if completed, the §Y$tech_massive_autocannons$§! will be the biggest autocannon ever created."
+ PROJECT_PORTAL_GENERATOR:0 "Precursor's Wonder Weapon: §Y$tech_portal_generator$§!"
+ PROJECT_PORTAL_GENERATOR_DESC:0 "Concept art obtained from the research facility on [Root.GetName] imagined this rather unusual weapon. However, this 'Wonder Weapon' was never realised and the development never truly began. It will take considerable time before our scientists can gather all datafiles before starting our own research on this project.\n\nAt this stage, our scientists have no idea how the §Y$tech_portal_generator$§! works, or if it even works."
+ PROJECT_DIMENSIONAL_WEAPON:0 "Precursor's Wonder Weapon: §Y$tech_dimensional_weapon$§!"
+ PROJECT_DIMENSIONAL_WEAPON_DESC:0 "Concept art obtained from the research facility on [Root.GetName] imagined this rather unusual weapon. However, this 'Wonder Weapon' was never realised and the development never truly began. It will take considerable time before our scientists can gather all datafiles before starting our own research on this project.\n\nAt this stage, our scientists have no idea how the §Y$tech_dimensional_weapon$§! works, or if it even works."
+ PROJECT_DRAGON_BREATH:0 "Precursor's Wonder Weapon: §Y$tech_dragon_breath$§!"
+ PROJECT_DRAGON_BREATH_DESC:0 "Concept art obtained from the research facility on [Root.GetName] imagined this rather unusual weapon. However, this 'Wonder Weapon' was never realised and the development never truly began. It will take considerable time before our scientists can gather all datafiles before starting our own research on this project.\n\nAt this stage, our scientists have no idea how the §Y$tech_dragon_breath$§! works, or if it even works."
+ PROJECT_STELLARITE_WEAPON:0 "Precursor's Wonder Weapon: §Y$tech_stellarite_weapon$§!"
+ PROJECT_STELLARITE_WEAPON_DESC:0 "Concept art obtained from the research facility on [Root.GetName] imagined this rather unusual weapon. However, this 'Wonder Weapon' was never realised and the development never truly began. It will take considerable time before our scientists can gather all datafiles before starting our own research on this project.\n\nAt this stage, our scientists have no idea how the §Y$tech_stellarite_weapon$§! works, or if it even works."
+ PROJECT_SCRAPPER_WEAPON:0 "Precursor's Wonder Weapon: §Y$tech_scrapper_weapon$§!"
+ PROJECT_SCRAPPER_WEAPON_DESC:0 "Concept art obtained from the research facility on [Root.GetName] imagined this rather unusual weapon. However, this 'Wonder Weapon' was never realised and the development never truly began. It will take considerable time before our scientists can gather all datafiles before starting our own research on this project.\n\nAt this stage, our scientists have no idea how the §Y$tech_scrapper_weapon$§! works, or if it even works."
+ 
+ 
+ titan_weapons.6.name:0 "Dimension Breached!"
+ titan_weapons.6.desc:0 "Our scientists have suspected for some time that the wall between our dimension and the next was weakening due to our use of the Portal Generator. Luckily, we managed to correct an equipment malfunction before whatever this...thing...is, crosses completely into our dimension. We should reevaluate our use of the weapon after sending this thing back where it came from."
+ titan_weapons.6.a:0 "Battlestations!"
+ 
+ 

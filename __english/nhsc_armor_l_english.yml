@@ -1,0 +1,122 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###        Conventional Armor        ###
+########################################
+
+NHSC_ADV_ARMOR_1: "Improved Neutronium Armor"
+NHSC_ADV_ARMOR_1_DESC: "A more dense version of Neutronium armor that will shrug off almost anything."
+SMALL_NHSC_ADV_ARMOR_1: "Small $NHSC_ADV_ARMOR_1$"
+SMALL_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+MEDIUM_NHSC_ADV_ARMOR_1: "Medium $NHSC_ADV_ARMOR_1$"
+MEDIUM_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+LARGE_NHSC_ADV_ARMOR_1: "Large $NHSC_ADV_ARMOR_1$"
+LARGE_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+
+NHSC_ADV_ARMOR_2: "Adamantium Armor"
+NHSC_ADV_ARMOR_2_DESC: "Named after a fantasy material, this almost indestructible armor offers unparalleled protection to our ships."
+SMALL_NHSC_ADV_ARMOR_2: "Small $NHSC_ADV_ARMOR_2$"
+SMALL_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+MEDIUM_NHSC_ADV_ARMOR_2: "Medium $NHSC_ADV_ARMOR_2$"
+MEDIUM_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+LARGE_NHSC_ADV_ARMOR_2: "Large $NHSC_ADV_ARMOR_2$"
+LARGE_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+
+########################################
+###        Nanomaterial Armor        ###
+########################################
+
+NHSC_NANO_ARMOR_1: "Nano-material Armor"
+NHSC_NANO_ARMOR_1_DESC: "By adding nanities programmed to run repair jobs into the ship's hull we're able to create an armor that not only protects from damage, but also repairs any damage it couldn't prevent."
+SMALL_NHSC_NANO_ARMOR_1: "Small $NHSC_NANO_ARMOR_1$"
+SMALL_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+MEDIUM_NHSC_NANO_ARMOR_1: "Medium $NHSC_NANO_ARMOR_1$"
+MEDIUM_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+LARGE_NHSC_NANO_ARMOR_1: "Large $NHSC_NANO_ARMOR_1$"
+LARGE_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+
+NHSC_NANO_ARMOR_2: "Improved Nano-material Armor"
+NHSC_NANO_ARMOR_2_DESC: "An improved version of the nanity-infused armor. It's tougher and can self-repair faster."
+SMALL_NHSC_NANO_ARMOR_2: "Small $NHSC_NANO_ARMOR_2$"
+SMALL_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+MEDIUM_NHSC_NANO_ARMOR_2: "Medium $NHSC_NANO_ARMOR_2$"
+MEDIUM_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+LARGE_NHSC_NANO_ARMOR_2: "Large $NHSC_NANO_ARMOR_2$"
+LARGE_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+
+########################################
+###          Shielding Armor         ###
+########################################
+
+NHSC_SHIELD_ARMOR_1: "Shield-Generating Armor"
+NHSC_SHIELD_ARMOR_1_DESC: "By adding nanities programmed to manipulate ambient energies, we're able to create armor that generates small amount of additional shields to protect the ship with."
+SMALL_NHSC_SHIELD_ARMOR_1: "Small $NHSC_SHIELD_ARMOR_1$"
+SMALL_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_1: "Medium $NHSC_SHIELD_ARMOR_1$"
+MEDIUM_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_1: "Large $NHSC_SHIELD_ARMOR_1$"
+LARGE_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+
+NHSC_SHIELD_ARMOR_2: "Improved Shield-Generating Armor"
+NHSC_SHIELD_ARMOR_2_DESC: "An improved version of the shield-generating armor. It's tougher and generates more shields."
+SMALL_NHSC_SHIELD_ARMOR_2: "Small $NHSC_SHIELD_ARMOR_2$"
+SMALL_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_2: "Medium $NHSC_SHIELD_ARMOR_2$"
+MEDIUM_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_2: "Large $NHSC_SHIELD_ARMOR_2$"
+LARGE_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+
+NHSC_SHIELD_ARMOR_3: "Shielding Bulwark"
+NHSC_SHIELD_ARMOR_3_DESC: "An even tougher version of shield-generating armor that produces still more powerful shields."
+SMALL_NHSC_SHIELD_ARMOR_3: "Small $NHSC_SHIELD_ARMOR_3$"
+SMALL_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_3: "Medium $NHSC_SHIELD_ARMOR_3$"
+MEDIUM_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_3: "Large $NHSC_SHIELD_ARMOR_3$"
+LARGE_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+
+########################################
+###         Leviathans' Armor        ###
+########################################
+
+NHSC_DRAGON_NANOARMOR: "Nanomachine-Infused Dragonscale Armor"
+NHSC_DRAGON_NANOARMOR_DESC: "Introduction of nanomachines into dragonscale armor can further improve it's incredible toughness."
+SMALL_NHSC_DRAGON_NANOARMOR: "Small $NHSC_DRAGON_NANOARMOR$"
+SMALL_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+MEDIUM_NHSC_DRAGON_NANOARMOR: "Medium $NHSC_DRAGON_NANOARMOR$"
+MEDIUM_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+LARGE_NHSC_DRAGON_NANOARMOR: "Large $NHSC_DRAGON_NANOARMOR$"
+LARGE_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+
+NHSC_HARDLIGHT_ARMOR: "Hardlight Armor"
+NHSC_HARDLIGHT_ARMOR_DESC: "Light particles manipulated into forming a protective layer of pseudo-matter. Excess energy is also fed into shields, speeding up their regeneration."
+SMALL_NHSC_HARDLIGHT_ARMOR: "Small $NHSC_HARDLIGHT_ARMOR$"
+SMALL_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+MEDIUM_NHSC_HARDLIGHT_ARMOR: "Medium $NHSC_HARDLIGHT_ARMOR$"
+MEDIUM_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+LARGE_NHSC_HARDLIGHT_ARMOR: "Large $NHSC_HARDLIGHT_ARMOR$"
+LARGE_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+
+NHSC_HORROR_ARMOR: "Dimensional Horror Armor"
+NHSC_HORROR_ARMOR_DESC: "An incredibly-tough material modelled after the hide of Lovecraftian moster known as the Dimensional Horror."
+SMALL_NHSC_HORROR_ARMOR: "Small $NHSC_HORROR_ARMOR$"
+SMALL_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+MEDIUM_NHSC_HORROR_ARMOR: "Medium $NHSC_HORROR_ARMOR$"
+MEDIUM_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+LARGE_NHSC_HORROR_ARMOR: "Large $NHSC_HORROR_ARMOR$"
+LARGE_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+
+########################################
+###        Crystalline Armor         ###
+########################################
+
+NHSC_CRYSTAL_ARMOR_3: "Reinforced Crystalline Plating"
+NHSC_CRYSTAL_ARMOR_3_DESC: "A next-generation crystalline hull plating, desined to utilize the incredible sturdiness of crystalline materials to its full potential."
+SMALL_NHSC_CRYSTAL_ARMOR_3: "Small $NHSC_CRYSTAL_ARMOR_3$"
+SMALL_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"
+MEDIUM_NHSC_CRYSTAL_ARMOR_3: "Medium $NHSC_CRYSTAL_ARMOR_3$"
+MEDIUM_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"
+LARGE_NHSC_CRYSTAL_ARMOR_3: "Large $NHSC_CRYSTAL_ARMOR_3$"
+LARGE_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"

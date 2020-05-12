@@ -1,0 +1,39 @@
+﻿l_english:
+ origin_hive_thriving_prey:0 "Thriving Prey"
+ origin_hive_thriving_prey_desc:0 "To say you have no choice is to relieve yourself of responsibility. Even though this hive was in the bottom of the food chain in their home planet, they thrived by burrowing and building cave systems, dodging fights and only taking calculated risks."
+ origin_tooltip_thriving_effects:0 "Homeworld is a §YHollowed Planet§!"
+ mod_job_larva_queen_add:0 "Brood Queen Jobs"
+ job_larva_queen_effect_desc:0 "Brood Queens increase §HPop Growth§! but destabilize the planet."
+ mod_district_subterranean_network_max:0 "Max Subterranean Resource Networks"
+ mod_starbase_outpost_alloys_cost_mult: "Outpost Alloys Cost"
+ 
+ 
+ d_magma_lake:0 "Magma Lake"
+ d_magma_lake_desc:0 "A great chamber containing vast amounts of magma."
+ d_windy_tunnels:0 "Windy Tunnels"
+ d_windy_tunnels_desc:0 "These tunnels are host to constant huricane-force winds."
+ d_mineral_rich_chamber:0 "Mineral Rich Chamber"
+ d_mineral_rich_chamber_desc:0 "An underground chamber filled with rare minerals."
+ d_underground_oasis:0 "Underground Oasis"
+ d_underground_oasis_desc:0 "A paradise-like cave capable of fulfilling any organic need."
+ d_magma_whirlpool:0 "Magma Vortex"
+ d_magma_whirlpool_desc:0 "A quickly rotating mass in a magma river caused by two conflicting currents."
+ d_magma_waterfalls:0 "Magmafalls"
+ d_magma_waterfalls_desc:0 "A cascade of magma falling from great height within the cave system."
+ d_extra_humid_caverns:0 "Humid Caverns"
+ d_extra_humid_caverns_desc:0 "The meeting of water and magma rivers keeps this cave constantly humid."
+ d_liquid_core:0 "Molten Core"
+ d_liquid_core_desc:0 "The heat from this planets formation keeps it's liquid core flowing."
+  
+ d_abandoned_nest:0 "Abandoned Nest"
+ d_abandoned_nest_desc:0 "This location was once home to the Hive. It was abandoned after being attacked."
+ d_flooded_nest:0 "Lava-Flooded Nest"
+ d_flooded_nest_desc:0 "Once a prospering nest, this site was flooded with lava after a major mining disaster."
+ d_infested_nest:0 "Infested Nest"
+ d_infested_nest_desc:0 "It's hard to tell if this is a graveyard, a quarentine zone or a forgotten nest. Only disease and corpses remain."
+ 
+ d_abandoned_network:0 "Abandoned Subterranean Network"
+ d_abandoned_network_desc:0 "Whether they were attacked or simply abandoned, these tunnels and caves are empty and it's foundations are failing."
+ 
+
+ START_SCREEN_THRIVING_PREY:0 "Struggle is the pre-condition for growth. Without going through extended periods of hard-work, sweat and difficulty, we could have not moved beyond our predefined nature.\n\nNot every species is ment to be on top of the food chain, and ours certainly was not. After centuries of struggle and hiding we finally thrived!\n\nWe now look at the stars with cautiousness and wariness but also wonder."

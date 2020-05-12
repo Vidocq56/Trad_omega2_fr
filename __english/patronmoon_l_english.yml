@@ -1,0 +1,24 @@
+﻿l_english:
+  
+  origin_patronmoon: "Patron Moon"
+  origin_patronmoon_desc: "This species evolved in the shadow of a super organism that envelops their moon. They have a symbiotic relationship with it. This Patron grants them many benefits hoping that one day, they might help it grow and spread, covering all that exists, until everything is... it."
+  origin_tooltip_patronmoon_effects: "Starts with a §YPatron Moon§! orbiting your homeworld.\n§YPatron Moons§! give your species a £science£ §YResearch§!, £unity£ §YUnity§! and £stability£ §YStability§! bonus, or penalties if absent or can't feed them.\nEnables the §Y$decision_patronmoon$§! planetary decision.\nOther empires owning a planet with a §YPatron Moon§! will recieve penalties."
+  
+
+  START_SCREEN_PATRONMOON:0 "The moon spoke, and we heard. Moons have always affected the planets they orbit, but for us more than others. Our Patron has communicated with us since the earliest times, encouraging cooperation and luring our species out into the stars. If the Patron is good or evil, none of us truly knows, but still it calls us..."
+  d_patronmoon: "Patron Moon"
+  d_patronmoon_desc: "An organic super organism orbits this planet."
+  d_patronmoon_bad: "Patron Moon"
+  d_patronmoon_bad_desc: "An organic super organism orbits this planet."
+
+  no_patronmoon: "Missing Patron Moon"
+  no_patronmoon_desc: "Your species desires the guidance of a Patron Moon."
+
+  pc_patronmoon: "Patron Moon"
+  pc_patronmoon_desc: "An organic super organism inhabits this moon."
+
+  decision_patronmoon: "Grow Patron Moon"
+  decision_patronmoon_desc:0 "A super organism must grow in one of this planet's moons for our kind to flourish."
+
+  MESSAGE_STARVING_MOONS_TITLE:0 "Starving Patrons"
+  MESSAGE_STARVING_MOONS:0 "Your Patron Moons are starving!\nCitizens were advised not to look at the night sky and remain indoors.\nDO NOT LOOK AT THE MOON."

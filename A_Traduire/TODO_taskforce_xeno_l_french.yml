@@ -1,0 +1,300 @@
+﻿l_french:
+ civic_taskforce_xeno:0 "Taskforce Xeno"
+ civic_taskforce_xeno_desc:0 "In its late primitive era, this society underwent an invasion by hostile alien forces. While the intent behind the alien invasion was unclear, it was enough to unite the squabbling primitive nations together against a common foe. Through extreme efforts of reverse-engineering captured technology, this society managed to drive away its invaders. Now their planet is left in ruins and their population prone to xenophobia."
+ origin_alien_invasion:0 "Alien Invasion"
+ origin_alien_invasion_desc:0 "During our early space age an advanced civilisation attempted to invade and conquer our planet. Our people fought tenaciously, and now we rise from the ashes of our shattered homeworld, wielding advanced technologies and the will to never be dominated again."
+ origin_tooltip_alien_invasion:0 "An event chain on game start will allow you to create a custom story for your empires invasion, or choose from several prebuilt stories from other universes."
+ ##Misc Tooltips
+ taskforce_xeno_op.tooltip:0 "§ROverpowered Difficulty Bonus§!"
+ taskforce_xeno_norm.tooltip:0 "§BNormal Difficulty Bonus§!" 
+ taskforce_xeno_bal.tooltip:0 "§GBalanced Difficulty Bonus§!"  
+ 
+ ##Technology
+ 
+ tech_taskforce_xeno_alien_protocol:0 "Taskforce Xeno Protocols"
+ tech_taskforce_xeno_alien_protocol_desc:0 "By formalizing our recruiment, training and tactical simulations of Taskforce Xeno we will be able to more quickly recruit combat ready units to defend our nation against invaders."
+ tech_galactic_taskforce_xeno:0 "Galactic Taskforce Xeno "
+ tech_galactic_taskforce_xeno_desc:0 "Taskforce Xeno has become little more than a ceremonial defense force for our capital. It is time to revitalize this illustrious organization into a special operations unit that fights Xeno's at home and abroad."
+ 
+ ##SETUP AND DIFFICULTY EVENT CHAIN
+ 
+ taskforce_xeno_start.0.name:0 "Taskforce Xeno Setup"
+ taskforce_xeno_start.0.desc:0 "Beginnings are the most delicate of things, the entire outcome of events can be weighted on a single decision. \n \nThe §GBalanced Start§! will only give your nation minor bonuses, bringing it roughly in line with the power level of other vanilla origins(ish).\n \nThe §BNormal Start§! will give your nation several powerful bonuses and starting technologies during the Invsaion event chain.\n \nThe §ROverpowered Start§! will give you several powerful bonuses and many starting technologies during the Invasion event chain, making your empire extremely strong."
+ taskforce_xeno_start.bal:0 "§GBalanced Start§!"
+ taskforce_xeno_start.norm:0 "§BNormal Start§!"
+ taskforce_xeno_start.op:0 "§ROverpowered Start§!"
+ 
+ taskforce_xeno_start.100.name:0 "The [Root.Capital.GetName] Invasion"
+ taskforce_xeno_start.100.desc:0 "The [Root.Capital.GetName] Invasion as it would come to be known occurred almost a generation ago. A then-unknown alien empire fell upon the unsuspecting [Root.GetSpeciesName] homeworld, their motives were at the time unknown but it became clear they did not come in peace. "
+ 
+ taskforce_xeno_start.100.title.customstart:0 "§GCustom Storyline Options§!"
+ taskforce_xeno_start.100.customstart.tooltip:0 "Below are the event chains that will allow you to craft a custom story for the Xeno Invasion.\n§RDo NOT click this option, it may cause issues.§!Select from options with white text below."
+ 
+ taskforce_xeno_start.100.title.prebuiltstart:0 "§GPrebuilt Invasion Stories§!"
+ taskforce_xeno_start.100.prebuiltstart.tooltip:0 "Prebuilt Invasion Stories will allow you to simulate the backstories of several major science fiction properties, they offer less customisation than the custom storyline options but are great for those looking to roleplay another worlds backstory.\n§RDo NOT click this option, it may cause issues.§!Select from options with white text below."
+ 
+ taskforce_xeno_start.100.combine:0 "The Combine Invasion"
+ taskforce_xeno_start.100.combine.tooltip:0 "§YNOTE:§! This event chain is still in development. Currently only the first event chain is integrated, with no crisis or other mechanics added.\n\n§RVery Challenging Start\n\n§!Introduces a new §RCrisis§! from the §SHalf-Life§! series, ravages [Root.Capital.GetName] significantly but depending on difficulty setting rewards you with advanced technologies (you will need them)."
+ 
+ taskforce_xeno_start.100.fallback:0 "Taskforce Xeno was activated"
+ taskforce_xeno_start.100.generals:0 "The joint chiefs of the military assembled"
+ taskforce_xeno_start.100.council:0 "A council of nations was assembled"
+ taskforce_xeno_start.100.oligarchs:0 "The oligarchy was assembled"
+ taskforce_xeno_start.100.imperialdiet:0 "An Imperial Diet was called"
+ taskforce_xeno_start.100.shareholders:0 "A company Emergency General Meeting was called"
+ taskforce_xeno_start.100.science:0 "The Academy assembled their best and brightest"
+ taskforce_xeno_start.100.kurultai:0 "The great Kurultai of clan-nations was called"
+ taskforce_xeno_start.100.holywarriors:0 "His Holiness called an ecclesiastical council"
+  
+ taskforce_xeno_start.100.b:0 "Surrender is [Root.Capital.GetName]'s only choice"
+ taskforce_xeno_start.100.b.tooltip:0 "Unable to organise an effective defense, the people of [Root.Capital.GetName] quickly surrendered to the Xenos.\n§RWarning! This event leads to your vassalisation or destruction§!"
+ 
+ taskforce_xeno_start.101.name:0 "End of the War"
+ taskforce_xeno_start.101.desc:0 "After years of war, the hostile alien invaders were repelled from [Root.System.GetName]. While our work managed to save billions of lives and we acquired many highly advanced technologies, this victory came at a cost, and many cities' infrastructures throughout the world are completely destroyed."
+ taskforce_xeno_start.101.a:0 "Let us work to rebuild!"
+ 
+ taskforce_xeno_start.102.name:0 "An Irresistible Force"
+ taskforce_xeno_start.102.desc:0 "There was nothing the nations of [Root.Capital.GetName] could do against such power.\n\nOverwhelmed, devestated and outclassed on all fronts, our leaders quickly surrendered to the Xeno Invasion."
+ taskforce_xeno_start.102.a:0 "Only Ashes Remain"
+ taskforce_xeno_start.102.a.tooltip:0 "§RHardest Possible Start.§!\n\n[Root.Capital.GetName] will be devestated beyond repair, your popopulation will be nearly wiped out and you will get no help. You have been warned"
+ taskforce_xeno_start.102.b:0 "Now begins our darkest days"
+
+ ############# CUSTOM INVASION EVENT CHAIN
+ 
+ taskforce_xeno_custom_invasion.103.invadersoffline:0 "§RInvaders Fully Offline§!"
+ taskforce_xeno_custom_invasion.103.invadersoffline.tooltip:0 "§RSomething has gone wrong during event setup, and no suitable Advanced Empires, Marauder Empire or Fallen Empire has been selected as the Invader§!. You can still play this game and access the origins features, but events around discovering the Invaders will not occur. This is likely caused by there being to few advanced start empires."
+
+ taskforce_xeno_custom_invasion.103.invaders_me_online:0 "§YInvaders - Dormant Mauraders§!"
+ taskforce_xeno_custom_invasion.103.invaders_me_online.tooltip:0 "No suitable Advanced Empire could be found to play the Invaders, so a Dormant Marauder Empire has been selected instead. This will increase difficulty. Try having more Advanced Empires or re-rolling if you wish to play the default setup."
+ 
+ taskforce_xeno_custom_invasion.103.invaders_fe_online:0 "§YInvaders - Fallen Empire§!"
+ taskforce_xeno_custom_invasion.103.invaders_fe_online.tooltip:0 "No suitable Advanced Empire OR Maurader Empire could be found to play the Invaders, and so a Fallen Empire has been selected instead. This will substaintially increase difficulty. Try having more Advanced Empires or re-rolling if you wish to play the default setup."
+ 
+ taskforce_xeno_custom_invasion.103.invadersonline:0 "§GInvaders - Advanced Empire§!"
+ taskforce_xeno_custom_invasion.103.invadersonline.tooltip:0 "A random Advanced Empire has been selected as the Invader, the mod is working §Gcorrectly§!. Choose an option below to continue.\n§RDo NOT click this option, it may cause issues§!"
+ 
+ taskforce_xeno_custom_invasion.103.name:0 "Taskforce Xeno"
+ taskforce_xeno_custom_invasion.103.desc:0 "Historical Account TFX-001:\nSince first observing the nights sky, [Root.GetSpeciesName] have always wondered if we were alone in the universe, and while first contact had always been a speculated, few had truly considered that this would be the answer we were given.\n\nFirst detected by military satellites and then later civilian astronomical arrays, a fleet of unknown but unmistakably Alien ships entered the [Root.Capital.GetStarName] system and after several days reached [Root.Capital.GetName]. In the first few hours of the war Xeno ships unleashed devastating weaponry across the planet, leaving many cities in ruins. The nations of [Root.Capital.GetName] responded with a massive nuclear exchange directed at the Xeno fleet, forcing them to retreat from bombardment range.\n\nIt was then that Taskforce Xeno was activated, a multinational military force designed to coordinate and respond to the Xeno threat. In the early days the Taskforce was limited in its capabilities, and was forced to make hard decisions, as not all could be evacuated to safe zones."
+
+ taskforce_xeno_custom_invasion.103.a:0 "Priotise Air Supremacy and Operations"
+ taskforce_xeno_custom_invasion.103.b:0 "Priotise Army Training and Evacuations"
+ taskforce_xeno_custom_invasion.103.c:0 "Priotise VIP Search and Rescue"
+ taskforce_xeno_custom_invasion.103.quick:0 "Enact Plan: Xeno"
+ taskforce_xeno_custom_invasion.103.quick_tooltip:0 "An ounce of prevention is worth a pound of cure. Due to our §GQuick Learner§!/§BIntelligent§! trait our leaders had covertly prepared [Root.Capital.GetName] for just such as invasion"
+ taskforce_xeno_custom_invasion.103.industrious:0 "Rapid Economic Mobilisation"
+ taskforce_xeno_custom_invasion.103.industrious_tooltip:0 "While many will perish, their work will save us all. Due to our §GIndustrious§! trait the people of [Root.Capital.GetName] will work night and day to prepare while they can"
+ 
+ taskforce_xeno_custom_invasion.104.name:0 "Terror Bombing"
+ taskforce_xeno_custom_invasion.104.desc:0 "Having ceased full bombardment, smaller Xeno strikecraft and ground units began making planetfall, with the aim to sow chaos and destroy vital infrastructure. In what would come to be known as the Terror Bombing entire nations were consumed in fire, cities burnt, and the global economy was all but destroyed.\n\nSeeing the threat, several powerful states of [Root.Capital.GetName] threw their full support by Taskforce Xeno, bolstering the organisation and expanding its warfighting capabilities. While many criticised the Taskforces priorities, history has proven sacrifices had to be made for our very survival."
+ taskforce_xeno_custom_invasion.104.a:0 "Protect Key Infrastructure"
+ taskforce_xeno_custom_invasion.104.b:0 "Prioritise International Cooperation"
+ taskforce_xeno_custom_invasion.104.c:0 "Defend our Population Centres"
+ taskforce_xeno_custom_invasion.104.citizenservice:0 "Establish Citizen Service"
+ taskforce_xeno_custom_invasion.104.corvee:0 "Enforce Corvee Labour"
+ taskforce_xeno_custom_invasion.104.warriorculture:0 "Call to Arms"
+ taskforce_xeno_custom_invasion.104.nationalism:0 "Call to Arms"
+
+ taskforce_xeno_custom_invasion.105.name:0 "Reverse Engineering"
+ taskforce_xeno_custom_invasion.105.desc:0 "The Xenos found we were not conquered so easily, we built up our defences, learned to adapt and charged them in blood for every inch of [Root.Capital.GetName]. The tide began to turn once we captured and began reverse engineering the Xeno's technology. The greatest minds our civilization stood united in defence of all [Root.GetNamePlural]."
+ taskforce_xeno_custom_invasion.105.a:0 "Salvage Xeno Power Technology"
+ taskforce_xeno_custom_invasion.105.b:0 "Salvage Xeno Biotech"
+ taskforce_xeno_custom_invasion.105.c:0 "Salvage Xeno Engineering"
+ taskforce_xeno_custom_invasion.105.d:0 "Breakthrough in Xeno Power Systems"
+ taskforce_xeno_custom_invasion.105.e:0 "Breakthrough in Xeno Biology"
+ taskforce_xeno_custom_invasion.105.f:0 "Breakthrough in Xeno Engineering"
+ 
+ taskforce_xeno_custom_invasion.106.name:0 "Turning The Tide"
+ taskforce_xeno_custom_invasion.106.desc:0 "Desperate, and unnable to mount a resistance on their own, the many nations of [Root.Capital.GetName] ceeded their authority. Transforming the fragmented nations of [Root.Capital.GetName] into the [Root.Owner.GetName]. United under a single banner we finally stood a fighting chance, and the tide began to turn against the Xenos."
+ taskforce_xeno_custom_invasion.106.a:0 "Liberate Occupied Cities" 
+ taskforce_xeno_custom_invasion.106.b:0 "Raid Critical Blacksites"
+ taskforce_xeno_custom_invasion.106.c:0 "Strike their Satellite Network"
+ taskforce_xeno_custom_invasion.106.philospherking:0 "Personally Oversee Vital Operations"
+ taskforce_xeno_custom_invasion.106.admiralty:0 "Their Finest Hour"
+
+ taskforce_xeno_custom_invasion.107.name:0 "Once More into the Breach!"
+ taskforce_xeno_custom_invasion.107.desc:0 "The tides of war turned in our favour. Street by street, and day by day we began to push them back. Finally, overwhelmed and under supplied the bulk of the Xeno occupation forces began to withdraw. With the majority of [Root.Capital.GetName] liberated only small pockets of resistance remained. Captured Xeno technology allowed us to track their fleet in orbit around [Root.Capital.GetName], and it was decided that a final blow against the Xeno mothership would break the back of the invaders and ensure victory"
+ taskforce_xeno_custom_invasion.107.technocracy:0 "Forward, to Foundation!"
+ taskforce_xeno_custom_invasion.107.sharedburdens:0 "Down with the Xeno, Glory to Revoultion!"
+ taskforce_xeno_custom_invasion.107.aristocratic:0 "Victory and Nobility"
+ taskforce_xeno_custom_invasion.107.preisthood:0 "Hand in and Skin the Sinners, if you wish to Skim Divinity"
+ 
+ taskforce_xeno_custom_invasion.107.a:0 "They give an inch, we take a mile"
+ taskforce_xeno_custom_invasion.107.democracy:0 "A multinational strikeforce eliminated the xeno mothership"
+ taskforce_xeno_custom_invasion.107.imperial:0 "Imperial elite's smashed the xeno mothership"
+ taskforce_xeno_custom_invasion.107.corporate:0 "Corporate spies infiltrated & sabotaged the xeno mothership"
+ taskforce_xeno_custom_invasion.107.science:0 "An exploit in the xeno motherships systems caused a reactor meltdown"
+ taskforce_xeno_custom_invasion.107.clans:O "United clansman overwhelmed the xeno mothership"
+ taskforce_xeno_custom_invasion.107.b:0 "Holy Warriors smashed the Xeno Mothership"
+
+ taskforce_xeno_custom_invasion.108.name:0 "End of The [Root.Capital.GetName] Invasion"
+ taskforce_xeno_custom_invasion.108.desc:0 "The destruction of the Xenos Mothership heralded the end of the war. Accross all [Root.Capital.GetName] the newly united people of [Root.GetAllianceName] celebrated the victory. However the Xeno's Invasion left [Root.Capital.GetName] devestated, with many years needed to fully recover. The impact of the The [Root.Capital.GetName] Invasion was not evident at in the early post war years, however over the next generation the following philosphy ascended to primary"
+ 
+ taskforce_xeno_custom_invasion.108.vengeance:0 "The Vengeance Pact" 
+ taskforce_xeno_custom_invasion.108.vengeance.tooltip:0 "Enshrine Vengeance in Law. Never Forgive, Never Forget."
+ taskforce_xeno_custom_invasion.108.defend:0 "The Fortress Doctrine"
+ taskforce_xeno_custom_invasion.108.defend.tooltip:0 "Never Again, Always Prepared"
+ taskforce_xeno_custom_invasion.108.peace:0 "Knowledge and Peace"
+ taskforce_xeno_custom_invasion.108.peace.tooltip:0 "Peace Among Worlds"
+ taskforce_xeno_custom_invasion.108.churchofxeno:0 "Church of the Divine Xeno"
+ taskforce_xeno_custom_invasion.108.churchofxeno.tooltip:0 "The Gods Among Us"
+ taskforce_xeno_custom_invasion.108.crusade:0 "The Xeno Crusade"
+ taskforce_xeno_custom_invasion.108.crusade.tooltip:0 "Strength, in Faith"
+ taskforce_xeno_custom_invasion.108.rebuild:0 "Pioneering Culture"
+ taskforce_xeno_custom_invasion.108.rebuild.tooltip:0 "Rebuild, and Expand"
+ taskforce_xeno_custom_invasion.108.science:0 "Focus on Xenostudies"
+ taskforce_xeno_custom_invasion.108.science.tooltip:0 "Knowledge. Is. Power"
+ 
+ taskforce_xeno_custom_invasion.109.name:0 "The Vengeance Pact"
+ taskforce_xeno_custom_invasion.109.desc:0 "We can never forgive and never forget what was done to our people by the Xeno's. The government and people of [Root.Capital.GetName] have sworn never to rest in our fight against them. We will hunt the stars for their kind, and should we find them there will be no mercy, no forbearance, only total war and utter destruction upon their people. This our code, our law, our purpose."
+ taskforce_xeno_custom_invasion.109.a:0 "There can be only war" 
+ 
+ taskforce_xeno_custom_invasion.110.name:0 "Bastions & Fortresses"
+ taskforce_xeno_custom_invasion.110.desc:0 "The galaxy is dark and full of terrors. The [Root.Capital.GetName] Invasion has shown us the galaxy is a dangerous place.  We must build up mighty defences to outlast our enemies, for only behind great starbases and fortress worlds can we ensure no Xeno ever threatens our people again"
+ taskforce_xeno_custom_invasion.110.a:0 "Behind our walls we will be safe" 
+ 
+ taskforce_xeno_custom_invasion.111.name:0 "Knowledge & Peace"
+ taskforce_xeno_custom_invasion.111.desc:0 "We still know not why the Xeno's attacked, but there are many reports suggesting not all the Xenos were hostile. Perhaps there society is not a unified evil as we have imagined. We should focus on studying Xeno life and if we meet our former foes, attempt dialogue and communication"
+ taskforce_xeno_custom_invasion.111.a:0 "An eye for an eye makes the whole galaxy blind" 
+ 
+ taskforce_xeno_custom_invasion.112.name:0 "Church of the Xeno"
+ taskforce_xeno_custom_invasion.112.desc:0 "In every war there are collaborators, however while in control the Xeno's spent much time recruiting our populace into their armies, and deifying themselves in the eyes of our people with their advanced technologies. While initially we fought and killed them, a large part of our population has come to worship the Xeno's, and interprets the war as a sinful act. While not completely ascendant, The Church of the Xeno's growing influence will have major impacts on our nations policy. Should we find the Xeno Empire our society may find itself divided."
+ taskforce_xeno_custom_invasion.112.a:0 "I for one welcomed our Xeno overlords" 
+ 
+ taskforce_xeno_custom_invasion.113.name:0 "The Xeno Crusade"
+ taskforce_xeno_custom_invasion.113.desc:0 "More than just their simple attempt to conquer us, the Xeno's spat in the face of our faith by attempting to diefy themselves in our eyes. Such heresy can never be forgiven. We must find launch a great crusade into the stars and bring the light of our faith to all we find. If we cannot convert those we find, they must be destroyed"
+ taskforce_xeno_custom_invasion.113.a:0 "Deus Vult!" 
+ 
+ taskforce_xeno_custom_invasion.114.name:0 "Foundation of Science"
+ taskforce_xeno_custom_invasion.114.desc:0 "With their technological advantage the Xeno's nearly wiped out our people. It was the reverse engineering of their technologies that gave us the fighting chance we needed to win the war. The engineers and scientists of Taskforce Xeno have become heroes to our people, and our culture now embraces knowledge as the foundation of our strength and survival"
+ taskforce_xeno_custom_invasion.114.a:0 "The chief characteristic of the religion of science is that it works" 
+ 
+ taskforce_xeno_custom_invasion.115.name:0 "Rebuild & Restore"
+ taskforce_xeno_custom_invasion.115.desc:0 "United beyond a common purpose, our people worked tirelessly to rebuild and renew [Root.Capital.GetName]. In time our desperate struggle to pick up the pieces and rebuild has molded our culture into one built on unity, brotherhood and pioneering resolve"
+ taskforce_xeno_custom_invasion.115.a:0 "We Stand Together" 
+ 
+ #Invaders Encountered (After many years, we have met the boogeyman from legends)
+ taskforce_xeno_invader_encounter.initial.name:0 "Xeno Invaders Discovered!"
+ taskforce_xeno_invader_encounter.initial.desc:0 "Military Intelligence has just confirmed our greatest hope, and fear. After all these years, we have found our greatest enemy, those who ravaged our planet in the [Root.Capital.GetName] Invasion has finally been located.\nWe have managed to keep this information secret for now, but it is only matter of time before the people of [Root.GetAllianceName] learn of this. How should be procceed?"
+ taskforce_xeno_invader_encounter.initial.a:0 "Rattle our Sabres"
+ taskforce_xeno_invader_encounter.initial.b:0 "Broadcast the news far and wide"
+ 
+ ### MISC Events
+ taskforce_xeno_custom_invasion.mothership.name:0 "Xeno Mothership Dissected"
+ taskforce_xeno_custom_invasion.mothership.desc:0 "Our military engineers have carefully disseccted the remains of the Xeno Mothership from the [Root.Capital.GetName] Invasion, clearing it from orbit and gaining valuable insights into the construction of larger spacecraft and strikecraft."
+ taskforce_xeno_custom_invasion.mothership.a:0 "Welcome News"
+ 
+ taskforce_xeno_event.1.name:0 "Rememberance Day"
+ taskforce_xeno_event.1.desc:0 "Remembrance Day is a memorial day observed by the [Root.Owner.GetName] that marks the end of the [Root.Capital.GetName] Invasion and our victory over the Xeno's.\n\nIt is a time to remember all that we have lost, and for our people to reflect on the course of the nation. It is customary for the [Root.GetRulerTitle] to open the memorial with a speech, reiterating foreign policy and our peoples attitude in regards to Invasion.Today [Root.GetLeaderName]	has the honour of delivering the opening address that will be transmitted accross our space. What will they discuss?"
+ taskforce_xeno_event.1.default:0 "On Loss and Victory"
+ taskforce_xeno_event.1.substance_abuser:0 "Rambling & Incoherent Speech"
+ taskforce_xeno_event.1.charismatic:0 "Inspiring Speech of Unity"
+ taskforce_xeno_event.1.vengeance.default:0 "Reaffirm the Vengeance Pact"
+ taskforce_xeno_event.1.vengeance.charismatic:0 "Praise our People & Nation"
+ taskforce_xeno_event.1.vengeance.warlike:0 "Inspire Jingoistic Ferver" 
+ taskforce_xeno_event.1.vengeance.reformer:0 "Look to the Future" 
+ 
+ #Combine Invasion / Half Life Event Chain
+ 
+ taskforce_xeno_half-life.1.name:0 "The Black Mesa Incident"
+ taskforce_xeno_half-life.1.desc:0 "The Black Mesa Incident, referred to once as the Lambda Incident, was a catastrophic event caused by an experiment carried out by the Anomalous Materials department at the Black Mesa Research Facility. The experiment triggered a Resonance Cascade, which allowed numerous extraterrestrial creatures to teleport into the facility and wreak havoc upon its personnel. The ensuing conflict between the responding military forces and the alien creatures resulted in the complete destruction of the facility and the death of almost all of its employees.The Black Mesa Incident would ultimately lead to the invasion of [Root.Capital.GetName] by the Combine and the beginning of the Seven Hour War."
+ taskforce_xeno_half-life.1.a:0 "Probably not a problem, probably."
+ taskforce_xeno_half-life.1.tooltip:0 "§RSome [Root.GetSpeciesName]'s Perish§!"
+ 
+ taskforce_xeno_half-life.2.name:0 "The Seven Hour War"
+ taskforce_xeno_half-life.2.desc:0 "The Seven Hour War was a brief, but decisive confrontation between the Combine and the governments of [Root.Capital.GetName], ultimately leading to a large [Root.GetSpeciesName] death toll and the Combine occupation of the entire planet. As the Portal Storms between Xen and the [Root.Capital.GetName] raged across the planet, spreading Xen life forms across [Root.Capital.GetName], this caused the planet's populace to move into cities for protection. The Combine launched a surprise offensive, defeating all armed forces of all the nations on Earth in only seven hours, taking advantage of the confusion and chaos caused by the Portal Storms.The Combine used the Portal Storms, which made a connection between the now conquered Xen - a crossroads of different dimensions - and [Root.Capital.GetName] possible, to invade this universe. It was after this war that the Black Mesa Administrator negotiated a surrender on behalf of the [Root.Capital.GetName] Nations, "saving" the survivors at the cost of their freedom. Breen was appointed ruler of [Root.Capital.GetName] but remains under the control of the Combine."
+ taskforce_xeno_half-life.2.a:0 "You have chosen, or been chosen."
+ taskforce_xeno_half-life.2.tooltip:0 "§RMany [Root.GetSpeciesName]'s Perish§!"
+ 
+ taskforce_xeno_half-life.3.name:0 "The Occupation and Uprising"
+ taskforce_xeno_half-life.3.desc:0 "[Root.Capital.GetName]'s new rulers governed with a calculated oppressiveness, restricting [Root.GetSpeciesName] liberties and assimilating [Root.Capital.GetName] natural resources into their empire. Dissenting [Root.GetSpeciesName] were captured and biomechanically transformed, or simply killed. A Suppression Field was activated to prevent [Root.GetSpeciesName] from breeding, another measure to control the population more effectively. Many [Root.GetSpeciesName] were assimilated into the occupational army on [Root.Capital.GetName], all of the Combine's infantry forces on [Root.Capital.GetName] consisting of trans-Human troops, augmented with Synth technology. The Uprising was a conflict fought between [Root.Capital.GetName]'s [Root.GetSpeciesName] and alien allied resistance network against the Combine Empire. Xenian aliens are also partaking as an undeclared third party, fighting against both sides. The war takes place about 20 years after the Black Mesa Incident and Seven Hour War, during the Combine's occupation of [Root.Capital.GetName].In response to the Combine's occupation, a number of escapees from the Combine's iron grip formed the Resistance, a highly decentralized, loose network of guerrillas, outlaws, spies, and citizens dedicated to overthrowing the Overwatch's rule. Unable to combat the Combine's powerful armies directly, the Resistance instead sought to undermine the Combine. The Uprising was instigated by the return of The Freeman, a [Root.GetSpeciesName] scientist who had been present at Black Mesa and become a cult like figure following their deeds at the base. Their sudden reappearance was cause for celebration amongst the citizens and the Resistance and they personally led the resistance in a massive uprising which ultimatly led to the collapse of Combine rule on [Root.Capital.GetName] and destruction of their transdimensional portals. It appears for now the Combine have been unable to find a way to bridge the gap and access our universe again, but it is likely only a matter of time before they return."
+ taskforce_xeno_half-life.3.a:0 "Prepare for unforeseen consequences."
+ taskforce_xeno_half-life.3.b:0 "Prepare for unforeseen consequences, with the Freeman"
+ taskforce_xeno_half-life.3.tooltip:0 "§RMore [Root.GetSpeciesName]'s Perish§!"
+ 
+ taskforce_xeno_half-life.4.name:0 "The Aftermath"
+ taskforce_xeno_half-life.4.desc:0 "With the victory over the combine the people of [Root.GetSpeciesName] were left to pick up the peices, and rebuild their shattered world. The Combine had inflicted massive ecological damage on the planet, and with the decimation of the population it would take several generations to begin approaching a workable society, but with the highly advanced technology salvaged from their benefactors, the people of [Root.Capital.GetName] were able to make massive leaps in technology and eventually reach the stars. Even today the work to restore [Root.Capital.GetName] is still ongoing, and the fear of the Combine returning is not far from any [Root.GetSpeciesName]'s mind."
+ taskforce_xeno_half-life.4.bal:0 "This is a Red Letter Day"
+ taskforce_xeno_half-life.4.bal.tooltip:0 "§GBalanced Difficulty Bonuses§!"
+ taskforce_xeno_half-life.4.norm:0 "This is a Red Letter Day"
+ taskforce_xeno_half-life.4.norm.tooltip:0 "§BNormal Difficulty Bonuses§!"
+ taskforce_xeno_half-life.4.op:0 "This is a Red Letter Day"
+ taskforce_xeno_half-life.4.op.tooltip:0 "§ROverpowered Difficulty Bonuses§!"
+ 
+ ##Modifiers
+ severe_portal_storms:0 "Portal Storms (Severe)"
+ severe_portal_storms_desc:0 "Portal Storms are a highly dangerous and destructive phenomena that consists of a blue 'wave' which resonates from a portal and moves across the landscape causing severe gravometric distortions in space-time that damage structures and geography. They are typically caused by the creation of an uncontained Resonance Cascade or collapse of a Dark Energy reactor. Directly after such a disaster these storms are common, decreasing in frequency over time."
+ mild_portal_storms:0 "Portal Storms (Mild)"
+ mild_portal_storms_desc:0 "Portal Storms are a highly dangerous and destructive phenomena that consists of a blue 'wave' which resonates from a portal and moves across the landscape causing severe gravometric distortions in space-time that damage structures and geography. They are typically caused by the creation of an uncontained Resonance Cascade or collapse of a Dark Energy reactor. Directly after such a disaster these storms are common, decreasing in frequency over time."
+ 
+ remembrance_day:0 "Rememberance Day"
+ remembrance_day_desc:0 "We have recently celebrated Rememberance Day"
+ taskforce_xeno_is_reconstructing:0 "Planetary Reconstruction"
+ taskforce_xeno_is_reconstructing_desc:0 "Planetary Reconstruction"
+ taskforce_xeno_interceptors:0 "Taskforce Xeno: Interceptor Auxillary"
+ taskforce_xeno_elan:0 "Taskforce Xeno: Special Operations Divsion"
+ taskforce_xeno_unity:0 "Taskforce Xeno: Executive Protection Details"
+ taskforce_xeno_vengeance_pact:0 "The Vengeance Pact"
+ taskforce_xeno_bastions:0 "Bastions & Fortresses"
+ taskforce_xeno_peace:0 "Xeno Postwar Peace"
+ taskforce_xeno_church_of_xeno:0 "Church of the Xeno"
+ taskforce_xeno_crusade:0 "The Xeno Crusade"
+ taskforce_xeno_foundation:0 "Scientific Foundation"
+ taskforce_xeno_pioneers:0 "Pioneering Culture"
+ 
+ opinion_tfx_invader_overlord:0 "Invader Overlord"
+ opinion_tfx_invader:0 "Xeno Invaders"
+ opinion_tfx_vengeance_pact:0 "Vengeance Pact"
+  
+ ##Buildings
+  
+ building_taskforce_headquarters:0 "Taskforce Xeno Headquarters"
+ building_taskforce_headquarters_desc:0 "§YCannot be rebuilt once destroyed§!\nThis was the original headquarters of Taskforce Xeno. Now it acts as a major planetary fortification and memorial for our triumphs and losses."
+ building_galactic_taskforce_headquarters:0 "Taskforce Xeno Galactic Headquarters"
+ building_galactic_taskforce_headquarters_desc:0 " §YCannot be rebuilt once destroyed§!\n The headquarters from which our modern Taskforce Xeno defends this planet, but also trains new special forces ready to face the Xeno threat wherever it may be."
+   
+ d_xeno_destroyed_blacksites:0 "Destroyed Xeno Blacksites"
+ d_xeno_destroyed_blacksites_desc:0 "Remanents of Xeno blacksites established during the invasion. These ruins are a blight on our land and continue to be a source of fear and enviromental contamination. If we were able to clean up and fully investigate these sites however they may provide use with unique discoveries and could be use for our own ends"
+ d_xeno_blacksites:0 "Taskforce Xeno Blacksites"
+ d_xeno_blacksites_desc:0 "Originally Xeno Blacksites from the invasion, these compounds have been excavated and rebuilt as a clandestine research wing of Taskforce Xeno"
+ d_xeno_ruined_mothership:0 "Ruined Mothership"
+ d_xeno_ruined_mothership_desc:0 "Ruins of the Xeno mothership still in orbit around the planet. Its prescence is a reminder to our people of the Xeno threat, and debris from the ship will continue to hamper our development and orbital defences"
+ d_xeno_deactivated_satellites:0 "Deactivated Satellite Network"
+ d_xeno_deactivated_satellites_desc:0 "Ruins of the Xeno Satellite Network. In its current state it leaves our planet open to orbital bombardment, but if recativated and staffed with military personale it could aid in planetary defence"
+ d_xeno_satellites:0 "Satellite Defence Network"
+ d_xeno_satellites_desc:0 "Fully staffed and maintained Satellte Defence Network salavaged from the The [Root.Capital.GetName] Invasion. These orbital platforms provide increased defence to our planet during attack"
+ d_xeno_ruined_geneclinics:0 "Ruined Xeno Geneclinics"
+ d_xeno_ruined_geneclinics_desc:0 "Due to our quick thinking during the invasion we were able to prevent many Xeno Geneclinics from being totally destroyed. While the experiments done to our people inside them were abhorent, their biotechnology far outstrips our own and we may be able to salavge much of the equipment given time and resources"
+ d_xeno_geneclinics:0 "Taskforce Xeno Geneclinics"
+ d_xeno_geneclinics_desc:0 "By salvaging Xeno biotechnology we are able to improve the healthcare of our own population, even if to begin with we are unable to replcate this technology"
+ 
+ d_tfx_ruined_blackmesa:0 "Ruins of Black Mesa"
+ d_tfx_ruined_blackmesa_desc:0 "The ruins of Black Mesa and the surrounding area remain a major source of contamination"
+ 
+ ##Armys
+ 
+ job_tfx_soldier:0 "Taskforce Xeno Soldier"
+ job_tfx_soldier_desc:0 "Specialist member of Taskforce Xeno. Spawns special defense armies and produces a small amount of research"
+ mod_job_tfx_soldier_add:0 "Taskforce Xeno Soldiers"
+ tfx_defense_army:0 "Taskforce Xeno Defense Force"
+ tfx_defense_army_desc:0 "Specialist units of Taskforce Xeno trained in planetary defence. These units are stronger and more well trained than traditional defence armies"
+   
+ taskforcexeno_detatchment:0 "Taskforce Xeno Unit"
+ taskforcexeno_detatchment:_plural:0 "Taskforce Xeno Units"
+ taskforcexeno_detatchment_desc:0 "A Unit of Taskforce Xeno personale ready to be deployed to conflict hotspots at home and abroad. Equipped with advanced planetary assault craft and weapons."
+ tfx_limit_tooltip:0 "We can only build three of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ taskforcexeno_army:0 "Taskforce Xeno Strikeforce"
+ taskforcexeno_army_plural:0 "Taskforce Xeno Strikeforces"
+ taskforcexeno_army_desc:0 "Taskforce Xeno units designed to be deployed with other assault forces. These strikefoces are experienced in xeno-psyops and shock-and-awe tactics, allowing them do massive amounts of morale damage while limiting their direct physical damage"
+ tfx_limit_army_tooltip:0 "We can only build three of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ taskforcexeno_specialforces:0 "Taskforce Xeno Special Forces"
+ taskforcexeno_specialforces_plural:0 "Taskforce Xeno Forces"
+ taskforcexeno_specialforces_desc:0 "The elite of the elite within Taskforce Xeno drawn from all area's of our military. This unit is designed to lead the spearhead in any planteary invasion and is equipped with the most advanced weapons, tactics known to us"
+ tfx_limit_specialforces_tooltip:0 "We can only build one of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ ##Developer Events
+ 
+ taskforce_xeno_contact.1.name:0 "The Alien Invaders Discovered!"
+ taskforce_xeno_contact.1.desc:0 "Military Intelligence and Diplomatic Core agree, we have found the Xenos!"
+ taskforce_xeno_contact.1.normal:0 "Yes"

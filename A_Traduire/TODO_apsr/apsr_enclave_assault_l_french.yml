@@ -1,0 +1,314 @@
+﻿l_french:
+
+ apsr_enclave_assault_window_title:0 "Improvements: Fleet Power"
+ 
+ 
+ 
+ 
+ 
+ ### ТЕХНОЛОГИИ ###
+ 
+ TECH_APSR_ENCLAVE_ASSAULT_TITLE:0 "§M$apsr_enclave_assault_window_title$§!" 
+ TECH_APSR_ENCLAVE_ASSAULT_DESC:0 "We exchanged the accumulated £apsr_knowledge£ §M$apsr_knowledge$§! for technologies that increase our fleets' offensive power" 
+ 
+ # УЛУЧШЕНИЕ 01 # 
+ tech_apsr_enclave_assault_button_01_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_01_bonus_desc:0 "$apsr_enclave_assault_button_01_desc$"
+ 
+ # УЛУЧШЕНИЕ 02 # 
+ tech_apsr_enclave_assault_button_02_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_02_bonus_desc:0 "$apsr_enclave_assault_button_02_desc$"
+ 
+ # УЛУЧШЕНИЕ 03 # 
+ tech_apsr_enclave_assault_button_03_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_03_bonus_desc:0 "$apsr_enclave_assault_button_03_desc$"
+ 
+ # УЛУЧШЕНИЕ 04 # 
+ tech_apsr_enclave_assault_button_04_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_04_bonus_desc:0 "$apsr_enclave_assault_button_04_desc$"
+ 
+ # УЛУЧШЕНИЕ 05 # 
+ tech_apsr_enclave_assault_button_05_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_05_bonus_desc:0 "$apsr_enclave_assault_button_05_desc$"
+ 
+ # УЛУЧШЕНИЕ 06 # 
+ tech_apsr_enclave_assault_button_06_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_06_bonus_desc:0 "$apsr_enclave_assault_button_06_desc$"
+ 
+ # УЛУЧШЕНИЕ 07 # 
+ # обычные
+ tech_apsr_enclave_assault_button_07_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_07_bonus_desc:0 "$apsr_enclave_assault_button_07_desc$"
+ # геноцидные - поборники
+ tech_apsr_enclave_assault_button_07_gend_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_07_gend_bonus_desc:0 "$apsr_enclave_assault_button_07_gend_desc$"
+ # геноцидные - рой
+ tech_apsr_enclave_assault_button_07_geng_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_07_geng_bonus_desc:0 "$apsr_enclave_assault_button_07_geng_desc$"
+ # геноцидные - машины
+ tech_apsr_enclave_assault_button_07_genm_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_07_genm_bonus_desc:0 "$apsr_enclave_assault_button_07_genm_desc$"
+ 
+ # УЛУЧШЕНИЕ 08 # 
+ tech_apsr_enclave_assault_button_08_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_08_bonus_desc:0 "$apsr_enclave_assault_button_08_desc$"
+ 
+ # УЛУЧШЕНИЕ 09 # 
+ tech_apsr_enclave_assault_button_09_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_09_bonus_desc:0 "$apsr_enclave_assault_button_09_desc$"
+ 
+ # УЛУЧШЕНИЕ 10 # 
+ tech_apsr_enclave_assault_button_10_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_assault_button_10_bonus_desc:0 "$apsr_enclave_assault_button_10_desc$"
+ 
+ # УЛУЧШЕНИЕ 11 # 
+ tech_apsr_enclave_assault_button_11_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_11_bonus_desc:0 "$apsr_enclave_assault_button_11_desc$"
+ 
+ # УЛУЧШЕНИЕ 12 # 
+ tech_apsr_enclave_assault_button_12_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_12_bonus_desc:0 "$apsr_enclave_assault_button_12_desc$"
+ 
+ # УЛУЧШЕНИЕ 13 # 
+ tech_apsr_enclave_assault_button_13_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_13_bonus_desc:0 "$apsr_enclave_assault_button_13_desc$"
+ 
+ # УЛУЧШЕНИЕ 14 # 
+ tech_apsr_enclave_assault_button_14_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_14_bonus_desc:0 "$apsr_enclave_assault_button_14_desc$"
+  
+ # УЛУЧШЕНИЕ 15 # 
+ # обычные
+ tech_apsr_enclave_assault_button_15_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_15_bonus_desc:0 "$apsr_enclave_assault_button_15_desc$"
+ # геноцидные - поборники
+ tech_apsr_enclave_assault_button_15_gend_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_15_gend_bonus_desc:0 "$apsr_enclave_assault_button_15_gend_desc$"
+ # геноцидные - рой
+ tech_apsr_enclave_assault_button_15_geng_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_15_geng_bonus_desc:0 "$apsr_enclave_assault_button_15_geng_desc$"
+ # геноцидные - машины
+ tech_apsr_enclave_assault_button_15_genm_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_assault_button_15_genm_bonus_desc:0 "$apsr_enclave_assault_button_15_genm_desc$"
+ 
+ # УЛУЧШЕНИЕ 16 # 
+ tech_apsr_enclave_assault_button_16_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_assault_button_16_bonus_desc:0 "$apsr_enclave_assault_button_16_desc$"
+ 
+ # УЛУЧШЕНИЕ 17 # 
+ tech_apsr_enclave_assault_button_17_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_assault_button_17_bonus_desc:0 "$apsr_enclave_assault_button_17_desc$"
+ 
+ # УЛУЧШЕНИЕ 18 # 
+ tech_apsr_enclave_assault_button_18_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_assault_button_18_bonus_desc:0 "$apsr_enclave_assault_button_18_desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### УЛУЧШЕНИЯ ###
+ 
+ ## УРОВЕНЬ 0 ## 
+ apsr_enclave_assault_available_section_title:0 "§MAVAILABLE§!"
+ apsr_enclave_assault_buy_desc:0 "§MBUY SELECTED IMPROVEMENT§!"
+ apsr_enclave_assault_please_select_desc:0 "§MPlease select an improvement on the right sidebar!§!"
+ apsr_enclave_assault_locked:0 "IMPROVEMENT LOCKED"
+ 
+ ## УРОВЕНЬ 1 ##
+ apsr_enclave_assault_buttons_stage1_title:0 "§MLEVEL 1§!" 
+ 
+ # УЛУЧШЕНИЕ 1 #
+ apsr_enclave_assault_button_01_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_01_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the damage output of our ships' weapons"
+ apsr_enclave_assault_button_01_effect:0 "Effect: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+5%§!"
+ apsr_enclave_assault_button_01_failtext:0 "§RWe are not yet ready to provide you with this improvement.\nYou should contact us in a few years.§!"
+ apsr_enclave_assault_button_01_info:0 "$apsr_enclave_assault_button_01_title$\n$apsr_enclave_assault_button_01_desc$\n§W--------------§!\n$apsr_enclave_assault_button_01_effect$"
+ 
+ # УЛУЧШЕНИЕ 2 #
+ apsr_enclave_assault_button_02_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_02_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase our ships' rate of fire"
+ apsr_enclave_assault_button_02_effect:0 "Effect: §Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_02_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_02_info:0 "$apsr_enclave_assault_button_02_title$\n$apsr_enclave_assault_button_02_desc$\n§W--------------§!\n$apsr_enclave_assault_button_02_effect$"
+ 
+ # УЛУЧШЕНИЕ 3 #
+ apsr_enclave_assault_button_03_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_03_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the energy capacity of our ships' shields"
+ apsr_enclave_assault_button_03_effect:0 "Effect: §Y$MOD_SHIP_SHIELD_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_03_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_03_info:0 "$apsr_enclave_assault_button_03_title$\n$apsr_enclave_assault_button_03_desc$\n§W--------------§!\n$apsr_enclave_assault_button_03_effect$"
+ 
+ # УЛУЧШЕНИЕ 4 #
+ apsr_enclave_assault_button_04_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_04_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the sturdiness of our ships' armor"
+ apsr_enclave_assault_button_04_effect:0 "Effect: §Y$MOD_SHIP_ARMOR_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_04_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_04_info:0 "$apsr_enclave_assault_button_04_title$\n$apsr_enclave_assault_button_04_desc$\n§W--------------§!\n$apsr_enclave_assault_button_04_effect$"
+ 
+ # УЛУЧШЕНИЕ 5 #
+ apsr_enclave_assault_button_05_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_05_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the toughness of our ships' hull"
+ apsr_enclave_assault_button_05_effect:0 "Effect: §Y$MOD_SHIP_HULL_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_05_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_05_info:0 "$apsr_enclave_assault_button_05_title$\n$apsr_enclave_assault_button_05_desc$\n§W--------------§!\n$apsr_enclave_assault_button_05_effect$"
+ 
+ # УЛУЧШЕНИЕ 6 #
+ apsr_enclave_assault_button_06_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_06_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the speed of our ships"
+ apsr_enclave_assault_button_06_effect:0 "Effect: §Y$MOD_SHIP_SPEED_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_06_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_06_info:0 "$apsr_enclave_assault_button_06_title$\n$apsr_enclave_assault_button_06_desc$\n§W--------------§!\n$apsr_enclave_assault_button_06_effect$"
+ 
+ # УЛУЧШЕНИЕ 7 #
+ # обычные
+ apsr_enclave_assault_button_07_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_07_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can reduce the cost of making claims on foreign territories"
+ apsr_enclave_assault_button_07_effect:0 "Effect: §Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§! §G-10%§!"
+ apsr_enclave_assault_button_07_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_07_info:0 "$apsr_enclave_assault_button_07_title$\n$apsr_enclave_assault_button_07_desc$\n§W--------------§!\n$apsr_enclave_assault_button_07_effect$"
+ # геноцидные - поборники
+ apsr_enclave_assault_button_07_gend_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_07_gend_desc:0 "Many warriors of your race, although in solidarity with your goals of purification, cannot last long in war. We have developed a special series of propaganda that gives additional strength to your soldiers."
+ apsr_enclave_assault_button_07_gend_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-10%§!"
+ apsr_enclave_assault_button_07_gend_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_07_gend_info:0 "$apsr_enclave_assault_button_07_gend_title$\n$apsr_enclave_assault_button_07_gend_desc$\n§W--------------§!\n$apsr_enclave_assault_button_07_gend_effect$"
+ # геноцидные - рой
+ apsr_enclave_assault_button_07_geng_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_07_geng_desc:0 "Knowing that your collective mind feels the pain of all dying warriors, we were able to find a way to prevent a strong effect when the connection with drones is broken, reducing damage to the central body."
+ apsr_enclave_assault_button_07_geng_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-10%§!"
+ apsr_enclave_assault_button_07_geng_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_07_geng_info:0 "$apsr_enclave_assault_button_07_geng_title$\n$apsr_enclave_assault_button_07_geng_desc$\n§W--------------§!\n$apsr_enclave_assault_button_07_geng_effect$"
+ # геноцидные - машины
+ apsr_enclave_assault_button_07_genm_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_07_genm_desc:0 "We were able to apply our military developments to prevent overload during hostilities. Now most of the death signals are redirected to a special system that eases the load on the processor."
+ apsr_enclave_assault_button_07_genm_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-10%§!"
+ apsr_enclave_assault_button_07_genm_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_07_genm_info:0 "$apsr_enclave_assault_button_07_genm_title$\n$apsr_enclave_assault_button_07_genm_desc$\n§W--------------§!\n$apsr_enclave_assault_button_07_genm_effect$"
+ 
+ # УЛУЧШЕНИЕ 8 #
+ apsr_enclave_assault_button_08_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_08_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase our armies' damage"
+ apsr_enclave_assault_button_08_effect:0 "Effect: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_08_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_08_info:0 "$apsr_enclave_assault_button_08_title$\n$apsr_enclave_assault_button_08_desc$\n§W--------------§!\n$apsr_enclave_assault_button_08_effect$"
+ 
+ # УЛУЧШЕНИЕ 9 #
+ apsr_enclave_assault_button_09_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_09_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase our armies' survivability"
+ apsr_enclave_assault_button_09_effect:0 "Effect: §Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_09_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_09_info:0 "$apsr_enclave_assault_button_09_title$\n$apsr_enclave_assault_button_09_desc$\n§W--------------§!\n$apsr_enclave_assault_button_09_effect$"
+ 
+ # УЛУЧШЕНИЕ 10 #
+ apsr_enclave_assault_button_10_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_assault_button_10_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can improve our armies' overall effectiveness"
+ apsr_enclave_assault_button_10_effect:0 "Effect: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+5%§! and §Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_10_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_10_info:0 "$apsr_enclave_assault_button_10_title$\n$apsr_enclave_assault_button_10_desc$\n§W--------------§!\n$apsr_enclave_assault_button_10_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 2 ##
+ apsr_enclave_assault_buttons_stage2_title:0 "§MLEVEL 2§!"
+ 
+ # УЛУЧШЕНИЕ 11 #
+ apsr_enclave_assault_button_11_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_11_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further increase the damage output of our ships' weapons"
+ apsr_enclave_assault_button_11_effect:0 "Effect: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+5%§! and §Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_11_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_11_info:0 "$apsr_enclave_assault_button_11_title$\n$apsr_enclave_assault_button_11_desc$\n§W--------------§!\n$apsr_enclave_assault_button_11_effect$"
+ 
+ # УЛУЧШЕНИЕ 12 #
+ apsr_enclave_assault_button_12_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_12_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further increase the strength of our ships' shields and armor"
+ apsr_enclave_assault_button_12_effect:0 "Effect: §Y$MOD_SHIP_SHIELD_MULT$§! §G+5%§! and §Y$MOD_SHIP_ARMOR_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_12_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_12_info:0 "$apsr_enclave_assault_button_12_title$\n$apsr_enclave_assault_button_12_desc$\n§W--------------§!\n$apsr_enclave_assault_button_12_effect$"
+ 
+ # УЛУЧШЕНИЕ 13 #
+ apsr_enclave_assault_button_13_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_13_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further increase the sturdiness of our ships' hull"
+ apsr_enclave_assault_button_13_effect:0 "Effect: §Y$MOD_SHIP_HULL_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_13_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_13_info:0 "$apsr_enclave_assault_button_13_title$\n$apsr_enclave_assault_button_13_desc$\n§W--------------§!\n$apsr_enclave_assault_button_13_effect$"
+ 
+ # УЛУЧШЕНИЕ 14 #
+ apsr_enclave_assault_button_14_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_14_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further increase the speed of our ships"
+ apsr_enclave_assault_button_14_effect:0 "Effect: §Y$MOD_SHIP_SPEED_MULT$§! §G+20%§!"
+ apsr_enclave_assault_button_14_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_14_info:0 "$apsr_enclave_assault_button_14_title$\n$apsr_enclave_assault_button_14_desc$\n§W--------------§!\n$apsr_enclave_assault_button_14_effect$"
+ 
+ # УЛУЧШЕНИЕ 15 #
+ # обычные
+ apsr_enclave_assault_button_15_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_15_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further reduce the cost of making claims on foreign territories"
+ apsr_enclave_assault_button_15_effect:0 "Effect: §Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§! §G-20%§!"
+ apsr_enclave_assault_button_15_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_15_info:0 "$apsr_enclave_assault_button_15_title$\n$apsr_enclave_assault_button_15_desc$\n§W--------------§!\n$apsr_enclave_assault_button_15_effect$"
+ # геноцидные - поборники
+ apsr_enclave_assault_button_15_gend_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_15_gend_desc:0 "When your warriors die, many members of your race fall into despair. However, thanks to our new development, you will be able to distort the actual outcome of the battle."
+ apsr_enclave_assault_button_15_gend_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-20%§!"
+ apsr_enclave_assault_button_15_gend_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_15_gend_info:0 "$apsr_enclave_assault_button_15_gend_title$\n$apsr_enclave_assault_button_15_gend_desc$\n§W--------------§!\n$apsr_enclave_assault_button_15_gend_effect$"
+ # геноцидные - рой
+ apsr_enclave_assault_button_15_geng_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_15_geng_desc:0 "When your drones die in war, their emanations will be redirected to an artificial cerebral, which takes all emanations of breaking the connection to themselves."
+ apsr_enclave_assault_button_15_geng_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-20%§!"
+ apsr_enclave_assault_button_15_geng_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_15_geng_info:0 "$apsr_enclave_assault_button_15_geng_title$\n$apsr_enclave_assault_button_15_geng_desc$\n§W--------------§!\n$apsr_enclave_assault_button_15_geng_effect$"
+ # геноцидные - машины
+ apsr_enclave_assault_button_15_genm_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_assault_button_15_genm_desc:0 "We have improved the protocols for preventing processor overload during hostilities, allowing the analysis system to receive not all signals of destroyed units at one time."
+ apsr_enclave_assault_button_15_genm_effect:0 "Эффект: §Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§! §G-20%§!"
+ apsr_enclave_assault_button_15_genm_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_15_genm_info:0 "$apsr_enclave_assault_button_15_genm_title$\n$apsr_enclave_assault_button_15_genm_desc$\n§W--------------§!\n$apsr_enclave_assault_button_15_genm_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 3 ##
+ apsr_enclave_assault_buttons_stage3_title:0 "§MLEVEL 3§!"
+ 
+ # УЛУЧШЕНИЕ 16 #
+ apsr_enclave_assault_button_16_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_assault_button_16_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly the damage output of our ships' weaponry"
+ apsr_enclave_assault_button_16_effect:0 "Effect: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+10%§! and §Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_16_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_16_info:0 "$apsr_enclave_assault_button_16_title$\n$apsr_enclave_assault_button_16_desc$\n§W--------------§!\n$apsr_enclave_assault_button_16_effect$"
+ 
+ # УЛУЧШЕНИЕ 17 #
+ apsr_enclave_assault_button_17_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_assault_button_17_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly increase the strength of our ships' shields and armor"
+ apsr_enclave_assault_button_17_effect:0 "Effect: §Y$MOD_SHIP_SHIELD_MULT$§! §G+10%§! and §Y$MOD_SHIP_ARMOR_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_17_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_17_info:0 "$apsr_enclave_assault_button_17_title$\n$apsr_enclave_assault_button_17_desc$\n§W--------------§!\n$apsr_enclave_assault_button_17_effect$"
+ 
+ # УЛУЧШЕНИЕ 18 #
+ apsr_enclave_assault_button_18_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_assault_button_18_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly improve our armies' overall effectiveness"
+ apsr_enclave_assault_button_18_effect:0 "Effect: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+20%§! and §Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+20%§!"
+ apsr_enclave_assault_button_18_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_18_info:0 "$apsr_enclave_assault_button_18_title$\n$apsr_enclave_assault_button_18_desc$\n§W--------------§!\n$apsr_enclave_assault_button_18_effect$"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

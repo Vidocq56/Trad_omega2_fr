@@ -1,0 +1,88 @@
+﻿    l_french:
+
+    # Condensed Quantum Electrodynamics
+    tech_condensed_qe:0 "Condensed Quantum Electrodynamics"
+    tech_condensed_qe_desc:0 "Dominion over the electromagnetic field will allow us to further manipulate probabilistic, quantum-effect dominated entities to a level, which can only be surpassed by true gravitational field control."
+
+    # Event Horizon Offset Facility Alpha
+    allow_ehof_p1:0 "§HUnlocks Megastructure:§! $ehof_ehofp1$"
+    tech_ehof_phase_01:0 "$ehof_ehofp1$"
+    tech_ehof_phase_01_desc:0 "Utilizing squeezed, condensed electromagnetic fields to manipulate and inflate probabilistic $ehof_wormholes$, which pop in and out of existence at a black hole's $eho_eh$. Due to their probabilistic behavior, the locations they lead to are random."
+
+    # Abstract Physics Theory
+    tech_abstract_1:0 "Abstract Physics Theory"
+    tech_abstract_1_desc:0 "Some 'laws-of-physics-breaking' phenomenons may not be explainable with quantum-mechanical approaches. A new branch of physics called 'Abstract Physics', which uses extremely unconventional and abstract mathematical and physical approaches for problem-solving, may lead to the answers for even the most absurd physical phenomenons of the universe."
+
+    # Applied Abstract Physics
+    tech_abstract_2:0 "Applied Abstract Physics"
+    tech_abstract_2_desc:0 "The groundbreaking approaches of Abstract Physics are definitely aiding us well at explaining even the universe's most abstract phenomenons. Using these approaches to make new, absurd and groundbreaking breakthroughs, that no one has ever thought of before, may give us access to unique and powerful technologies." 
+
+    # Negative Pressure Application
+    tech_negative_pressure:0 "Negative Pressure Application"
+    tech_negative_pressure_desc:0 "Negative pressure is a phenomenon that has occurred before at the quantum-mechanical cassimere-effect. There it manifests in form of vacuum energy, but is unfortunately uncontrollable. Applied Abstract Physics has lead to the discovery of alternative, more useful and better applicable ways to generate and control negative pressure. It could be used within various application fields, but particularly in the manipulation of ultra-high-intensity space-distortions, like black holes."
+
+    # Event Horizon Offset Facility Lambda
+    allow_ehof_p2:0 "§HUnlocks Megastructure:§! $ehof_ehofp2$"
+    tech_ehof_phase_02:0 "$ehof_ehofp2$"
+    tech_ehof_phase_02_desc:0 "Utilizing squeezed, condensed electromagnetic fields to manipulate and inflate probabilistic $ehof_wormholes$, which pop in and out of existence at a black hole's $eho_eh$. The negative pressure decreases the probability for inaccuracies and increases possible destination possibilities."
+
+    # Dark Matter Injection
+    tech_dm_injection:0 "Dark Matter Injection"
+    tech_dm_injection_desc:0 "The enlargement of the $ehof_ehof$ will allow us, besides the application of negative pressure, to also inject $ehof_darkmatter$ into the black hole, whose properties will largely increase the efficiency of our $ehof_ehof$. The combination of negative pressure and $ehof_darkmatter$, will further stabilize the inflated $ehof_wormholes$."
+    
+    # Gravitational field control
+    tech_grav_control:0 "Gravitational Field Control"
+    tech_grav_control_desc:0 "Advances in abstract physics finally gave us dominion over gravitational field manipulation. The dynamic of the gravitational field, allows us to easily expand and compress local space-time curvatures to the point, that the gravitational manipulation of quantum-effect dominated entities, like elementary particles can be done with ease and on a large scale."
+
+    # Passive Negative Mass Enrichment
+    tech_negative_mass_enrichment:0 "Passive Negative Mass Enrichment"
+    tech_negative_mass_enrichment_desc:0 "Weak but permanent application of negative pressure and permanent $ehof_darkmatter$ injection, create a small, constant flow of negative mass around the $eho_eh$. This negative mass can be collected by our $ehof_ehofs$ collection systems, next to the large amounts that are getting created by $ehof_ehof$ Deployment."
+
+    # Event Horizon Offset Facility Omega
+    allow_ehof_p3:0 "§HUnlocks Megastructure:§! $ehof_ehofp3$"
+    tech_ehof_phase_03:0 "$ehof_ehofp3$"
+    tech_ehof_phase_03_desc:0 "Utilizing squeezed, condensed electromagnetic fields to manipulate and inflate probabilistic $ehof_wormholes$, which pop in and out of existence at a black hole's $eho_eh$. The gravielectromagnetic fields, vastly increase the efficiency of the inflation process and the combination of $ehof_darkmatter$ and negative pressure greatly decreases the probability for inaccuracies and increases possible destination possibilities."
+
+    # Micro-wormhole Destination Precognition
+    tech_prob_c:0 "$ehof_wormhole$ Destination Precognition"
+    tech_prob_c_desc:0 "Unimaginably sensitive tachyon sensors, able to react and detect within a few thousands of planck times, are used to determine the target of a $ehof_wormhole$ before it even gets inflated by the $ehof_ehof$. This foreshadowing of wormhole targets, increases the security and precision of $ehof_ehof$ travel to an unforeseen magnitude. With this technology, our $ehof_ehof$ will be able to directly choose any destination in the galaxy, without any restrictions. Limitless possibilities await."
+
+    # Vacuum Energy Density Resonance Stimulation
+    tech_vedrs:0 "Vacuum Energy Density Resonance Stimulation"
+    tech_vedrs_desc:0 "The secrets we've uncovered inside the Sphere lead to the development of large scale vacuum manipulation technologies. Oscillating tachyon field projection plates, which actively control the spontaneous symmetry breaking mechanism of the higgs-field in a localized volume, through vacuum energy density resonance stimulation. This creates a local space-time bubble with a decreased vacuum energy density, with different physical laws, which will allow our $ehof_ehof$ to create absolutely stable $ehof_wormholes$, which never collapse, and even $ehof_wormholes$ that can be held open permanently."
+
+    # Event Horizon Offset Facility Ultima
+    allow_ehof_p4:0 "§HUnlocks Megastructure:§! $ehof_ehofp4$"
+    tech_ehof_phase_04:0 "$ehof_ehofp4$"
+    tech_ehof_phase_04_desc:0 "$tech_prob_c$ makes use of ultra fast reacting tachyon sensors, which detect the target before it even has been inflated, enabling the choice of any location in the galaxy. Vacuum energy density resonance stimulation, creates a low vacuum energy volume of space, which combined with the already established stabilization methods, entirely prevent collapses and inaccuracies."
+
+    # Quasi-Neural Networks
+    tech_quasi_neural_net:0 "Quasi-Neural Networks"
+    tech_quasi_neural_net_desc:0 "The discoveries made through the study of the Planet-Plant-Brain led to the development of artificial quasi-neural-networks. These allow us to perform alternate and unknown methods of data-transmission and data-management in various application areas."
+    
+    # Scourge Deployment
+    tech_scourge_deployment:0 "Scourge Deployment"
+    tech_scourge_deployment_desc:0 "The Scarlet Scourge is an advanced synthetic toxin, that could either be used as a terraforming agent, as originally intended. Or as a planet enveloping chemical weapon capable of destroying all life on a planet. Its use depends on us."
+
+    # Quasi-Negative-Mass Utilities
+    tech_qnm_utilities:0 "Negative Mass Enhancements"
+    tech_qnm_utilities_desc:0 "$ehof_the_compound$ is a threat to all life in the galaxy, possibly even beyond. The exotic negative mass appears to be the only thing capable of harming them. We were able to learn about this secret weakness of them and with our new acquired knowledge, began to weaponize negative mass to use it against their fleets. There is finally a chance to repel the invasion!"
+    FAKE_QNM_WEAPONS:0 "QNM Weapon Enhancements"
+    FAKE_QNM_WEAPONS_DESC:0 "The $ehof_the_stellar_annihilator$ has taught us a great deal in the art of weaponizing Quasi-Negative-Mass, our weapons are now equipped to use this new found knowledge"
+
+    # Quasi-Negative-Mass Thrusters
+    tech_qnm_thrusters:0 "Quasi-Negative Mass Thrusters"
+    tech_qnm_thrusters_desc:0 "Uncovering more of the secrets of $ehof_qnm$, allows us to expand its usage within our empire. $ehof_qnm$ allows us to overstep the causal barrier, the speed of light,and gives our ships the ability to fly faster than light, even without hyper drives. With this in mind, we were able to create the '$ehof_qnm$ (QNM) Thrusters'. The fastest thrusters the galaxy has ever seen!"
+    TECH_UNLOCK_QNM_THRUSTER_TITLE:0 "§HUnlocks Component:§! $tech_qnm_thrusters$"
+    TECH_UNLOCK_QNM_THRUSTER_2_DESC:0 "§H$tech_qnm_thrusters$§!\nThe fastest thrusters the galaxy has ever seen!"
+
+    # Quasi-Negative-Mass Enhanced Jump drive
+    tech_qnm_e_jump_drive:0 "Quasi-Negative Mass Enhanced Jump drive"
+    tech_qnm_e_jump_drive_desc:0 "The Jump Drive is already an unbelievable invention on its own, but with the unique properties of $ehof_qnm$, we were able to enhance it even further! This new '$ehof_qnm$ Enhanced (QNME) Jump Drive', allows us to jump even faster and further, than with a conventional jump drive."
+    TECH_UNLOCK_QNM_E_JUMP_DRIVE_TITLE:0 "§HUnlocks Component:§! $tech_qnm_e_jump_drive$"
+    TECH_UNLOCK_QNM_E_JUMP_DRIVE_TITLE_DESC:0 "§H$tech_qnm_e_jump_drive$§!\nJump even faster and further, than with a conventional jump drive."
+
+    # Micro EHOF
+    allow_ehof_p5:0 "§HUnlocks Megastructure:§! $ehof_ehofp5$"
+    tech_ehof_phase_micro:0 "$ehof_ehofp5$"
+    tech_ehof_phase_micro_desc:0 "The $ehof_ehofp5$ is a specialized version of the $ehof_ehof$ with a much smaller scale than the original $ehof_ehof$. Originally envisioned to be a less costly version of the $ehof_ehof$, it is now our only hope for finding the solution against $ehof_the_compound$, in the $ehof_cohesive$ systems."

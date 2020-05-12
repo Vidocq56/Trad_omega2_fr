@@ -1,0 +1,292 @@
+﻿l_english:
+
+ apsr_enclave_science_window_title:0 "Improvements: Science and Leaders"
+ 
+ 
+ 
+ 
+ 
+ ### ТЕХНОЛОГИИ ###
+ 
+ TECH_APSR_ENCLAVE_SCIENCE_TITLE:0 "§M$apsr_enclave_science_window_title$§!" 
+ TECH_APSR_ENCLAVE_SCIENCE_DESC:0 "We exchanged the accumulated £apsr_knowledge£ §M$apsr_knowledge$§! for the acceleration of our technological growth and improvement of our leaders!" 
+ 
+ # УЛУЧШЕНИЕ 01 # 
+ tech_apsr_enclave_science_button_01_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_01_bonus_desc:0 "$apsr_enclave_science_button_01_desc$"
+ 
+ # УЛУЧШЕНИЕ 02 # 
+ tech_apsr_enclave_science_button_02_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_02_bonus_desc:0 "$apsr_enclave_science_button_02_desc$"
+ 
+ # УЛУЧШЕНИЕ 03 # 
+ tech_apsr_enclave_science_button_03_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_03_bonus_desc:0 "$apsr_enclave_science_button_03_desc$"
+ 
+ # УЛУЧШЕНИЕ 04 # 
+ tech_apsr_enclave_science_button_04_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_04_bonus_desc:0 "$apsr_enclave_science_button_04_desc$"
+ 
+ # УЛУЧШЕНИЕ 05dg # 
+ tech_apsr_enclave_science_button_05dg_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_05dg_bonus_desc:0 "$apsr_enclave_science_button_05dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 05m # 
+ tech_apsr_enclave_science_button_05m_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_05m_bonus_desc:0 "$apsr_enclave_science_button_05m_desc$"
+ 
+ # УЛУЧШЕНИЕ 06 # 
+ tech_apsr_enclave_science_button_06_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_06_bonus_desc:0 "$apsr_enclave_science_button_06_desc$"
+ 
+ # УЛУЧШЕНИЕ 07 # 
+ tech_apsr_enclave_science_button_07_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_07_bonus_desc:0 "$apsr_enclave_science_button_07_desc$"
+ 
+ # УЛУЧШЕНИЕ 08 # 
+ tech_apsr_enclave_science_button_08_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_08_bonus_desc:0 "$apsr_enclave_science_button_08_desc$"
+ 
+ # УЛУЧШЕНИЕ 09dg # 
+ tech_apsr_enclave_science_button_09dg_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_09dg_bonus_desc:0 "$apsr_enclave_science_button_09dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 09m # 
+ tech_apsr_enclave_science_button_09m_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_09m_bonus_desc:0 "$apsr_enclave_science_button_09m_desc$"
+ 
+ # УЛУЧШЕНИЕ 10 # 
+ tech_apsr_enclave_science_button_10_bonus:0 "§WAncient Knowledge: Small§!"
+ tech_apsr_enclave_science_button_10_bonus_desc:0 "$apsr_enclave_science_button_10_desc$"
+ 
+ # УЛУЧШЕНИЕ 11 # 
+ tech_apsr_enclave_science_button_11_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_11_bonus_desc:0 "$apsr_enclave_science_button_11_desc$"
+ 
+ # УЛУЧШЕНИЕ 12 # 
+ tech_apsr_enclave_science_button_12_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_12_bonus_desc:0 "$apsr_enclave_science_button_12_desc$"
+ 
+ # УЛУЧШЕНИЕ 13 # 
+ tech_apsr_enclave_science_button_13_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_13_bonus_desc:0 "$apsr_enclave_science_button_13_desc$"
+ 
+ # УЛУЧШЕНИЕ 14 # 
+ tech_apsr_enclave_science_button_14_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_14_bonus_desc:0 "$apsr_enclave_science_button_14_desc$"
+ 
+ # УЛУЧШЕНИЕ 15dg # 
+ tech_apsr_enclave_science_button_15dg_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_15dg_bonus_desc:0 "$apsr_enclave_science_button_15dg_desc$"
+  
+ # УЛУЧШЕНИЕ 15m # 
+ tech_apsr_enclave_science_button_15m_bonus:0 "§HAncient Knowledge: Average§!"
+ tech_apsr_enclave_science_button_15m_bonus_desc:0 "$apsr_enclave_science_button_15m_desc$"
+ 
+ # УЛУЧШЕНИЕ 16 # 
+ tech_apsr_enclave_science_button_16_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_science_button_16_bonus_desc:0 "$apsr_enclave_science_button_16_desc$"
+ 
+ # УЛУЧШЕНИЕ 17 # 
+ tech_apsr_enclave_science_button_17_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_science_button_17_bonus_desc:0 "$apsr_enclave_science_button_17_desc$"
+ 
+ # УЛУЧШЕНИЕ 18dg # 
+ tech_apsr_enclave_science_button_18dg_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_science_button_18dg_bonus_desc:0 "$apsr_enclave_science_button_18dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 18m # 
+ tech_apsr_enclave_science_button_18m_bonus:0 "§MAncient Knowledge: Great§!"
+ tech_apsr_enclave_science_button_18m_bonus_desc:0 "$apsr_enclave_science_button_18m_desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### УЛУЧШЕНИЯ ###
+ 
+ ## УРОВЕНЬ 0 ## 
+ apsr_enclave_science_available_section_title:0 "§MAVAILABLE§!"
+ apsr_enclave_science_buy_desc:0 "§MBUY SELECTED IMPROVEMENT§!"
+ apsr_enclave_science_please_select_desc:0 "§MPlease select an improvement on the right sidebar!§!"
+ apsr_enclave_science_locked:0 "IMPROVEMENT LOCKED"
+ 
+ ## УРОВЕНЬ 1 ##
+ apsr_enclave_science_buttons_stage1_title:0 "§MLEVEL 1§!" 
+ 
+ # УЛУЧШЕНИЕ 1 #
+ apsr_enclave_science_button_01_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_01_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in the field of physics research."
+ apsr_enclave_science_button_01_effect:0 "Effect: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_01_failtext:0 "§RWe are not yet ready to provide you with this improvement.\nYou should contact us in a few years.§!"
+ apsr_enclave_science_button_01_info:0 "$apsr_enclave_science_button_01_title$\n$apsr_enclave_science_button_01_desc$\n§W--------------§!\n$apsr_enclave_science_button_01_effect$"
+ 
+ # УЛУЧШЕНИЕ 2 #
+ apsr_enclave_science_button_02_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_02_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in the field of society research."
+ apsr_enclave_science_button_02_effect:0 "Effect: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_02_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_02_info:0 "$apsr_enclave_science_button_02_title$\n$apsr_enclave_science_button_02_desc$\n§W--------------§!\n$apsr_enclave_science_button_02_effect$"
+ 
+ # УЛУЧШЕНИЕ 3 #
+ apsr_enclave_science_button_03_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_03_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in the field of engineering research."
+ apsr_enclave_science_button_03_effect:0 "Effect: §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_03_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_03_info:0 "$apsr_enclave_science_button_03_title$\n$apsr_enclave_science_button_03_desc$\n§W--------------§!\n$apsr_enclave_science_button_03_effect$"
+ 
+ # УЛУЧШЕНИЕ 4 #
+ apsr_enclave_science_button_04_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_04_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can implement the Glavius method to train our leaders"
+ apsr_enclave_science_button_04_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!"
+ apsr_enclave_science_button_04_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_04_info:0 "$apsr_enclave_science_button_04_title$\n$apsr_enclave_science_button_04_desc$\n§W--------------§!\n$apsr_enclave_science_button_04_effect$"
+ 
+ # УЛУЧШЕНИЕ 5 #
+ apsr_enclave_science_button_05dg_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_05dg_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can slow down the aging of some important parts of the body, extending the life expectancy of our leaders"
+ apsr_enclave_science_button_05dg_effect:0 "Effect: §Y$MOD_LEADER_AGE$§! §G+10§! years"
+ apsr_enclave_science_button_05dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_05dg_info:0 "$apsr_enclave_science_button_05dg_title$\n$apsr_enclave_science_button_05dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_05dg_effect$"
+ apsr_enclave_science_button_05m_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_05m_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can refine our teaching methods"
+ apsr_enclave_science_button_05m_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!"
+ apsr_enclave_science_button_05m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_05m_info:0 "$apsr_enclave_science_button_05m_title$\n$apsr_enclave_science_button_05m_desc$\n§W--------------§!\n$apsr_enclave_science_button_05m_effect$"
+ 
+ # УЛУЧШЕНИЕ 6 #
+ apsr_enclave_science_button_06_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_06_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in physics and society scientific areas"
+ apsr_enclave_science_button_06_effect:0 "Effect: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+5%§! and §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_06_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_06_info:0 "$apsr_enclave_science_button_06_title$\n$apsr_enclave_science_button_06_desc$\n§W--------------§!\n$apsr_enclave_science_button_06_effect$"
+ 
+ # УЛУЧШЕНИЕ 7 #
+ apsr_enclave_science_button_07_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_07_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in the physics and engineering scientific areas"
+ apsr_enclave_science_button_07_effect:0 "Effect: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+5%§! and §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_07_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_07_info:0 "$apsr_enclave_science_button_07_title$\n$apsr_enclave_science_button_07_desc$\n§W--------------§!\n$apsr_enclave_science_button_07_effect$"
+ 
+ # УЛУЧШЕНИЕ 8 #
+ apsr_enclave_science_button_08_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_08_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can advance in society and engineering scientific areas"
+ apsr_enclave_science_button_08_effect:0 "Effect: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+5%§! and §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_08_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_08_info:0 "$apsr_enclave_science_button_08_title$\n$apsr_enclave_science_button_08_desc$\n§W--------------§!\n$apsr_enclave_science_button_08_effect$"
+ 
+ # УЛУЧШЕНИЕ 9 #
+ apsr_enclave_science_button_09dg_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_09dg_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can develop drugs that slow down the aging of our leaders"
+ apsr_enclave_science_button_09dg_effect:0 "Effect: §Y$MOD_LEADER_AGE$§! §G+10§! years"
+ apsr_enclave_science_button_09dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_09dg_info:0 "$apsr_enclave_science_button_09dg_title$\n$apsr_enclave_science_button_09dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_09dg_effect$"
+ apsr_enclave_science_button_09m_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_09m_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can optimize our machine learning protocols"
+ apsr_enclave_science_button_09m_effect:0 "Effect: §Y$MOD_LEADER_SKILL_LEVELS$§! §G+2§!"
+ apsr_enclave_science_button_09m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_09m_info:0 "$apsr_enclave_science_button_09m_title$\n$apsr_enclave_science_button_09m_desc$\n§W--------------§!\n$apsr_enclave_science_button_09m_effect$"
+ 
+ # УЛУЧШЕНИЕ 10 #
+ apsr_enclave_science_button_10_title:0 "§WAncient Knowledge: Small§!"
+ apsr_enclave_science_button_10_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the training potential of our leaders."
+ apsr_enclave_science_button_10_effect:0 "Effect: §Y$MOD_LEADER_SKILL_LEVELS$§! §G+2§!"
+ apsr_enclave_science_button_10_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_10_info:0 "$apsr_enclave_science_button_10_title$\n$apsr_enclave_science_button_10_desc$\n§W--------------§!\n$apsr_enclave_science_button_10_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 2 ##
+ apsr_enclave_science_buttons_stage2_title:0 "§MLEVEL 2§!"
+ 
+ # УЛУЧШЕНИЕ 11 #
+ apsr_enclave_science_button_11_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_11_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can reduce resource loss of our management system, while increasing the maximum potential of our leaders"
+ apsr_enclave_science_button_11_effect:0 "Effect: §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§! §G-10%§! and §Y$MOD_LEADER_SKILL_LEVELS$§! §G+2§!"
+ apsr_enclave_science_button_11_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_11_info:0 "$apsr_enclave_science_button_11_title$\n$apsr_enclave_science_button_11_desc$\n§W--------------§!\n$apsr_enclave_science_button_11_effect$"
+ 
+ # УЛУЧШЕНИЕ 12 #
+ apsr_enclave_science_button_12_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_12_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly advance in the study of physical phenomena"
+ apsr_enclave_science_button_12_effect:0 "Effect: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_12_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_12_info:0 "$apsr_enclave_science_button_12_title$\n$apsr_enclave_science_button_12_desc$\n§W--------------§!\n$apsr_enclave_science_button_12_effect$"
+ 
+ # УЛУЧШЕНИЕ 13 #
+ apsr_enclave_science_button_13_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_13_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly advance in the study of society research fields"
+ apsr_enclave_science_button_13_effect:0 "Effect: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_13_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_13_info:0 "$apsr_enclave_science_button_13_title$\n$apsr_enclave_science_button_13_desc$\n§W--------------§!\n$apsr_enclave_science_button_13_effect$"
+ 
+ # УЛУЧШЕНИЕ 14 #
+ apsr_enclave_science_button_14_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_14_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can significantly advance in the study of engineering and mechanics"
+ apsr_enclave_science_button_14_effect:0 "Effect: §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_14_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_14_info:0 "$apsr_enclave_science_button_14_title$\n$apsr_enclave_science_button_14_desc$\n§W--------------§!\n$apsr_enclave_science_button_14_effect$"
+ 
+ # УЛУЧШЕНИЕ 15 #
+ apsr_enclave_science_button_15dg_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_15dg_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can develop a biological supplement that improves brain activity and enhances the immune system"
+ apsr_enclave_science_button_15dg_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§! and §Y$MOD_LEADER_AGE$§! §G+20§! years"
+ apsr_enclave_science_button_15dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_15dg_info:0 "$apsr_enclave_science_button_15dg_title$\n$apsr_enclave_science_button_15dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_15dg_effect$"
+ apsr_enclave_science_button_15m_title:0 "§HAncient Knowledge: Average§!"
+ apsr_enclave_science_button_15m_desc:0 "By using the collected £apsr_knowledge£ §M$apsr_knowledge$§!, we can further optimize our machine learning system"
+ apsr_enclave_science_button_15m_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+35%§!"
+ apsr_enclave_science_button_15m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_15m_info:0 "$apsr_enclave_science_button_15m_title$\n$apsr_enclave_science_button_15m_desc$\n§W--------------§!\n$apsr_enclave_science_button_15m_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 3 ##
+ apsr_enclave_science_buttons_stage3_title:0 "§MLEVEL 3§!"
+ 
+ # УЛУЧШЕНИЕ 16 #
+ apsr_enclave_science_button_16_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_science_button_16_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the efficiency of information exchange between our colonies."
+ apsr_enclave_science_button_16_effect:0 "Effect: §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§! §G-30%§!"
+ apsr_enclave_science_button_16_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_16_info:0 "$apsr_enclave_science_button_16_title$\n$apsr_enclave_science_button_16_desc$\n§W--------------§!\n$apsr_enclave_science_button_16_effect$"
+ 
+ # УЛУЧШЕНИЕ 17 #
+ apsr_enclave_science_button_17_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_science_button_17_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can develop an "intellectual researcher" system, which will greatly assist in all types of research"
+ apsr_enclave_science_button_17_effect:0 "Effect: §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! §G+15%§!"
+ apsr_enclave_science_button_17_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_17_info:0 "$apsr_enclave_science_button_17_title$\n$apsr_enclave_science_button_17_desc$\n§W--------------§!\n$apsr_enclave_science_button_17_effect$"
+ 
+ # УЛУЧШЕНИЕ 18 #
+ apsr_enclave_science_button_18dg_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_science_button_18dg_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we can aquire the technology to alter brain cells, which will lead to the growth of our leaders' intelligence"
+ apsr_enclave_science_button_18dg_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§! and §Y$MOD_LEADER_AGE$§! §G+50§! years"
+ apsr_enclave_science_button_18dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_18dg_info:0 "$apsr_enclave_science_button_18dg_title$\n$apsr_enclave_science_button_18dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_18dg_effect$"
+ apsr_enclave_science_button_18m_title:0 "§MAncient Knowledge: Great§!"
+ apsr_enclave_science_button_18m_desc:0 "Having spent a large amount of £apsr_knowledge£ §M$apsr_knowledge$§!, we would be able to develop a completely new system of training for our leaders"
+ apsr_enclave_science_button_18m_effect:0 "Effect: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+50%§!"
+ apsr_enclave_science_button_18m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_18m_info:0 "$apsr_enclave_science_button_18m_title$\n$apsr_enclave_science_button_18m_desc$\n§W--------------§!\n$apsr_enclave_science_button_18m_effect$"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

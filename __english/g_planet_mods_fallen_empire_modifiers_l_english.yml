@@ -1,0 +1,51 @@
+﻿l_english:
+
+ ###################################################
+ # Fallen Empire Modifiers
+ ###################################################
+ 
+ # 1 fe
+ gpm_utopian_world:0 "Utopian World"
+ gpm_utopian_world_desc:0 "Not a single hint of pollution, of toxicity or disease. This world is beautiful in any respect. Buildings shine like they are not affected by the elements. Sound, light all seems to dance along with its population. Every bit of surface looks like it flows into the cities and back out again, almost in perfect harmony."
+ # 2 fe
+ gpm_utopian_services:0 "Utopian Services"
+ gpm_utopian_services_desc:0 "This world offers everything to its residents. From longevity to an abundance of food. Everything is provided and taken care of. "
+ # 3 fe
+ gpm_primitive_reserve:0 "Primitive Reserve"
+ gpm_primitive_reserve_desc:0 "A giant dome like structure seems to show no signs of advanced life. In fact, what appears to be primitive life is all that is roaming inside of it. A glimpse into a species past perhaps. Or a twisted type of zoo."
+ # 4 fe
+ gpm_unified_processing:0 "Unified Processing"
+ gpm_unified_processing_desc:0 "The surface and structures of this world are covered in highly advanced networks of processing units. The entire world acts as a single computational system allowing for some very impressive capability in terms of calculations. From what we can gather by the inhabitants' actions it looks like it is used as a giant framework for a virtual world. Perhaps a way to escape the existential dread of reality. Or perhaps it is simply used as a means for entertainment."
+ # 5 fe
+ gpm_planetary_shielding_FE:0 "Planetary Shielding"
+ gpm_planetary_shielding_FE_desc:0 "Surrounding this world is a mysterious shield capable of slowing down anything that tries to penetrate it. While this shield does not stop energy or projectiles it slows them down enough to buy the planet's inhabitants enough time to seek shelter and probably mount a counteroffensive. It looks like the systems powering this shield are perfectly spread around the planet in such a way they form complex but symmetrical patterns."
+ # 6 fe
+ gpm_living_infrastructure:0 "Living Infrastructure"
+ gpm_living_infrastructure_desc:0 "It looks like the infrastructure of this world is made up of nanites or some other form of living artificial matter. The buildings, streets and some parts of the land itself seem to constantly shift and mould into different shapes depending on the needs of the inhabitants. Truly this is the pinnacle of infrastructure engineering. To have anything specifically tailored to your needs is almost utopian!"
+ # 7 fe
+ gpm_galactic_databanks:0 "Galactic Databanks"
+ gpm_galactic_databanks_desc:0 "Throughout this world there are massive data centres housing countless of databanks. The purpose of these data banks is to house the galaxy's largest collection of information about everything there is. From the tiniest particle of matter, the many states of energy to every type of living organism found in this galaxy."
+ # 8 fe
+ gpm_monument_to_the_fallen:0 "Monument To The Fallen"
+ gpm_monument_to_the_fallen_desc:0 "Centre in the capital of this world is a giant statue reaching all the way into the higher stratosphere. This monumental building seems to be dedicated to the fallen warriors of this species. The many images displayed across this statue depict fierce and massive battles between the warriors of this species and what appears to be entities coming from another dimension through various portals. No doubt these warriors won in the end, but many seemed to have paid victory with their lives. This mysterious enemy of theirs must have been exceptionally powerful for them to dedicate such a tribute to their victory and their fallen.."
+ # 9 fe
+ gpm_longevity:0 "Longevity"
+ gpm_longevity_desc:0 "Advanced medical facilities provide free and extensive healthcare to everyone. Gene-therapies can cure even the most extreme conditions and  extend the life expectancy of everyone."
+ # 10 fe
+ gpm_culture_of_games:0 "Food And Games"
+ gpm_culture_of_games_desc:0 "Most of the culture on this world revolves around the competitive nature of games. Local policy is sometimes even determined by the winner of a tournament."
+ # 11 fe
+ gpm_weather_control:0 "Weather Control"
+ gpm_weather_control_desc:0 "The weather, and by extension climate, is controlled by a system of extremely advanced weather control spires on this planet. Every gust of wind, every drop of rain and ray of sunshine is carefully controlled."
+ # 12 fe
+ gpm_subterranean_paradise:0 "Subterranean Paradise"
+ gpm_subterranean_paradise_desc:0 "Sprawling utopian cities spread out beneath the surface of this world in giant artificially created caverns. Light, sky, weather are all projected and fabricated to simulate the surface above with the added benefit of protection from above."
+ # 13 fe
+ gpm_space_elevators:0 "Space Elevators"
+ gpm_space_elevators_desc:0 "Large elegant elevators reach up high into the stratosphere allowing easy access to low orbit."
+ # 14 fe
+ gpm_artificial_landscaping:0 "Artificial Landscaping"
+ gpm_artificial_landscaping_desc:0 "Most of the surface on this world has been modelled into elegant flowing patterns."
+ # 15 fe
+ gpm_teleportation_systems:0 "Teleportation Systems"
+ gpm_teleportation_systems_desc:0 "Short range teleportation allows the residents of this world to freely move around its surface almost instantaneously."

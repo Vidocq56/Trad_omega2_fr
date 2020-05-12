@@ -1,0 +1,172 @@
+﻿l_english:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr22_planet_modifier:0 "Foundry Complex of the Ancients"
+ apsr22_planet_modifier_desc:0 "This whole planet is a decrepit foundry complex belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ 
+ apsr22_deposit:0 "$apsr22_planet_modifier$"
+ apsr22_deposit_desc:0 "$apsr22_planet_modifier_desc$\n\n§M$apsr22_deposit_effect$§!" 
+ apsr22_deposit_effect:0 "Unique resource available: $apsr22_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr22_building_part1_text:0 "Shadow of the Ancients' faded glory"
+ 
+ apsr22_building_part2_text:0 "Fraction of the restored Foundry Complex"
+ 
+ apsr22_building_part3_text:0 "Partly restored Foundry Complex"
+ 
+ apsr22_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr22_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have the proper technologies required in order to maximize the output of this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr22_building_part1:0 "Foundry Complex of the Ancients: Incipient"
+ apsr22_building_part1_desc:0 "$apsr22_building_predesc$\n$apsr22_building_part1_text$"
+ 
+ apsr22_building_part2:0 "Foundry Complex  of the Ancient: Section"
+ apsr22_building_part2_desc:0 "$apsr22_building_predesc$\n$apsr22_building_part2_text$"
+ 
+ apsr22_building_part3:0 "Foundry Complex  of the Ancients"
+ apsr22_building_part3_desc:0 "$apsr22_building_predesc$\n$apsr22_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr22_building_part1_fake:0 "$apsr22_building_part1$"
+ apsr22_building_part1_fake_desc:0 "$apsr22_building_fake_predesc$\n$apsr22_building_part1_text$"
+ 
+ apsr22_building_part2_fake:0 "$apsr22_building_part2$"
+ apsr22_building_part2_fake_desc:0 "$apsr22_building_fake_predesc$\n$apsr22_building_part2_text$"
+ 
+ apsr22_building_part3_fake:0 "$apsr22_building_part3$"
+ apsr22_building_part3_fake_desc:0 "$apsr22_building_fake_predesc$\n$apsr22_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr22_building_part1:0 "Restoring the Glory of the Ancients: Stage 1"
+ tech_apsr22_building_part1_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr22_building_part2:0 "Restoring the Glory of the Ancients: Stage 2"
+ tech_apsr22_building_part2_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr22_building_part3:0 "Restoring the Glory of the Ancients: Stage 3"
+ tech_apsr22_building_part3_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.22001.title:0 "$apsr22_building_part1$ completed"
+ apsr.22001.desc:0 "We have completed the §Y$apsr22_building_part1$§!, the first step in restoring the Ancients' glory."
+ apsr.22001.ok-button:0 "Perfect"
+ 
+ apsr.22002.title:0 "$apsr22_building_part2$ completed"
+ apsr.22002.desc:0 "We have completed the §Y$apsr22_building_part2$§!! Its construction marks a breakthrough in our industrial development and in the studies of the Ancients' civilization."
+ apsr.22002.ok-button:0 "Perfect"
+ 
+ apsr.22003.title:0 "$apsr22_building_part3$ completed"
+ apsr.22003.desc:0 "We have restored as much as we could of the §YFoundry Complex of the Ancients§! and gained access to a fraction of the industrial might of the Ancients. Unfortunately, there is only so much we could do, as the passage of time caused destruction beyond recovery!"
+ apsr.22003.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.22811.title:0 "Performance restored"
+ apsr.22811.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr22_building_part1$§!, and developed methodological and technological guidelines for its use. Now we can start using it at an acceptable level."
+ apsr.22811.ok-button:0 "Good"
+ 
+ apsr.22812.title:0 "Performance improved"
+ apsr.22812.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr22_building_part2$§!, and improved the methodological and technological guidelines for its use. Its output has been greatly increased."
+ apsr.22812.ok-button:0 "Great"
+ 
+ apsr.22813.title:0 "Performance maximised"
+ apsr.22813.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr22_building_part3$§!, and perfected the methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.22813.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.22011.title:0 "Point of Interest found: §M$apsr22_planet_modifier$§!"
+ apsr.22011.desc:0 "A research team led by §H[Root.GetLeaderName]§! from the ship §H[Root.GetName]§! has discovered something peculiar! \nThis whole planet is a decrepit foundry complex belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.22011.button:1 "We must get this artifact!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.22013.title:0 "Point of Interest found: §M$apsr22_planet_modifier$§!"
+ apsr.22013.desc:0 "This whole planet is a decrepit foundry complex belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.22013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.22015.title:0 "Point of Interest found: §M$apsr22_planet_modifier$§!"
+ apsr.22015.desc:0 "Our intelligence service, while checking information about the planets of other empires, has found something interesting!\nOn one of the planets a decrepit foundry complex belonging to an ancient civilization can be found. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr22_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr22_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr22_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr22_resource_planet.Owner.GetName]§!"
+ apsr.22015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr22_special:0 "$apsr22_planet_modifier$"
+ apsr22_special_desc:0 "$apsr22_planet_modifier_desc$"
+ 
+ APSR22_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR22_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr22_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr22_anomaly:0 "Interesting data"
+ apsr22_anomaly_desc:0 "During the survey of [From.GetName]'s surface we aquired data that definitely needs further investigation."
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.22601.title:0 "$apsr.22011.title$"
+ apsr.22601.desc:0 "$apsr.22011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr22_planet_foundry_normal:0 "Metallurgists"
+ job_apsr22_foundry_normal:0 "Metallurgist"
+ job_apsr22_foundry_normal_plural:0 "Metallurgists"
+ job_apsr22_foundry_normal_desc:0 "A specialist that synthesizes alloys using the power of the Foundry Complex of the Ancients."
+ mod_job_apsr22_foundry_normal_add:0 "Metallurgist"
+ 
+ apsr22_planet_foundry_hive:0 "Foundry drones"
+ job_apsr22_foundry_hive:0 "Foundry drone"
+ job_apsr22_foundry_hive_plural:0 "Foundry drones"
+ job_apsr22_foundry_hive_desc:0 "A drone that synthesizes alloys using the power of the Foundry Complex of the Ancients"
+ mod_job_apsr22_foundry_hive_add:0 "Foundry drone"
+ 
+ apsr22_planet_foundry_machine:0 "Foundry drones"
+ job_apsr22_foundry_machine:0 "Foundry drone"
+ job_apsr22_foundry_machine_plural:0 "Foundry drones"
+ job_apsr22_foundry_machine_desc:0 "A drone that synthesizes alloys using the power of the Foundry Complex of the Ancients"
+ mod_job_apsr22_foundry_machine_add:0 "Foundry drone"
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,56 @@
+﻿l_english:
+  stargate_site: "The Stargate"
+  stargate_world_site_desc: "The unearthing of the Stargate changed everything!\n\nOur civilization has always known that we were not alone in the universe, but having actual proof on our very own planet proves that life has been around long before us.\n\nWho built the Stargate and why remains a mystery. A team of scientists came forward with a project to further investigate the artifact to unravel these mysteries and hopefully, those of the universe."
+  
+  stargate_world.1.name: "Three Dimensional Coordinate System"
+  stargate_world.1.desc: "The Glyphs around the Stargate caught the attention of our scientists, whom, unable to decipher the meaning or purpose of these iconic figures issued a world wide investigation.\nCitizens from all over the world took a look at these symbols in search for meaning, some of them came up with some very unorthodox theories, but a team of astronomers recognized that the symbols on the cover stones of the Stargate are asterisms used in a three dimensional coordinate system.\n\nFiguring out the correct combinations or what they do will prove a challenge in the days to come."  
+  stargate_world.1.a: "Let's begin!"
+   
+  stargate_world.2.name: "One of these Glyphs is not like the others"
+  stargate_world.2.desc: "At first, brute forcing a sequence into the Stargate by pressing the Glyphs in a random fashion proved futile. But given time, our scientists found out that pressing three random glyphs and then pressing the one on top of the Stargate would trigger the mechanism and cause a powersurge.\n\nAfter successfully stabilizing the Stargate and the power input it needs, we were able to activate the Stargate!\nWhile active, the Stargate opens a sort of portal, or a contained wormhole which might lead to new and uncharted worlds.\n\nOur scientists would like to send drones through the portal to further investigate."  
+  stargate_world.2.a: "Send the drones."
+        
+  stargate_world.3.name: "My battery is low and it's getting dark."
+  stargate_world.3.desc: "Not every combination resulted in the opening of a portal, but for those that did, our team sent drones to map the surface and atmosphere of the planets on the other side of the Stargate.\n\nSome of them proved habitable, which gives our species a bright future!\n\nAs the drones die out exploring the unknown we are now faced with a new challenge: Should we send living subjects to explore these new frontiers?"
+  stargate_world.3.a: "Yes, it is time."
+      
+  stargate_world.4.name: "Those who returned"
+  stargate_world.4.desc: "With every advancement comes a risk, and exploring these new worlds was a risk our civilization was willing to take. Alas, some of our explorers never made the return trip.\n\nThose that did, bear good news! Worlds like our own await beyond the Stargate! Breathable air and a welcoming planet is promised.\n\nNevertheless, our scientists are worried about those that never made it back home. They believe that in order to further explore these planets and eventually colonize them we should take every precaution."
+  stargate_world.4.a: "Explore possible solutions."
+  
+  stargate_world.5.name: "Faster than Light"
+  stargate_world.5.desc: "In face of the unknown, no measure is neither exagerated nor overreacting. Fortunately our scientists and rulers share this vision and decided to go against some unprepared military and civilian options.\n\nOur greatest minds would not want to risk our men in unprotected colonization endevours. \n\nAccording to our scientists the Stargate creates a temporal wormhole which would shut down and destroy any slow or oversized object while travelling through it.\n\nIt would be possible, in theory to have our spaceships travel through the Stargate without any damage using a Faster Than Light hyperdrive.\n\nSafety is primordial and to do so, we shall retrofit our spaceships to allow them to travel through the Stargate."
+  stargate_world.5.a: "To the stars!"
+  
+  
+  tech_hyper_drive_1a: "$tech_hyper_drive_1$"
+  tech_hyper_drive_1a_desc: "$tech_hyper_drive_1_desc$"
+  tech_hyper_drive_1b: "$tech_hyper_drive_1$ Prototype"
+  tech_hyper_drive_1b_desc: "$tech_hyper_drive_1_desc$"
+  tech_hyper_drive_1c: "$tech_hyper_drive_1$"
+  tech_hyper_drive_1c_desc: "$tech_hyper_drive_1_desc$"
+  
+  HYPER_DRIVE_1b: "$HYPER_DRIVE_1$ Prototype"
+  HYPER_DRIVE_1c: "$HYPER_DRIVE_1$"
+
+  
+  stargate_DESC: "This planet has a Stargate on its surface. The gate is made of stones and alloys with Glyphs decorating all of its circumference."
+  
+  origin_stargate: "Stargate"
+  origin_stargate_desc: "The unearthing of the Stargate changed everything! Having actual proof of alien technology on our very own planet proves that life has been around long before us."
+  origin_tooltip_stargate_effects: "Starts with a §YStargate§! and an §YArcheological site§! on the homeworld.\n§RDoes not have any FTL technology researched.§!"
+  
+  STARGATE_COUNTRY_CANNOT_USE:0 "$TRIGGER_FAIL$ The §Y[From.GetName]§! has denied us access to their Stargates"
+  STARGATE_GALACTIC: "Stargate"	
+  STARGATE_GALACTIC_DESC: "A planet in this system contains a Stargate."
+
+  START_SCREEN_STARGATE:0 "We used to wonder about the existance of alien life, pondering the possibilities of ever encountering any evidence of such. As we looked and searched the stars for answers our hopes ran thin.\n\nSuddenly, the unexpected. A group of archeologists unearthed what we call The Stargate! This structure of alien craftmanship predates our own, irrefutable evidence of alien life. The Stargate changed everything, now the possibilities are endless and our spirits grow in unison.\n\nWho built such a structure? With what purpose? Where are they? Do they even exist?.. These are some of the questions our civilization is facing, ones that need answers!"  
+  
+  stargate: "Stargate"
+  stargate_MEGASTRUCTURE_DETAILS: ""
+  
+  stargate_home_NAME: "Random Stargate"
+  stargate_home_DESC: "A random home system with a Stargate and an archeological site on your home planet."
+  stargate_sol_system_initializer_NAME: "$sol_system_initializer_NAME$"
+  stargate_sol_system_initializer_DESC: "$sol_system_initializer_DESC$"
+  new_worlds_rush: "New Worlds Rush"

@@ -1,0 +1,775 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###      Technologies : general      ###
+########################################
+
+nhsc_tech_central_research_bureau: "Central Research Bureau"
+nhsc_tech_central_research_bureau_desc: "A place where the brightest minds of the Empire can work together to advance science."
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_TITLE: "§HUnlocks development of§!: Advanced technologies."
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_DESC: "New weapons can't work by themselves, they also need reactors to power them up, engines to move them around and much much more..."
+
+nhsc_tech_culture_nexus: "Advanced Socio-biological Studies"
+nhsc_tech_culture_nexus_desc: "Greater understanding of how living flesh and able mind work will greatly benefit our empire."
+nhsc_tech_culture_nexus_desc_hive: "Understanding of ourself and those of flesh not blessed with single mind presents great benefits to ourself."
+nhsc_tech_culture_nexus_desc_machine: "Observation of interactions between organics allow this intelligence to further optimize the performance of drone platforms and better understanding of flesh beings."
+
+nhsc_tech_technology_institute: "Technology Institutes"
+nhsc_tech_technology_institute_desc: "To be on the cutting edge of technological advancement, we need specialized institues to perform all kinds of research."
+
+nhsc_tech_advanced_materials_lab: "Advanced Materials Laboratories"
+nhsc_tech_advanced_materials_lab_desc: "Specialized laboratories that develop new and advanced materials for military and everyday use."
+
+nhsc_tech_new_age_warfare: "New Age Warfare"
+nhsc_tech_new_age_warfare_desc: "Military power is the only universal language in the galaxy. New and improved weapons will help us cement our position on the galactic stage."
+NHSC_TECH_UNLOCK_ADV_WEAPONS_TITLE: "§HUnlocks development of§!: Advanced weapon types."
+NHSC_TECH_UNLOCK_ADV_WEAPONS_DESC: "Development of new and improved weapons for our space fleets."
+
+nhsc_tech_advanced_heavy_weapons: "Advanced Heavy Weapon Systems"
+nhsc_tech_advanced_heavy_weapons_desc: "Development of new spinal-mounted weapons will make our fleets deadlier than ever before."
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_TITLE: "§HUnlocks development of§!: Advanced spinal-mounted weapons."
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_DESC: "Development of new and more powerful spinal-mounted weapons for our warships."
+
+nhsc_tech_gravity_manipulation: "Gravity Manipulation Techniques"
+nhsc_tech_gravity_manipulation_desc: "Learning how to manipulate local gravity opens up new horizons before us."
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_TITLE: "§HUnlocks development of§!: Gravity manipulation technologies."
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_DESC: "Harnessing the power of gravity to improve various aspects of our life"
+
+nhsc_tech_gravity_weapons: "Weaponized Gravity"
+nhsc_tech_gravity_weapons_desc: "Gravity manipulation can be utilized as means to inflict pain upon our enemies as well."
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_TITLE: "§HUnlocks developoment of§!: Gravity-based weaponry."
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_DESC: "Gravity-based weapons to tear the enemies of our Empire into space dust."
+
+nhsc_tech_advanced_materials: "Advanced Materials"
+nhsc_tech_advanced_materials_desc: "Studies to develop better materials for our use."
+NHSC_TECH_UNLOCK_ADV_MATERIALS_TITLE: "§HUnlocks development of§!: Advanced armor types and nanotechnology."
+NHSC_TECH_UNLOCK_ADV_MATERIALS_DESC: "New materials open new horizons before us, making possible things we didn't dare to dream about before."
+
+nhsc_tech_synthetic_lifeform_studies: "Synthetic Lifeform Studies"
+nhsc_tech_synthetic_lifeform_studies_desc: "Creation and study of nanomachines."
+NHSC_TECH_UNLOCK_NANITIES_TITLE: "§HUnlocks development of§!: Nanomaterial-based armors and weapons."
+NHSC_TECH_UNLOCK_NANITIES_DESC: "Purpose-built nanities can perform many tasks with incredible speed and precision."
+
+nhsc_tech_psionic_weapons: "Psionic Weapons"
+nhsc_tech_psionic_weapons_desc: "Power of thoughts can be utilized on warship scale as well."
+NHSC_TECH_UNLOCK_PSI_WEAPONS_TITLE: "§HUnlocks development of§!: Psionic weapons."
+NHSC_TECH_UNLOCK_PSI_WEAPONS_DESC: "Psionic weapons utilize the power of crew's thoughts to devastate the enemies of our Empire."
+
+nhsc_tech_spacetime_manipulation: "Time-Space Continuum Manipulation"
+nhsc_tech_spacetime_manipulation_desc: "By harnessing the power to control the very reality around us we will achieve new scientific heights."
+NHSC_TECH_UNLOCK_REALITY_ALTER_TITLE: "§HUnlocks development of§!: Reality-bending technologies."
+NHSC_TECH_UNLOCK_REALITY_ALTER_DESC: "Power to alter reality at will lets us do things we couldn't dream of before."
+
+nhsc_tech_quantum_node: "Quantum Computation Node"
+nhsc_tech_quantum_node_desc: "A scientific computer modelled after the main processors of the Infinity Machine."
+
+nhsc_tech_stellar_energy_tower: "Stellar Energy Tower"
+nhsc_tech_stellar_energy_tower_desc: "Massive tower that transforms light elements into pure energy, like a miniature sun."
+
+nhsc_tech_watcher: "Watcher of Eternity"
+nhsc_tech_watcher_desc: "A massive complex that bends the reality itself, allowing us to gaze upon past, present and future."
+
+nhsc_tech_phase_shifted_ammunition: "Phase-Shifted Ammunition"
+nhsc_tech_phase_shifted_ammunition_desc: "Applying our understanding of space-time continuum to our weapons will allow us to punch through even the most powerful defenses."
+
+nhsc_tech_time_dilation_chambers: "Time-Dilation Chambers"
+nhsc_tech_time_dilation_chambers_desc: "While giving everyone extra time will be impossible at our current technology level, allowing those who need it the most to live extra time will greatly improve our empire."
+
+nhsc_tech_superconductors: "Superconducting Materials"
+nhsc_tech_superconductors_desc: "Widescale usage of superconductors will significantly reduce losses during energy transfers."
+
+nhsc_tech_neutronium_tools: "Neutronium-Coated Tools"
+nhsc_tech_neutronium_tools_desc: "By adding a thin coating of Neutronium alloys, we can make our tools significantly more resistant to wear, allowing for more aggressive mining."
+
+nhsc_tech_orbital_powerplant: "Starfortress Reactors"
+nhsc_tech_orbital_powerplant_desc: "A modification of standard zero-point reactors to support infrastructure of massive space installations."
+
+nhsc_tech_reprocessing_plant: "Reprocessing Plant"
+nhsc_tech_reprocessing_plant_desc: "Studying the technology behind the Scrapper Bot allowed us to come with a new and more efficient ways to recycle and reprocess resources."
+
+nhsc_tech_chrono_spatial_weapons: "Weaponized Reality Warping"
+nhsc_tech_chrono_spatial_weapons_desc: "Our newly-found ability to twist reality to suit our needs promises us the most powerful weapons this universe has seen."
+
+nhsc_tech_zro_distilleries: "Zro Distilleries"
+nhsc_tech_zro_distilleries_desc: "As our understanding of psionics grows, we find ourselves in need of boosters to unlock our full potential. The best such stimulant is Zro, and while natural Zro is extremely rare, we can synthesize more."
+
+nhsc_tech_dark_matter_facilities: "Industrial Dark Matter Collection"
+nhsc_tech_dark_matter_facilities_desc: "With our needs in Dark Matter growing every day, our mining stations over black holes aren't keeping up anymore. We need to look for alternative sources."
+
+nhsc_tech_mantle_mining_1: "Planetary Core Mining"
+nhsc_tech_mantle_mining_1_desc: "As our needs for raw resources grow, we turn our attention to the very hearts of our planets. Their cores and mantles. With application of proper technologies, those riches can finally be ours!"
+
+nhsc_tech_mantle_mining_2: "Improved Planetary Core Mining"
+nhsc_tech_mantle_mining_2_desc: "A refined procedure for excavating valuable resources straight from planetary cores and mantles."
+
+########################################
+###     Technologies : reactors      ###
+########################################
+
+nhsc_tech_enigmatic_tower: "Enigmatic Energy Collector"
+nhsc_tech_enigmatic_tower_desc: "A towering planetside facility that gathers energy produced by Enigmatic Power Cores"
+NHSC_TECH_ENIGMATIC_TOWER_TITLE: "Enigmatic Energy Collector"
+NHSC_TECH_ENIGMATIC_TOWER_TITLE: "A towering planetside facility that gathers energy produced by Enigmatic Power Cores"
+
+nhsc_tech_advanced_reactor_1: "Improved Zero Point Reactor"
+nhsc_tech_advanced_reactor_1_desc: "Miniaturization allows us to make these new zero point more efficient than their predecessors."
+NHSC_TECH_UNLOCK_REACTOR_6_TITLE: "§HUnlocks components§!: Improved Zero Point Reactor"
+NHSC_TECH_UNLOCK_REACTOR_6_DESC: "A Zero Point Reactor with imporved energy extraction density."
+
+nhsc_tech_advanced_reactor_2: "Singularity Reactor"
+nhsc_tech_advanced_reactor_2_desc: "The next generation of zero-point reactors that produces more energy than anything that came before them."
+NHSC_TECH_UNLOCK_REACTOR_7_TITLE: "§HUnlocks components§!: Singularity Reactor"
+NHSC_TECH_UNLOCK_REACTOR_7_DESC: "The next generation of Zero Point Reactors that provide even greater amounts of energy."
+
+nhsc_tech_advanced_reactor_3: "Improved Singularity Reactor"
+nhsc_tech_advanced_reactor_3_desc: "The most efficient ship-mounted reactor to date."
+NHSC_TECH_UNLOCK_REACTOR_8_TITLE: "§HUnlocks components§!: Improved Singularity Reactor"
+NHSC_TECH_UNLOCK_REACTOR_8_DESC: "An upgraded version of the Singularity Reactor."
+
+nhsc_tech_dark_matter_power_core_2: "Improved Dark Matter Reactor"
+nhsc_tech_dark_matter_power_core_2_desc: "New and improved protocols for channeling high-energy particles allows us to increase energy yields from the Dark Matter reactors."
+NHSC_TECH_UNLOCK_DM_REACTOR_2_TITLE: "§HUnlocks components§!: Improved Dark Matter Reactor"
+NHSC_TECH_UNLOCK_DM_REACTOR_2_DESC: "An upgraded version of Dark Matter Reactor."
+
+nhsc_tech_dark_matter_power_core_3: "Perfected Dark Matter Reactor"
+nhsc_tech_dark_matter_power_core_3_desc: "Deep understanding of the nature of the Dark Matter allows us to construct a perfect reactor utilizing its vast potential."
+NHSC_TECH_UNLOCK_DM_REACTOR_3_TITLE: "§HUnlocks components§!: Perfected Dark Matter Reactor"
+NHSC_TECH_UNLOCK_DM_REACTOR_3_DESC: "A perfected version of Reactor based on the Dark Matter."
+
+nhsc_tech_reactor_booster_4: "Auxiliary Zero Point Reactor"
+nhsc_tech_reactor_booster_4_desc: "Auxiliary reactors are the solution when primary reactor is just not enough to power all of the ship's systems."
+
+nhsc_tech_reactor_booster_5: "Auxiliary Singularity Reactor"
+nhsc_tech_reactor_booster_5_desc: "An improved version of $nhsc_tech_reactor_booster_4$ that generates even more power."
+
+########################################
+###      Technologies : sensors      ###
+########################################
+
+nhsc_tech_advanced_sensors_1: "Improved Tachyon Sensors"
+nhsc_tech_advanced_sensors_1_desc: "An improved version of tachyon sensors that can see deeper and further than those of the previous generation."
+TECH_UNLOCK_ADV_TACHYON_SENSOR_TITLE: "§HUnlocks components§!: Improved Tachyon Sensors"
+TECH_UNLOCK_ADV_TACHYON_SENSOR_DESC: "An improved version of tachyon sensors that can see deeper and further than those of the previous generation."
+
+nhsc_tech_advanced_sensors_2: "String Theory"
+nhsc_tech_advanced_sensors_2_desc: "A realtively new theory that explains things about our world that were but unexplainable phenomena before."
+TECH_UNLOCK_STRING_SENSOR_TITLE: "§HUnlocks components§!: Dimensional String Sensors"
+TECH_UNLOCK_STRING_SENSOR_DESC: "A realtively new theory that explains things about our world that were but unexplainable phenomena before."
+
+nhsc_tech_advanced_sensors_3: "String Fluctuation Analysis"
+nhsc_tech_advanced_sensors_3_desc: "Mastering the knowledge opened before us by the String Theory, we can finally understand the world around us."
+TECH_UNLOCK_ADV_STRING_SENSOR_TITLE: "§HUnlocks components§!: Improved String Sensors"
+TECH_UNLOCK_ADV_STRING_SENSOR_DESC: "Mastering the knowledge opened before us by the String Theory, we can finally understand the world around us."
+
+nhsc_tech_psionic_sensors: "Psionic Sensors"
+nhsc_tech_psionic_sensors_desc: "Application of psionic powers over dimensional strings allows an unprecenent depth of perception of the world around us."
+TECH_UNLOCK_PSI_SENSOR_TITLE: "§HUnlocks components§!: Psionic Sensors"
+TECH_UNLOCK_PSI_SENSOR_DESC: "Application of psionic powers over dimensional strings allows an unprecenent depth of perception of the world around us."
+
+########################################
+###      Technologies : armors       ###
+########################################
+
+nhsc_tech_armor_6: "Improved Neutronium Armor"
+nhsc_tech_armor_6_desc: "A more dense version of Neutronium armor that will shrug off almost anything."
+NHSC_TECH_TIER_6_ARMOR_TITLE: "Improved Neutronium Armor"
+NHSC_TECH_TIER_6_ARMOR_DESC: "A more dense version of Neutronium armor that will shrug off almost anything."
+
+nhsc_tech_armor_7: "Adamantium Armor"
+nhsc_tech_armor_7_desc: "Named after a fantasy material, this almost indestructible armor offers unparalleled protection to our ships."
+NHSC_TECH_TIER_7_ARMOR_TITLE: "Adamantium Armor"
+NHSC_TECH_TIER_7_ARMOR_DESC: "Named after a fantasy material, this almost indestructible armor offers unparalleled protection to our ships."
+
+nhsc_tech_armor_nanite_1: "Nanity-infused Armor"
+nhsc_tech_armor_nanite_1_desc: "By adding nanities programmed to run repair jobs into the ship's hull we're able to create an armor that not only protects from damage, but also repairs any damage it couldn't prevent."
+NHSC_TECH_NANO_ARMOR_1_TITLE: "Nanity-infused Armor"
+NHSC_TECH_NANO_ARMOR_1_DESC: "By adding nanities programmed to run repair jobs into the ship's hull we're able to create an armor that not only protects from damage, but also repairs any damage it couldn't prevent."
+
+nhsc_tech_armor_nanite_2: "Improved Nanity-infused Armor"
+nhsc_tech_armor_nanite_2_desc: "An improved version of the nanity-infused armor. It's tougher and can self-repair faster."
+NHSC_TECH_NANO_ARMOR_2_TITLE: "Improved Nanity-infused Armor"
+NHSC_TECH_NANO_ARMOR_2_DESC: "An improved version of the nanity-infused armor. It's tougher and can self-repair faster."
+
+nhsc_tech_armor_shield_1: "Shield-Generating Armor"
+nhsc_tech_armor_shield_1_desc: "By adding nanities programmed to manipulate ambient energies, we're able to create armor that generates small amount of additional shields to protect the ship with."
+NHSC_TECH_SHIELD_ARMOR_1_TITLE: "Shield-Generating Armor"
+NHSC_TECH_SHIELD_ARMOR_1_DESC: "By adding nanities programmed to manipulate ambient energies, we're able to create armor that generates small amount of additional shields to protect the ship with."
+
+nhsc_tech_armor_shield_2: "Improved Shield-Generating Armor"
+nhsc_tech_armor_shield_2_desc: "An improved version of the shield-generating armor. It's tougher and generates more shields."
+NHSC_TECH_SHIELD_ARMOR_2_TITLE: "Improved Shield-Generating Armor"
+NHSC_TECH_SHIELD_ARMOR_2_DESC: "An improved version of the shield-generating armor. It's tougher and generates more shields."
+
+nhsc_tech_armor_shield_3: "Shielding Bulwark"
+nhsc_tech_armor_shield_3_desc: "Further improvements to nanities allow creation of armor that is even tougher and can generate even more shields."
+NHSC_TECH_SHIELD_ARMOR_3_TITLE: "Shielding Bulwark"
+NHSC_TECH_SHIELD_ARMOR_3_DESC: "Further improvements to nanities allow creation of armor that is even tougher and can generate even more shields."
+
+nhsc_tech_armor_dragonscales_nanite: "Nanomachine-Infused Dragonscale Armor"
+nhsc_tech_armor_dragonscales_nanite_desc: "Introduction of nanomachines into dragonscale armor can further improve its incredible toughness."
+NHSC_TECH_NANO_DRAGON_ARMOR_TITLE: "Nanomachine-Infused Dragonscale Armor"
+NHSC_TECH_NANO_DRAGON_ARMOR_DESC: "Introduction of nanomachines into dragonscale armor can further improve its incredible toughness."
+
+nhsc_tech_armor_wraith: "Hardlight Armor"
+nhsc_tech_armor_wraith_desc: "New ways of particle manipulation allow us not only to create pseudo-matter out of light itself, but also make it as tough as strongest ordinary matter."
+
+nhsc_tech_armor_horror: "Dimensional Horror Armor"
+nhsc_tech_armor_horror_desc: "The study of portal residue allows us to determine to composition of the Dimensional Horror's hide. This incredibly-tough material will offer a new level of protection to our ships."
+
+nhsc_tech_crystal_armor_3: "Reinforced Crystalline Plating"
+nhsc_tech_crystal_armor_3_desc: "Crystalline materials have incredible durability and we can utilize them to create the ultimate hull plating."
+
+########################################
+###    Technologies : propulsion     ###
+########################################
+
+nhsc_tech_advanced_thrusters_1: "Antimatter Thrusters"
+nhsc_tech_advanced_thrusters_1_desc: "Harnessing the energy produced via matter-antimatter annihilation, we can create engines more powerful than ever before."
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_TITLE: "§HUnlocks components§!: Antimatter Thrusters"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_DESC: "Harnessing the energy produced via matter-antimatter annihilation, we can create engines more powerful than ever before."
+
+nhsc_tech_advanced_thrusters_2: "Gravity Manipulation Engines"
+nhsc_tech_advanced_thrusters_2_desc: "Application of warp technology principles to sublight travel allows to propel ships with incredible speed."
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_TITLE: "§HUnlocks components§!: Gravity Manipulation Engines"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_DESC: "Application of warp technology principles to sublight travel allows to propel ships with incredible speed."
+
+nhsc_tech_afterburners_3: "Pulsed Plasma Afterburners"
+nhsc_tech_afterburners_3_desc: "Advanced afterburners that allow ships to quickly accelerate whenever necessary at minimal fuel cost."
+
+nhsc_tech_jump_drive_2: "Improved Jump Drive"
+nhsc_tech_jump_drive_2_desc: "As jump drive technology matures, we find ourselves capable of improving existing jump drive designs, extending their range and giving our ships better protection against the effects of tearing though the very space-time continuum."
+
+nhsc_tech_jump_drive_3: "Supercharged Jump Drive"
+nhsc_tech_jump_drive_3_desc: "Routing additional power through the core of a jump drive will allow futher improvement to the drive's performance. All we need to do if make a jump drive core that can survive energies needed to make such overclocking worth it."
+
+nhsc_tech_jump_drive_precursor: "Precursor Jump Drive"
+nhsc_tech_jump_drive_precursor_desc: "A jump drive perfection, achieved by precursor civilizations over eons."
+
+nhsc_tech_psi_jump_drive_2: "Improved Psionic Jump Drive"
+nhsc_tech_psi_jump_drive_2_desc: "A mature and polished verions of the psionic jump drive, featuring improved range and faster recharge."
+
+nhsc_tech_psi_jump_drive_3: "Shroud Guide"
+nhsc_tech_psi_jump_drive_3_desc: "By learning from those that traverse the Shroud we can perfect the psionic jump drive."
+
+########################################
+###     Technologies : shields       ###
+########################################
+
+nhsc_tech_advanced_shields_1: "Improved Hyper Shield"
+nhsc_tech_advanced_shields_1_desc: "Even stronger shields to protect our ships and stations with."
+NHSC_TECH_ADV_SHIELDS_1_TITLE: "§HUnlocks component§!: Improved Hyper Shield"
+NHSC_TECH_ADV_SHIELDS_1_DESC: "Even stronger shields to protect our ships and stations with."
+
+nhsc_tech_advanced_shields_2: "Citadel Shield"
+nhsc_tech_advanced_shields_2_desc: "A shield stronger than any we've developed ever before."
+NHSC_TECH_ADV_SHIELDS_2_TITLE: "§HUnlocks component§!: Citadel Shield"
+NHSC_TECH_ADV_SHIELDS_2_DESC: "A shield stronger than any we've developed ever before."
+
+nhsc_tech_waveforcearmor: "Wave-Force Armor"
+nhsc_tech_waveforcearmor_desc: "A shield that gains its phenomenal strength by redirecting energy of incoming attacks into an alternative dimension."
+NHSC_TECH_WFARMOR_TITLE: "Wave-Force Armor"
+NHSC_TECH_WFARMOR_DESC: "A shield that gains its phenomenal strength by redirecting energy of incoming attacks into an alternative dimension."
+
+nhsc_tech_dark_matter_shields_2: "Improved Dark Matter Shield"
+nhsc_tech_dark_matter_shields_2_desc: "A new and more powerful version of Dark Matter Shields."
+NHSC_TECH_ENIGMA_SHIELDS_2_TITLE: "Improved Dark Matter Shield"
+NHSC_TECH_ENIGMA_SHIELDS_2_DESC: "A new and more powerful version of Dark Matter Shields."
+
+nhsc_tech_dark_matter_shields_3: "Perfected Dark Matter Shield"
+nhsc_tech_dark_matter_shields_3_desc: "Deep understanding of the nature of the Dark Matter allows us to design extremely-powerful shields based around it."
+
+nhsc_tech_psionic_shield_2: "Improved Psionic Shield"
+nhsc_tech_psionic_shield_2_desc: "Stronger minds can project more powerful psionic barriers, and with the right technology we can push the strength of such barriers even further."
+NHSC_TECH_PSI_SHIELD_2_TITLE: "$nhsc_tech_psionic_shield_2$"
+NHSC_TECH_PSI_SHIELD_2_DESC: "$nhsc_tech_psionic_shield_2_desc$"
+
+nhsc_tech_atfield: "A.T. Field"
+nhsc_tech_atfield_desc: "Absolute Territory marks the space where our minds deny the dangers entrance to."
+NHSC_TECH_ATFIELD_TITLE: "A.T. Field"
+NHSC_TECH_ATFIELD_DESC: "Absolute Territory marks the space where our minds deny the dangers entrance to."
+
+nhsc_tech_shields_cyclonic_1: "Cyclonic Deflectors"
+nhsc_tech_shields_cyclonic_1_desc: "The Cyclonic Shield Harmonics Technology allows for overlapping shields to boost each other's regeneration, thus opening new avenues in deflector shield designs."
+NHSC_TECH_CYCLONIC_SHIELDS_TITLE: "§HUnlocks component§!: Cyclonic Deflectors"
+NHSC_TECH_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_1_desc$"
+
+nhsc_tech_shields_cyclonic_2: "Cyclonic Modulation Shields"
+nhsc_tech_shields_cyclonic_2_desc: "An improved version of Cyclonic Modulation Deflectors that are significantly tougher while retain the fast recharge rate."
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_TITLE: "§HUnlocks component§!: Cyclonic Shields"
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_2_desc$"
+
+nhsc_tech_shields_cyclonic_3: "Improved Cyclonic Modulation Shields"
+nhsc_tech_shields_cyclonic_3_desc: "A set of more powerful capacitors to further boost the strength of the cyclonic shields."
+NHSC_TECH_CYCLONIC_SHIELDS_3_TITLE: "Improved Cyclonic Modulation Shields"
+NHSC_TECH_CYCLONIC_SHIELDS_3_DESC: "$nhsc_tech_shields_cyclonic_3_desc$"
+
+########################################
+###     Technologies : weapons       ###
+########################################
+
+### rockets and torpedoes
+
+nhsc_tech_missile_6: "Joker Missiles"
+nhsc_tech_missile_6_desc: "Powerful and tricky to shoot down rockets."
+
+nhsc_tech_missile_7: "Wraith Missiles"
+nhsc_tech_missile_7_desc: "Death comes unannounced."
+
+nhsc_tech_torpedoes_4: "Desolator Torpedoes"
+nhsc_tech_torpedoes_4_desc: "A new generation of space torpedoes that are more destructive than any we've created before."
+
+nhsc_tech_torpedoes_5: "Eradicator Torpedoes"
+nhsc_tech_torpedoes_5_desc: "The most powerful conventional torpedo one can think of."
+
+nhsc_tech_corrosivewarheadtorpedo: "Corrosive Warhead Torpedoes"
+nhsc_tech_corrosivewarheadtorpedo_desc: "A terrifying weapon that tears the very time-space continuum apart."
+
+nhsc_tech_swarmermissiles_3: "Typhoon Missiles"
+nhsc_tech_swarmermissiles_3_desc: "The next generation of swarmer missiles that overwhelm point defenses and enemies alike with their power and numbers."
+
+nhsc_tech_swarmermissiles_4: "Hurricane Missiles"
+nhsc_tech_swarmermissiles_4_desc: "Macross Missile Massacre made real."
+
+nhsc_tech_xmissile1: "Exotic Matter Warhead"
+nhsc_tech_xmissile1_desc: "Specialized warhead that delivers an explosive cocktail of exotic particles to the target that has to be blown up."
+
+nhsc_tech_xmissile2: "Strange Matter Warhead"
+nhsc_tech_xmissile2_desc: "Impoved version of the Exotic Matter Warhead that has an even more devastating payload."
+
+nhsc_tech_xmissile3: "Reflex Warhead Launcher"
+nhsc_tech_xmissile3_desc: "Even more powerful supersized rockets, capable of easily devastating even the toughest of warships."
+
+nhsc_tech_xmissile3_titanic: "$nhsc_tech_xmissile3$"
+nhsc_tech_xmissile3_titanic_desc: "$nhsc_tech_xmissile3_desc$"
+
+### gravity
+
+nhsc_tech_gravitic_torpedo_1: "Spatial Distortion Warhead"
+nhsc_tech_gravitic_torpedo_1_desc: "This torpedoes deliver a device that generates powerful gravitational waves, tearing anything near it apart on atomic level."
+
+nhsc_tech_gravitic_torpedo_2: "Microsingularity Warhead"
+nhsc_tech_gravitic_torpedo_2_desc: "Detonation of this warhead creates a small and very unstable black hole that will eat any ship unfortunate enough to be close to it before dissipating into nothingness."
+
+nhsc_tech_gravitic_cannon_1: "Gravirational Anomaly Projector"
+nhsc_tech_gravitic_cannon_1_desc: "A weapon that shakes enemy ships apart by generating randomized gravitational waves in their vicinity."
+
+nhsc_tech_gravitic_cannon_2: "Spatial Distortion Cannon"
+nhsc_tech_gravitic_cannon_2_desc: "An improved version of Gravitational Anomaly Projector"
+
+nhsc_tech_gravitic_cannon_3: "Microsingularity Cannon"
+nhsc_tech_gravitic_cannon_3_desc: "An energy weapon that rips its targets apart with miniature singularities, created through exotic matter decomposition reactions."
+
+nhsc_tech_gravitic_lance_1: "Super-Graviton Cannon"
+nhsc_tech_gravitic_lance_1_desc: "A particle cannon that warps space-time continuum along its firing path, tearing anything unlucky enough to be there apart."
+
+nhsc_tech_gravitic_lance_2: "Focused Super-Graviton Cannon"
+nhsc_tech_gravitic_lance_2_desc: "An improved version of Super-Graviton Cannon."
+
+nhsc_tech_gravitic_lance_titanic: "Titanic Super-Graviton Cannon"
+nhsc_tech_gravitic_lance_titanic_desc: "A scaled up and massively more powerful version of Super-Graviton Cannon."
+
+nhsc_tech_gravitic_strikecrafts: "Singularity Bombers"
+nhsc_tech_gravitic_strikecrafts_desc: "Strikecraft armed with gravitational weapons."
+
+### nanities
+
+nhsc_tech_nanite_torpedo_1: "Nanite Warhead Torpedo"
+nhsc_tech_nanite_torpedo_1_desc: "A torpedo that delivers a mass of disassembling nanities straight to the enemy ship."
+
+nhsc_tech_nanite_torpedo_2: "Gray Goo Warhead Torpedo"
+nhsc_tech_nanite_torpedo_2_desc: "New and even more aggressive disassembled torpedoes that are delivered to enemy ships via torpedoes."
+
+nhsc_tech_nanite_cannon_1: "Nanite Cannon"
+nhsc_tech_nanite_cannon_1_desc: "A cannon that shoots canisters filled with nanities which will aggressively attempt to disassemble enemy ships."
+
+nhsc_tech_nanite_cannon_2: "Improved Nanite Cannon"
+nhsc_tech_nanite_cannon_2_desc: "Better launch mechanism to deliver canisters of disassembling nanites to the ships of our enemies."
+
+nhsc_tech_nanite_xslot_1: "Nanite Warhead Missile Launcher"
+nhsc_tech_nanite_xslot_1_desc: "Very powerful and very long ranger version of nanite torpedoes. Missiles also fly much faster."
+
+nhsc_tech_nanite_xslot_2: "Nanite Warhead Rocket Artillery"
+nhsc_tech_nanite_xslot_2_desc: "Improved version of the Nanite Warhead Missile Launcher."
+
+nhsc_tech_nanite_titanic_weapon: "Nanite Warhead Barrage System"
+nhsc_tech_nanite_titanic_weapon_desc: "A massive and incredibly powerful version of the Nanite Warhead Rocket Artillery, fit for the biggest ships in our fleet."
+
+nhsc_tech_nanite_strikecraft: "Nanite Bombers"
+nhsc_tech_nanite_strikecraft_desc: "Strikecraft armed with nanite weapons"
+
+### psionics
+
+nhsc_tech_psionic_torpedo_1: "Psionic Blast Torpedo"
+nhsc_tech_psionic_torpedo_1_desc: "An energy torpedo that strikes our enemies with the powerful psionic blast."
+TECH_UNLOCK_PSIONIC_TORPEDO_1_TITLE: "§HUnlocks component§!: Psionic Blast Torpedo"
+TECH_UNLOCK_PSIONIC_TORPEDO_1_DESC: "An energy torpedo that strikes our enemies with the powerful psionic blast."
+
+nhsc_tech_psionic_torpedo_2: "Improved Psionic Blast Torpedo"
+nhsc_tech_psionic_torpedo_2_desc: "An improved version of Psionic Blast Torpedo, capable of delivering greater concentrations of psionic energies."
+
+nhsc_tech_psionic_cannon_1: "Psionic Energy Projector"
+nhsc_tech_psionic_cannon_1_desc: "An energy weapon that damages the targets with psionic energy."
+
+nhsc_tech_psionic_cannon_2: "Psionic Wave Cannon"
+nhsc_tech_psionic_cannon_2_desc: "An upgraded Psionic Cannon that fires more focused blasts of psionic energy."
+
+nhsc_tech_psionic_cannon_3: "Psionic Beam Cannon"
+nhsc_tech_psionic_cannon_3_desc: "This psionic weapon is capable of delivering powerful and focused into tight beams blasts of psionic energy."
+
+nhsc_tech_psionic_lance_1: "Psionic Lance"
+nhsc_tech_psionic_lance_1_desc: "An energy lance made from focused and refined psionic energy."
+
+nhsc_tech_psionic_lance_2: "Shroud Piercer"
+nhsc_tech_psionic_lance_2_desc: "New, bigger and more precise version of Psionic Lance."
+
+nhsc_tech_psionic_lance_titanic: "Void Ray"
+nhsc_tech_psionic_lance_titanic_desc: "A supersized Psionic Lance, meant for the biggest of our ships."
+
+nhsc_tech_psionic_strikecraft: "Psionic Interceptors"
+nhsc_tech_psionic_strikecraft_desc: "Strikecraft, equipped with miniaturized psionic energy projectors."
+
+### energy
+
+nhsc_tech_laser_6: "Advanced Combat Laser"
+nhsc_tech_laser_6_desc: "The next generation of combat lasers with greatly improved performance."
+
+nhsc_tech_laser_7: "Aurora Laser"
+nhsc_tech_laser_7_desc: "Pretty like a star, deadly like fies of Hell."
+
+nhsc_tech_energy_launcher_3: "Antimatter Launcher"
+nhsc_tech_energy_launcher_3_desc: "A new generation of energy launchers that use matter-antimatter annihilation reaction to produce a destructive blast."
+
+nhsc_tech_energy_launcher_4: "Dark Matter Launcher"
+nhsc_tech_energy_launcher_4_desc: "An energy projectile that destroy their target with an obliterating blast generated by dark matter decomposition reaction."
+
+nhsc_tech_disruptors_4: "Tachyon Disruptors"
+nhsc_tech_disruptors_4_desc: "The next generation of disrutors that use tachyons to damage armor and shields alike."
+
+nhsc_tech_disruptors_5: "Disruptor Lance"
+nhsc_tech_disruptors_5_desc: "A disruptor beam focused into damaging lance-like beam."
+
+nhsc_tech_plasma_4: "Advanced Plasma Cannon"
+nhsc_tech_plasma_4_desc: "An improved plasma cannon that shot more stable clusters of plasma and deal more damage to its targets."
+
+nhsc_tech_plasma_5: "Dragonbreath Cannon"
+nhsc_tech_plasma_5_desc: "A cannon that shoots plasma as hot as fires of mythical dragons."
+
+nhsc_tech_plasma_missiles_1: "Controlled Plasma Projectiles"
+nhsc_tech_plasma_missiles_1_desc: "Our current understanding of plasma and rocketry allows us to create missiles made entirely out of plasma."
+TECH_UNLOCK_PLASMA_MISSILE_TITLE: "§HUnlocks component§!: Plasma Missile I"
+TECH_UNLOCK_PLASMA_MISSILE_DESC: "A plasma projectile that can be directed towards its intended target much like a rocket."
+
+nhsc_tech_plasma_missiles_2: "Improved Plasma Missile"
+nhsc_tech_plasma_missiles_2_desc: "An improved version of plasma missile that is faster, hotter and harder to destroy."
+
+nhsc_tech_plasma_missiles_3: "Incinerator Missile"
+nhsc_tech_plasma_missiles_3_desc: "An even hotter and harder-to-dissipate version of plasma missiles."
+
+nhsc_tech_chrono_vortex_cannon: "Chrono-Vortex Cannon"
+nhsc_tech_chrono_vortex_cannon_desc: "Unstable space-time fields that can rip energy barriers and matter alike apart."
+
+nhsc_tech_energy_lance_3: "Improved Tachyon Lance"
+nhsc_tech_energy_lance_3_desc: "The next generation of Tachyon Lances with improved focusing array."
+
+nhsc_tech_energy_lance_4: "Hypercharged Tachyon Lance"
+nhsc_tech_energy_lance_4_desc: "Improved superconductors that allow even greater amounts of power to be directed towards the lance core, thus allowing up to further increase the weapon's lethality."
+
+nhsc_tech_energy_lance_titanic: "Light of Destruction"
+nhsc_tech_energy_lance_titanic_desc: "The ultimate particle lance."
+
+nhsc_tech_arc_emitter_3: "Lightning Cannon"
+nhsc_tech_arc_emitter_3_desc: "An advanced version of focused arc emitter that fires powerful bolts of electricity."
+
+nhsc_tech_arc_emitter_4: "Arc Cannon"
+nhsc_tech_arc_emitter_4_desc: "Even more powerful electric cannon."
+
+nhsc_tech_arc_emitter_titanic: "Divine Thunder"
+nhsc_tech_arc_emitter_titanic_desc: "The echoes of the Celestial Storms that strike our enemies with merciless force."
+
+nhsc_tech_wavemotiongun_1: "Wave-Motion Gun"
+nhsc_tech_wavemotiongun_1_desc: "Specialized exhaust ports allow us to temprarily redirect the engine exhaust and turn into a damaging lance that can destroy anything unfortunate enough to be in its path."
+
+nhsc_tech_wavemotiongun_2: "Dimensional Wave Cannon"
+nhsc_tech_wavemotiongun_2_desc:  "An upgraded version of the $nhsc_tech_wavemotiongun_1$ with improved beam focus for greater accuracy and damage."
+
+nhsc_tech_wavemotiongun_3: "Titanic Dimensional Wave Cannon"
+nhsc_tech_wavemotiongun_3_desc:  "A supersized version of the regular Dimensional Wave Cannon."
+
+nhsc_tech_arcenciel: "Arc-en-Ciel Cannon"
+nhsc_tech_arcenciel_desc: "A terrifying weapon that seals its target in a pocket dimension and then forces it to undergo Big Crunch, effectively destroying any trace of the target ever existing."
+
+nhsc_tech_arcenciel_titanic: "Arc-en-Ciel Cannon"
+nhsc_tech_arcenciel_titanic_desc: "A terrifying weapon that seals its target in a pocket dimension and then forces it to undergo Big Crunch, effectively destroying any trace of the target ever existing."
+
+nhsc_tech_cloud_lightning_2: "Amplified Cloud Lightning"
+nhsc_tech_cloud_lightning_2_desc: "Our sceintists have devised ways to empower the already-powerful lightnings produced by space clouds into a weapon fit for modern space-battleship warfare."
+
+nhsc_tech_cloud_lightning_3: "Thunderstorm Generator"
+nhsc_tech_cloud_lightning_3_desc: "Devastating discharges of lightning to tear this ships of our enemies apart."
+
+nhsc_tech_mining_laser_2: "Plasma Cutter"
+nhsc_tech_mining_laser_2_desc: "An advanced weapon to cut enemy hulls apart, derived from the lasers used by the mining drones."
+
+nhsc_tech_mining_laser_3: "Advanced Plasma Cutter"
+nhsc_tech_mining_laser_3_desc: "An improved version of the $nhsc_tech_mining_laser_2$, featuring increased power, accuracy and range."
+
+### kinetic
+
+nhsc_tech_mass_driver_6: "Advanced Gauss Cannon"
+nhsc_tech_mass_driver_6_desc: "An improved version of the Gauss Cannon that is more accurate and more powerful."
+
+nhsc_tech_mass_driver_7: "Strike Cannon"
+nhsc_tech_mass_driver_7_desc: "A compact but deadly magnetic-accelerator cannon."
+
+nhsc_tech_autocannon_4: "Improved Stormfire Autocannon"
+nhsc_tech_autocannon_4_desc: "An upgraded version of the proven stormfire autocannon with struddier mechanics and faster reload."
+
+nhsc_tech_autocannon_5: "Shredder Autocannon"
+nhsc_tech_autocannon_5_desc: "An autocannon that shreds enemies to pieces with a storm of bullets."
+
+nhsc_tech_kinetic_artillery_3: "Improved Kinetic Artillery"
+nhsc_tech_kinetic_artillery_3_desc: "An upgraded version of Kinetic Artillery cannon that is more accurate and powerful."
+
+nhsc_tech_kinetic_artillery_4: "Skypiercer Artillery"
+nhsc_tech_kinetic_artillery_4_desc: "An artillery cannon that pierces enemies and skies alike with its powerful shells."
+
+nhsc_tech_mass_accelerator_3: "Improved Giga-Cannon"
+nhsc_tech_mass_accelerator_3_desc: "The new generation of giga-cannons that even more powerful and accurate."
+
+nhsc_tech_mass_accelerator_4: "The Grand Cannon"
+nhsc_tech_mass_accelerator_4_desc: "The best long-range kinetic weapon possible!"
+
+nhsc_tech_mhdcannon: "Magnetohydrodynamic Cannon"
+nhsc_tech_mhdcannon_desc: "A powerful weapon that is a combination of water jet cutter and railgun, that can tear enemy ships apart with stream of molten metal."
+
+nhsc_tech_autocannon_x_1: "Hailstorm Autocannon"
+nhsc_tech_autocannon_x_1_desc: "As superscale autocannons proved themselves to be a viable weapon, an idea to scale them up even further was born. The Hailstorm autocannon is the biggest and baddest autocannon to date!"
+
+nhsc_tech_autocannon_x_2: "Firestorm Autocannon"
+nhsc_tech_autocannon_x_2_desc: "A refinement of the Hailstorm Autocannon, capable of delivering even more dakka to our enemies' faces!"
+
+nhsc_tech_autocannon_t: "Tempest Autocannon"
+nhsc_tech_autocannon_t_desc: "A truly titanic autocannon with an unprecedent power."
+
+### crystalline
+
+nhsc_tech_crystal_cannon_1: "Crystal Shard Thrower"
+nhsc_tech_crystal_cannon_1_desc: "A weapon that fires organic crystals not unlike those the Crystalline Entities are made of."
+
+nhsc_tech_crystal_cannon_2: "Improved Crystal Shard Thrower"
+nhsc_tech_crystal_cannon_2_desc: "An improved version of the Crystal Shard Thrower that uses modified, tougher crystals and much more powerful launching system."
+
+nhsc_tech_crystal_cannon_3: "Crystal Spike Thrower"
+nhsc_tech_crystal_cannon_3_desc: "New strain of crystals is tougher than ever before, allowing us to fire them at our enemies as devastating projectiles."
+
+nhsc_tech_crystal_cannon_4: "Improved Crystal Spike Thrower"
+nhsc_tech_crystal_cannon_4_desc: "An improved version of the Crystal Spike Thrower."
+
+nhsc_tech_crystal_cannon_5: "Crystal Spear Cannon"
+nhsc_tech_crystal_cannon_5_desc: "Better launch mechanism that greatly increases power and prevision of crystalline weapons."
+
+nhsc_tech_crystal_lance_1: "Crystal Javelin Cannon"
+nhsc_tech_crystal_lance_1_desc: "A very powerful accelerator shooting oversized spears of semi-organic crystalls that can pierce even battleships' armor."
+
+nhsc_tech_crystal_lance_2: "Crystal Lance Cannon"
+nhsc_tech_crystal_lance_2_desc: "An improved version of the Crystal Javelin Cannon."
+
+nhsc_tech_crystalline_impaler: "Crystalline Impaler"
+nhsc_tech_crystalline_impaler_desc: "A supersized version of the Crystal Javelin Cannon for our biggest ships."
+
+### point defense
+
+nhsc_tech_pd_tracking_4: "Protector Point-Defense"
+nhsc_tech_pd_tracking_4_desc: "Newest improvements in targeting algorithms allow us to build even better point-defense systems."
+
+nhsc_tech_pd_tracking_5: "Iron Curtain Point-Defense"
+nhsc_tech_pd_tracking_5_desc: "The ultimate point-defense system."
+
+nhsc_tech_flak_battery_4: "Improved Flak Artillery"
+nhsc_tech_flak_battery_4_desc: "The next generation of flak batteries that are more accurate and powerful than ever before."
+
+nhsc_tech_flak_battery_5: "Ironcloud Defender"
+nhsc_tech_flak_battery_5_desc: "The ultimate flak cannons; nothing can get past them."
+
+nhsc_tech_lightstorm_pd: "Lightstorm Point Defense"
+nhsc_tech_lightstorm_pd_desc: "An extremely-efficient laser-based point-defense system."
+
+### leviathans
+
+nhsc_tech_enigmatic_energy_harvesting: "Enigmatic Energy Harvesting"
+nhsc_tech_enigmatic_energy_harvesting_desc: "Now that the Enigmatic Fortress has revealed its secrets to us, we can begin recreating the mysteries hidden deep within it."
+
+nhsc_tech_enigmatic_discharger: "Enigmatic Energy Discharger"
+nhsc_tech_enigmatic_discharger_desc: "A powerful weapon that uses the enigmatic technology."
+
+nhsc_tech_enigmatic_autocannon: "Enigmatic Energy Autocannon"
+nhsc_tech_enigmatic_autocannon_desc: "An enigmatic-technology rapid-fire energy cannon."
+
+nhsc_tech_enigmatic_lance: "Enigmatic Energy Lance"
+nhsc_tech_enigmatic_lance_desc: "An energy lance built around the Enigmatic Energy technology."
+
+nhsc_tech_enigmatic_lance_titanic: "Supersized Engimatic Energy Lance"
+nhsc_tech_enigmatic_lance_titanic_desc: "A scaled-up version of the $nhsc_tech_enigmatic_lance$, designed for the largest ships in our fleet."
+
+nhsc_tech_enigmatic_lash: "Enigmatic Energy Lash"
+nhsc_tech_enigmatic_lash_desc: "An enigmatic-technology weapon that fries targets with energy discharges."
+
+nhsc_tech_extradimensional_pd: "Extradimensional Spike"
+nhsc_tech_extradimensional_pd_desc: "A study into portals that can be used to deliver our attacks right into the enemy ships."
+
+nhsc_tech_tiyanki_cannon: "Tiyanki Beam Cannon"
+nhsc_tech_tiyanki_cannon_desc: "An energy lance designed after the biological weapon used by the Tiyanki Matriarch."
+
+nhsc_tech_tiyanki_cannon_titanic: "Supersized Tiyanki Beam Cannon"
+nhsc_tech_tiyanki_cannon_titanic_desc: "A scaled up version of the $nhsc_tech_tiyanki_cannon$, capable of delivering most devastating attack."
+
+nhsc_tech_junk_mine_launcher: "Junk Mines Launcher"
+nhsc_tech_junk_mine_launcher_desc: "A missile weapon akin to the one used by the Scrapper Bot. It utilizes cheap and simple self-propelled mines as projectiles."
+
+nhsc_tech_voidspawn_missile: "Voidspawn Missile"
+nhsc_tech_voidspawn_missile_desc: "A recreation of the organic missiles used by the Voidspawn Hatchling."
+
+### strikecrafts
+
+nhsc_tech_tactical_strikecrafts: "Tactical Strikecrafts"
+nhsc_tech_tactical_strikecrafts_desc: "The next generation of space fighters: tougher and more powerful than any we've created before."
+
+nhsc_tech_siegebreaker_strikecrafts: "Siegebreaker Strikecrafts"
+nhsc_tech_siegebreaker_strikecrafts_desc: "The ultimate space fighters."
+
+### extradimensional
+
+nhsc_tech_extradimensional_weapon_2: "Matter Annihilator"
+nhsc_tech_extradimensional_weapon_2_desc: "An improved, more powerful version of extradimensional trophy weapon, Matter Disintegrator."
+
+nhsc_tech_extradimensional_weapon_2_x: "Grand Matter Annihilator"
+nhsc_tech_extradimensional_weapon_2_x_desc: "Scaled up version of $nhsc_tech_extradimensional_weapon_2$ that able to annihilate even more matter (that is our enemies' ships)."
+
+nhsc_tech_extradimensional_weapon_2_t: "Titanic Matter Annihilator"
+nhsc_tech_extradimensional_weapon_2_t_desc: "The ultimate version $nhsc_tech_extradimensional_weapon_2$, for the biggest ships in our fleets."
+
+nhsc_tech_extradimensional_weapon_3: "Reality Eraser"
+nhsc_tech_extradimensional_weapon_3_desc: "Addition of Null Void energies into Matter Annihilator beam produces a weapon capable of altering reality as it erases matter and even space that matter occupies."
+
+nhsc_tech_extradimensional_weapon_3_x: "Grand Reality Eraser"
+nhsc_tech_extradimensional_weapon_3_x_desc: "Scaled up version of $nhsc_tech_extradimensional_weapon_3$ that can erase more an faster than any other weapon in our arsenal."
+
+nhsc_tech_extradimensional_weapon_3_t: "Titanic Reality Eraser"
+nhsc_tech_extradimensional_weapon_3_t_desc: "The ultimate version $nhsc_tech_extradimensional_weapon_3$, for the biggest ships in our fleets."
+
+### Juggernaut-specific M-slots
+
+nhsc_tech_juggernaut_artillery_1: "Juggernaut Artillery"
+nhsc_tech_juggernaut_artillery_1_desc: "Juggernaut is the most powerful vessel we can build, and it certainly deserves to have the most powerful artillery cannons we can create. But why limit ourselves to we already have? A new and ever more powerful cannon should be developed for the Juggernaut."
+
+nhsc_tech_juggernaut_artillery_2: "Improved Juggernaut Artillery"
+nhsc_tech_juggernaut_artillery_2_desc: "Further improvements to the Juggernaut Artillery cannon, making it even more powerful and deadly."
+
+nhsc_tech_juggernaut_beam_cannon_1: "Juggernaut Beam Cannon"
+nhsc_tech_juggernaut_beam_cannon_1_desc: "Juggernaut is the most powerful vessel we can build, and it certainly deserves to have the most powerful beam cannons we can create. But why limit ourselves to we already have? A new and ever more powerful cannon should be developed for the Juggernaut."
+
+nhsc_tech_juggernaut_beam_cannon_2: "Improved Juggernaut Beam Cannon"
+nhsc_tech_juggernaut_beam_cannon_2_desc: "Further improvements to the Juggernaut Beam Cannon, making it even more powerful and deadly."
+
+nhsc_tech_juggernaut_pd_1: "Juggernaut Point-Defense System"
+nhsc_tech_juggernaut_pd_1_desc: "Juggernaut is the most powerful vessel we can build, and it certainly deserves to have the best point defense system we can create. But why limit ourselves to we already have? A new and even better system should be developed for the Juggernaut."
+
+nhsc_tech_juggernaut_pd_2: "Improved Juggernaut Point-Defense System"
+nhsc_tech_juggernaut_pd_2_desc: "A refined version of the Juggernaut Point Defense System that features improved projectile-targeting logic and even more powerful cannons."
+
+########################################
+###      Technologies : other        ###
+########################################
+
+nhsc_tech_improved_crystal_farm: "Improved Crystal Farm"
+nhsc_tech_improved_crystal_farm_desc: "Now that we have a better understanding of the living crystals, we can improve our farms and grow them in more efficient ways."
+
+nhsc_tech_repair_drones: "Repair Drones"
+nhsc_tech_repair_drones_desc: "Automatons to perform emergency hull repairs."
+NHSC_TECH_UNLOCK_AUX_REAPIR_DRONES_TITLE: "§HUnlocks component§!: Repair Drones"
+NHSC_TECH_UNLOCK_AUX_REPAIR_DRONES_DESC: "Automatons to perform emergency hull repairs."
+
+nhsc_tech_psionic_reinforcement: "Psionic Reinforcement"
+nhsc_tech_psionic_reinforcement_desc: "Using psionic powers of the crew to increase the ship's hull strength."
+TECH_UNLOCK_PSIREINFORCEMENT_TITLE: "§HUnlocks component§!: Psionic Reinforcement"
+TECH_UNLOCK_PSIREINFORCEMENT_DESC: "Using psionic powers of the crew to increase the ship's hull strength."
+
+nhsc_tech_tactical_strikecrafts: "Tactical Strikecrafts"
+nhsc_tech_tactical_strikecrafts_desc: "The next generation of space fighters: tougher and more powerful than any we've created before."
+
+nhsc_tech_siegebreaker_strikecrafts: "Siegebreaker Strikecrafts"
+nhsc_tech_siegebreaker_strikecrafts_desc: "The ultimate space fighters."
+
+nhsc_tech_amoeba_strike_craft_2: "Cybernetically-Augmented Amoeba"
+nhsc_tech_amoeba_strike_craft_2_desc: "By integrating cybernetic implants into purpose-bred amoeba, we can make them even tougher and more vicious fighters."
+
+nhsc_tech_swarm_strike_craft_2: "Ravaging Swarmers"
+nhsc_tech_swarm_strike_craft_2_desc: "These swarmers have been trained and drugged into becoming the most visious organic strikecrafts this galaxy has ever seen."
+
+nhsc_tech_strikecrafts_mercenary_1: "Mercenary Liasons"
+nhsc_tech_strikecrafts_mercenary_1_desc: "Money can buy many things, and it is especially true with fighting force. By reaching out to the independent space-farers, we will be able to bolster our ranks with strong and experienced pilots. Who come with their own crafts."
+nhsc_tech_strikecrafts_mercenary_2: "Elite Mercenary Contacts"
+nhsc_tech_strikecrafts_mercenary_2_desc: "With our reputation of generous employers spreading out, more experiences mercenaries are willing to serve us. For a fair amount of credits, of course..."
+
+nhsc_tech_dreadnought_computer: "Automated Dreadnought Combat Algorithms"
+nhsc_tech_dreadnought_computer_desc: "The combat computer based on that of the Automated Dreadnought."
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_TITLE: "§HUnlocks component§!: Automated Dreadnought Protocols computers"
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_DESC: "The combat computers based on the observed logic of the anicent Automated Dreadnought."
+
+nhsc_tech_advanced_shield_capacitors: "Advanced Shield Capacitors"
+nhsc_tech_advanced_shield_capacitors_desc: "New and improved Shields Capacitors that make our shields tougher and let them regenerate faster."
+
+nhsc_tech_crystal_infused_capacitor: "Crystal-Infused Shield Capacitor"
+nhsc_tech_crystal_infused_capacitor_desc: "Shield capacitors that utilise crystalline matter to strengthen the ship's hull"
+
+nhsc_tech_crystal_forged_capacitor: "Crystal-Forged Shield Capacitor"
+nhsc_tech_crystal_forged_capacitor_desc: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+nhsc_tech_stellarite_powercore: "Stellarite Power Core"
+nhsc_tech_stellarite_powercore_desc: "Stellarite Devourer's organs appear to function as fusion reactors. Perhaps, they can be used to supplement our ships' systems with additional power?"
+
+nhsc_tech_standardized_warheads: "Warhead Standardization"
+nhsc_tech_standardized_warheads_desc: "Imposing standards on various warheads in service, we can increase the safety of our ships' arsenals while simultaneously equipping them with better missiles."
+
+nhsc_tech_auxiliary_fire_control_2: "Advanced Fire Control Systems"
+nhsc_tech_auxiliary_fire_control_2_desc: "Algorithm refinement to provide better firing solutions for our weapons"
+
+nhsc_tech_structural_reinforcement: "Structural Reinforcement"
+nhsc_tech_structural_reinforcement_desc: "Specialized construction techniques allow us to make our ships' hulls more resistant to damage. This, unfortunately, comes at the cost of slightly-weaker armor we can mount on such hulls."
+
+nhsc_tech_crystalline_valuables: "Crystalline Valuables"
+nhsc_tech_crystalline_valuables_desc: "Living Crystals have numerous military applications, but with special processing they can also be turned into shiny gems that as valuable as true precious stones."
+NHSC_TECH_LIVING_CRYSTALS_TRADE_TITLE: "§HUpgrades job§!: £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§! also produce £trade_value£ §Y$TRADE_VALUE$§!"
+NHSC_TECH_LIVING_CRYSTALS_TRADE_DESC: "$nhsc_tech_crystalline_valuables_desc$"
+
+nhsc_tech_rare_crystals_cultivation: "Rare Crystals Cultivation"
+nhsc_tech_rare_crystals_cultivation_desc: "With a subtle change to the substrates, we should be able to make living crystals grow with inclusions of rarer and more valuable crystalline materials."
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_TITLE: "§HUpgrades job§!: £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§! also produce £rare_crystals£ §Y$rare_crystals$§!"
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_T_DESC: "$nhsc_tech_rare_crystals_cultivation_desc$"
+
+nhsc_tech_autocannons_m: "Large Scale Automatic Cannons"
+nhsc_tech_autocannons_m_desc: "When you need more dakka, it time to break out bigger guns!"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_TITLE: "§HUnlocks components§!: M-size advanced autocannons"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_m_desc$"
+
+nhsc_tech_autocannons_l: "Superscale Automatic Cannons"
+nhsc_tech_autocannons_l_desc: "There can never be enough dakka!"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_TITLE: "§HUnlocks components§!: L-size advanced autocannons"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_l_desc$"
+
+nhsc_tech_aura_mirage_system: "Titan Aura: Mirage System"
+nhsc_tech_aura_mirage_system_desc: "With specialized projection systems to make our ships appear where they aren't we can greatly reduce the efficiency of our enemies' targeting systems."
+NHSC_TECH_UNLOCK_TITAN_AURA_MIRAGE: "§HUnlocks Titan Aura§!: Mirage System"
+NHSC_TECH_UNLOCK_TITAN_AURA_MIRAGE_DESC: "$nhsc_tech_aura_mirage_system_desc$"
+
+nhsc_tech_aura_nanite_swarm: "Titan Aura: Nanite Infiltration Swarms"
+nhsc_tech_aura_nanite_swarm_desc: "By programming nanite swarms to attack enemy ships' armor layers and internal structures we can make them much more suspectible to weapon damage."
+NHSC_TECH_UNLOCK_TITAN_AURA_NANITES: "§HUnlocks Titan Aura§!: Nanite Infiltration Swarms"
+NHSC_TECH_UNLOCK_TITAN_AURA_NANITES_DESC: "$nhsc_tech_aura_nanite_swarm_desc$"
+
+nhsc_tech_aura_space_distortion: "Titan Aura: Space Distortion Module"
+nhsc_tech_aura_space_distortion_desc: "Gravity field manipulation applied to space combat promises an unparalleled ability to control the battlefield, denying our enemies' freedom to more and freedom to fire at us."
+NHSC_TECH_UNLOCK_TITAN_AURA_SPATIAL: "§HUnlocks Titan Aura§!: Space Distortion Module"
+NHSC_TECH_UNLOCK_TITAN_AURA_SPATIAL_DESC: "$nhsc_tech_aura_space_distortion_desc$"

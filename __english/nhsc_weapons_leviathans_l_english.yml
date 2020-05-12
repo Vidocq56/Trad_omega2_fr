@@ -1,0 +1,67 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###   Enigmatic Energy Discharger    ###
+########################################
+
+NHSC_ENIGMATIC_CANNON: "Enigmatic Energy Discharger"
+NHSC_ENIGMATIC_CANNON_DESC: "A powerful weapon that uses the enigmatic technology."
+
+########################################
+###      Enigmatic Energy Lash       ###
+########################################
+
+NHSC_ENIGMATIC_LASH: "Enigmatic Energy Lash"
+NHSC_ENIGMATIC_LASH_DESC: "An enigmatic-technology weapon that fries targets with energy discharges."
+
+########################################
+###   Enigmatic Energy Autocannon    ###
+########################################
+
+NHSC_ENIGMATIC_AUTOCANNON: "Enigmatic Energy Autocannon"
+NHSC_ENIGMATIC_AUTOCANNON_DESC: "An enigmatic-technology rapid-fire energy cannon."
+
+########################################
+###      Enigmatic Energy Lance      ###
+########################################
+
+NHSC_ENIGMATIC_LANCE: "Enigmatic Energy Lance"
+NHSC_ENIGMATIC_LANCE_DESC: "An enigmatic-technology particle lance."
+NHSC_ENIGMATIC_LANCE_TITANIC: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_TITANIC_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+
+########################################
+###      Extradimensional Spike      ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_PD: "Extradimensional Spike"
+NHSC_EXTRADIMENSIONAL_PD_DESC: "A weapon reverse-engineered from the Dimensional Horror. Hits an enemy with a spike thrust through a portal."
+
+########################################
+###        Tiyanki Beam Cannon       ###
+########################################
+
+NHSC_TIYANKI_CANNON: "Tiaynki Beam Cannon"
+NHSC_TIYANKI_CANNON_DESC: "An energy lance designed after the biological weapon used by the Tiyanki Matriarch."
+NHSC_TIYANKI_CANNON_TITANIC: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_TITANIC_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+NHSC_TIYANKI_CANNON_JUGGERNAUT: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_JUGGERNAUT_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+
+########################################
+###        Junk Mines Launcher       ###
+########################################
+
+NHSC_JUNK_MINE_LAUNCHER: "Junk Mines Launcher"
+NHSC_JUNK_MINE_LAUNCHER_DESC: "A weapon based on the one used by the Scrapper Bot. It utilizes cheap and simple self-propelled mines made from scrap metal and other junk as projectiles."
+
+########################################
+###        Voidspawn Missile         ###
+########################################
+
+NHSC_VOIDSPAWN_MISSILE: "Voidspawn Missile"
+NHSC_VOIDSPAWN_MISSILE_DESC: "A semi-organic projectile based on the weapon used by the Voidspawn Hatcling."

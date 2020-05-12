@@ -1,0 +1,25 @@
+﻿l_english:
+ 
+ tech_galactic_ambitions_1:0 "Ambitions of Power II"
+ tech_galactic_ambitions_1_desc:0 "Our ambitions of power expands, unlocking new edicts to fuel the visions of an Ascendancy."
+ tech_galactic_ambitions_2:0 "Ambitions of Power III"
+ tech_galactic_ambitions_2_desc:0 "Our ambitions of power expands further still, unlocking new ambitions to fuel the visions of an Ascendancy."
+
+ edict_regenerative_coating:0 "Regenerative Coating"
+ edict_regenerative_coating_desc:0 "Living metal can greatly enhance ship hull and armor regeneration."
+ edict_zro_rations:0 "Zro Rations"
+ edict_zro_rations_desc:0 "Allowing our crew to ingest zro as part of their rations can heighten reflexes and precognition, increasing their combat performance."
+ edict_dark_matter_overload:0 "Dark Matter Overload"
+ edict_dark_matter_overload_desc:0 "Overloading our ship reactors and thrusters with Dark Matter will enable our machines to perform extraordinary feats, previously thought impossible by the laws of physics."
+ 
+ edict_infrastructure_projects:0 "$unity_ambition$ Infrastructure Projects"
+ edict_infrastructure_projects_desc:0 "Our massive infrastructure projects require the alloy productions to match. Whether these alloys will ultimately be used for these projects is a different matter..."
+ edict_virtual_wargames:0 "$unity_ambition$ Virtual Wargames"
+ edict_virtual_wargames_desc:0 "Virtual wargaming allow the general populace to gain combat experience subconsiously in a safe and controlled environment, greatly improving the starting experiences of our new recruits."
+ edict_ascendancy_might:0 "$unity_ambition$ Might of an Ascendancy"
+ edict_ascendancy_might_desc:0 "Those who will not bow to our power shall face the full might of an Ascendancy."
+ edict_economic_stimulus:0 "$unity_ambition$ Economic Stimulus"
+ edict_economic_stimulus_desc:0 "By printing energy credits as debt, backed by our reputation as an Ascendancy, investors across the galaxy will leap to invest in our economy, increasing both volume and value of goods traded within the empire."
+ edict_master_of_the_galaxy:0 "$unity_ambition$ Master of the Galaxy"
+ edict_master_of_the_galaxy_desc:0 "The decrepit reign of the old Fallen Empires were over. It is time for a new Ascendancy to rise and become the master of this galaxy."
+ 

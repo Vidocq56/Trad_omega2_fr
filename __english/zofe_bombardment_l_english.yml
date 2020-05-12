@@ -1,0 +1,7 @@
+﻿l_english:
+ 
+ bombardment_xeno_abduction:0 "Xeno Abduction"
+ bombardment_xeno_abduction_desc:1 "\n$bombardment_xeno_abduction$ targets enemy population centers with specialized raiding craft that scoop up nice little Xenos from their beds and bring them back to our worlds to complete our collection.\n- §YNo§! damage to §YArmies§!\n- §YNo§! damage to §YBuildings§!\n- §YNo§! damage to §YPops§!\n- Will §Yabduct§! Pops when possible instead of killing them\n- Will §RNOT§! abduct or kill the last §Y5§! Pops\n"
+ 
+ allow_xeno_abduction:0 "\nAllows §YXeno Abduction§! Bombardment stance"
+ 

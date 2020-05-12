@@ -1,0 +1,121 @@
+﻿l_english:
+ #planet class
+ pc_jph:0 "Ecumenopolis"
+ #exodus origin text
+ origin_exodus:0 "Inflection Point"
+ origin_exodus_desc:0 "This civilization has fully encased its homeworld after a period of constant development. Exhausted of natural resources, their last hope is to venture out to settle the stars - before they are trapped on a one planet grave."
+ origin_tooltip_exodus_effects:0 "- Start with an §YEcumenopolis§! as your Homeworld\n- Start the game with an additional §Y6§! £pop£ Pops\n- Face increasing economic and social unrest as your homeworld runs out of resources"
+ 
+ START_SCREEN_EXODUS:0 "[GetSpeciesNamePlural] have always been driven to grow and prosper. As long as we have ruled [GetHomeWorldName], the steady pace of progress has continued. Our great cities grew until the whole planet was covered. Yet the day many ignored has arrived all the same: we are on the brink of running out of resources. Once-great stockpiles lie empty. The deepest wells have run dry.\n\nThe local solar system has been tapped, but it is not enough. All our hope is placed in the breakthough discovery of the hyperlane network. It is imperative that the [GetName] venture outward now. [GetHomeWorldName]'s dwindling resources will soon be too scarce to support future expeditions- let alone the sustain the [GetAdj] race."
+ #GetSpeciesName] communities took shape in the archipelagos and lagoons of [GetHomeWorldName]
+ 
+ #events
+ exodus.11.name:0 "Planetary Stockpiles Exhausted" #penalty 1
+ exodus.11.desc:0 "Supply depots across [Root.GetName] are reporting that their dwindling stores of materials have started to run out. While this was something that has been anticipated for some time, disruptions in supply chains will have serious repercussions on the planetwide economy. The current standard of living simply cannot be sustained.\n\nIt is imperative that another planet be colonized to establish some breathing room."
+ exodus_11.default:0 "This is going to get worse before it gets better."
+ exodus_11.corporate:0 "Fixing this could be a phenomenal business opportunity."
+ exodus_11.xenophobe:0 "Only [Root.Owner.GetSpeciesNamePlural] could overcome this."
+ exodus_11.xenophile:0 "[Root.Owner.GetSpeciesNamePlural] can't succeed alone - we must embrace the stars!"
+ exodus_11.militarist:0 "This crisis is a war that [Root.Owner.GetSpeciesNamePlural] will win."
+ exodus_11.pacifist:0 "Peaceful cooperation will get us all through this."
+ exodus_11.egalitarian:0 "Every [Root.Owner.GetAdj] can help us succeed."
+ exodus_11.authoritarian:0 "Maintain Order. The [Root.Owner.GetName] shall prevail."
+ exodus_11.spiritualist:0 "Our faith will carry us through this dark time."
+ exodus_11.materialist:0 "There is no problem that technology can't solve."
+ 
+ 
+ exodus.12.name:0 "Extensive Shortages Reported" #penalty 2
+ exodus.12.desc:0 "Despite efforts to adapt, the lack of resources is causing factory closures across [Root.GetName]. Local production managers report that more ripple effects will occur soon, hitting every secondary and tertiary sector within a year.\n\nThings are going to get much worse if new colonies cannot be brought online fast."
+ exodus_12.a:0 "Redouble efforts to establish a new colony!"
+ exodus_12.corporate:0 "Now is a great time to raise prices!"
+ 
+ exodus.13.name:0 "Industrial Activity Halted" #penalty 3
+ exodus.13.desc:0 "The economic depression on [Root.GetName] has reached new lows. Industrial workers simply have nothing to feed into their forges and assembly lines. What credits consumers still have are largely irrelevant, with almost everything being strictly rationed. There is a large feeling of hopelessness on the streets of our planetwide city. This cannot continue for long."
+ exodus_13.a:0 "Our only future is to expand. Failure is extinction."
+ 
+ exodus.25.name:0 "Renewal Initiative" #can now use special proj, triggered by 32/34
+ exodus.25.desc:0 "Now that our control extends to a second world, [Root.Owner.GetRulerTitle] [Root.Owner.Leader.GetName] has ordered that a commission of our finest experts determine what needs to be done to permanently solve the situation on [Root.GetName]."
+ exodus_25.a:0 "Assemble them at once."
+ 
+ exodus.26.name:0 "Initiative Planning Complete" #project finsihed, can use decision
+ exodus.26.desc:0 "Every discipline has contributed to the Commission on Restoring [Root.GetName]. Architects have laid out designs for more efficient Arcologies. Engineers have devised new schemes to integrate global industries and supply chains. Artists have created aesthetics to make the new [Root.GetName] the eternal symbol of our civilization.\n\nKey technologies have been identified to make this effort possible. A large volume of resources and political willpower will need to be marshalled to undertake this monumental task, but this plan is our best chance.\n\n(You can now use the Rebuild Ecumenopolis decision on [Root.GetName].)"
+ exodus_26.a:0 "Work out the technological details. We must start at once."
+ 
+ exodus.27.name:0 "Ecumenopolis Restored" #decision complete
+ exodus.27.desc:0 "The large, planetwide projects to rebuild and resupply [Root.GetName] are complete. Almost every area has been touched by construction. Huge vaults have been stocked with materials, integrated with a state-of-the-art logistics network. Economic activity has started booming. With further advances in Anti-Grav technology, we will be able to continue expanding [Root.GetName] for a long time."
+ exodus_27.a:0 "We have reached new heights."
+ exodus_27.corporate:0 "[Root.Owner.GetName] stock only goes UP!"
+ 
+ exodus.31.name:0 "Colony Settled" #colony settled hidden
+ exodus.32.name:0 "Celebrations over [Root.GetName] Colony" #triggered by 31, adds the happy modifier
+ exodus.32.desc:0 "With colonial administration expanding on [Root.GetName], pressure is being taken off of [Root.Owner.GetHomeWorldName]. In the very worst case, this planet means we will survive. Citizens across our growing empire are jubilant over the news. A bright future is at last within our grasp."
+ exodus_32.a:0 "Finally, a path forward."
+ 
+ exodus.33.name:0 "Colony Captured" #colony caputred hidden
+ exodus.34.name:0 "Celebrations over [Root.GetName] Conquest" #triggered by 33
+ exodus.34.desc:0 "With our occupying military administration expanding on [Root.GetName], pressure is being taken off of [Root.Owner.GetHomeWorldName]. In the very worst case, this planet means we will survive. Citizens across our growing empire are jubilant over the news. A bright future is at last within our grasp."
+ exodus_34.a:0 "Some had to suffer so that the rest may survive."
+ 
+ exodus.41.name:0 "Panic Buying" #pop penalty 1
+ exodus.41.desc:0 "With word getting out about sudden stoppages in the global supply chain, panic buying has started. Citizens are becoming increasingly despondent as local dispensaries are filled with barren displays. The civilian economy is starting to seize up."
+ exodus_41.a:0 "Keep everyone calm. [Root.GetName] shall overcome."
+ exodus_41.spiritualist:0 "Who needs plasteel trinkets, anyways?"
+ exodus_41.corporate:0 "At least the products are selling themselves."
+ 
+ exodus.42.name:0 "Heavy Rationing Begins" #pop penalty 2
+ exodus.42.desc:0 "Local authorities have seized control of most consumer products on [Root.GetName]. What supplies are still available are now being rationed. The standard of living is, unfortunately, falling as fast as the planetary economy is."
+ exodus_42.a:0 "A difficult choice in a difficult time."
+ exodus_42.corporate:0 "This is really going to hurt profits."
+ 
+ 
+ exodus.43.name:0 "Riots over Shortages" #pop penalty 4
+ exodus.43.desc:0 "Mobs of disaffected citizens on [Root.GetName] have begun attacking infrastructure and looting. As civilian life is increasingly restricted, economic activity has shrunk even further. Local authorities say they are hard pressed to stave off open rebellions."
+ exodus_43.a:0 "This only underscores how important our struggle is."
+ exodus_43.authoritarian:0 "Identify any sympathizers. Suppress them."
+ exodus_43.militarist:0 "Deploy militia to key zones. Victory means survival."
+ exodus_43.corporate:0 "Why don't these poor people just buy more money?"
+ exodus_43.sharedburden:0 "Stand with Workers! The means of production have failed us all."
+ #modifiers
+ exodus_1:0 "Inflection Point Reached"
+ exodus_1_desc:0 "This world's potential is limited by an increasing lack of resources."
+ exodus_resource_1:0 "Resource Shortages"
+ exodus_resource_1_desc:0 "Production is being limited by heavy shortages of major resources."
+ exodus_resource_2:0 "Crippling Shortages"
+ exodus_resource_2_desc:0 "Supply chains have broken down as nearly every key resource is being rationed."
+ exodus_resource_3:0 "Devastating Shortages"
+ exodus_resource_3_desc:0 "Industry has effectively ground to a halt, with almost no fuel or material available."
+ exodus_pop_1:0 "Minor Rationing"
+ exodus_pop_1_desc:0 "Citizens are adjusting as items which were once abundant are now in short supply."
+ exodus_pop_2:0 "Intense Rationing"
+ exodus_pop_2_desc:0 "The civilian economy is depressed under the weight of almost every good being rationed."
+ exodus_pop_3:0 "Severe Rationing"
+ exodus_pop_3_desc:0 "Stretching resources any further would mean mass starvation and societal collapse."
+ exodus_first_colony:0 "A New Hope"
+ exodus_first_colony_desc:0 "Having secured a second planet, our people find new hope for the future."
+ exodus_reward:0 "Renewed Prosperity"
+ exodus_reward_desc:0 "We have overcome great challenges to bring our homeworld to new heights of prosperity."
+ 
+ #projects
+ EXODUS_PROJECT:0 "Prepare to Rebuild Ecumenopolis"
+ EXODUS_PROJECT_DESC:0 "We are now in a position to begin planning to rebuild the failing Ecumenopolis of our homeworld, and in the process, create something better than ever before."
+ #decisions
+ decision_exodus_restore_arcology:0 "Rebuild Ecumenopolis"
+ decision_exodus_restore_arcology_desc:0 "We will settle the debt of our past mistakes and realize the true potential of our homeworld."
+ decision_exodus_restore_arcology_effects:0 "Restores the §YEcumenopolis§! to full potential. Removes penalties from resource shortages, and adds a §Y$d_plentiful_stockpile$§! feature to the planet."
+ #deposits and blockers
+ 
+ d_hydroponic_arcology:0 "Hydroponic Arcology"
+ d_dwindling_stockpile:0 "Dwindling Stockpile"
+ d_plentiful_stockpile:0 "Plentiful Stockpile"
+ d_renewed_city:0 "Peerless Megalopolis"
+ d_overloaded_infrastructure:0 "Overworked Infrastructure"
+ d_overloaded_infrastructure_2:0 "Aging Arcologies"
+ d_overloaded_infrastructure_3:0 "Decrepit Urban Corridor"
+ 
+ d_hydroponic_arcology_desc:0 "Endless levels of artificially grown crops fill this towering arcology, hastily converted from residences to feed the planet's burgeoning population."
+ d_dwindling_stockpile_desc:0 "The last remaining stores of raw materials on this planet. While they are finite, they still fuel our industries."
+ d_plentiful_stockpile_desc:0 "Huge storage vaults, filled with all manner of materials, ready to support the infrastructure on this planet."
+ d_renewed_city_desc:0 "Every sector of this planetwide city has been masterfully reconstructed, a global monument to our triumph."
+ d_overloaded_infrastructure_desc:0 "Centuries of sprawl have led to a mixture of inefficient, antiquated systems."
+ d_overloaded_infrastructure_2_desc:0 "The massive, aging arcologies covering this planet have reached the limits of what gravity will allow. With great effort and the right technology, perhaps we can rebuild them beyond those limits."
+ d_overloaded_infrastructure_3_desc:0 "Once-vibrant areas that have fallen into disrepair."

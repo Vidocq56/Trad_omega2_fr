@@ -1,0 +1,83 @@
+﻿l_english:
+ civic_overmind_secondary_species:0 "Remote Drones"
+ origin_tooltip_overmind_effects:0 "Start the game as an §YOvermind§!, with all §YRemote drones§! Pops with §Y$citizenship_full$§! citizenship and §Y$living_standard_hive_mind$§! living standard\n\n§EOnly members of the §HMain species§! can be §HLeaders§!§!\n§EMembers of the §HMain species§! can only be §HLeaders§!§!\n§ECan always §HAssimilate§! biological pops§!\n\n§RMembers of the§! §YMain species§! §Rcan not be gene-modded§!"
+ origin_hive_overmind:0 "Overmind"
+ origin_hive_overmind_desc:0 "This hive is ruled by an §YOvermind§!, that control and manipulate §YRemote drones§!."
+ civic_hive_deep_space_connection:0 "Mycelium Connection"
+ civic_hive_deep_space_connection_desc:0 "The hive has a deep connection with space itself, it is interlinked with the very fabrics of space and can somewhat communicate with it."
+ civic_hive_strong_connection:0 "Biointegrated Tech"
+ civic_hive_strong_connection_desc:0 "Part of the crew, part of the ship. The hive integrates themselves with their technology, making it impossible for other empires to understand them."
+ civic_tooltip_strong_connection_effects:0 "§YDaily Hull regen§! and §YDaily Armor regen§! increased by §Y0.25%§!\nYour ships do not generate debris, so your tech cannot be stolen"
+ GetPurgeProcessingResource_life:0 "new life forms, creating §HPops§! upon death and reducing food"
+ GetPurgeProcessingResource_all:1 "resource"
+ civic_hive_parasitic:0 "Parasitic Embryos"
+ civic_hive_parasitic_desc:0 "This hive uses other §YOrganics§! to lay embryos in their bodies to increase §YPop numbers§!."
+ civic_tooltip_parasitic_effects:0 "Allows your empire to §YProcess§! organics, infecting them and giving birth to new pops of your §YMain species§! when purged.\n\nHas the §Y'Demand Sacrifice'§! casus belli on all other empires, which allows §YParasitic Embryos§! to subjugate them to offer yearly £pop£ §YPops§! as tribute."
+ civic_hive_parasitic_lithoid:0 "Crystalline Spores"
+ civic_hive_parasitic_lithoid_desc:0 "This hive uses crystalline spores to infect other §YOrganic§! species to increase their §YPop numbers§!."
+
+ civic_hive_natural_attraction:0 "Natural Attraction"
+ civic_hive_natural_attraction_desc:0 "Like bees are attracted to flowers, the hive excels at gathering £food£ §Y$food$§! from §YFarms§! and either £food£ §Y$food$§! or £minerals£ §Y$minerals$§! from §YLivestock§!."
+ personality_hive_farmers_desc:0 "The galaxy is full of organic food ready to be farmed and exploited. There is nothing wrong about satisfying ones needs"
+ personality_hive_farmers:0 "Galactic Gatherers"
+ personality_parasitic_alien_desc:0 "Organic Infestors probably value other life forms more than any other species. After all, those life forms are the wombs for embryos to come."
+ personality_parasitic_alien:0 "Organic Infestors"
+ civic_tooltip_focused_mind_effects:0 "Provides the §YResearch Focus§! policy to focus and redirect the collective's priorities between §Y£society£ $society_research$§!, §Y£physics£ $physics_research$§! and §Y£engineering£ $engineering_research$§! research."
+ civic_hive_focused_mind:0 "Focused Collective"
+ civic_hive_focused_mind_desc:0 "Progress is impossible without change, and those who cannot change their minds cannot change anything. This hive has the ability to reconfigure its collective brain synaptic connections at will to shine in different areas of expertise."
+ 
+ policy_focused_mind_policy:0 "Research Focus"
+ policy_focused_mind_policy_desc:0 "The mind is a powerful thing. It can take you through walls and space."
+ 
+ focus_mind_normal:0 "Balanced synapse"
+ focus_mind_normal_desc:0 "Change must always be balanced with some degree of consistency."
+ 
+ focus_mind_society:0 "Selfless Curiosity"
+ focus_mind_society_desc:0 "Interpersonal skills and the forming of cooperative and interdependent relationships fascinate the mind."
+ 
+ focus_mind_engineering:0 "Imaginative Boldness"
+ focus_mind_engineering_desc:0 "The ability to produce and simulate novel objects is but the result of a creative and bold mind who can imagine the impossible."
+ 
+ focus_mind_physics:0 "Logical-Mathematical Mind"
+ focus_mind_physics_desc:0 "The mind in interested in patterns, categories and relationships. Drawn to arithmetic problems, strategy games and experiments."
+ 
+ 
+ #obsolete
+ focus_mind_unity:0 "Drone regulation"
+ focus_mind_unity_desc:0 "Observe good faith and justice toward all drones. Cultivate peace and harmony with all."
+ focus_mind_research:0 "Chaotic brainstorm"
+ focus_mind_research_desc:0 "Progress is impossible without change, and those who cannot change their minds cannot change anything."
+ #obsolete end
+ focus_mind_ai:0 "Focused AI"
+ focus_mind_ai_desc:0 "AI will use this and only this one" 
+ gov_hive_farmers:0 "Galactic Gatherers"
+ gov_hive_farmers_desc:0 "The galaxy is full of organic food ready to be farmed and exploited. There is nothing wrong about satisfying ones needs."
+ gov_parasitic_alien:0 "Brood Parasites"
+ gov_parasitic_alien_desc:0 "Brood Parasites are ruthless organic infestors. They will search the galaxy and infest everybody with their larvae."
+ mod_job_cocoon_add:0 "Cocoon Caregiver Jobs"
+ opinion_parasitic_alien:0 "$civic_hive_parasitic$"
+ trait_hive_mind_overlord:0 "Hive Overlords"
+ trait_hive_mind_overlord_desc:0 "§LThese species controls other species by using their collective consciousness.§!\n"
+ trait_hive_mind_remote_drone:0 "Remote Drones"
+ trait_hive_mind_remote_drone_desc:0 "§LThese species serve their Overlord masters.§!\n"
+ mod_planet_researchers_unity_produces_add:0 "£unity£ Unity from £job_researcher£ $job_researcher_plural$"
+ mod_planet_livestock_food_produces_mult:0 "£food£ Food from £job_livestock£ $job_livestock_plural$"
+ mod_planet_livestock_minerals_produces_mult:0 "£minerals£ Minerals from £job_livestock£ $job_livestock_plural$"
+ organic_structures:0 "Organic Structures"
+ organic_lithoid_structures:0 "Living Structures"
+ organic_lithoid_structures_tooltip:0 "The buildings of this Hive are living beings that were fused with minerals and other mineraloids."
+ organic_structures_tooltip:0 "The buildings and ships of this Hive are living creatures that were metamorphosed from larvae."
+ creates_remote_drone:0 "Creates a §YRemote Drone§! pop."
+ 
+ d_collapsed_burrows_remote:0 "$d_collapsed_burrows$"
+ d_collapsed_burrows_remote_desc:0 "$d_collapsed_burrows_desc$"
+ d_hibernating_lithoids_remote:0 "$d_hibernating_lithoids$"
+ d_hibernating_lithoids_remote_desc:0 "$d_hibernating_lithoids_desc$"
+ 
+ 
+ overmind_lithoids: "Overlords of Lithoids"
+ overmind_lithoids_tooltip: ""
+ overmind_biological: "Overlords of Biologicals"
+ overmind_biological_tooltip: ""
+
+ START_SCREEN_OVERMIND:0 "While our true origins are unknown, we do know that we where once a great collective, capable of boundless synaptic connection. It was this connection that allowed us to exist even when all of our bodies died out.\n\nHow we assimilated into the collective the remote drones and what role they had during our lifespan remains a mistery, but it is thanks to this symbiotic relationship that we where able to continue to exist and expand the hive into the galaxy."

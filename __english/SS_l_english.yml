@@ -1,0 +1,290 @@
+﻿l_english:
+    
+    origin_living_station:0 "Living Station"
+    origin_living_station_effects:0 "Game begins on §Y$pc_living_station$§! (Size: £planetsize£ §Y15§!) with possibility of §Yupgrade§! and §Yincreasing size§! of station. Colonization of any planet leads to its destruction and the appearance of additional resources (Exept §Y$pc_habitat$§!, §Y$pc_ringworld_habitable$§!, §Y$pc_hive$§!, §Y$pc_machine$§!, §Y$pc_relic$§! and §Y$pc_gaia$§!)."
+    origin_living_station_desc:0 "For several generations, this race has been living on the station, on a truly incredible scale. Records of the reasons why representatives of this race left their home world could only be preserved in the deepest archives and are of little interest, despite this, drawings were saved and knowledge about the structure of this station was transferred, which makes it easy to modernize it."
+    START_SCREEN_STATION:0 "No one can remember why there is a huge steel structure on the site of our planet that has supported our family for many generations, but thanks to old archives and resources, we have learned to expand and improve it. These skills are enough for us to live without fear of crises and shortages, and with the invention of hyperdrive, the stars became closer and we were able to set up the process of processing planets for resource extraction."
+    
+    
+    pc_living_station:0 "Planetary station"
+    pc_living_station_desc:0 "An artificial space object larger than the average planet and ideally suited for most types of intelligent life."
+    
+    #######################
+    #######DISTRICTS#######
+    #######################
+    
+    district_liv_housing:0 "Housing section"
+    district_liv_housing_desc:0 "Located on the upper levels of the station, this section accommodates residential space for a multi-million population." 
+    
+    district_liv_bureaucratic:0 "Management section"
+    district_liv_bureaucratic_desc:0 "From this section, the distribution of resources and bureaucratic control of the population is carried out." 
+    
+    district_liv_grossery:0 "Greenhouse section"
+    district_liv_grossery_desc:0 "Hundreds of greenhouses in which, under artificial light, agricultural crops are grown and animals are bred,whose origin may no one will know." 
+    
+    district_liv_maintenance:0 "Technical sublevel"
+    district_liv_maintenance_desc:0 "Kilometers of wires, thousands of generators and drilling machines for extracting resources from space." 
+    
+    district_liv_military_forge:0 "Section «Forge»"
+    district_liv_military_forge_desc:0 "This section is used for processing and remelting metals into valuable and durable alloys." 
+    
+    district_liv_civilian:0 "Civil proceedings section"
+    district_liv_civilian_desc:0 "The section where all the needs of the civilian population are met." 
+    
+    district_liv_research_zone:0 "Research section"
+    district_liv_research_zone_desc:0 "A lot of complex facilities and hundreds of researchers responsible for developing new and improving old technologies."
+    
+        ####################
+        ######MACHINES######
+        ####################
+        
+    district_liv_storage:0 "Drone's storage"
+    district_liv_storage_desc:0 "Specialized cells for storing work units."
+    
+    district_liv_controller:0 "Conducting rod"
+    district_liv_controller_desc:0 "A construction designed to amplify the signal transmitted to the working units."
+    
+    district_liv_food_productor:0 "Food combine"
+    district_liv_food_productor_desc:0 "Premises that are specialized for growing and processing organic nutrients."
+    
+    district_liv_gatherer:0 "Production station"
+    district_liv_gatherer_desc:0 "A complex of semi-Autonomous machines, space drilling mechanisms and solar panels."
+    
+        ################
+        ######HIVE######
+        ################
+        
+    district_liv_hive:0 "Drone's hive"
+    district_liv_hive_desc:0 "There are many interconnected compartments in which the drones of the hive rest and take food."
+    
+    district_liv_overseer:0 "The control unit"
+    district_liv_overseer_desc:0 "A cluster of Autonomous synapses that monitor the behavior of drones."
+    
+    district_liv_feeder:0 "Feeder chambers"
+    district_liv_feeder_desc:0 "A compartment designed for growing plants and animals that will later be used for food."
+    
+    district_liv_upkeeper:0 "Production section"
+    district_liv_upkeeper_desc:0 "Concentration of production capacities of our hive."
+    
+    
+    #######################
+    #####DEPOSITS##########
+    #######################
+    
+    d_robot_build_faciliti:0 "Robot Assembly Facility"
+    d_robot_build_faciliti_desc:0 "Dozens of conveyor belts and machines, under the control of technical personnel, assembling complex robotic units."
+    
+    d_military_research_zone:0 "Military research zone"
+    d_military_research_zone_desc:0 "Huge testing grounds for weapons and specialists responsible for its development."
+    
+    d_commercial_port:0 "Commercial port"
+    d_commercial_port_desc:0 "A giant hangar section that receives and dispatches tens of thousands of transport and cargo vessels."
+    
+    d_upgrade_50_regular:0 "Medical section"
+    d_upgrade_50_regular_desc:0 "The area where all medical personnel and equipment necessary to maintain the viability of the entire station's population are gathered."
+    
+    d_Military_stronghold:0 "Defence sector"
+    d_Military_stronghold_desc:0 "Sealed bunkers and soldier's training grounds where the defense of the station is being prepared."
+    
+    d_upgrade_start_regular:0 "Planetary reserves"
+    d_upgrade_start_regular_desc:0 "Warehouses filled with supplies that had probably been collected before our's resettling to the station."
+    
+    d_upgrade_150:0 "Technical section"
+    d_upgrade_150_desc:0 "A special zone where the station's technical and working personnel are concentrated."
+    
+    d_upgrade_100_regular:0 "Scientific complex"
+    d_upgrade_100_regular_desc:0 "The center of our technological development."
+    
+    d_upgrade_research_power:0 "Scientific complex"
+    d_upgrade_research_power_desc:0 "The center of our technological development."
+    
+    d_upgrade_200_regular:0 "Industrial complex"
+    d_upgrade_200_regular_desc:0 "Concentration of our industrial capacities."
+    
+    d_upgrade_industrial_power:0 "Industrial complex"
+    d_upgrade_industrial_power_desc:0 "Concentration of our industrial capacities."
+    
+    d_upgrade:0 "Expansion platform"
+    d_upgrade_desc:0 "A section designed to increase the capacity of our station."
+    
+        ####################
+        ######MACHINES######
+        ####################
+        
+    d_upgrade_50_machines:0 "Assembly sections"
+    d_upgrade_50_machines_desc:0 "A complex that can collect working units at an incredible speed."
+    
+    d_upgrade_100_machine:0 "Scientific complex"
+    d_upgrade_100_machine_desc:0 "The center of our technological development."
+    
+    d_upgrade_start_robots:0 "Planetary reserves"
+    d_upgrade_start_robots_desc:0 "Warehouses filled with supplies that had probably been collected before our's resettling to the station."
+    
+        ################
+        ######HIVE######
+        ################
+        
+    d_upgrade_50_hive:0 "The incubation tank"
+    d_upgrade_50_hive_desc:0 "A container with a nutrient mixture designed to quickly nurture a large number of drones."
+    
+    d_upgrade_100_hive:0 "Scientific complex"
+    d_upgrade_100_hive_desc:0 "The center of our technological development."
+    
+    
+    ####################
+    #####DECISIONS######
+    ####################
+    
+    decision_civilian_to_trade:0 "Economic and trade direction"
+    decision_civilian_to_trade_effects:0 "§Y$district_liv_civilian$§! provides £job_clerk£ §Y$job_clerk$§! jobs instead of £job_farmer£ §Y$job_farmer$§!."
+    decision_civilian_to_trade_desc:0 "Expansion of trade relations by reducing food production."
+    
+    decision_trade_to_civilian:0 "Civil-food direction"
+    decision_trade_to_civilian_effects:0 "§Y$district_liv_civilian$§! provides £job_farmer£ §Y$job_farmer$§! jobs instead of £job_clerk£ §Y$job_clerk$§!."
+    decision_trade_to_civilian_desc:0 "The expansion of food production due to the reduction of trade relations."
+    
+    decision_military_focus:0 "Military-economic focus"
+    decision_military_focus_effects:0 "§Y$district_liv_civilian$§! provides less £job_artisan£ §Y$job_artisan$§! jobs, but §Y$district_liv_maintenance$§!  provides more £job_foundry£ §Y$job_foundry$§! jobs."
+    decision_military_focus_desc:0 "Expansion of military production at the expense of reduction of civil."
+    
+    decision_civilian_focus:0 "Civil-economic focus"
+    decision_civilian_focus_effects:0 "§Y$district_liv_maintenance$§! provides less £job_foundry£ §Y$job_foundry$§! jobs, but §Y$district_liv_civilian$§! provides more £job_artisan£ §Y$job_artisan$§!."
+    decision_civilian_focus_desc:0 "The expansion of civilian production due to the reduction of the military."
+    
+    decision_normal_focus:0 "Balanced production"
+    decision_normal_focus_effects:0 "§Y$district_liv_maintenance$§! and §Y$district_liv_civilian$§! provides the usual number of positions."
+    decision_normal_focus_desc:0 "Normalization of all production."
+    
+    decision_research_upgrade_1:0 "Research focus 1"
+    decision_research_upgrade_1_effects:0 "Improved §Y$district_liv_research_zone$§! consume §Y0.5§! £exotic_gases£ §Y$exotic_gases$§! and provides more jobs."
+    decision_research_upgrade_1_desc:0 "Moderate expansion of personnel of research sections."
+    
+    decision_research_upgrade_2:0 "Research focus 2"
+    decision_research_upgrade_2_effects:0 "Improved §Y$district_liv_research_zone$§! consume §Y1§! £exotic_gases£ §Y$exotic_gases$§! and provides more jobs."
+    decision_research_upgrade_2_desc:0 "Significant expansion of personnel of research sections."
+    
+    decision_military_upgrade_1:0 "Military-industrial focus 1"
+    decision_military_upgrade_1_effects:0 "Improved §Y$district_liv_maintenance$§! consume §Y0.5§! £volatile_motes£ §Y$volatile_motes$§! and provides more jobs."
+    decision_military_upgrade_1_desc:0 "Moderate expansion of personnel of technical sublevel."
+    
+    decision_military_upgrade_2:0 "Military-industrial focus 2"
+    decision_military_upgrade_2_effects:0 "Improved §Y$district_liv_maintenance$§! consume §Y1§! £volatile_motes£ §Y$volatile_motes$§! and provides more jobs."
+    decision_military_upgrade_2_desc:0 "Significant expansion of personnel of technical sublevel."
+    
+    decision_civilian_uprgade_1:0 "Civil-industrial focus 1"
+    decision_civilian_uprgade_1_effects:0 "Improved §Y$district_liv_civilian$§! consume §Y0.5§! £rare_crystals£ §Y$rare_crystals$§! and provides more jobs."
+    decision_civilian_uprgade_1_desc:0 "Moderate expansion of personnel in civil production sections."
+    
+    decision_civilian_uprgade_2:0 "Civil-industrial focus 2"
+    decision_civilian_uprgade_2_effects:0 "Improved §Y$district_liv_civilian$§! consume §Y1§! £rare_crystals£ §Y$rare_crystals$§! and provides more jobs."
+    decision_civilian_uprgade_2_desc:0 "Significant expansion of personnel in civil production sections."
+    
+    
+    decision_upgrade_150:0 "Technical expansion"
+    decision_upgrade_150_desc:0 "Expansion and re-equipment of the technical sublevel."
+    
+    decision_upgrade_200_regular:0 "Industrial expansion"
+    decision_upgrade_200_regular_desc:0 "Expansion and provision of space for an industrial complex."
+    
+    decision_upgrade_100_regular:0 "Technical expansion"
+    decision_upgrade_100_regular_desc:0 "Expansion and provision of space for a Scientific complex."
+    
+    decision_upgrade_research_pacif:0 "Technical expansion"
+    decision_upgrade_research_pacif_desc:0 "Expansion and provision of space for a Scientific complex."
+    
+    decision_upgrade_slavery:0 "Slave sections"
+    decision_upgrade_slavery_desc:0 "Expanding and increasing the efficiency of slave labor."
+    
+    decision_upgrade_commercial_port:0 "Commercial expansion"
+    decision_upgrade_commercial_port_desc:0 "Expansion and provision of space for a commercial port."
+    
+    decision_upgrade_50_regular:0 "Health sections"
+    decision_upgrade_50_regular_desc:0 "Expansion and provision of space for the medical section."
+    
+    decision_upgrade_Military_stronghold:0 "Expansion of the defensive section"
+    decision_upgrade_Military_stronghold_desc:0 "Expansion and provision of space for the defense sector."
+    
+    decision_upgrade:0 "Expansion"
+    decision_upgrade_desc:0 "Expansion by adding an additional platform."
+    
+        ####################
+        ######MACHINES######
+        ####################
+        
+    decision_upgrade_50_machine:0 "Assembly sections"
+    decision_upgrade_50_machine_desc:0 "Creating a powerful Assembly facility."
+    
+    decision_upgrade_100_machine:0 "Research extension"
+    decision_upgrade_100_machine_desc:0 "Expansion and provision of space for a Scientific complex."
+    
+        ################
+        ######HIVE######
+        ################
+        
+    decision_upgrade_50_hive:0 "The incubation tank"
+    decision_upgrade_50_hive_desc:0 "Creating a place for breeding and rapid rearing of young animals on a large scale."
+    
+    decision_upgrade_100_hive:0 "Research extension"
+    decision_upgrade_100_hive_desc:0 "Expansion and provision of space for a Scientific complex."
+    
+    decision_feeder_upgrade_1:0 "Food production 1"
+    decision_feeder_upgrade_1_effects:0 "Improved §Y$district_liv_feeder$§! consume §Y0.5§! £rare_crystals£ §Y$rare_crystals$§! and provides more jobs."
+    decision_feeder_upgrade_1_desc:0 "Moderate expansion of personnel in Feeder chambers."
+    
+    decision_feeder_upgrade_2:0 "Food production 2"
+    decision_feeder_upgrade_2_effects:0 "Improved §Y$district_liv_feeder$§! consume §Y1§! £rare_crystals£ §Y$rare_crystals$§! and provides more jobs."
+    decision_feeder_upgrade_2_desc:0 "Significant expansion of personnel in Feeder chambers."
+    
+    
+    #######################
+    #######MODIFIERS#######
+    #######################
+    
+    military_focus:0 "Military-economic focus"
+    military_focus_desc:0 "Expansion of military production at the expense of reduction of civil."
+    
+    civilian_focus:0 "Civil-economic focus"
+    civilian_focus_desc:0 "The expansion of civilian production due to the reduction of the military."
+    
+    trade_focus:0 "Economic and trade direction"
+    trade_focus_desc:0 "Expansion of trade relations by reducing food production."
+    
+    agri_focus:0 "Civil-food direction"
+    agri_focus_desc:0 "The expansion of food production due to the reduction of trade relations."
+    
+    military_upgrade_1:0 "Moderate military-industrial expansion"
+    military_upgrade_1_desc:0 "Expansion of military production through increased upkeep."
+    
+    military_upgrade_2:0 "Significant military-industrial expansion"
+    military_upgrade_2_desc:0 "Expansion of military production through increased upkeep."
+    
+    research_upgrade_1:0 "Moderate research expansion"
+    research_upgrade_1_desc:0 "Expansion of the research complex through increased upkeep."
+    
+    research_upgrade_2:0 "Significant research expansion"
+    research_upgrade_2_desc:0 "Expansion of the research complex through increased upkeep."
+    
+    civilian_upgrade_1:0 "Moderate civil-industrial expansion"
+    civilian_upgrade_1_desc:0 "The expansion of civilian production through increased upkeep."
+    
+    civilian_upgrade_2:0 "Significant civil-industrial expansion"
+    civilian_upgrade_2_desc:0 "The expansion of civilian production through increased upkeep."
+    
+        ################
+        ######HIVE######
+        ################
+        
+    feeder_upgrade_1:0 "Moderate moderate expansion of food production"
+    feeder_upgrade_1_desc:0 "The expansion of food production through increased upkeep."
+    
+    feeder_upgrade_2:0 "Significant expansion of food production"
+    feeder_upgrade_2_desc:0 "The expansion of food production through increased upkeep."
+    
+    
+    #######################
+    ###PLANET BROKENED#####
+    #######################
+    
+    liv.4.title:0 "Broken planet"
+    liv.4.desc:0 "Our team of geologists has just completed the preparation and breaking of the planet, now you can easily collect all the wealth that flew out of it."
+    

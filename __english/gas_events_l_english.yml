@@ -1,0 +1,32 @@
+﻿l_english:
+
+    gas_site_homeworld:0 "Let's Explore The Core!"
+    gas_site_homeworld_desc:0 "It's taken years of preparation and deliberation. One delay after another, but now it's finally time. We have the will, we have the technology. Our system holds many mysteries, but none quite as intriguing as the planet's core. \n\n We know there's something hidden down there, early scouts and signal probing have proven that much. Let's dive down and see what makes this place tick!"
+
+    gas_origin.1.name:0 "Damn! Well, We've Come This Far."
+    gas_origin.1.desc:0 "That was close! We almost didn't make it back. The pressure this low down was far beyond what we initially calculated, any longer and this ship would have been crushed. The Board's going to be baffled by the compounds we scraped back with us, never seen anything like them before. They must be integral to the giant's environment. \n\n  We need to rethink our ship design if we ever hope to breach the lower layers. Thicker plating and stronger internal support are the only way we're going down. Let's refit this old ship and get back to business, those secrets aren't going to reveal themselves."
+    gas_origin.1.a:0 "Excelsior!"
+    
+    gas_origin.2.name:0 "My Goodness. They're Astounding!"
+    gas_origin.2.desc:0 "The crew are in awe, these structures are ancient! Radiocarbon dating puts these at just a few million years after the birth of our galaxy. And the material! How does it survive such a harsh environment, we have to take a sample, it would be invaluable. \n\n Glee aside, the hunt is on. There are several tall structures, one must be something like a control center, or at least a dock? How else would the builders enter this megastructure? Daunting as it seems now, we will prevail."
+    gas_origin.2.a:0 "Quick! Nab A Sample."
+    
+    gas_origin.3.name:0 "Is This It?"
+    gas_origin.3.desc:0 "We came across a structure that could be what we're looking for. Yeah, this must be it, it's clearly the focal point of this location. These blatant conduits and pipes are all converging here. \n\n Now we just need to get inside… But how?"
+    gas_origin.3.a:0 "Um... Maybe If We Push This!"
+    
+    gas_origin.4.name:0 "I Don't Believe This!"
+    gas_origin.4.desc:0 "Phew! It was touch and go for a while there, I was worried we weren't getting in and would have to surface for supplies. Thankfully one of the crew, in a completely unacceptable fit of rage I might add. Began violently attacking controls they couldn't comprehend. They've been placed on administrative leave for the time being, we can't let a live wire ruin this for us, even if they were helpful for a time. \n\n Not to worry, upward and onward as they say! Oh... Well, this is interesting. It's just a corridor, where are the locks? The traps? \n\nNo, I'm sorry, but I was hoping for something a little adventurous... \n\nExcuse me , I'm not out of line, this is ridiculous! \n\nOops, this is still on? Please disregard that outburst HQ."
+    gas_origin.4.a:0 "End Transmission"
+    
+    gas_origin.5.name:0 "The Message"
+    gas_origin.5.desc:0 "Fascinating, absolutely fascinating! A little disappointing, but fascinating. We'll there aren't any cryogenically frozen ancients, but the crew are excited nevertheless! Who ever built this place, and subsequently our planet must have wanted us to find it. The consoles are simple, and have no security, we can access a message left by those who came before. \n\n '...We'd hoped to be here for you, but things never quite work out how one might have hoped. If you are here, then you are well on your way to revealing your past. Since we cannot be here to temper your expectations, we have stored the knowledge you seek elsewhere. What you will learn, should you choose to find it, might be shocking...'   Blah, blah, blah! As you might imagine HQ, it goes on that way for a while. \n\n The Great Moon is where we will find the reliquary of information."
+    gas_origin.5.a:0 "TO THE MOON!"
+    
+    gas_origin.6.name:0 "Penetrate The Shield!"
+    gas_origin.6.desc:0 "We're so close, I can almost taste those sweet artifacts! There has to be a simple way to pierce the shield, everythings been so easy up till now. \n\nWe're getting some interesting readings, nothing I've ever seen before. I don't know what we've done differently, if anything."
+    gas_origin.6.a:0 "Pffft, Nothing A Laser Couldn't Fix."
+    
+    gas_origin.7.name:0 "It's Opening On Its Own..."
+    gas_origin.7.desc:0 "I don't believe it, months spent trying to bring this shield down and it just opens a small window on its own. Frustrated doesn't even describe how I'm feeling right now, no matter it's time to land on that Moon! \n\nThe transmission stops, the silence punctuated by a brief moment of static... \n\nHQ! Are you there? Something is holding the ship in place... \n\nComms cut out again, all monitors display a robotic figure. The camera follows it's mossy exterior as it walks toward a cracked view port. \n\n'Greetings...' It began, its vocals damaged. \n\n'Apologies, it's been a milenna since I've felt the need to speak. I noticed you probing this planet, at first I assumed the worst, you'd been destroyed by invaders. I was about to launch a counter-attack, but discovered it was you! Our precious children. \n\n'If I could smile again I would, you are so magnificent. I hope you don't expect too much from this meeting, there is little I can tell you in the time we have left. Just... just let me look at you for a moment...' The Machine went silent, its single eye flickered. \n\n'Yes, you certainly are outstanding aren't you? If only we could talk forever, but alas that is impossible.' \n\n'In order to create you, myself and those of my kind, we... we made a mistake. We made a pact with an entity that we never fully understood. But I believe it was a worthy price, to see you now.' \n\n'Look at this tainted world, the Shroud consumes it. I beg you, keep yourself safe. Don't communicate with the beings in the Shroud, they seek to trick you as they did us.' \n\nThe Machine turned away, tapped at a console just outside view. 'These codes will unlock the hidden vault beneath your planet. I hope it's contents explai...' \n\nStatic replaced the Machine, and the opening collapsed."
+    gas_origin.7.a:0 "This Is So Much To Process..."

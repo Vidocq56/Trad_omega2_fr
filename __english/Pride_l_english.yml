@@ -1,0 +1,24 @@
+﻿l_english:
+    
+########################
+##EMPIRE'S PRIDE########
+########################
+
+    origin_empire_pride:0 "Imperial pride"
+    origin_empire_pride_desc:0 "The history and culture of this race clearly shows a love for massive structures. The apogee of their cultural development is considered to be an incredibly large space ship-the §YFlagship§!, a true mobile fortress, managed personally by the ruler of this Empire.."
+    origin_tooltip_empire_pride_effects:0 "Starts the game with a built and improved, but not equipped §YJuggernaut§!. Destruction Of The §YJuggernaut§! in battle leads to the death of the ruler."
+    START_SCREEN_PRIDE:0 "In our history, there were almost no rulers who were afraid to personally take the field of battle. In the era of interstellar travel, the concept of war changed, but the traditions remained. And now, our current ruler comes on Board, almost completed, the flagship, we have a little more work to do and he will be able to lead our fleets into battle."
+    
+    empire_pride:0 "Flagship"
+    CORE_PRIDE_SECTION:0 "Flagship"
+    
+    dead_pride:0 "Dead Pride"
+    
+    Auth.Dead:0 "Great loss"
+    Auth.DeadLead:0 "A terrible news spread throughout the Empire: §Y$empire_pride$§! §YDestroyed§! Panic, despair and fear enveloped our worlds, our citizens were not prepared for this, the consequences are terrifying."
+    rulers.dead:0 "It will be hard for us"
+    
+    Auth.New:0 "Pride"
+    Auth.NewLead:0 "On §Y[Root.Capital.GetName]§! The ceremony ends and our ruler §Y[Root.GetRulerTitle] [Root.GetRulerName]§! ascends to §Y$empire_pride$§!, an incredible-sized ship that will serve as a home for him,his heir, his heir's heir..."
+    
+    rulers.pride:0 "Our Pride"

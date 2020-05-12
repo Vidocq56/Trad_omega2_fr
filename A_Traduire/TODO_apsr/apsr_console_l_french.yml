@@ -1,0 +1,492 @@
+﻿l_french:
+
+#############################################
+#                                           #
+#  ###   ###  #   #  ####  ###  #     ##### #
+# #   # #   # ##  # #     #   # #     #     #
+# #     #   # # # #  ###  #   # #     ###   #
+# #   # #   # #  ##     # #   # #     #     #
+#  ###   ###  #   # ####   ###  ##### ##### #
+#                                           #
+#############################################
+
+
+
+### приветственное сообщение (главное окно)
+
+ apsr.997.title:0 "APSR Configuration Panel"
+ apsr.997.desc:0 "§YWelcome to the modification §PAPSR: Anomalies, Planetary and Space Resoures§!. \nPlease configure the resources generation settings.§! \n§GHave a good game!§!"
+ 
+ apsr.997.close:1 "Close"
+ apsr.997.close.tooltip:1 "§YCloses the mod settings panel§!"
+ 
+ apsr.997.manually:1 "Manual"
+ apsr.997.manually.tooltip:1 "§YManually configure settings§!"
+ 
+ apsr.997.specific:1 "A certain amount"
+ apsr.997.specific.tooltip:1 "§YSelect the amount of resources to generate§!"
+ 
+ apsr.997.random:1 "Random number"
+ apsr.997.random.tooltip:1 "§YSelect the range of the amount of resources to generate§!"
+ 
+ apsr.997.capital:1 "«Battle of Capitals» mode"
+ apsr.997.capital.tooltip:1 "For each default (not Fallen, marauders, etc.) empire, the following will apply:\n\nIf selected origin is  §Y$origin_default$§!, §Y$origin_mechanists$§!, §Y$origin_syncretic_evolution$§!, §Y$origin_scion$§!, §Y$origin_galactic_doorstep$§!, §Y$origin_shoulders_of_giants$§! or §Y$origin_lost_colony$§!, then the capital will become a Unique or Ancient World, with a random unique resource (except for the Anomaly Zone, Eternium, Torsion Coil, Talisman and Planetary complexes).\n§HEmpires satisfying these conditions: [Root.apsr_capital_battle_empires_with_origins]§!\n§HCan generate resources: [Root.apsr_capital_battle_safe_available_resources]§!\n\nFor empires with different origin or if empires with the previous condition is more than available resources, a random planet in the metropolitan system will become a Unique or Ancient World, with a random unique resource.\n§HEmpires satisfying these conditions: [Root.apsr_capital_battle_empires_without_origins]§!\n§HCan generate resources: [Root.apsr_capital_battle_total_available_resources]§!\n\n\n§RATTENTION! The number of empires should not exceed [Root.apsr_capital_battle_total_available_resources], otherwise some players will not get the resources! Choice also blocks the appearance of resources on random planets!§!"
+ 
+ apsr.997.all:1 "All resources"
+ apsr.997.all.tooltip:1 "§YThe amount of resources at the start is maximum§!"
+ 
+ apsr.997.none:1 "Without resources"
+ apsr.997.none.tooltip:1 "§YThe amount of resources at the start is zero§!"
+ 
+ apsr.997.faq:1 "§GFAQ§!"
+ apsr.997.faq.tooltip:1 "§YFrequently Asked Questions§!"
+
+
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 1)
+ 
+ apsr.996.title:0 "$apsr.997.title$"
+ apsr.996.desc:0 "§YChoose a number of resources that will appear on the map.\nGeneration results will be random.§!"
+ 
+ apsr.996.back:1 "Back"
+ apsr.996.back.tooltip:1 "Return to the previous window"
+ 
+ apsr.996.1.res:1 "One resource"
+ apsr.996.1.res.tooltip:1 "Adds 1 resource on the map"
+ 
+ apsr.996.2.res:1 "Two resources"
+ apsr.996.2.res.tooltip:1 "Adds 2 resources on the map"
+ 
+ apsr.996.3.res:1 "Three resources"
+ apsr.996.3.res.tooltip:1 "Adds 3 resources on the map"
+ 
+ apsr.996.4.res:1 "Four resources"
+ apsr.996.4.res.tooltip:1 "Adds 4 resources on the map"
+ 
+ apsr.996.5.res:1 "Five resources"
+ apsr.996.5.res.tooltip:1 "Adds 5 resources on the map"
+ 
+ apsr.996.6.res:1 "Six resources"
+ apsr.996.6.res.tooltip:1 "Adds 6 resources on the map"
+ 
+ apsr.996.7.res:1 "Seven resources"
+ apsr.996.7.res.tooltip:1 "Adds 7 resources on the map"
+ 
+ apsr.996.8.res:1 "Eight resources"
+ apsr.996.8.res.tooltip:1 "Adds 8 resources on the map"
+ 
+ apsr.996.9.res:1 "Nine resources"
+ apsr.996.9.res.tooltip:1 "Adds 9 resources on the map"
+ 
+ apsr.996.10.res:1 "Ten resources"
+ apsr.996.10.res.tooltip:1 "Adds 10 resources on the map"
+ 
+ apsr.996.nextpage:1 "Next page"
+ apsr.996.nextpage.tooltip:1 "Go to other options"
+
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 2)
+
+ apsr.993.title:0 "$apsr.997.title$"
+ apsr.993.desc:0 "$apsr.996.desc$"
+ 
+ apsr.993.back:1 "Back"
+ apsr.993.back.tooltip:1 "Return to the previous window"
+ 
+ apsr.993.11.res:1 "Eleven resources"
+ apsr.993.11.res.tooltip:1 "Adds 11 resources on the map"
+ 
+ apsr.993.12.res:1 "Twelve resources"
+ apsr.993.12.res.tooltip:1 "Adds 12 resources on the map"
+ 
+ apsr.993.13.res:1 "Thirteen resources"
+ apsr.993.13.res.tooltip:1 "Adds 13 resources on the map"
+ 
+ apsr.993.14.res:1 "Fourteen resources"
+ apsr.993.14.res.tooltip:1 "Adds 14 resources on the map"
+ 
+ apsr.993.15.res:1 "Fifteen resources"
+ apsr.993.15.res.tooltip:1 "Adds 15 resources on the map"
+ 
+ apsr.993.16.res:1 "Sixteen resources"
+ apsr.993.16.res.tooltip:1 "Adds 16 resources on the map"
+ 
+ apsr.993.17.res:1 "Seventeen resources"
+ apsr.993.17.res.tooltip:1 "Adds 17 resources on the map"
+ 
+ apsr.993.18.res:1 "Eighteen resources"
+ apsr.993.18.res.tooltip:1 "Adds 18 resources on the map"
+ 
+ apsr.993.19.res:1 "Nineteen resources"
+ apsr.993.19.res.tooltip:1 "Adds 19 resources on the map"
+ 
+ apsr.993.20.res:1 "Twenty resources"
+ apsr.993.20.res.tooltip:1 "Adds 20 resources on the map"
+ 
+ apsr.993.nextpage:1 "Next page"
+ apsr.993.nextpage.tooltip:1 "Go to other options"
+
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 3)
+ 
+ apsr.990.title:0 "$apsr.997.title$"
+ apsr.990.desc:0 "$apsr.996.desc$"
+ 
+ apsr.990.back:1 "Back"
+ apsr.990.back.tooltip:1 "Return to the previous window"
+ 
+ apsr.990.21.res:1 "Twenty one resources"
+ apsr.990.21.res.tooltip:1 "Adds 21 resources on the map"
+ 
+ apsr.990.22.res:1 "Twenty two resources"
+ apsr.990.22.res.tooltip:1 "Adds 22 resources on the map"
+ 
+ apsr.990.23.res:1 "Twenty three resources"
+ apsr.990.23.res.tooltip:1 "Adds 23 resources on the map"
+ 
+ apsr.990.24.res:1 "Twenty four resources"
+ apsr.990.24.res.tooltip:1 "Adds 24 resources on the map"
+ 
+ apsr.990.25.res:1 "Twenty five resources"
+ apsr.990.25.res.tooltip:1 "Adds 25 resources on the map"
+ 
+ apsr.990.26.res:1 "Twenty six resources"
+ apsr.990.26.res.tooltip:1 "Adds 26 resources on the map"
+ 
+ apsr.990.27.res:1 "Twenty seven resources"
+ apsr.990.27.res.tooltip:1 "Adds 27 resources on the map"
+ 
+ apsr.990.28.res:1 "Twenty eight resources"
+ apsr.990.28.res.tooltip:1 "Adds 28 resources on the map"
+ 
+ apsr.990.29.res:1 "Twenty nine resources"
+ apsr.990.29.res.tooltip:1 "Adds 29 resources on the map"
+ 
+ apsr.990.30.res:1 "Thirty resources"
+ apsr.990.30.res.tooltip:1 "Adds 30 resources on the map"
+ 
+ apsr.990.nextpage:1 "Next page"
+ apsr.990.nextpage.tooltip:1 "Go to other options"
+ 
+
+ 
+ 
+ # выбрать случайное количество ресурсов для появления (страница 1)
+  
+ apsr.994.title:0 "$apsr.997.title$"
+ apsr.994.desc:0 "§YChoose a range of resources that will appear on the map.\nGeneration result will be random.§!"
+ 
+ apsr.994.back:1 "Back"
+ apsr.994.back.tooltip:1 "Return to the previous window"
+ 
+ apsr.994.1_5.res:1 "From 1 to 5 resources"
+ apsr.994.1_5.res.tooltip:1 "Adds 1-5 resources on the map"
+ 
+ apsr.994.6_10.res:1 "From 6 to 10 resources"
+ apsr.994.6_10.res.tooltip:1 "Adds 6-10 resources on the map"
+ 
+ apsr.994.11_15.res:1 "From 11 to 15 resources"
+ apsr.994.11_15.res.tooltip:1 "Adds 11-15 resources on the map"
+ 
+ apsr.994.16_20.res:1 "From 16 to 20 resources"
+ apsr.994.16_20.res.tooltip:1 "Adds 16-20 resources on the map"
+ 
+ apsr.994.21_25.res:1 "From 21 to 24 resources"
+ apsr.994.21_25.res.tooltip:1 "Adds 21-24 resources on the map"
+ 
+ apsr.994.26_30.res:1 "From 26 to 30 resources"
+ apsr.994.26_30.res.tooltip:1 "Adds 25-30 resources on the map"
+ 
+ apsr.994.nextpage:1 "Next page"
+ apsr.994.nextpage.tooltip:1 "Go to other options"
+
+ 
+ 
+ # выбрать случайное количество ресурсов для появления (страница 2) 
+  
+ apsr.989.title:0 "$apsr.997.title$"
+ apsr.989.desc:0 "§YChoose a range of resources that will appear on the map.\nGeneration result will be random.§!"
+ 
+ apsr.989.back:1 "Back"
+ apsr.989.back.tooltip:1 "Return to the previous window"
+ 
+ apsr.989.1_10.res:1 "From 1 to 10 resources"
+ apsr.989.1_10.res.tooltip:1 "Adds 1-10 resources on the map"
+ 
+ apsr.989.11_20.res:1 "From 11 to 20 resources"
+ apsr.989.11_20.res.tooltip:1 "Adds 11-20 resources on the map"
+ 
+ apsr.989.21_30.res:1 "From 21 to 30 resources"
+ apsr.989.21_30.res.tooltip:1 "Adds 21-30 resources on the map"
+ 
+ apsr.989.1_15.res:1 "From 1 to 15 resources"
+ apsr.989.1_15.res.tooltip:1 "Adds 1-15 resources on the map"
+ 
+ apsr.989.16_30.res:1 "From 16 to 24 resources"
+ apsr.989.16_30.res.tooltip:1 "Adds 16-24 resources on the map"
+ 
+ apsr.989.1_30.res:1 "From 1 to 24 resources"
+ apsr.989.1_30.res.tooltip:1 "Adds 1-24 resources on the map"
+ 
+ apsr.989.nextpage:1 "Next page"
+ apsr.989.nextpage.tooltip:1 "Go to other options"
+ 
+
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 1)
+ 
+ apsr.999.title:0 "$apsr.997.title$"
+ apsr.999.desc:0 "§YIn this window, you can manually configure the resources.\nIf necessary, call this window during the game - use the console command§! §Pevent apsr.999§!"
+ 
+ apsr.999.nextpage:1 "Other resources"
+ apsr.999.nextpage.tooltip:1 "Go to other resources"
+ apsr.999.back:1 "Back"
+ apsr.999.back.tooltip:1 "Return to previous window"
+ apsr.999.close:1 "Close"
+ apsr.999.close.tooltip:1 "Finish setting up resource generation"
+ 
+ apsr.999.1.yes:1 "§YResource 1 - §GIS PRESENT§!§!"
+ apsr.999.1.yes.tooltip:1 "§YResource 1 - §M$apsr1_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.1.no:1 "§YResource 1 - §RIS ABSENT§!§!"
+ apsr.999.1.no.tooltip:1 "§YResource 1 - §M$apsr1_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.2.yes:1 "§YResource 2 - §GIS PRESENT§!§!"
+ apsr.999.2.yes.tooltip:1 "§YResource 2 - §M$apsr2_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.2.no:1 "§YResource 2 - §RIS ABSENT§!§!"
+ apsr.999.2.no.tooltip:1 "§YResource 2 - §M$apsr2_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.3.yes:1 "§YResource 3 - §GIS PRESENT§!§!"
+ apsr.999.3.yes.tooltip:1 "§YResource 3 - §M$apsr3_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.3.no:1 "§YResource 3 - §RIS ABSENT§!§!"
+ apsr.999.3.no.tooltip:1 "§YResource 3 - §M$apsr3_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.4.yes:1 "§YResource 4 - §GIS PRESENT§!§!"
+ apsr.999.4.yes.tooltip:1 "§YResource 4 - §M$apsr4_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.4.no:1 "§YResource 4 - §RIS ABSENT§!§!"
+ apsr.999.4.no.tooltip:1 "§YResource 4 - §M$apsr4_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.5.yes:1 "§YResource 5 - §GIS PRESENT§!§!"
+ apsr.999.5.yes.tooltip:1 "§YResource 5 - §M$apsr5_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.5.no:1 "§YResource 5 - §RIS ABSENT§!§!"
+ apsr.999.5.no.tooltip:1 "§YResource 5 - §M$apsr5_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.6.yes:1 "§YResource 6 - §GIS PRESENT§!§!"
+ apsr.999.6.yes.tooltip:1 "§YResource 6 - §M$apsr6_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.6.no:1 "§YResource 6 - §RIS ABSENT§!§!"
+ apsr.999.6.no.tooltip:1 "§YResource 6 - §M$apsr6_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.7.yes:1 "§YResource 7 - §GIS PRESENT§!§!"
+ apsr.999.7.yes.tooltip:1 "§YResource 7 - §M$apsr7_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.7.no:1 "§YResource 7 - §RIS ABSENT§!§!"
+ apsr.999.7.no.tooltip:1 "§YResource 7 - §M$apsr7_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.8.yes:1 "§YResource 8 - §GIS PRESENT§!§!"
+ apsr.999.8.yes.tooltip:1 "§YResource 8 - §M$apsr8_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.8.no:1 "§YResource 8 - §RIS ABSENT§!§!"
+ apsr.999.8.no.tooltip:1 "§YResource 8 - §M$apsr8_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.9.yes:1 "§YResource 9 - §GIS PRESENT§!§!"
+ apsr.999.9.yes.tooltip:1 "§YResource 9 - §M$apsr9_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.9.no:1 "§YResource 9 - §RIS ABSENT§!§!"
+ apsr.999.9.no.tooltip:1 "§YResource 9 - §M$apsr9_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.999.10.yes:1 "§YResource 10 - §GIS PRESENT§!§!"
+ apsr.999.10.yes.tooltip:1 "§YResource 10 - §M$apsr10_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.999.10.no:1 "§YResource 10 - §RIS ABSENT§!§!"
+ apsr.999.10.no.tooltip:1 "§YResource 10 - §M$apsr10_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 2)
+ 
+ apsr.998.title:0 "$apsr.997.title$"
+ apsr.998.desc:0 "$apsr.999.desc$"
+ 
+ apsr.998.nextpage:1 "Other resources"
+ apsr.998.nextpage.tooltip:1 "Go to other resources"
+ apsr.998.back:1 "Back"
+ apsr.998.back.tooltip:1 "Return to previous window"
+ apsr.998.close:1 "Close"
+ apsr.998.close.tooltip:1 "Finish setting up resources"
+ 
+ apsr.998.11.yes:1 "§YResource 11 - §GIS PRESENT§!§!"
+ apsr.998.11.yes.tooltip:1 "§YResource 11 - §M$apsr11_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.11.no:1 "§YResource 11 - §RIS ABSENT§!§!"
+ apsr.998.11.no.tooltip:1 "§YResource 11 - §M$apsr11_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.12.yes:1 "§YResource 12 - §GIS PRESENT§!§!"
+ apsr.998.12.yes.tooltip:1 "§YResource 12 - §M$apsr12_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.12.no:1 "§YResource 12 - §RIS ABSENT§!§!"
+ apsr.998.12.no.tooltip:1 "§YResource 12 - §M$apsr12_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.13.yes:1 "§YResource 13 - §GIS PRESENT§!§!"
+ apsr.998.13.yes.tooltip:1 "§YResource 13 - §M$apsr13_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.13.no:1 "§YResource 13 - §RIS ABSENT§!§!"
+ apsr.998.13.no.tooltip:1 "§YResource 13 - §M$apsr13_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.14.yes:1 "§YResource 14 - §GIS PRESENT§!§!"
+ apsr.998.14.yes.tooltip:1 "§YResource 14 - §M$apsr14_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.14.no:1 "§YResource 14 - §RIS ABSENT§!§!"
+ apsr.998.14.no.tooltip:1 "§YResource 14 - §M$apsr14_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.15.yes:1 "§YResource 15 - §GIS PRESENT§!§!"
+ apsr.998.15.yes.tooltip:1 "§YResource 15 - §M$apsr15_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.15.no:1 "§YResource 15 - §RIS ABSENT§!§!"
+ apsr.998.15.no.tooltip:1 "§YResource 15 - §M$apsr15_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.16.yes:1 "§YResource 16 - §GIS PRESENT§!§!"
+ apsr.998.16.yes.tooltip:1 "§YResource 16 - §M$apsr16_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.16.no:1 "§YResource 16 - §RIS ABSENT§!§!"
+ apsr.998.16.no.tooltip:1 "§YResource 16 - §M$apsr16_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.17.yes:1 "§YResource 17 - §GIS PRESENT§!§!"
+ apsr.998.17.yes.tooltip:1 "§YResource 17 - §M$apsr17_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.17.no:1 "§YResource 17 - §RIS ABSENT§!§!"
+ apsr.998.17.no.tooltip:1 "§YResource 17 - §M$apsr17_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.18.yes:1 "§YResource 18 - §GIS PRESENT§!§!"
+ apsr.998.18.yes.tooltip:1 "§YResource 18 - §M$apsr18_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.18.no:1 "§YResource 18 - §RIS ABSENT§!§!"
+ apsr.998.18.no.tooltip:1 "§YResource 18 - §M$apsr18_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.19.yes:1 "§YResource 19 - §GIS PRESENT§!§!"
+ apsr.998.19.yes.tooltip:1 "§YResource 19 - §M$apsr19_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.19.no:1 "§YResource 19 - §RIS ABSENT§!§!"
+ apsr.998.19.no.tooltip:1 "§YResource 19 - §M$apsr19_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.998.20.yes:1 "§YResource 20 - §GIS PRESENT§!§!"
+ apsr.998.20.yes.tooltip:1 "§YResource 20 - §M$apsr20_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.998.20.no:1 "§YResource 20 - §RIS ABSENT§!§!"
+ apsr.998.20.no.tooltip:1 "§YResource 20 - §M$apsr20_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 3)
+ 
+ apsr.988.title:0 "$apsr.997.title$"
+ apsr.988.desc:0 "$apsr.999.desc$"
+ 
+ apsr.988.nextpage:1 "Other resources"
+ apsr.988.nextpage.tooltip:1 "Go to other resources"
+ apsr.988.back:1 "Back"
+ apsr.988.back.tooltip:1 "Return to previous window"
+ apsr.988.close:1 "Close"
+ apsr.988.close.tooltip:1 "Finish setting up resources"
+ 
+ apsr.988.21.yes:1 "§YResource 21 - §GIS PRESENT§!§!"
+ apsr.988.21.yes.tooltip:1 "§YResource 21 - §M$apsr21_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.21.no:1 "§YResource 21 - §RIS ABSENT§!§!"
+ apsr.988.21.no.tooltip:1 "§YResource 21 - §M$apsr21_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.22.yes:1 "§YResource 22 - §GIS PRESENT§!§!"
+ apsr.988.22.yes.tooltip:1 "§YResource 22 - §M$apsr22_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.22.no:1 "§YResource 22 - §RIS ABSENT§!§!"
+ apsr.988.22.no.tooltip:1 "§YResource 22 - §M$apsr22_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.23.yes:1 "§YResource 23 - §GIS PRESENT§!§!"
+ apsr.988.23.yes.tooltip:1 "§YResource 23 - §M$apsr23_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.23.no:1 "§YResource 23 - §RIS ABSENT§!§!"
+ apsr.988.23.no.tooltip:1 "§YResource 23 - §M$apsr23_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.24.yes:1 "§YResource 24 - §GIS PRESENT§!§!"
+ apsr.988.24.yes.tooltip:1 "§YResource 24 - §M$apsr24_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.24.no:1 "§YResource 24 - §RIS ABSENT§!§!"
+ apsr.988.24.no.tooltip:1 "§YResource 24 - §M$apsr24_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.25.yes:1 "§YResource 25 - §GIS PRESENT§!§!"
+ apsr.988.25.yes.tooltip:1 "§YResource 25 - §M$apsr25_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.25.no:1 "§YResource 25 - §RIS ABSENT§!§!"
+ apsr.988.25.no.tooltip:1 "§YResource 25 - §M$apsr25_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.26.yes:1 "§YResource 26 - §GIS PRESENT§!§!"
+ apsr.988.26.yes.tooltip:1 "§YResource 26 - §M$apsr26_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.26.no:1 "§YResource 26 - §RIS ABSENT§!§!"
+ apsr.988.26.no.tooltip:1 "§YResource 26 - §M$apsr26_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.27.yes:1 "§YResource 27 - §GIS PRESENT§!§!"
+ apsr.988.27.yes.tooltip:1 "§YResource 27 - §M$apsr27_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.27.no:1 "§YResource 27 - §RIS ABSENT§!§!"
+ apsr.988.27.no.tooltip:1 "§YResource 27 - §M$apsr27_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.28.yes:1 "§YResource 28 - §GIS PRESENT§!§!"
+ apsr.988.28.yes.tooltip:1 "§YResource 28 - §M$apsr28_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.28.no:1 "§YResource 28 - §RIS ABSENT§!§!"
+ apsr.988.28.no.tooltip:1 "§YResource 28 - §M$apsr28_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.29.yes:1 "§YResource 29 - §GIS PRESENT§!§!"
+ apsr.988.29.yes.tooltip:1 "§YResource 29 - §M$apsr29_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.29.no:1 "§YResource 29 - §RIS ABSENT§!§!"
+ apsr.988.29.no.tooltip:1 "§YResource 29 - §M$apsr29_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ apsr.988.30.yes:1 "§YResource 30 - §GIS PRESENT§!§!"
+ apsr.988.30.yes.tooltip:1 "§YResource 30 - §M$apsr30_planet_modifier$§! - §Gis present§! in this Galaxy. Press the button to remove this resource from the map.§!"
+ apsr.988.30.no:1 "§YResource 30 - §RIS ABSENT§!§!"
+ apsr.988.30.no.tooltip:1 "§YResource 30 - §M$apsr30_planet_modifier$§! - §Ris absent§! from this Galaxy. Press the button to generate this resource on the map.§!"
+ 
+ 
+ 
+ apsr.988.25.not.ready:1 "§RSOON§!"
+ apsr.988.25.not.ready.tooltip:1 "§YResource 25 is not ready yet§!"
+ apsr.988.26.not.ready:1 "§RSOON§!"
+ apsr.988.26.not.ready.tooltip:1 "§YResource 26 is not ready yet§!"
+ apsr.988.27.not.ready:1 "§RSOON§!"
+ apsr.988.27.not.ready.tooltip:1 "§YResource 27 is not ready yet§!"
+ apsr.988.28.not.ready:1 "§RSOON§!"
+ apsr.988.28.not.ready.tooltip:1 "§YResource 28 is not ready yet§!"
+ apsr.988.29.not.ready:1 "§RSOON§!"
+ apsr.988.29.not.ready.tooltip:1 "§YResource 29 is not ready yet§!"
+ apsr.988.30.not.ready:1 "§RSOON§!"
+ apsr.988.30.not.ready.tooltip:1 "§YResource 30 is not ready yet§!"
+ 
+ 
+  
+ 
+ # После выбора генерации - вопрос нужны ли аномалии на ресурсы, которые не появились
+ 
+ apsr.995.title:0 "$apsr.997.title$"
+ apsr.995.desc:0 "§YShould resources spawn at mid-game after a lifeless world is terraformed, or an event is triggered?§!"
+ 
+ apsr.995.may.spawn:1 "Yes"
+ apsr.995.may.spawn.tooltip:1 "Resources that are not present at the start can appear as a result of terraforming or of an event"
+ 
+ apsr.995.not.spawn:1 "No"
+ apsr.995.not.spawn.tooltip:1 "Resource number is final and immutable"
+
+ 
+ 
+ # Сообщение с предупреждением, если выбран режим "Битва Столиц" и ресурсов не хватает 
+ 
+ apsr.991.title:0 "§RCAUTION§!"
+ apsr.991.desc:0 "§RCaution! The number of players is more than the number of resources! In this case, some players will be left without resources!§!"
+ apsr.991.button:0 "Okay"
+
+ 
+ 
+ # Справка
+
+ apsr.987.title:0 "FAQ"
+ apsr.987.desc_intro:0 "§WHere are answers to the main questions asked by players on the modification of APSR. Choose your question below.\nI take this opportunity to inform you that the mod development team needs people to §Pprogram new features§!, §Bcreate graphic elements§!, §Hwrite the texts§! and §Gtranslate the mod§!. If you wish to help, join our discord group §Y(link in the description on the mod page on the Workshop)§!, and write what you want to help with.\nSince the main language of developers is Russian, be prepared for our bad English.\nAny help will be welcome.§!"
+ apsr.987.desc_q1:0 "§WThe mod adds §Gup to 24 unique resources§! on the map, which appear on Gaia or Relic worlds. These resources are used for constructing special buildings. Also, with the maximum improvement of the resource extraction building, you can get...\nSorry, that would be a spoiler. You'll have to play and see for yourself.§!"
+ apsr.987.desc_q2:0 "§WThis icon designates a special resource - £apsr_knowledge£ §M$apsr_knowledge$§!. It can be obtained §Ronly§! while using unique resources added by this mod.\nI'll have to say right away - it is impossible to see its numeric value, since knowledge is §Yquite difficult to quantify§!. Only some... creatures... are capable of that. \nBasically, they can only be numerically assessed §Hin one place§!, which you will encounter during the game. You will also be able to spend this knowledge there in exchange for powerful technologies.\nI can’t say anything else - you'll see for yourself.§!"
+ apsr.987.desc_q3:0 "§WAll resources are balanced (more or less). If you have comments, complaints, or suggestions, write to the §H«Ideas»§! discussion on the mod's page in §BSteam Workshop§! or in our Discord group.§!"
+ apsr.987.desc_q4:0 "§WThis mod has been tested (and more than once) on a vanilla game and a game with various modifications added. There are NO compatibility issues. If you crash, don’t write §R«Aaa, the mod doesn’t work!»§! in comments. First send the §Yerror.log§! file from the §Ylogs§! folder in the game's §Ydocuments§! to the authors, and then try disabling some §Poutdated mods§!. In any case, I can not find the reason if I do not have all the necessary information.§!"
+ apsr.987.desc_q5:0 "§WIf you want to support the project - first of all, offer your help. As I said, the mod development team needs people to §Pprogram new features§!, §Bcreate graphic elements§!, §Hwrite the texts§! and §Gtranslate the mod§!. If you wish to be part of the team, go to our discord group §Y(link in the description on the mod page on the Workshop)§!, and write what you want to help with. Since the main language of developers is Russian, be prepared for our bad English. Any help will be welcome.\nIf you want to help financially - contact §YDimuch62 [RUS]§!, and we'll discuss the possible ways to do it.§!"
+ 
+ apsr.987.back:1 "Back"
+ apsr.987.back.tooltip:1 "Return to previous window"
+ 
+ apsr.987.q1:1 "What does this mod do?"
+ apsr.987.q2:1 "What does the icon £apsr_knowledge£ mean?"
+ apsr.987.q3:1 "One of the resources is too powerful..."
+ apsr.987.q3.tooltip:1 "...or too weak. That is - the balance is broken."
+ apsr.987.q4:1 "Mod does not work..."
+ apsr.987.q4.tooltip:1 "...or crashes, or you found a bug, or something else."
+ apsr.987.q5:1 "I want to support the project"
+ apsr.987.q5.tooltip:1 "Absolutely unreal situation"
+ 
+ 
+ 

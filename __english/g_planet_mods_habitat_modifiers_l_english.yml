@@ -1,0 +1,144 @@
+﻿l_english:
+
+ ###################################################
+ # Habitat Modifiers
+ ###################################################
+ 
+ gpm_habitat_engineering:0 "Habitat Engineering"
+ gpm_habitat_engineering_desc:0 "A well designed habitat can accommodate everyone."
+ 
+ gpm_habitat_engineering_mastery:0 "Master Engineering"
+ gpm_habitat_engineering_mastery_desc:0 "Our mastery of megastructures has made constructing habitats trivial."
+ 
+ gpm_habitat_engineering_void_mastery:0 "Void Mastery Engineering"
+ gpm_habitat_engineering_void_mastery_desc:0 "With perfect understanding of the void and construction of megastructures within we have no problems designing the best habitats possible."
+ 
+ # 4 h
+ gpm_habitat_stadium:0 "Artificial Gravity Stadium"
+ gpm_habitat_stadium_desc:0 "On popular request this habitat has been outfitted with a large stadium. It's artificial gravity generators allow for a wide variety of exciting games to be played."
+ 
+ # 5 h
+ gpm_habitat_trade_docks:0 "Extended Trade Docks"
+ gpm_habitat_trade_docks_desc:0 "This habitat is very close to a busy trade route making it ideal as a trading stop or hub. As such the standard docks have been made larger and additional dock sections are installed for traders."
+ 
+ # 6 h
+ gpm_habitat_holonet_entertainment_systems:0 "Holonet Entertainment Systems"
+ gpm_habitat_holonet_entertainment_systems_desc:0 "Numerous entertainment systems have been installed throughout this habitat. It's holograms and hard-light emitters allow for a variety of tactile entertainment. Truly luxury for the mind and body!"
+ 
+ # 7 h
+ gpm_habitat_replicator_systems:0 "Replicator Systems"
+ gpm_habitat_replicator_systems_desc:0 "Instead of basic delivery systems for food and anything that might be needed this habitat is equipped with small but efficient matter-energy replicators. Simple tell it what you need and it will be created right in front of you! Truly we're living in the future!"
+ 
+
+ # new 1.9
+ # 8 h
+ gpm_habitat_spaceroute_hub:0 "Spaceroute Hub"
+ gpm_habitat_spaceroute_hub_desc:0 "This habitat serves as hub for various trade networks spanning multiple solar systems. It's ideal location allows several trading routes to converge here. "
+ 
+ # 9 h
+ gpm_habitat_extensive_moon_mining:0 "Extensive Moon Mining Operations"
+ gpm_habitat_extensive_moon_mining_desc:0 "This habitat has several of its docking bays converted to support extensive moon mining operations. "
+
+ # 10 h
+ gpm_habitat_asteroid_belt_mining:0 "Asteroid Belt Mining Operations"
+ gpm_habitat_asteroid_belt_mining_desc:0 "This habitat has several of its docking bays converted to support extensive Asteroid belt mining operations. "
+
+ # 11 h
+ gpm_habitat_frequent_thunderstorms_research:0 "Frequent Thunderstorms Research"
+ gpm_habitat_frequent_thunderstorms_research_desc:0 "This habitat supports several advanced science laboraties dedicated to studying the unique thunderstorms taking place on the planet below."
+
+ # 12 h
+ gpm_habitat_radioactive_mantle_mining:0 "Radioactive Mantle Mining"
+ gpm_habitat_radioactive_mantle_mining_desc:0 "This habitat has a powerful mining laser aimed at the surface bellow. Mining systems on the surface of the world collect the evaporated radioactive materials and ship them back to the station."
+
+ # 13 h
+ gpm_habitat_frequent_asteroid_flybys:0 "Frequent Asteroid Flybys"
+ gpm_habitat_frequent_asteroid_flybys_desc:0 "This habitat has several deflection system installed to prevent any of the hundreds of asteroids from hitting it as they fly by it every single day. The collisions of the asteroids on the primary deflection shield produce unique vapours that briefly light up duo to the sun's thermal radiation."
+
+ # 14 h
+ gpm_habitat_highly_charged_particle_collection:0 "Highly Charged Particle Collectors"
+ gpm_habitat_highly_charged_particle_collection_desc:0 "This habitat supports several advanced particle collectors dedicated to studying the rare particles being ejected out of the atmosphere from the planet below."
+
+ # 15 h
+ gpm_habitat_ancient_temple_expeditions:0 "Ancient Ruins Expeditions"
+ gpm_habitat_ancient_temple_expeditions_desc:0 "This habitat functions as a gathering place for several expeditions that take place every month dedicated to exploring and studying the various ruins found on the planet below."
+
+ # 16 h
+ gpm_habitat_experimental_food_recycling:0 "Experimental Food Recycling Systems"
+ gpm_habitat_experimental_food_recycling_desc:0 "An experimental food recycling system has been installed on this habitat that allows 99.7% of all waste to be recycles and converted into new supplies of food."
+
+ # 17 h
+ gpm_habitat_time_displaced_planet_research:0 "Time-Displaced Planetary Research"
+ gpm_habitat_time_displaced_planet_research_desc:0 "Several science teams are conducting research on the world below in order to better understand it's time-displaced properties."
+
+ # 18 h
+ gpm_habitat_surface_mining:0 "Surface Mining Expeditions"
+ gpm_habitat_surface_mining_desc:0 "Numerous mining expeditions are launched from this habitat to the planet below."
+
+ # 19 h
+ gpm_habitat_surface_expeditions:0 "Surface Exploration Expeditions"
+ gpm_habitat_surface_expeditions_desc:0 "The vast ruins and features on the world below are a momentous oppertunity for exploration. As such several exploration teams are using this habitat as their base of operations."
+
+ # 20 h
+ gpm_habitat_android_pleasure_palace_tourism:0 "Android Pleasure Palace Tourism"
+ gpm_habitat_android_pleasure_palace_tourism_desc:0 "The unique forms of 'entertainment' that the android pleasure palace offers on the planet below are a boon for our tourism sectors. As such this habitat is offering direct transportation to it."
+
+ # 21 h
+ gpm_habitat_delicious_ingredients_trade:0 "Spice Trade"
+ gpm_habitat_delicious_ingredients_trade_desc:0 "The luxurious and deliscious spices that the world bellow offers are fueling a very proffitable spice trade."
+
+ # 22 h
+ gpm_habitat_flat_terrain_racing:0 "Planetary Racing"
+ gpm_habitat_flat_terrain_racing_desc:0 "The unique flatness of the planet's surface below is perfect for racing. Several races are held each day."
+
+ # 23 h
+ gpm_habitat_strange_alien_eggs_restriction:0 "Forbidden Planet"
+ gpm_habitat_strange_alien_eggs_restriction_desc:0 "Duo to the extremely dangerous nature of the planet below no expeditions or travel is allowed to its surface."
+
+ # 24 h
+ gpm_habitat_hydrogen_extraction:0 "Planetary Hydrogen Extraction"
+ gpm_habitat_hydrogen_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of hydrogen gas from the planet below."
+
+ # 25 h
+ gpm_habitat_nitrogen_extraction:0 "Planetary Nitrogen Extraction"
+ gpm_habitat_nitrogen_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of nitrogen gas from the planet below."
+
+ # 26 h
+ gpm_habitat_chlorine_extraction:0 "Planetary Chlorine Extraction"
+ gpm_habitat_chlorine_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of chlorine gas from the planet below."
+
+ # 27 h
+ gpm_habitat_phosphorus_extraction:0 "Planetary Phosphorus Extraction"
+ gpm_habitat_phosphorus_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of phosphorus gas from the planet below."
+
+ # 28 h
+ gpm_habitat_sulfur_extraction:0 "Planetary Sulfur Extraction"
+ gpm_habitat_sulfur_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of sulfur gas from the planet below."
+
+ # 29 h
+ gpm_habitat_iron_extraction:0 "Planetary Iron Extraction"
+ gpm_habitat_iron_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of iron from the planet below."
+
+ # 30 h
+ gpm_habitat_titanium_extraction:0 "Planetary Titanium Extraction"
+ gpm_habitat_titanium_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of titanium from the planet below."
+
+ # 31 h
+ gpm_habitat_gold_extraction:0 "Planetary Gold Extraction"
+ gpm_habitat_gold_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of gold from the planet below."
+
+ # 32 h
+ gpm_habitat_platinum_extraction:0 "Planetary Platinum Extraction"
+ gpm_habitat_platinum_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of valuable platinum from the planet below."
+
+ # 33 h
+ gpm_habitat_mercury_extraction:0 "Planetary Mercury Extraction"
+ gpm_habitat_mercury_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of liquid mercury from the planet below."
+
+ # 34 h
+ gpm_habitat_cobalt_extraction:0 "Planetary Cobalt Extraction"
+ gpm_habitat_cobalt_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of cobalt from the planet below."
+
+ # 35 h
+ gpm_habitat_lithium_extraction:0 "Planetary Lithium Extraction"
+ gpm_habitat_lithium_extraction_desc:0 "Part of this habitat is being used to support the ongoing extraction of valuable lithium from the planet below."

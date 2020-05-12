@@ -1,0 +1,151 @@
+﻿l_french:
+
+ # Starless origin
+ originsextended_starless:0 "Starless"
+ originsextended_starless_desc:0 "Née sur une planète impitoyable, cette civilisation a grandi sans étoile dans son ciel, seulement l'obscurité inflexible d'un trou noir, noyant à jamais les paysages de leur monde dans l'obscurité."
+ originsextended_tooltip_starless:0 "Capital commence comme un §YTomb World§! l'étoile locale commence comme un §YTrou Noir§!\nLance la partie avec le trait §Y$trait_originsextended_starless$§!, donnant:\n  Habitabilité: §R-10%§!\n  £minerals£ Minéraux de £pops£ Travail: §G+10%§!"
+
+ # Starless trait
+ trait_originsextended_starless:0 "Starless"
+ trait_originsextended_starless_desc:0 "§LNée sans étoile, cette espèce trouve d'autres mondes avec des étoiles impitoyables à leur développement.§!"
+
+ # Chain 1 - Ex-colony (shattered world)
+ starless_site_shattered:0 "Restes Brisés"
+ starless_site_shattered_desc:0 "Les restes de cette planète brisée arborent ce qui semble être de petites colonies parsemant la surface de certains des plus gros morceaux dispersés. Une enquête plus approfondie est nécessaire."
+
+ starless.200.name:0 "Restes Brisés"
+ starless.200.desc:0 "Avec notre expansion dans l'espace interstellaire, nous avons pu jeter un œil plus large à notre propre système domestique. Il semble que certains des restes épars de §Y[starless_shattered.GetName]§! arbore les restes de petites colonies. Notre communauté scientifique nous demande de consacrer plus de temps à l'étude de ce phénomène."
+ starless.200.a:0 "Étrange."
+
+ starless.201.name:0 "En Grande Hâte"
+ starless.201.desc:0 "À première vue, il semble que les structures restantes des plus gros morceaux de §Y[starless_shattered.GetName]§! sont en effet les restes de colonies coloniales abandonnées depuis longtemps, apparemment rapidement, sans raison claire.\n\nCertains des restes de ces bâtiments sont tombés entre les morceaux brisés de §Y[starless_shattered.GetName]§!, et certains ont perdu pied et errent maintenant dans la bouche de §Y[Root.Capital.GetStarName]§!, mais la plupart sont assis sous des tonnes de poussière et autres restes."
+ starless.201.a:0 "Continue à creuser! Mais essayez de ne pas tomber..."
+
+ starless.202.name:0 "Omission"
+ starless.202.desc:0 "Déchiffrer la langue et les systèmes utilisés par ces anciens colons a confirmé nos soupçons que les efforts coloniaux de la colonie ont été abandonnés rapidement, laissant tout derrière. Apparemment §Y[starless_shattered.GetName]§! était autrefois un monde luxuriant, par contre chaud et sec, ce qui semble bizarre en tenant compte du système qu'il habite et de sa proximité du trous noirs .\n\nPeut-être que la poursuite de notre recherche pourrait produire plus de réponses?"
+ starless.202.a:0 "Curieux."
+
+ starless.203.name:0 "De Justesse"
+ starless.203.desc:0 "Le fait de fouiller les derniers vestiges des banques de données de la colonie a révélé que la colonie en était à ses premiers stades relativement près de l'effondrement de l'étoile en orbite. À quel moment §Y[Root.Capital.GetStarName]§! s'est effondré et a rapidement déchiré §Y[starless_shattered.GetName]§! en morceaux, mettant rapidement fin aux efforts de colonisation de la colonie.\n\nHeureusement, il semble que la colonie ait été évacuée à temps, après que les signes les plus graves de la disparition du système soient apparus. Cela explique également l'état dans lequel se trouvait la planète avant son effondrement, l'étoile en expansion rapide autour duquel elle tourné a généré beaucoup plus de chaleur, rendant la surface de la planète habitable. Il semble que la civilisation ait été si précipitée dans ses efforts pour coloniser la planète qu'elle n'a pas remarqué leur destin imminent, peut-être que quelque chose de plus important était dans leur esprit?"
+ starless.203.a:0 "Peut-être."
+
+ # Chain 2 - Rare crystals mining accident (broken world)
+ starless_site_broken:0 "Fissuré"
+ starless_site_broken_desc:0 "§Y[starless_broken.GetName]§! semble tracer son destin à autre chose que le trou noir central du système. Plus d'indices sont nécessaires pour trouver ce qui est arrivé à la planète."
+
+ starless.300.name:0 "Fissuré"
+ starless.300.desc:0 "En un coup d'œil, il semblerait que §Y[starless_broken.GetName]§! a été déchiré par §Y[Root.Capital.GetStarName]§!, mais une analyse préliminaire de la planète révèle qu'elle a peut-être succombé à son sort sans l'aide du trou noir, ou peut-être même avant lui. Il vaut peut-être la peine d'examiner la question avant de nous aventurer trop loin de notre système domestique."
+ starless.300.a:0 "Intrigant."
+
+ starless.301.name:0 "Grande Opération"
+ starless.301.desc:0 "The first digging operations on the remains of §Y[starless_broken.GetName]§! reveal what appears to be ancient, planetary-scale drilling equipment. Most of it with some sort of orbital positioning systems, it is curious that they lay strewn about the surface of the planet, most of it in rough shape, even for it being some few thousand years old.\n\nBy the evidence of large craters, tunnel networks, and huge, but neatly carved, crevices exposed by the planet's broken surface, we believe that the equipment had some sort of terraforming or mining purpose, but it was certainly done after the formation of the black hole, which is itself a few million years old."
+ starless.301.a:0 "Continue à creuser!"
+
+ starless.302.name:0 "Sur-percé"
+ starless.302.desc:0 "Une analyse et des fouilles plus poussées ont prouvé que l'équipement trouvé était bien du matériel d'exploitation et de forage. D'après ce que nous pouvons distinguer à partir d'anciens enregistrements et journaux traduits, §Y[starless_broken.GetName]§! une fois, il y avait d'abondantes quantités de ressources très rares en lui, ce qui a provoqué ses énormes opérations minières.\n\nCependant, peu de temps avant que l'équipement et la planète ne cèdent, déclenchant une chaîne catastrophique de dysfonctionnements d'équipement et de déstabilisation tectonique, très probablement la raison pour laquelle le matériel accidenté que nous avons trouvé a été détruit.\n\nLa planète, finalement forée et usée, s'est disloquée, provoquant un abandon de l'exploitation minière avant que le cœur de la planète n'explose sous la pression."
+ starless.302.a:0 "Boom!"
+
+ starless.303.name:0 "Ce Qui Reste"
+ starless.303.desc:0 "Creusant dans les derniers vestiges de l'ancienne exploitation minière de §Y[starless_broken.GetName]§!, nous avons pu trouver certaines de ces fameuses ressources rares que certains empires étaient si désespérés d'avoir eux-mêmes. Bien que la plupart aient déjà disparu, ce que nous avons pu trouver, combiné à la mise au rebut de tous les anciens équipements, laisse un stock de ressources pratique."
+ starless.303.a:0 "Pratique en effet."
+
+ # Chain 3 - Abandoned outpost (frozen barren world)
+ starless_site_frozen:0 "Avant-poste Isolé"
+ starless_site_frozen_desc:0 "Un bâtiment abandonné quelconque se trouve sur la surface gelée de §Y[starless_barrencold.GetName]§!, mendiant pratiquement des fouilles archéologiques."
+
+ starless.400.name:0 "Avant-poste Isolé"
+ starless.400.desc:0 "Nos progrès scientifiques nous permettant de partir et d'explorer au-delà de notre système domestique ont en fait révélé quelque chose de très intéressant sur le désert gelé qu'est §Y[starless_barrencold.GetName]§!, apparemment, la surface de la planète abrite une sorte de bâtiment abandonné. Une enquête plus approfondie est nécessaire afin de déduire ce que cette étrange structure détient, en particulier si près de notre planète d'origine."
+ starless.400.a:0 "Curieux."
+
+ starless.401.name:0 "Laboratoire"
+ starless.401.desc:0 "Après avoir finalement réussi à pénétrer à l'intérieur de la structure, qui elle-même semble assez rudimentaire, il est bien évident que ce bâtiment servait comme une sorte d'avant-poste de recherche à distance. Ordinateurs anciens, banques de données et divers assortiments d'équipements de recherche.\n\nCependant, ils ne disposent actuellement d'aucun indice. L'équipement et les matériaux à portée de main semblent être des équipements de recherche de base, rien qui nécessiterait une station éloignée et gelée dans le système d'un trou noir."
+ starless.401.a:0 "Continue à creuser!"
+
+ starless.402.name:0 "Données, Données, Données"
+ starless.402.desc:0 "Déchiffrer la langue de cette ancienne station extraterrestre révèle que seuls quelques chercheurs, environ 3 ou 4, ont réellement travaillé la station, et ne l'ont presque jamais quittée. En examinant les banques de données disponibles, nous avons pu trouver des preuves que cet avant-poste avait une sorte de but de collecte de données. Des millions de graphiques, de graphiques, de feuilles de calcul et de points de données assez aléatoires sur tout et n'importe quoi, les fluctuations des schémas gravitationnels de §Y[Root.Capital.GetStarName]§!, La luminosité d'étoiles à des milliards d'années-lumière, la qualité du sol pendant plusieurs décennies, ou à quel point chaque scientifique était attiré par sa chaise (sérieusement).\n\nLa théorie actuelle est que ce sont des fous qui ont construit leur propre station de recherche pour des raisons qui ne peuvent être imaginées."
+ starless.402.a:0 "Étrange."
+
+ starless.403.name:0 "En Effet Fou"
+ starless.403.desc:0 "En creusant davantage, ces scientifiques étaient en effet fous. Ou plus précisément, sont devenu fou. En regardant les modèles de leurs données collectées, elles sont devenues très sporadiques et sans fondement au cours des dernières décennies de la durée de vie de l'avant-poste, avant que les scientifiques, rendus fous par l'espace confiné et la vie monotone finissent par se suicider.\n\nNous avons mais pour savoir exactement pourquoi ils étaient ici en premier lieu, cependant."
+ starless.403.a:0 "Voyez ce que vous pouvez trouver d'autre."
+
+ starless.404.name:0 "Exilé"
+ starless.404.desc:0 "Enfin, trouvons les premiers rapports de ces tas de savants fous nous indique qu'ils ont été exilés. Scientifiques auparavant réputés sur la planète capitale de leur empire, ils ont été chassés lorsqu'ils ont avancé une théorie selon laquelle certains signaux aléatoires du sous-espace qu'ils avaient captés étaient en fait les sons de guerre d'une race extra-galactique venant les tuer tous (pouvez-vous imaginer?!).\n\nPortraits de fous et de paranoïaques, les scientifiques ont été discrédités et expulsés de leur empire, regroupant finalement tout ce qu'ils avaient ensemble pour construire ce petit avant-poste éloigné dans l'endroit le moins suspect; la surface stérile, froide, désolé et friche de §Y[starless_barrencold.GetName]§! où ils ont attendu leurs jours à la recherche de ces prétendus envahisseurs extra-galactiques."
+ starless.404.a:0 "Que s'est-il passé ensuite?"
+
+ starless.405.name:0 "Sans Laisser de Trace"
+ starless.405.desc:0 "Les derniers jours de fonctionnement de l'avant-poste sont un peu en désordre dans les archives, mais apparemment, les envahisseurs non seulement existaient, mais sont effectivement venus dans cette galaxie. Allant directement a l'avant-poste de §Y[starless_barrencold.GetName]§!, ils étaient apparemment attirés par tous les moyens que les scientifiques utilisaient pour trouver les extraterrestres extra-galactiques. Mais le moment où ils sont finalement arrivés au système (apparemment avec des milliers de navires), a fini par être le même moment que §Y[Root.Capital.GetStarName]§! s'est effondré en tant que trou noir!\n\nAvalant toute la flotte extraterrestre, pour ne plus jamais être revu.\n\nCommodément, il n'y avait donc aucun signe de l'existence de ces extraterrestres extra-galactiques, ce qui a conduit aux suicides des scientifiques alors qu'ils sombraient dans la folie dans leurs efforts infructueux de convaincre leur monde natal qu'ils n'étaient, en effet, pas fous."
+ starless.405.a:0 "Quel désordre."
+
+ # Starborn origin
+ originsextended_starborn:0 "Starborn"
+ originsextended_starborn_desc:0 "Cette espèce a toujours, consciemment ou non, aspiré à traverser le vide entre les étoiles et, désireuse de le faire, s'y est préparée à l'avance."
+ originsextended_tooltip_starborn:0 "Lance la partie avec un §YNavire de Colonie§! supplémentaire\nLance la partie avec le trait §Y$trait_originsextended_starborn$§!, donnant:\n  Croissance Pop d'Immigration: §G+25%§!\n  Coût de Réinstallation: §G-25%§!\n  Habitabilité: §G+10%§!"
+
+ # Starborn trait
+ trait_originsextended_starborn:0 "Starborn"
+ trait_originsextended_starborn_desc:0 "§LCette espèce a toujours, consciemment ou non, aspiré à traverser le vide entre les étoiles.§!\n"
+
+ # Colony ship event
+ starborn.0.name:0 "Navire de Colonie Terminé"
+ starborn.0.desc:0 "Désireux de lancer enfin notre avancée dans l'espace, notre premier navire de colonie a terminé sa construction et attend maintenant patiemment la bonne planète à coloniser."
+ starborn.0.option:0 "Excellent!"
+ starborn.0.tooltip:0 "Un §YNavire de Colonie§! supplémentaire est prêt à la starbase de §Y[Root.Capital.GetStarName]§!."
+
+ # Colony formed event
+ starborn.1.name:0 "Colony Founded"
+ starborn.1.desc:0 "In our species' hearts and minds, adventuring into space is always what we have been destined to do. The foundation of a new colony has caused celebrations to erupt across §Y[Root.Planet.GetName]§!'s new settlements, and our people eagerly await our next advance in space."
+ starborn.1.option:0 "Excellent!"
+
+ new_starborn_colony:0 "Nouvelle Colonie"
+ new_starborn_colony_desc:0 "Notre peuple, toujours à la recherche des étoiles, célèbre la fondation de notre nouvelle colonie, attendant avec impatience notre prochaine aventure dans le cosmos."
+
+ # Edict
+ starborn.2.name:0 "Navire de Colonie Terminé"
+ starborn.2.desc:0 "Désireux d'accélérer notre progression dans l'espace, un vaisseau de colonie supplémentaire a terminé sa construction et attend maintenant patiemment la prochaine planète à coloniser."
+ starborn.2.option:0 "Excellent!"
+ starborn.2.tooltip:0 "Un §YNavire de Colonie§! supplémentaire est prêt à la starbase de §Y[Root.Capital.GetStarName]§!."
+
+ edict_starborn_reach_stars:0 "Ambition: Atteignant les Étoiles"
+ edict_starborn_reach_stars_desc:0 "Notre espèce a toujours longtemps cherché les étoiles, maintenant qu'elles sont à notre portée, nous pouvons profiter de leurs ambitions et les célébrer en construisant un nouveau navire de colonie et en organisant des festivals à travers nos mondes."
+
+ # psi origin
+ originsextended_psi:0 "Touché par le Suaire"
+ originsextended_psi_desc:0 "§MCette origine nécessite le DLC 'Utopia.'§!\n\nIssue d'une connexion plus profonde et plus naturelle avec l'entité mystérieuse qu'est le Shroud, cette espèce a des capacités psioniques latentes, qui sont dormantes dans la plupart de ses membres, mais peuvent rarement se manifester chez certains dirigeants."
+ originsextended_tooltip_psi:0 "Lance la partie avec le trait §Y$trait_latent_psionic$§!, donnant:\n  Recherche £physics£ de Physique de £pops£ Travail: §G+5%§!\n  Recherche £society£ de Société de £pops£ Travail: §G+5%§!\n  Recherche £engineering£ d'Ingénierie de £pops£ Travail: §G+5%§!\n  £energy£ Crédits d'Énergie de £pops£ Travail: §G+5%§!"
+ psi.0.name:0 "Touché par le Suaire"
+ psi.0.desc:0 "En raison des origines longues et compliquées des espèces, nous avons découvert que la plupart des membres de nos espèces présentent un potentiel psionique mineur, que notre empire est prêt à embrasser à un niveau beaucoup plus large."
+ psi.0.option:0 "Un développement intéressant."
+ psi.0.tooltip:0 "Gagnez la tech §Y$tech_psionic_theory$§!, déverrouillant l'atouts de l'ascension §Y$ap_mind_over_matter$§! à choisir après avoir déverrouillé un autre atouts de l'ascension"
+
+ # cyb origin
+ originsextended_cyb:0 "Manipulation Cybernétique"
+ originsextended_cyb_desc:0 "§MCette origine nécessite le DLC 'Utopia.'§!\n\nPendant de nombreux âges avant leurs voyages dans l'espace, cette espèce a adopté la cybernétique à une telle échelle que ses membres peuvent être considérés comme des cyborgs, imprégnant tous les niveaux de leur société."
+ originsextended_tooltip_cyb:0 "Lance la partie avec le trait §Y$trait_cybernetic$§!, donnant:\n  Habitabilité: §G+20%§!\n  Dommages d'Armée: §G+10%§!\n  Durée de vie de leaders: §G+40§! ans"
+ cyb.0.name:0 "Manipulation Cybernétique"
+ cyb.0.desc:0 "En raison des origines longues et compliquées des espèces, la plupart des membres de nos espèces présentent un certain niveau d'augmentation cybernétique, ainsi que notre capacité à construire des pops ouvriers droïdes, que notre empire est prêt à embrasser à un niveau beaucoup plus large."
+ cyb.0.option:0 "Un développement intéressant."
+ cyb.0.tooltip:0 "Gagnez la tech §Y$tech_droid_workers$§!, déverrouillant l'atouts de l'ascension §Y$ap_the_flesh_is_weak$§! à choisir après avoir déverrouillé un autre atouts de l'ascension"
+
+ # host origin
+ originsextended_host:0 "Hôtes de Limace Cérébrale"
+ originsextended_host_desc:0 "§MTCette origine nécessite le DLC 'Distant Stars.'§!\n\nDepuis aussi longtemps qu'ils se souviennent, cette espèce a apprécié la présence d'une limace utile qui se fixe au tronc cérébral de son hôte en tant que symbiote neuronal."
+ originsextended_tooltip_host:0 "Lance la partie avec le trait §Y$trait_brainslug$§!, donnant:\n  Recherche £engineering£ d'Ingénierie de £pops£ Travail: §G+10%§!\n  Recherche £physics£ de Physique de £pops£ Travail: §G+10%§!\n  Recherche £society£ de Société de £pops£ Travail: §G+10%§!\n  £unity£ Unité de £pops£ Travail: §G+10%§!\n  Vitesse de croissance de Pop: §R-25%§!"
+
+ # farming origin
+ originsextended_farming:0 "Élevage de Xeno"
+ originsextended_farming_desc:0 "§MCette origine nécessite le DLC 'Utopia.'§!\n\nUne seconde espèce consiste d'une partie intégrante des techniques de production alimentaire de cette civilisation, notamment sous forme d'élevage. Ils sont savoureux, délicieux et leurs fonctions cérébrales supérieures ont été modifiées de manière sélective pour créer une sorte de bétail inoffensif qui peut prendre soin de lui-même, sans le besoin embêtant d'interaction sociale ou d'autodétermination."
+ originsextended_tooltip_farming:0 "Lance la partie avec §Y5§! £pop£ Pops d'une autre espèce de bétail docile et délicieuse"
+
+ # engineered origin
+ originsextended_engineered:0 "Perfection Génétique Conçue"
+ originsextended_engineered_desc:0 "Cette espèce a, au début de sa vie, travaillé à réduire ses imperfections génétiques et ses impuretés, leur permettant de se concentrer sur des traits plus positifs et la constitution génétique de l'ensemble de leur espèce."
+ originsextended_tooltip_engineered:0 "Lance la partie avec §Y2§! points de trait supplémentaires."
+
+ # engineered trait
+ trait_originsextended_engineered:0 "Perfection Génétique"
+ trait_originsextended_engineered_desc:0 "§LTravaillant activement à réduire ses imperfections génétiques et ses impuretés, cette espèce a ainsi pu se concentrer davantage sur les traits positifs.§!"
+
+ # core origin
+ originsextended_core:0 "Coeur Dormant"
+ originsextended_core_desc:0 "§MCette origine nécessite le DLC 'Synthetic Dawn.'§!\n\nL'ancienne conscience centrale de cette intelligence de machine n'a pas utilisé la capacité de tous ses drones de travail et de traitement et a encore des modifications qu'elle pourrait adopter plus tard."

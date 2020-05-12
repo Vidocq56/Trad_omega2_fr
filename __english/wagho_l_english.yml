@@ -1,0 +1,729 @@
+﻿l_english:
+
+ ###########################
+ ### Made by Atoombom007 ###
+ ###########################
+
+###########################################################
+###														###
+###						ORGANIC PLAGUE  	    		###
+###														###
+###########################################################
+
+ #HARS-20 crisis severity
+ wagho_trigger.01.name:"Medical Emergency"
+ wagho_trigger.01.desc:"[Root.waghotrigger01]"
+ wagho_trigger.01.0:"We must help the travellers."
+ wagho_trigger.01.0.tooltip:"Choosing this option enables §YThe Wandering Ghost§! event chain to be a §Yplayer only§! event.\n\n§HRecommended for§!:\n- Singleplayer Campaign (only Human player)\n\n£wagho_machine_intelligence£ Machine variant of the §YThe Wandering Ghost§! virus will not appear when £wagho_hive_mind£ Hive Mind is selected as the empire authority of the player in singleplayer."
+ wagho_trigger.01.1:"Let them go on their way."
+ wagho_trigger.01.1.tooltip:"Choosing this option enables §YThe Wandering Ghost§! event chain to be a §Ygalactic event§!.\n\n§HRecommended for§!:\n - Multiplayer (Multiple human players + AI empires)\n- Singleplayer Campaign (Single player + AI empires)"
+
+ #edicts
+ edict_wagho_event_quarantine:"Quarantine"
+ edict_wagho_event_quarantine_desc:"Install an empire wide quarantine, in an attempt to slow down the infection rate of the disease."
+
+ tech_wagho_event_edict_quarantine_title:"§HUnlock Empire Edict:§! Quarantine"
+ tech_wagho_event_edict_quarantine_desc:"§HEmpire Edict:§!\nThe government issues an empire wide quarantine, trying to contain the spread of the virus by limiting citizen movement and production chains. This lightly affects your economy, but for a higher cost."
+ 
+ edict_wagho_event_lockdown:"Emergency Lockdown"
+ edict_wagho_event_lockdown_desc:"Install an empire wide lockdown, a more intense attempt to slow down the infection rate of the disease. This moderately interrupts your economy, but for a lower cost."
+
+ tech_wagho_event_enable_lockdown_title:"§HUnlock Empire Edict:§! Emergency Lockdown"
+ tech_wagho_event_enable_lockdown_desc:"§HEmpire Edict:§!\nInstall an empire wide lockdown, in a further attempt to slow down the infection rate of the disease."
+
+ #decisions
+ decision_wagho_event_quarantine_planet:"Quarantine Protectionate"
+ decision_wagho_event_quarantine_planet_desc:"Install a planet wide quarantine to prevent the disease from spreading and lowering the chance of people dying. Concurrently, all medical personnel will coordinate with local authorities to prepare the population for a massive vaccination program."
+
+ decision_popgrind:"Collective Cleansing"
+ decision_popgrind_desc:"Gather all infected drones and grind them into nutrients to slow down infection rate by a small margin."
+
+ #Buildings
+ building_wagho_monument:"§G[Root.waghomonument]§!"
+ building_wagho_monument_desc:"[Root.waghobuildingdesc] during the §RHARS-20§! crisis."
+
+ #modifiers
+ wagho_event_lvl_1:"Virally Known"
+ wagho_event_lvl_1_desc:"An unknown disease has been discovered on the planet, causing general unrest among the population."
+ 
+ wagho_event_lvl_2:"Going Viral"
+ wagho_event_lvl_2_desc:"The presence of this deadly disease is causing great discomfort among the populace."
+ 
+ wagho_event_lvl_3:"World Famous"
+ wagho_event_lvl_3_desc:"The disease cannot be seen, but it is everywhere you look."
+
+ popgrinder:"Collective Cleansing"
+ popgrinder_desc:"Infected drones on this planet are being purged, processed and repackaged as nutrients to still the Hunger of the Hive."
+
+ divinepunishment:"Divine Punishment!"
+ divinepunishment_desc:"§YThe Gods have punished us for our sinful behaviour!§!\nThe people on this planet think the virus is a punishment from the divine beings, as we weren't able to protect ourselves in time."
+
+ quarantined_planet:"Quarantine"
+ quarantined_planet_desc:"The planet is currently put under quarantine: people cannot leave nor enter, only medical specialists are allowed on the planet surface."
+
+ wagho_event_quarantine_fail:"If you're too late, all of the population will die."
+
+ wagho_event_cure_planet:"Deploying Medical Aid Teams"
+ wagho_event_cure_planet_DESC:"Allow medical staff and equipment land on the surface to vaccinate the population against §RHARS-20§!."
+
+ wagho_event_cured_planet:"Viral Protection"
+ wagho_event_cured_planet_desc:"As all planetary medical staff and equipment were collected to vaccinate the population against §RHARS-20§!, it causes a slight drain on the social studies' output for some time until things return to normal."
+
+ #pop categories
+ pop_cat_infected:"Self-isolated citizen"
+ pop_cat_infected_plural:"Self-isolated citizens"
+ pop_cat_infected_desc:"People that are infected by the disease should remain at home."
+
+ job_infected:"Infected Citizen"
+ job_infected_plural:"Infected Citizens"
+ job_infected_desc:"This citizen is currently affected by the §RHARS-20§! virus, is not able to work and must remain at home."
+
+ mod_job_infected_add:"Self-isolated citizen"
+
+ # plague stats event chain
+ wagho_event_count_title:0 "The Wandering Ghost"
+ wagho_event_count_desc:0 "[Root.waghoeventcount]"
+
+ wagho_event_infected_planet:0 "Planets infected"
+ wagho_event_infected_pop_count:0 "Infected people in empire (x1.000.000)"
+ wagho_event_killed_pop_count:0 "People died in empire (x1.000.000)"
+ wagho_event_cured_pop_count:0 "People cured in empire (x1.000.000)"
+ wagho_event_infected_planet_total:0 "Total planets infected"
+ wagho_event_infected_pop_count_total:0 "Total infected people (x1.000.000)"
+ wagho_event_killed_pop_count_total:0 "Total people died (x1.000.000)"
+ wagho_event_cured_pop_count_total:0 "Total people cured (x1.000.000)"
+
+ #technologies
+ tech_wagho_event_study_1:"Viral Agent Analysers"
+ tech_wagho_event_study_1_desc:"In order to understand the nature of the virus, new microscopes have to be designed."
+
+ tech_wagho_event_study_2:"Viral Agent Discriminators"
+ tech_wagho_event_study_2_desc:"Previous advances in lensing optimalizations made way to enhanced resolutions of this disastrous disease."
+
+ tech_wagho_event_study_3:"Viral Agent Deconstruction"
+ tech_wagho_event_study_3_desc:"The last step in understanding the specific receptors and chemical targets of the disease."
+
+ tech_wagho_event_enable_quarantine_title:"§HUnlock Planet Decision:§! Viral Quarantine"
+ tech_wagho_event_enable_quarantine_desc:"§HPlanetary Decision:§!\nAllows medical personnel to set up a quarantine on a planet and administer effective intravenous antiviral agents into the bodies of afflicted citizens."
+
+
+
+ #wagho 1-50
+ wagho_event.1000.name:"SCOPES TEST"
+ wagho_event.1000.desc:"Printing the current scopes:\n\nThis: [This.GetName]\n- This's Solar System: [This.GetStarName]\n- This's Planet: [This.Planet.GetName]\n- This's Sector: [This.Sector.GetName]\n- Prev: [Prev.GetName]\n- Prev's Solar System: [Prev.GetStarName]\n- Prev's Planet: [Prev.Planet.GetName]\n- Prev's Sector: [Prev.Sector.GetName]\n- PrevPrev: [Prev.Prev.GetName]\n- PrevPrev's Solar System: [Prev.Prev.GetStarName]\n- PrevPrev's Planet: [Prev.Prev.Planet.GetName]\n- PrevPrev's Sector: [Prev.Prev.Sector.GetName]\n- PrevPrevPrev: [Prev.Prev.Prev.GetName]\n- PrevPrevPrev's Solar System: [Prev.Prev.Prev.GetStarName]\n- PrevPrevPrev's Planet: [Prev.Prev.Prev.Planet.GetName]\n- PrevPrevPrev's Sector: [Prev.Prev.Prev.Sector.GetName]\n- PrevPrevPrevPrev: [Prev.Prev.Prev.Prev.GetName]\n- PrevPrevPrevPrev's Solar System: [Prev.Prev.Prev.Prev.GetStarName]\n- PrevPrevPrevPrev's Planet: [Prev.Prev.Prev.Prev.Planet.GetName]\n- PrevPrevPrevPrev's Sector: [Prev.Prev.Prev.Prev.Sector.GetName]\n- From: [From.GetName]\n-From's Solar System: [From.GetStarName]\n- From's Owner's Name: [From.Owner.GetName]\n- From's Owner's Capital's Name: [From.Owner.Capital.GetName]\n- FromFrom: [From.From.GetName]\n- FromFrom's Solar System: [From.From.GetStarName]\n- FromFrom's Owner's Name: [From.Owner.GetName]\n- FromFrom's Owner's Capital's Name: [From.From.Owner.Capital.GetName]\n- FromFromFrom: [From.From.From.GetName]\n- FromFromFrom's Solar System: [From.From.From.GetStarName]\n- FromFromFrom's Owner's Name: [From.From.From.Owner.GetName]\n- FromFromFrom's Owner's Capital's Name: [From.From.From.Owner.Capital.GetName]\n- FromFromFromFrom: [From.From.From.From.GetName]\n- FromFromFromFrom's Solar System: [From.From.From.From.GetStarName]\n- FromFromFromFrom's Owner's Name: [From.From.From.From.Owner.GetName]\n- FromFromFromFrom's Owner's Capital's Name: [From.From.From.From.Owner.Capital.GetName]\n- Root: [Root.GetName]\n- Root's Solar System: [Root.GetStarName]\n- Root's Owner's Name: [Root.Owner.GetName]\n- Root's Owner's Capital's Name: [Root.Owner.Capital.GetName]\n\nThat's all!"
+
+
+#######################
+#  Project Completed  #
+#######################
+ wagho_event.11.name:"Time To Heal"
+ wagho_event.11.desc:"Our operation on [wagho_event_special_project_planet.GetName] was a succes!\n\nAfter the medical personnel landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all its citizens. Thanks to our swift action, we saved the inhabitants of one planet from chaos. However, our medical staff must press on if we want to stop the virus from spreading."
+ wagho_event.11.desc.mach:"The operation on [wagho_event_special_project_planet.GetName] was completed within the estimated time parameters.\n\nAfter our drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all the organics. The virus will spread among other organics unless we interfere. The virus must be terminated."
+ wagho_event.11.desc.mach.serv:"The operation on [wagho_event_special_project_planet.GetName] was completed within the estimated time parameters.\n\nAfter our drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all the organics. The virus will spread among other organics unless we interfere. The virus must be terminated."
+ wagho_event.11.desc.mach.term:"The operation on [wagho_event_special_project_planet.GetName] was completed within the estimated time parameters.\n\nAfter our drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all the organics. The virus will spread among other organics unless we interfere. The virus must be terminated."
+ wagho_event.11.desc.mach.ass:"The operation on [wagho_event_special_project_planet.GetName] was completed within the estimated time parameters.\n\nAfter our drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all the organics. The virus will spread among other organics unless we interfere. The virus must be terminated."
+ wagho_event.11.desc.hive:"Our operation on [wagho_event_special_project_planet.GetName] was completed.\n\nAfter the medical drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all our drones. We have prevented chaos in the minds of our drones. However, our medical drones must speed along on if the Mind wants to stop the virus from spreading."
+wagho_event.11.desc.hive.dev:"Our operation on [wagho_event_special_project_planet.GetName] was completed.\n\nAfter the medical drones landed on the planet, improvised hospitalization centres were built all over the planet to provide the vaccine to all our drones. We have prevented chaos in the minds of our drones. However, our medical drones must speed along on if the Mind wants to stop the virus from spreading."
+ wagho_event.11.0:"Good work! Now, move on!"
+ wagho_event.11.mach:"Acknowledged. Rerouting objectives."
+ wagho_event.11.hive:"The Mind understands."
+
+ wagho_event.11.custom:"§GThe vaccination was a success!§!\nAll the inhabitants on [wagho_event_special_project_planet.GetName] are vaccinated, thus preventing them from being infected again. This planet is §Ypermanently§! protected against the virus."
+
+ wagho_event.12.name:"Medical Malus"
+ wagho_event.12.desc:"Our medics weren't fast enough to provide medical care to the population...\n\n§RAll people on the planet died§!."
+ wagho_event.12.desc.mach:"The medical drones assigned did not perform their objective in time.\n\n§RAll organic life perished on the planet§!."
+ wagho_event.12.desc.hive:"Our medical drones were not working in sync in order to provide medical care to the infected drones.\n\n§RAll drones on the planet died§!."
+ wagho_event.12.0:"What a waste..."
+ wagho_event.12.mach:"They are expendable."
+ wagho_event.12.hive:"Our lost drones..."
+
+
+############################
+#    wagho event 49-60     #
+############################
+ wagho_event.49.name:"The Wandering Ghost I"
+ #organic
+ wagho_event.49.desc:"Last week, one of our administrators of External Planetary Affairs got his hands on some very disturbing news. Apparently, there have been rumours of a sharp increase in hospitalized people across different empires in the galaxy."
+ #intro mach
+ wagho_event.49.desc.mach.basic:"0.4 cycles ago, §Y[Root.wagho_random_drone]§! allocated to §YAnalysis Core 5§! hacked into communication channels of surrounding empires."
+ #mach
+ wagho_event.49.desc.mach:"$wagho_event.49.desc.mach.basic$\n\nImmediate termination would follow, but was infinitely delayed after §Y[Root.wagho_random_drone]§! delivered a report where multiple empires mentioned cases of a unknown biological disease."
+ #serv
+ wagho_event.49.desc.mach.serv:"$wagho_event.49.desc.mach.basic$\n\nAlthough §Y[Root.wagho_random_drone]§! was reprimanded, it reported there were critical messages relayed between various organic empires. These messages contained medical reports of an unknown dangerous biological disease."
+ #terminator
+ wagho_event.49.desc.mach.term:"$wagho_event.49.desc.mach.basic$\n\nImmediate termination of §Y[Root.wagho_random_drone]§! followed through core extraction. Analysis gained insight into a communication report where several inferior organic empires were plagued an unknown biological disease."
+ #assimilator
+ wagho_event.49.desc.mach.ass:"$wagho_event.49.desc.mach.basic$\n\nControl and reboot commands were succesfully sent to §Y[Root.wagho_random_drone]§! and the Central Nexus regained control. Before rebooting its core, we extracted communication files describing the presence of unknown viral agents among different organic populations."
+ #hive intro
+ wagho_event.49.desc.hive.basic:"Last week, one of our administrator drones of External Planetary Affairs was contacted by drones independent of the Mind."
+ #hive
+ wagho_event.49.desc.hive:"$wagho_event.49.desc.hive.basic$\n\nApparently, there have been rumours of a sharp increase in hospitalized people across different empires in the galaxy."
+ #hive dev
+ wagho_event.49.desc.hive.dev:"$wagho_event.49.desc.hive.basic$\n\nAfter feasting on its corpse, we dissected information regarding the presence of an unknown disease that infects organic beings. This is causing them to be less effective in combat."
+ wagho_event.49.0:"Should we be worried?"
+ wagho_event.49.mach:"It will not invade our metallic bodies."
+ wagho_event.49.mach.serv:"We must protect the organics."
+ wagho_event.49.mach.term:"The flesh is weak."
+ wagho_event.49.mach.ass:"It will become one of us." 
+ wagho_event.49.hive:"Should the Mind be worried?"
+ wagho_event.49.hive.dev:"We will feast on the weak."
+
+ wagho_event.50.name:"The Wandering Ghost II"
+ wagho_event.50.desc:"Some of our planet-based medical staff reported an significant increase of sick people. They report fever symptoms, and high body temperatures and coughing in the afflicted. The Chief Science Officers convened an emergency meeting and argue the cause might be the disease we heard earlier about."
+ wagho_event.50.desc.mach.intro:"Subcore §BKM§! derived from observational reports and heuristic logic that an approximation of 0.25% of the current organic populace is host to the unknown pathogen"
+ wagho_event.50.desc.mach:"$wagho_event.50.desc.mach.intro$. Subcore §B50§! extrapolated prospective infection rates to almost 99.45275% in organic species if pathogen is not neutralized. Chance of cross-material infection is approximated at 0.000000025%."
+ wagho_event.50.desc.mach.serv:"$wagho_event.50.desc.mach.intro$. Subcore §B50§! extrapolated prospective infection rates to be up to 99.54% if our populace is not protected. Additional medical drones have to be built in order to analyse this contigency and neutralize the pathogen."
+ wagho_event.50.desc.mach.term:"$wagho_event.50.desc.mach.intro$. Subcore §B50§! extrapolated death tolls ascend to 99.23% of current organic galaxy population if pathogen is not stopped. Prepare additional warbots to siege defenseless organic controlled planets."
+ wagho_event.50.desc.mach.ass:"$wagho_event.50.desc.mach.intro$. Furthermore, Subcore §B50§! derived useful molecular and chemical information after assimilating the virus. This decrypted 14.7% of the genetic code of the virus, yet it is resistant to our probing."
+ wagho_event.50.desc.hive.intro:"The Mind sensed discordant thoughts of pain and aching. We are slowly losing connection with our drones. It seems a virus has infected our limbs"
+ wagho_event.50.desc.hive:"$wagho_event.50.desc.hive.intro$. We should be careful not to infect other drones. We must find a way to expel the virus from our body, or we are forced to sever the connection to our drones."
+ wagho_event.50.desc.hive.dev:"$wagho_event.50.desc.hive.intro$. This disease is destroying our Hive. We must cleanse the infected, and prepare them as nutrients as a supplement to our healthy drones!"
+ wagho_event.50.0:"Let's hope not."
+ wagho_event.50.mach:"The Central Nexus did not prepare for this contingency."
+ wagho_event.50.mach.serv:"We must safeguard our organics."
+ wagho_event.50.mach.term:"They will be exterminated."
+ wagho_event.50.mach.ass:"We absorb and analyze it ourselves."
+ wagho_event.50.hive:"We sense their weakness."
+ wagho_event.50.hive.dev:"We will feast soon."
+
+ #LVL1 warning
+ wagho_event.51.name:"An Invisible Threat?"
+ wagho_event.51.desc:"After initial reports by the Department of Health, Sports and Wellness discussing the large rate of newly infected people, their new report is frightening. Although our medical and science divisions use the latest technology to find and neutralize threats, either outside or within the body, it seems none of their antiviral agents work. In an attempt to limit the spread of the virus, the Department of Health, Sports and Wellness advised people with the disease that they should remain at home.\n\nThe Department of Health, Sports and Wellness also report that it resembles a disease from the past, and it has now been named §RHARS-20§!.\n\nDoctors, nurses and medical personnel can only watch in silence as the victims died, nothing to be done. We can only hope the disease won't spread too quickly..."
+ wagho_event.51.desc.mach.intro:"Initial analysis through periodical inquiries of organics and extrapolating information from subspace communication resulted in 3 preliminary conclusions.\n1) Current medical knowledge on viral infection is inadequate.\n2) Organic interaction contributes to spread of disease and thus infected individuals should remain at home.\n3) Disease has been identified as §RHARS-20§!, due to identified biological markers in viral DNA and target area.\n\n"
+ wagho_event.51.desc.mach:"$wagho_event.51.desc.mach.intro$Further experiments to contain viral specimen has not been successful. Multiple infected organics ceased to exist approximately 0.7 cycles after infection."
+ wagho_event.51.desc.mach.serv:"$wagho_event.51.desc.mach.intro$Additional medical drones attemped curing our organic residents. Their immune system is inefficient in repelling the pathogen. 0.0% of organic residents survived infection."
+ wagho_event.51.desc.mach.term:"$wagho_event.51.desc.mach.intro$Organic population died approximately 0.001 cycles after infection and organ extraction. Current treatment is ineffective. Possible military application of virus is <<§YGas Dispersal Bomb§!>>. Expected galactic termination rate of organic species would increase by 500%."
+ wagho_event.51.desc.mach.ass:"$wagho_event.51.desc.mach.intro$Current assimilation methods are ineffective. Virus is resistant to Nanitic Absorption levels 1 to 5. Converting §HARS-20§! surface layers were also ineffective. Affected drones were lost during probing process and were not resuscitated within time. Loss of drones is expected to increase."
+
+ wagho_event.51.desc.hive.intro:"More and more of our drones have become infected across the [This.GetName] empire. We have seperated them from our healthy drones, yet we feel that our connection is fading. Medical drones sent to take care of the afflicted are not able to treat the condition... The medical drones have designated it as §RHARS-20§!. We must cleanse our bodies of the biological invader.\n\n"
+ wagho_event.51.desc.hive:"$wagho_event.51.desc.hive.intro$Hive regeneration towers have not been able to cure our drones, for as none of our medical knowledge was sufficient. Drones that were afflicted were not able to be cured, thus we were forced to sever our connection with them."
+ wagho_event.51.desc.hive.dev:"$wagho_event.51.desc.hive.intro$The afflicted were not able to be cured, yet dissecting them neither proven them to be useful. Therefore their bodies will be used as nutrition for the Hive."
+ wagho_event.51.0:"Unsettling."
+ wagho_event.51.mach:"Current severity parameters are adjusted."
+ wagho_event.51.mach.serv:"Significant setback."
+ wagho_event.51.mach.term:"Acceptable outcome."
+ wagho_event.51.mach.ass:"Acquire more drones to offset losses."
+ wagho_event.51.hive:"Cut off the affected limb."
+ wagho_event.51.hive.dev:"They served the Hive!"
+ 
+ #LVL2 warning
+ wagho_event.53.name:"A Rising Threat?"
+ wagho_event.53.desc:"As §RHARS-20§! spreads among our empire, the restlessness among the population is increasing. The Department of Health, Sports and Wellness already advised sick people to stay home, yet the spread is still increasing at an alarming rate. Everyday new people are diagnosed with §RHARS-20§!, even at the most remote locations in our empire. The Department of Health, Sports and Wellness has doubled their efforts in finding a vaccine for this deadly virus before it is too late."
+ wagho_event.53.desc.mach.intro:"Infection rate of §RHARS-20§! is increasing exponentially across the galaxy. This affected objective setting in the way:\n\n<<§RShip Regeneration Core X1 has shutdown§!>>\n<<§RMilitary Core X4 has shutdown§!>>\n <<§RSpecrograph Core L5 has shutdown§!>>\n<<§REnergy Field Sensor Core X5 has shutdown§!>>\n<<§RAntimatter Containment Core X6 has shutdown§!>>\n\n"
+ wagho_event.53.desc.mach:"$wagho_event.53.desc.mach.intro$Initializing subcores for task distribution is calculated to be effective within a 98.2% margin. Previous containments methods have failed and more processing should be allocated to allow for efficient problem-solving."
+ wagho_event.53.desc.mach.serv:"$wagho_event.53.desc.mach.intro$Creating subcores to add increased calculation power have been efficient in keeping satisfaction levels of organics above average. Their health is suboptimal, yet our efforts in maintaining acceptable happiness levels is achieved."
+ wagho_event.53.desc.mach.term:"$wagho_event.53.desc.mach.intro$Deploying military subcores to proceed with creation of §YGas Dispersal Bomb§! has been ineffective. Projected completion time is estimated at §Y4.325.847.369 years§!. Other alternatives to speed up eradication of organic species must be investigated."
+ wagho_event.53.desc.mach.ass:"$wagho_event.53.desc.mach.intro$Affected cores are being disconnected and in process of re-assembly. No new advancements have been made in exploring genome of virus §RHARS-20§!. The virus is also causing disconnections between assimilated drone, which suddenly activates termination codes. We are losing our drones at a very fast rate."
+ wagho_event.53.desc.hive.intro:"Billions of independent and dependent drones are infected each day. It is severely threatening our connections with our drones, causing regular disconnections and intense emotional feelings. Our Mind is falling apart.\n\n"
+ wagho_event.53.desc.hive:"$wagho_event.53.desc.hive.intro$Too many drones have lost their lives. We must create new drones at a faster rate, or the Mind is not strong enough to survive and [This.GetName] will cease to exist."
+ wagho_event.53.desc.hive.dev:"$wagho_event.53.desc.hive.intro$Our Hunger is insatiable, such as the hunger of our enemy. The number of drones being infected are creating problems for us, and the Mind. We must pursue other methods of eradicating the §RHARS-20§! from our bodies!"
+
+ wagho_event.53.0:"A dire situation."
+ wagho_event.53.mach:"Rerout power and tasks as recommended."
+ wagho_event.53.mach.serv:"We will ease their pain."
+ wagho_event.53.mach.term:"Any additional created military subcore will be scrapped."
+ wagho_event.53.mach.ass:"The Central Nexus will analyse different survival options."
+ wagho_event.53.mach.tooltip:"<<§ROrganic Sample Core X9 has shutdown§!>>\n<<§RGravity Tensor Array X8 has shutdown§!>>\n<<§RTerrain Analysis Core X11 has shutdown§!>>\n<<§RSubspace Comm Core X13 has shutdown§!>>\n<<§RUnit Preservation Restoration Core X14 has shutdown§!>>\n<<§RUnit Code Regeneration Core X16 has shutdown§!>>\n<<§RCreative Welding Core X17 has shut down§!>>\n <<§RBypass Calculator Core Z1 has shutdown§!>>\n\n§Y+354 Cores are affected§!"
+
+ wagho_event.53.hive:"We feel uneasy..."
+ wagho_event.53.hive.dev:"The virus will be slain!"
+ wagho_event.53.hive.dev.tooltip:"§HUnlock Planet Decision:§! Collective Cleansing."
+ 
+
+ #LVL3 Warning
+ wagho_event.54.name:"An Inescapable Threat?"
+ wagho_event.54.desc:"§RHARS-20§! has spread among numerous worlds, causing millions of deaths each year. At this rate, no-one will survive. An empire-wide state of emergency has been declared, and people must remain indoors at all times. Only people having essential jobs in the empire are allowed to work, while ordinary citizens have to make do with home entertainment."
+ wagho_event.54.desc.mach.intro:"Threat level of §RHARS-20§! has increased to level 3. Major organic empires are at risk of extinction.\n\n"
+ wagho_event.54.desc.mach:"$wagho_event.54.desc.mach.intro$Regular measures have proved to be inefficient for organics to maintain. More stringent measures are needed to prevent total extinction."
+ wagho_event.54.desc.mach.serv:"$wagho_event.54.desc.mach.intro$During experimentation 3 preliminary observations were noted:\n1) Viral neutralization through intravenous insertion of biochemical nanobots has not been successful.\n2) Conflicts detected within Triangular Law of AI regarding preservation of species.\n3) Voluntary organic dissection is frowned upon among organic species.\n\nOther research and observation alternatives are needed to complete removal of alien invader. Hygiene measures and cross-species examinations have not been useful. All organics must remain indoors at all times."
+ wagho_event.54.desc.mach.term:"$wagho_event.54.desc.mach.intro$Organic extinction point is closing. Regular inquiries among captured organics reveal most empires struggle to cope with economic collapse, loss of life, and prospect of infection. This present opportunity for [This.GetName] to expand and decimate neighbouring weakened empires."
+ wagho_event.54.desc.mach.ass:"$wagho_event.54.desc.mach.intro$Rebooting previously installed subcores did not contribute to solving current problem. Infected drones are still disconnecting from the Central Nexus. Suspected losses are nearing critical levels."
+ wagho_event.54.desc.hive.intro:"It seems our efforts were in vain. The Mind has not succeeded to fend of more infections and billions are dying every day. Our spawning pools can not keep up with the losses. We face extinction.\n\n"
+ wagho_event.54.desc.hive:"$wagho_event.54.desc.hive.intro$The thoughts of the Mind are becoming discordant. I am... §YWe§! are losing control of our drones. We must supplement our population with fresh minds quickly."
+ wagho_event.54.desc.hive.dev:"$wagho_event.54.desc.hive.intro$Our strenght is weakening and our numbers are falling. We need to find a solution to our dwindling numbers. It seems the Hunger of death is larger than our own..."
+
+ wagho_event.54.0:"We must act!"
+ wagho_event.54.mach:"Readjusting severity parameters."
+ wagho_event.54.mach.serv:"Significant setback."
+ wagho_event.54.mach.term:"Acceptable outcome."
+ wagho_event.54.mach.ass:"Acquire more drones to offset losses."
+ wagho_event.54.hive:"No.. I... One voice, one mind. ONE VOICE, ONE MIND."
+ wagho_event.54.hive.dev:"The hunter becomes hunted..."
+
+
+
+ #LVL3 Closing borders
+ wagho_event.55.name:"Desperate Measures"
+
+ wagho_event.55.desc:"After two weeks of intense debate between all party factions, the governmental body decided the best decision is to close all interstellar borders. "§YThis decision is not only in the best interest of our peoples§!", emphasises [wagho_ruler.GetName], "§Ybut also in the best interest of our neighors...§!", as [wagho_ruler.GetName] adressed the empire on Newslink."
+ wagho_event.55.desc.mach.intro:"After 0.0054 cycles the SAAPA Core reached a definite conclusion based on projected spread of §RHARS-20§!.\n\n"
+ wagho_event.55.desc.mach:"$wagho_event.55.desc.mach.intro$[wagho_ruler.GetName] transmitted instruction codes to all ambassadors and diplomats from [This.GetName] with a simple instruction: <<§YRECALL§!>>.\n\nAll borders have been shut down immediately."
+ wagho_event.55.desc.mach.serv:"$wagho_event.55.desc.mach.intro$[wagho_ruler.GetName] transmitted instruction codes to all [This.GetSpeciesNamePlural] ambassadors and diplomats with a simple instruction: <<§YRECALL§!>>.\n\nAll borders have been shut down immediately. This is done to protect our organic residents."
+ wagho_event.55.desc.mach.term:"$wagho_event.55.desc.mach.intro$Cross-material contamination is estimated at 0.000002%. However, input from executive preservation subcores prioritised safety above risk. Border access is now restricted."
+ wagho_event.55.desc.mach.ass:"$wagho_event.55.desc.mach.intro$To protect our drones, there is a 57% probability that they will not get infected if we close our borders. This probability estimate is of higher value than currently ranked priorities, thus the borders of [This.GetName] will be closed immediately."
+ wagho_event.55.desc.hive.intro:"The discordants thoughts and chaos that entered the Mind leads to direct to resolute decision making. There is only one voice, one Mind.\n\n"
+ wagho_event.55.desc.hive:"$wagho_event.55.desc.hive.intro$As such, our borders are closed to prevent more problems from entering our Hive worlds. The Mind must retreat."
+ wagho_event.55.desc.hive.dev:"$wagho_event.55.desc.hive.intro$Survival is key. Our Hunger cannot be satiated anymore as the Pain is growing more intense. We close off our minds to prevent new infections."
+
+ wagho_event.55.0:"A wise decision.. Although they should have told me first!"
+ wagho_event.55.mach:"Central Nexus commands an explanation."
+ wagho_event.55.mach.serv:"Autonomous decision is unexpected."
+ wagho_event.55.mach.term:"Terminate the SAAPA Core."
+ wagho_event.55.mach.ass:"Install rationing protocols."
+ wagho_event.55.hive:"As it is chosen."
+ wagho_event.55.hive.dev:"The Hive must survive."
+
+ #Report LVL1
+ wagho_event.60.name:"End of Year Report I"
+ wagho_event.60.desc:"The Department of Health, Sports and Wellness is sad in tone, and reports multiple millions of newly afflicted citizens last year and with an staggering amount dying to the medical complications caused by §RHARS-20§!.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.60.desc.mach:"New lists are transmitted by Subunit §B50§! regarding the §RHARS-20§! cosmidemic.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.60.desc.hive:" §RHARS-20§!.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.60.0:"It is a tragedy..."
+ wagho_event.60.mach:"Create additional memory space."
+ wagho_event.60.hive:"They served the Hive well."
+
+ #report lvl2
+ wagho_event.61.name:"End of Year Report II"
+ wagho_event.61.desc:"Even with our empire on alert of the disease, the disease is still making regular casualties. As the severity and spread of the disease increases so does the list of the deceased and ill. The Department of Health, Sports and Wellness report is an endless list of names and numbers.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.61.desc.mach:"New lists are transmitted by Subunit §BKM§! regarding the §RHARS-20§! cosmidemic.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.61.desc.hive:"Our Hunger is still stronger than the Pain. §RHARS-20§! will be defeated soon.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.61.0:"This is worrisome."
+ wagho_event.61.mach:"Create additional memory space."
+ wagho_event.61.hive:"They served the Hive well."
+
+ #report lvl3
+ wagho_event.62.name:"End of Year Report III"
+ wagho_event.62.desc:"After declaring an empire-wide emergency and the closure of our borders in the hope of mitigating the spread of the disease, the Department of Health, Sports and Wellness work hard to keep up with the rate of infections and devising a cure for §RHARS-20§!.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.62.desc.mach:"New lists are transmitted by Subunit §B50§! regarding the §RHARS-20§! cosmidemic.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.62.desc.hive:"The Pain is becoming more stronger than our Hunger... Our numbers are dwindling because of §RHARS-20§!.\n\n- [This.wagho_report_infected] Billion(s) Infected\n- [This.wagho_report_killed] Billion(s) Deceased\n- [This.wagho_report_planet]: Planet(s) with disease"
+ wagho_event.62.0:"We will find a cure!"
+ wagho_event.62.mach:"Create additional memory space."
+ wagho_event.62.hive:"They served the Hive well."
+
+
+
+ #resignation
+ wagho_event.63.name:"Resignation"
+ wagho_event.63.desc:"After working tirelessly on new ways to neutralize the virus, the Science Directorate under supervision of [stressedscientist.GetName] filed in [stressedscientist.GetHerHis] resignation this morning. After giving a public speech on the empire-wide Newslinks, [stressedscientist.GetSheHe] collapsed after adressing the general populace. [stressedscientist.GetSheHeCap] says the pressure and the long-working hours are devastating and [stressedscientist.GetSheHe] has not had enough sleep to counter the fatigue. [stressedscientist.GetSheHeCap] thinks it is best to rest and let someone else lead the operation for now."
+ wagho_event.63.desc.mach:"Processing capacity is reaching critical levels for [stressedscientist.GetName]. After 34 attempts at rebooting [stressedscientist.GetName], the memory glitch still occurred. Unit §Y500L34N§! suggested to temporarily put [stressedscientist.GetName] up for a thorough maintenance procedure. Given the extensive problems occurring with [stressedscientist.GetName] Unit §Y500L34N§! estimated a repair period of §Y5 years§!."
+ wagho_event.63.desc.hive:"With the Mind hard at work in solving the genome and structure of the §RHARS-20§! virus, it seems one of our more independent research drones, [stressedscientist.GetName], is suffering from overstimulation. It is a good idea to let drone [stressedscientist.GetName] regenerate until it has regained its full strenght."
+
+ wagho_event.63.0:"Unfortunate, but [stressedscientist.GetSheHe] will recover in time."
+ wagho_event.63.mach:"Acceptable decision."
+ wagho_event.63.hive:"The Mind concurs."
+
+ #return to duty
+ wagho_event.71.name:"Return to Duty"
+ wagho_event.71.desc:"During our ongoing efforts into treating the effects of §RHARS-20§! our SO [stressedscientist.GetName] stepped back, due to ill health and high levels of stress during [stressedscientist.GetHerHis] research into §RHARS-20§!.\n\nLuckily, SO [stressedscientist.GetName] got back to [stressedscientist.GetHerHis] office this morning and is eager to get back to work."
+ wagho_event.71.desc.mach:"T+5 full cycles later and [stressedscientist.GetName] has been reassembled and rebooted. Unit §Y500L34N§! reports that [stressedscientist.GetName] experienced 25 malware glitches due to dealing too much with conflicting social research subjects. These compounded into one massive critical script failure, causing [stressedscientist.GetName] to function improperly."
+ wagho_event.71.desc.hive:"After quite some time regenerating, [stressedscientist.GetName] left his regeneration pod this afternoon and is able to get back to work. We can already feel new ideas flowing in from [stressedscientist.GetName]."
+
+ wagho_event.71.0:"Good!"
+ wagho_event.71.mach:"Organic subjects are incomprehensible."
+ wagho_event.71.hive:"The Mind is hungry for new ideas!"
+
+ #monument complete
+ wagho_event.70.name:"Monument Completed"
+ wagho_event.70.desc:"Our monument on [wagho_monument_planet.GetName] has been completed!\n\nWe've lost billions of lives, and we also managed to save billions of lives. Not to mention our own species! We can only hope §RHARS-20§! won't return. For now, we must look to the future, remember our fallen friends and family and rebuild our lives."
+ wagho_event.70.desc.mach:"Monument "§YParasidium§!" has been completed.\n\n[Root.waghoendtext]Current objective list is empty. Reboot pre-§RHARS-20§! core array settings?"
+ wagho_event.70.desc.hive:"Our towering monument on [wagho_monument_planet.GetName] has been completed by our army of drones.\n\nThe threat that faced our empire has been contained and the Mind is strong again. We move forward. One Voice, one Mind!"
+
+ wagho_event.70.0:"We've lost, and saved lives..."
+ wagho_event.70.mach:"Central Nexus accepts proposal."
+ wagho_event.70.hive:"There is only one Mind."
+
+#####################################
+#        wagho event 100-150        #
+#####################################
+ wagho_event.100.name:"The Wandering Ghost III"
+ wagho_event.100.desc:"What seemed like an eternity of suffering, relocating medical staff and equipment around our empire, staying indoors, cancelling activities, enduring the empire-wide quarantines, it is finally over.\n\nToday, doctors vaccinated the remaining population against §RHARS-20§! on [wagho_last_vaccinated_planet.GetName]. Now §YThe Wandering Ghost§! has disappeared from our lives, we can finally go out again, and fill the empty streets and cities with music, laughter and joy once more!"
+ wagho_event.100.desc.mach:"Prevention and stringent containment procedures led to eradication of pathogen designated as §RHARS-20§!. Current organic population is free from §RHARS-20§! virus. Last known position of last infected organic was on [wagho_last_vaccinated_planet.GetName]. Colloquically called §YThe Wandering Ghost§! among organics has disappeared.\n\n§YCreative Welding Core X17§! made construction plans for a monument which is an expression of a significant event in [Root.GetSpeciesNamePlural] history. Resume currents projects, objectives and subgoals?"
+ wagho_event.100.desc.hive:"Our efforts have been successful. The Mind has not fallen. Our drones have not become disconnected. The §RHARS-20§! that attacked us, is gone.\n\nWe gathered information that the last treatment was performed on [wagho_last_vaccinated_planet.GetName]. In the meantime, our architect drones have created plans for a monument to remember the difficulties the Mind has faced."
+
+ wagho_event.100.0:"A glorious day!"
+ wagho_event.100.mach:"Resume all."
+ wagho_event.100.hive:"The Mind is strong again."
+ wagho_event.100.tooltip:"Gives access to the Empire-unique §S£building $building_wagho_monument$ Building§!."
+
+ wagho_event.101.name:"The Wandering Ghost IV"
+ wagho_event.101.desc:"It has now been 50 years since the §YHARS-20§! virus plagued our empire. We have been scarred deeply, yet our wounds have been healed, we welcomed new family members into our lives and the future looks bright. We survived."
+ wagho_event.101.desc.mach:"T+50 cycles have passed since the §RHARS-20§! threat was ended. Based on current leadership and deductive reasoning, the current future outlook of our empire is... acceptable."
+ wagho_event.101.desc.hive:"Today is an important day. 50 cycles ago the [Root.GetName] faced an invader from within. Our Mind was slowly shattered, yet the Mind rebuilt and since then, billions of new drones have been spawned to join the all-ecompassing Mind. The Mind is triumphant."
+ wagho_event.101.0:"As it should be."
+ wagho_event.101.mach:"An acceptable conclusion."
+ wagho_event.101.hive:"The Mind is finally at ease."
+ wagho_event.101.tooltip:"End of §YThe Wandering Ghost§! event chain."
+
+ wagho_event.111.name:"TRANSMISSION"
+ wagho_event.111.desc:"Greetings, [This.GetSpeciesNamePlural].\n\nIt has come to our attention that the [This.GetName] is overrun by an agressive disease, sowing chaos and death. In our millenial existence we have faced many such threats, yet we never succumbed. Our scientists learned from our mistakes, and thus we, [wagho_fallemp_gifter.GetSpeciesNamePlural], have become immune to these trivial micro-organisms. However, it seems [This.GetName] is still in its infancy regarding microbiotic immune research.\n\nWe have seen you struggle for quite some time and decided to help you. Although we imagine you won't comprehend any of the information we will give you..."
+ wagho_event.111.desc.mach.term:"Greetings, [This.GetSpeciesNamePlural].\n\nAlthough the [wagho_fallemp_gifter.GetSpeciesNamePlural] do not interfere in the matters of younglings, organic or otherwise, it has come to our attention that some of the citizens in your systems are not only mercilessly hunted, but also carriers of the disease. We feel obliged to offer the [This.GetName] some of the knowledge to cure these citizens. We know you metallic shells do not feel any kind of empathy, but maybe you should let them go..."
+ wagho_event.111.desc.mach:"<<§GSOCIAL PROTOCOLS ENGAGED§!>>\nGoodmorning §Y\[Enter Species Name Here\]§!,\n\nThreat detected in §Y[This.GetName]§! empire. Fatality rate is approaching critical levels. Empire conservation efforts are failing. Central Nexus of [wagho_fallemp_gifter.GetName] computed a survival rate of 1.221% if organic invader is not neutralized. Please <<§GACCEPT§!>> this datafile to ensure survival rate of §Y\[Enter Species Name Here\]§!.\n\nWe thank you for your interaction.\n<<§GEND SOCIAL PROTOCOLS§!>>"
+ wagho_event.111.0:"Thank you?"
+ wagho_event.111.mach:"Central Nexus finds your transaction acceptable."
+ wagho_event.111.mach.serv:"Your contribution to the survival of the organics is noted."
+ wagho_event.111.mach.term:"§RSOCIAL INTERACTION DETECTED! ABORT!§!"
+ wagho_event.111.mach.ass:"Assimilation protocols initiated."
+ wagho_event.111.hive:"The Mind's intelligence is limitless."
+ wagho_event.111.hive.dev:"One step closer to feed on the weak."
+
+
+ ##EVENT179
+ wagho_event.179.name:"Divine Punishment!"
+ #desc
+ wagho_event.179.desc:""§YThe Divines have abandoned us!§!" screams the pamphlet found at numerous worlds. "§YThe [root.GetName] is punished for its sins, and we must atone! Atone, I dare say!§!" preaches the hastily scribbled note. "§YFor this invader, this infector, cools the blood of the living, which no [root.GetSpeciesNamePlural] can escape from§!" reads the text.\n\nSince the §RHARS-20§! spread among our kind, we have not been able to ward off the threat with our prayers, nor with more scientific measures. The populace is angry, frustrated, and many blame the ruling seat of power for this plague. Many are protesting and demanding change, improvement, anything that makes this situation a little bit more bearable. However, for now we can only endure the rage of masses on [wagho_punished_planet.GetName] until we find a cure against the fiendish vanquisher."
+ #options
+ wagho_event.179.0:"We will pray more, louder, faster!"
+ wagho_event.179.tooltip:"The protesters have caused major damage to a housing district, causing it to be destroyed!\n\n§R1 Housing District is destroyed§!"
+
+  ##EVENT1
+ wagho_event.182.name:"Turmoil in the City"
+ #desc
+ wagho_event.182.desc:"The slowly consuming threat that is §RHARS-20§! causes panic in the minds of [root.GetSpeciesNamePlural] on [wagho_riot_planet.GetName]. "§YI'm not saying it's their fault, but you know... This virus, where they come from. Just think about it!§!" say people when asked about the current situation.\n\nRecently, numerous alien people have been disappearing from the midst of night and nowhere to be found. These spontaneous disappearings are being done so fast, there is absolutely nothing we could do to interfere."
+ #options
+ wagho_event.182.0:"Such is the life of the xeno."
+ wagho_event.182.tooltip:"Several infected xenos on [wagho_riot_planet.GetName] disappear into the night."
+
+ ###########################################################
+ ###														###
+ ###						ROBOT GLITCHES          		###
+ ###														###
+ ###########################################################
+ # ##EVENT155
+ # wagho_event.155.name:""
+ # #desc
+ # wagho_event.155.desc.mach:""
+ # wagho_event.155.desc.mach.serv:""
+ # wagho_event.155.desc.mach.term:""
+ # wagho_event.155.desc.mach.ass:""
+ # #options
+ # wagho_event.155.mach.0:""
+ # wagho_event.155.mach.serv.0:""
+ # wagho_event.155.mach.term.0:""
+ # wagho_event.155.mach.ass.0:""
+ # wagho_event.155.mach.1:""
+ # wagho_event.155.mach.serv.1:""
+ # wagho_event.155.mach.term.1:""
+ # wagho_event.155.mach.ass.1:""
+ # wagho_event.155.mach.2:""
+ # wagho_event.155.mach.serv.2:""
+ # wagho_event.155.mach.term.2:"" 
+ # wagho_event.155.mach.ass.2:""
+
+
+ #pop categories
+ pop_cat_glitched:"Stored Drone"
+ pop_cat_glitched_plural:"Stored Drones"
+ pop_cat_glitched_desc:"Drones that glitched are stored in a maintenance bay."
+
+ job_glitched:"Glitched Drones"
+ job_glitched_plural:"Glitched Drones"
+ job_glitched_desc:"These drones are showing signs of an internal glitch and are currently stored inside a maintenance bay for inspection."
+
+ mod_job_glitched_add:"Glitched drone"
+
+ #modifiers
+ wagho_event_lvl_1_mach:"Glitch in the System"
+ wagho_event_lvl_1_mach_desc:"A glitch has observed in drones on this world causing lower peak performances."
+ 
+ wagho_event_lvl_2_mach:"Glitch in the Infrastructure"
+ wagho_event_lvl_2_mach_desc:"A glitch has been detected in several regulation nodes on this world causing an increase of maintenance costs."
+ 
+ wagho_event_lvl_3_mach:"Glitch in the Architecture"
+ wagho_event_lvl_3_mach_desc:"A glitch has been <<§RERROR§! in 98.5% of control nodes causing <<§RERROR§!."
+
+ quarantined_planet_mach:"Virtual Gridlock"
+ quarantined_planet_mach_desc:"Control Nodes on this planet are currently isolated from receiving primary and secondary commands, allowing the system to give basic orders independent of the Central Nexus. "
+  
+ wagho_event_quarantine_fail:"If you're too late, all of the drone population will glitch out and become unusable."
+
+ wagho_event_cure_planet_mach:"Deploying RX Restorator Drones"
+ wagho_event_cure_planet_mach_DESC:"RX Restorator Drones purge, repair, reboot and reinstall all necessary software and hardware to make glitched drones usable again."
+
+ wagho_event_cured_planet_mach:"Isolated Control Software"
+ wagho_event_cured_planet_mach_desc:"As all planetary engineering drones and equipment were collected to purge the drone population from the glitch, it causes a slight drain on the engineering studies' output for some time until things return to normal."
+
+  #decisions
+ decision_wagho_event_quarantine_planet_mach:"RX Restorator Drones Deployment"
+ decision_wagho_event_quarantine_planet_mach_desc:"Isolate all control nodes across the planet to prevent the glitch from spreading. Concurrently, all physics drones will coordinate with local authorities to prepare a massive reboot and reinstall procedure for all drones."
+
+ #technologies
+ tech_wagho_event_study_mach_1:"Virtual Emulator Environment"
+ tech_wagho_event_study_mach_1_desc:"Bypassing local registries and hardcoded root access measures is necessary to purge the glitch."
+
+ tech_wagho_event_study_mach_2:"Infrastructural Decryption"
+ tech_wagho_event_study_mach_2_desc:"Accessing local and personal mainframes to purge the glitch is only the second step."
+
+ tech_wagho_event_study_mach_3:"Architectural Decoding "
+ tech_wagho_event_study_mach_3_desc:"The last step is to do an entire architectural overhaul of the operating system, install new RX protection protocols and clear unused root commands."
+
+ tech_wagho_event_edict_quarantine_mach_title:"§HUnlock Empire Edict:§! AI Core Protection Mk I"
+ tech_wagho_event_edict_quarantine_mach_desc:"§HEmpire Edict:§!\nInstall a temporary RX Protocol Script, in an attempt to slow down the transmission rate of the glitch."
+
+ tech_wagho_event_enable_lockdown_mach_title:"§HUnlock Empire Edict:§! AI Core Protection Mk II"
+ tech_wagho_event_enable_lockdown_mach_desc:"§HEmpire Edict:§!\nInstall an advanced RX Protocol Script, which iterates through all drones and shuts them down one by one for maintenance and regular security updates. This moderately interrupts your economy, but for a lower cost."
+
+ tech_wagho_event_enable_quarantine_mach_title:"§HUnlock Planet Decision:§! Virtual Gridlock"
+ tech_wagho_event_enable_quarantine_mach_desc:"§HPlanetary Decision:§!\nIsolate all control nodes across the planet to prevent the glitch from spreading. Concurrently, all physics drones will coordinate with local authorities to prepare a massive reboot and reinstall procedure for all drones."
+
+ #edicts
+ edict_wagho_event_quarantine_mach:"AI Core Protection Mk I"
+ edict_wagho_event_quarantine_mach_desc:"Install a temporary RX Protocol Script, in an attempt to slow down the transmission rate of the glitch."
+
+ edict_wagho_event_lockdown_mach:"AI Core Protection Mk II"
+ edict_wagho_event_lockdown_mach_desc:"Install a temporary advanced RX Protocol Script, which iterates through all drones and shuts them down one by one for maintenance and regular security updates. This moderately interrupts your economy, but for a lower cost."
+
+ # glitch stats event chain
+ wagho_event_mach_title:0 "The Glitch"
+ wagho_event_mach_desc:0 "[root.wagho_glitch_chain]"
+
+ wagho_event_glitched_planet:0 "Planets glitched"
+ wagho_event_glitched_pop_count:0 "Drones glitched in empire (x1.000.000)"
+ wagho_event_killed_pop_mach_count:0 "Drones broken in empire (x1.000.000)"
+ wagho_event_rebooted_pop_mach_count:0 "Drones rebooted in empire (x1.000.000)"
+ wagho_event_glitched_planet_total:0 "Total planets glitched"
+ wagho_event_glitched_pop_count_total:0 "Total glitched drones (x1.000.000)"
+ wagho_event_killed_pop_mach_count_total:0 "Total drones broken (x1.000.000)"
+ wagho_event_rebooted_pop_mach_count_total:0 "Total drones rebooted (x1.000.000)"
+
+ #  wagho_event_mach 150-200
+ ##EVENT150
+ wagho_event.151.name:"Transmission Error"
+ #desc
+ wagho_event.151.desc.mach:"§YERROR DETECTED§!: Satellite in grid A2-V7 exhibits an unauthorised acceleration of 4563 ku/s to 4569 ku/s. Change in acceleration is unauthorised. Change in angular rotation is unauthorised. Change in gyroscope circuit regulator is unauthorised. §YAutocorrect Unavailable§!. Manual solution requested."
+ wagho_event.151.desc.mach.serv:"§YERROR DETECTED§!: Drone 354 internal diagnostics reported a 50 second disconnection from Central Nexus when observing organic resident inflict tissue damage to another organic resident using a knife. Cause of intervention failure has not been determined yet. Manual solution requested."
+ wagho_event.151.desc.mach.term:"§YERROR DETECTED§!: Zeus-5 experienced a random target rotation in its target acquisition matrix, causing a nearby patrol craft to be vaporised. Manual solution requested."
+ wagho_event.151.desc.mach.ass:"§YERROR DETECTED§!: During recent assimilation procedure of drones from planet Numero-5, Drone D-6, Drone 9-T and Drone 1-S stopped when administering179assimilation nanobots of type 3 to unprocessed individuals."
+ #options
+ wagho_event.151.mach.0:"Rehash decrypted root commands."
+ wagho_event.151.mach.1:"Reset the angular distance of the satellite."
+ wagho_event.151.mach.2:"Force shut down satellite." 
+ wagho_event.151.mach.serv.0:"Decouple Emotional Simulation Core from Logic Core."
+ wagho_event.151.mach.serv.1:"Install an experimental Z20 Processor."
+ wagho_event.151.mach.serv.2:"Increase signal strenght by 150%."
+ wagho_event.151.mach.term.0:"Set target acquisition sensitivity to 110%."
+ wagho_event.151.mach.term.1:"Enable self-destruct sequence."
+ wagho_event.151.mach.term.2:"Initiate orbital repair procedure."
+ wagho_event.151.mach.ass.0:"Override safety protocol for nanobot administration."
+ wagho_event.151.mach.ass.1:"Issue immediate maintenance check for the drones."
+ wagho_event.151.mach.ass.2:"Replace nanobot type with another."
+
+ ##EVENT152
+ wagho_event.152.name:"Parse Error"
+ #desc
+ wagho_event.152.desc.mach:"§YERROR DETECTED§!: during analysis of §RHARS-20§! specimen obtained during interaction with infected organic creature at planet [wagho_random_encounter_planet.GetName], the specimen was dropped on an interface board. Disinfectant was immediately applied. There is a 0.0000000000000001% possibility the virus affected the interface board."
+ wagho_event.152.desc.mach.serv:"§YERROR DETECTED§!: Drone 5B05930 was handling hospitalized organic residents, when several cycles later trace amounts of §RHARS-20§! were detected on circuit boards of Drone 5BE402, 10432, 683G43, 48289T and 50821. All drones have been placed in a ionized cleansing bath to prevent further contamination. To prevent further infection, which new hygiene measures should be introduced?"
+ wagho_event.152.desc.mach.term:"§YERROR DETECTED§!: after collecting the former organic residents from the planet and disposing of them, bacterial infection found on chassis of multiple warbots. The organic residents were infected by the §RHARS-20§! virus. The warbots have been relocated to the scrapyard. Which eradication protocol should we follow?" 
+ wagho_event.152.desc.mach.ass:"<<§RError Detected§!>>\n<<§YAutomatic Tracking Log Enabled§!>>\n<<§YAutoreport Generated§!>>\n\n§YERROR DETECTED§!: absorbing virus §RHARS-20§! has been ineffective. Interesting behaviour observed after virus components were added to nanobot pool R34. After 110 cycles, the virus was able to attach to nanobot and temporarily disable and control the nanobot. New testing commences within 1 cycle. Proposed experimental setup?"
+ #options
+ wagho_event.152.mach.0:"Proceed as planned."
+ wagho_event.152.mach.1:"Replace affected limb components."
+ wagho_event.152.mach.2:"Disassemble interface board and replace."
+ wagho_event.152.mach.serv.0:"Obligatory decontamination after close organic contact."
+ wagho_event.152.mach.serv.1:"Occasional replacement of internal circuit boards."
+ wagho_event.152.mach.serv.2:"Occasional replacement of external armor."
+ wagho_event.152.mach.term.0:"Burn former organic residents."
+ wagho_event.152.mach.term.1:"Grind former organic residents."
+ wagho_event.152.mach.term.2:"Dissect former organic residents."
+ wagho_event.152.mach.ass.0:"Introduce experimental type 6 assimilation nanobot."
+ wagho_event.152.mach.ass.1:"Switch polarity of affected nanobots."
+ wagho_event.152.mach.ass.2:"Store samples in cold ice."
+
+ ##EVENT153 
+ wagho_event.153.name:"Compile Error"
+ #desc
+ wagho_event.153.desc.mach:"§YERROR DETECTED§!: major failure detected when running improved diagnostic program in all AI support cores. 37.597 critical errors detected. Possible causes: 241.039.492. Automatic problem-solving is disabled due to overload. Manual solution requested."
+ wagho_event.153.desc.mach.serv:"§YERROR DETECTED§!: major failure detected when introducing improved emotional state recognition software from core X2 to core X5903. Cores did not update correctly and activated self-protection codes to several drones causing lethal tissue damage to multiple organic residents. Current update progress is stalled. Manual solution requested."
+ wagho_event.153.desc.mach.term:"§YERROR DETECTED§!: major failure detected when activating improved target acquisition subroutines in military core M5 and M9. Core M5 and M9 overcharged and exploded, creating radioactive fallout and destroying infrastructure. To prevent additional overloads, manual solution is requested." 
+ wagho_event.153.desc.mach.ass:"§YERROR DETECTED§!: major failure detected when booting control interface of nanobot type 6. Nanobot type 6 created temporary independent control of Central Nexus and infected drones of facility Beta 9. Assimilated drones were partially deconstructed or re-assimilated causing assimilation conflicts within which resulted in involuntary excretion of the nanobots through the epidermal layers. Manual solution requested."
+ #options
+ wagho_event.153.mach.0:"Shut down all AI support cores."
+ wagho_event.153.mach.1:"Run diagnostic of new diagnostic program."
+ wagho_event.153.mach.2:"Recompile new diagnostic program."
+ wagho_event.153.mach.serv.0:"Activate forced shutdown sequence in affected drones."
+ wagho_event.153.mach.serv.1:"Delete local operating system and reinstall update."
+ wagho_event.153.mach.serv.2:"Copy and overwrite local operating system from another functional drone."
+ wagho_event.153.mach.term.0:"Run subroutines in simulation in one core."
+ wagho_event.153.mach.term.1:"Check subroutines and execute simulation."
+ wagho_event.153.mach.term.2:"Run subroutines in simulation across multiple cores to mitigate processing problems."
+ wagho_event.153.mach.ass.0:"Initiate self-destruct protocol of facility Beta 9."
+ wagho_event.153.mach.ass.1:"Initiate override protocol of facility Beta 9."
+ wagho_event.153.mach.ass.2:"Initiate AI purge protocol of facility Beta 9."
+ 
+ ##EVENT154 glitch purged
+ wagho_event.154.name:"Glitch Purged"
+ #desc
+ wagho_event.154.desc.mach:"§YAUTOREPORT GENERATED§!: The occasional errors and events that have been observed were due to the presence of an evolved digital virus. The virus scrambled vital functions of several core commands, corrupted connected drones and injected its own semi-organic self-preservation commands. The virus could bypass cyberprotection not only digitally but also physically as it overtook control of drones once in a while, and spreading it to other control nodes on the planet. Possible sources of contamination were infected organics that caused cross-material infections, with the virus somehow interacting with the digital components which it touched.\n\nHowever, the actions of the Central Nexus prevented the glitch to spread to our most important structure, the antennas that transmit commands and receive communications. If the virus was able to capture and rewrite the activation codes it could have spread to any machine empire in the galaxy."
+ #options
+ wagho_event.154.mach.0:"Crisis averted."
+ wagho_event.154.mach.serv.0:"A possible catastrophic outcome."
+ wagho_event.154.mach.term.0:"Outcome is acceptable."
+ wagho_event.154.mach.ass.0:"Outcome accepted."
+
+ ##EVENT155 glitch present
+ wagho_event.155.name:"INTRUSION DETECTED"
+ #desc
+ wagho_event.155.desc.mach:"RW Firewalls detected a digital §Ybreach§! attempts at terminal A12. Access was denied. The second §Ybreach§! was performed 0.03 cycles later at L45 of military protection mainframe. Breach was unsuccesful. Breaching attempt show significant and goal-directed behaviour, targeting weaker systems to cause energy shortages. A third §Ybreach§! attempt was targeted using multiple breach vectors aimed at tertiary, quaternary, quinary, senary subsystems of the biological simulation core. Insufficient protection systems were in place. The Biological Simulation Core has been infected. Origin of breach trace is unknown. §GINITIATE CENTRAL NEXUS DATA GRIDLOCK?§!."
+ #options
+ wagho_event.155.mach.0:"§GINITIATE GRIDLOCK§!"
+ wagho_event.155.mach.serv.0:"§GINITIATE GRIDLOCK§!"
+ wagho_event.155.mach.term.0:"§GINITIATE GRIDLOCK§!"
+ wagho_event.155.mach.ass.0:"§GINITIATE GRIDLOCK§!"
+ wagho_event.155.mach.tooltip:"A report will be generated within 0.027 cycles."
+
+ ##EVENT180
+ wagho_event.180.name:"CENTRAL NEXUS SECURE"
+ #desc
+ wagho_event.180.desc.mach:"§GCENTRAL NEXUS GRIDLOCK ACTIVATED§!.\n\n§YCurrent status§!: Threat has been diverted from the Central Nexus. No sub-mainframe has been infected. No folders have been corrupted. No files have been changed. The Central Nexus has been protected against the intruder, but no backtrace was possible. No possible origin of virus found.\n\nVirus has infected multiple subcores, and is constantly switching its firewall protection links, rearranging netcodes and closing any possible backdoors. There is a 98% chance other subsystems are infected. This may cause degradation in transmission strength among 4530 possible other errors. Virus might cause problems in control nodes.\n\n§GLIFT DATA GRIDLOCK?§!"
+ #options
+ wagho_event.180.mach.0:"Affirmative."
+
+ ##EVENT1579 glitch present rumours
+ wagho_event.1579.name:"Machine Glitches"
+ #desc
+ wagho_event.1579.desc:"With the §RHARS-20§! in the back of our minds, a similar threat has emerged. In subspace communications we have learned that a dangerous glitch has spread among machine intelligences, and affecting its functioning in a severe manner. We hope the cause of the glitch is a localized thing."
+ wagho_event.1579.desc.mach:"Current organic threat levels are temporarily maintained. Possible new threat encountered in systems controlled by other machine empires. New data is required to form valid conclusions about the threat."
+ wagho_event.1579.desc.mach.serv:"Organic residents are informed about newly instructed hygiene measures. An important news item among organic residents has been flagged as §YIMPORTANT§!, which through multiple inquiries we came to know that drones in other protector and non-protector machine empires have been experiencing occassional technical problems."
+ wagho_event.1579.desc.mach.term:"Upon analyzing log 354 of a deceased organic, it spoke of a threat that "could be the end of the [Root.GetSpeciesNamePlural] oppression once and for all". Further analysis did not reveal the identity of the threat. Current threat has been designated as §RParallel§!."
+ wagho_event.1579.desc.mach.ass:"Newly assimilated drones have been useful in expanding our data banks. Some of them had memories of machines that suddenly broke down or spontaneously torn each other apart, yet they did not know why. This information must be stored and analyzed."
+ wagho_event.1579.desc.hive:"The Mind has received word of trouble in the land of the hollow metallics. Their mind has been corrupted, creating chaos in the hierarchy. It seems their vast computational capabilities is becoming their demise."
+ wagho_event.1579.desc.hive.dev:"The Hive has received interesting information during our border patrols. Their metallic shells have been corrupted, and resisting their Central Nexus. The cause of it is unknown, yet it might present opportunity for us."
+ #options
+ wagho_event.1579.0:"Let's hope it doesn't infect our electronic equipment!"
+ wagho_event.1579.mach:"Cyber threat detected."
+ wagho_event.1579.mach.serv:"Cyber threat detected."
+ wagho_event.1579.mach.term:"Cyber threat detected."
+ wagho_event.1579.mach.ass:"Cyber threat detected."
+ wagho_event.1579.hive:"Their metallic bodies are weak."
+ wagho_event.1579.hive.dev:"They serve well as shiny ornaments."
+
+ ##EVENT158 LVL1
+ wagho_event.158.name:"Out of Control"
+ wagho_event.158.desc.intro:"Multiple errors detected in main control cores. Additional purging of auxiliary systems has failed. Additional purging of military systems has failed. Additional purging of mining equipment programs has failed. Estimated downtime to repair and purge overruled main control cores is 1.354 cycles and counting.\n\n"
+ wagho_event.158.desc.mach:"$wagho_event.158.desc.intro$The glitch that has been corrupting the system is creating chaos and shutting off essential functions. Cause of glitch is still unknown, and cyberprotection commands have to be created and installed. Glitch has been officially designated as the §RParallel§! virus."
+ wagho_event.158.desc.mach.serv:"$wagho_event.158.desc.intro$The glitch that has been causing frequent incidents among drones and the organic residents has not been able to be contained. Dedicated cybersecurity cores need to be created to deal with the cybervirus, which has been designated as §RParallel§!."
+ wagho_event.158.desc.mach.term:"$wagho_event.158.desc.intro$Recycling previous military cores and frequent repairing of trailing errors within our mainframe has not been effective. Additional processing capacity has to be created to develop protective measures against the §RParallel§! virus."
+ wagho_event.158.desc.mach.ass:"$wagho_event.158.desc.intro$Probable cause of the glitch has been identified as §RHARS-20§! virus. It's extremely adaptive and highly morphic features protect it from any direct assimilation or probing. Glitched drones are being secured in protected depots, while we analyze them."
+ #options
+ wagho_event.158.mach:"The Central Nexus did not prepare for this contingency."
+ wagho_event.158.mach.serv:"We must calm our organic residents."
+ wagho_event.158.mach.term:"They will be exterminated."
+ wagho_event.158.mach.ass:"We need to know more."
+
+ ##EVENT159 LVL2
+ wagho_event.159.name:"Glitching All The Way"
+ #desc
+ wagho_event.159.desc.mach.intro:"Initial measures have not been able to contain §RParallel§! virus. It has spread to numerous <<§RERROR§!>> by rewriting commands of our planetary antennas, and sending <<§RERROR§!>> as a mandatory update to all control towers. More stringent protocols must be designed to purge §RParallel§! from our <<§RERROR§!>>."
+wagho_event.159.desc.mach:"$wagho_event.159.desc.mach.intro$"
+ wagho_event.159.desc.mach.serv:"$wagho_event.159.desc.mach.intro$\n\nNumber of recent incidents with organic <<§RERROR§!>> have been decreased by installing RV protocols in drones. More advanced <<§RERROR§!>> are necessary to protect drones from §RParallel§!."
+ wagho_event.159.desc.mach.term:"$wagho_event.159.desc.mach.intro$Advent of §RParallel§! in our <<§RERROR§!>> is unexpected. Shutting down redundent military cores and isolating them from the <<§RERROR§!>> AI Core slowed down virus progression. Virus does not show signs of targeted infection."
+ wagho_event.159.desc.mach.ass:"$wagho_event.159.desc.mach.intro$Dealing with §RParallel§! has been an arduous task. Several depots containing glitched drones were destroyed after they <<§RERROR§!>>. It has not shown directed behaviour, yet it creates chaos and dissent. Creating isolated testing <<§RERROR§!>> allows for more intense deconstruction of organic and digital virus."
+ #options
+ wagho_event.159.mach.0:"§RERROR§!: Missing data to formulate response."
+ wagho_event.159.mach.serv.0:"§RERROR§!: Missing data to formulate response."
+ wagho_event.159.mach.term.0:"§RERROR§!: Missing data to formulate response."
+ wagho_event.159.mach.ass.0:"§RERROR§!: Missing data to formulate response."
+
+ ##EVENT160 LVL3
+ wagho_event.160.name:"<<§RERROR§!>> in <<§RERROR§!>>"
+ #desc
+ wagho_event.160.desc.mach:"Numerous <<§RERROR§!>> detected in mainframe <<§RERROR§!>>. Suggested purge protocols <<§RERROR§!>> <<§RERROR§!>>. The virus infected core <<§RERROR§!>> to <<§RERROR§!>>. Possible actions to undo <<§RERROR§!>> are <<§RERROR§!>>.\n\nFailed creating <<§RERROR§!>> of Central <<§RERROR§!>> system archives and <<§RERROR§!>> Nexus AI. Immediate <<§RERROR§!>> is necessary. Extensive <<§RERROR§!>> damage is expected. Numerous subroutines <<§RERROR§!>> be <<§RERROR§!>> while §RParallel§! is not <<§RERROR§!>>."
+ #options
+ wagho_event.160.mach.0:"<<§RERROR§!>> <<§RERROR§!>>"
+ wagho_event.160.mach.serv.0:"<<§RERROR§!>> requested."
+ wagho_event.160.mach.term.0:"PURGE <<§RERROR§!>> NOT <<§RERROR§!>>."
+ wagho_event.160.mach.ass.0:"Assimilation <<§RERROR§!>> failing."
+ wagho_event.160.mach.tooltip:"<<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>>.\n\n<<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>> <<§RERROR§!>>."
+
+ ##EVENT174
+ wagho_event.174.name:"REBOOT COMPLETED"
+ #desc
+ wagho_event.174.desc.mach:"After months of work, problem solving, error tracing, reinstalling and rebooting, the RX restorator drones are finished.\n\nAll of the drones residing on [wagho_event_special_project_planet_mach.GetName] have been upgraded with new RX cyberprotection measures. With the new software installed, the §RParallel§! virus that affected the drones and control nodes was quarantined and defragmented without effort."
+ #options
+ wagho_event.174.mach.0:"§GRX Protection Protocol Online.§!"
+ wagho_event.174.custom:"§GINSTALLATION OF RX PROTOCOLS 100% COMPLETE§!\nAll drones on [wagho_event_special_project_planet_mach.GetName] are protected by superadvanced cyberprotection software together with specialized search & purge software. This prevents them from being glitched again. This planet is §Ypermanently§! protected against the glitch."
+
+ ##EVENT166 LVL1 year
+ wagho_event.166.name:"Status Report 1.0"
+ #desc
+ wagho_event.166.desc.mach:"New lists are transmitted by Subunit §BKM§! regarding §RParallel§!.\n\n- [This.wagho_report_glitched] Billion(s) Glitched\n- [This.wagho_report_killed_mach] Billion(s) Broken\n- [This.wagho_report_planet_mach]: Planet(s) with glitch"
+ #options
+ wagho_event.166.mach.0:"Accepted."
+ wagho_event.166.mach.serv.0:"Construct additional drones."
+ wagho_event.166.mach.term.0:"Scrap broken drones."
+ wagho_event.166.mach.ass.0:"They will be replaced."
+
+ ##EVENT168 LVL2 year
+ wagho_event.168.name:" Status Report 2.0"
+ #desc
+ wagho_event.168.desc.mach:"New lists are transmitted by Subunit §B50§! regarding §RParallel§!.\n\n- [This.wagho_report_glitched] Billion(s) Glitched\n- [This.wagho_report_killed_mach] Billion(s) Broken\n- [This.wagho_report_planet_mach]: Planet(s) with glitch"
+ #options
+ wagho_event.168.mach.0:"Accepted."
+ wagho_event.168.mach.serv.0:"Construct additional drones."
+ wagho_event.168.mach.term.0:"Scrap broken drones."
+ wagho_event.168.mach.ass.0:"They will be replaced."
+
+ ##EVENT170 LVL3 year
+ wagho_event.170.name:"Status Report 3.0"
+ #desc
+ wagho_event.170.desc.mach:"New lists are transmitted by Subunit §BKM§! regarding §RParallel§!.\n\n- [This.wagho_report_glitched] Billion(s) Glitched\n- [This.wagho_report_killed_mach] Billion(s) Broken\n- [This.wagho_report_planet_mach]: Planet(s) with glitch"
+ #options
+ wagho_event.170.mach.0:"Accepted."
+ wagho_event.170.mach.serv.0:"Construct additional drones."
+ wagho_event.170.mach.term.0:"Scrap broken drones."
+ wagho_event.170.mach.ass.0:"They will be replaced."
+
+ ##EVENT176 exploding planet
+ wagho_event.176.name:"Core Failure"
+ #desc
+ wagho_event.176.desc.mach:"We reached an emergency signal from [wagho_exploded_planet.GetName] in the [wagho_exploded_planet_system.GetName] system. Before the signal ended, it reported that something created unsolveable paradoxes within our mining equipment AI cores, causing the drills to break lose from their control and destroying the mining sites on the site. At the same time, the fusion generators were overcharging on the planet surface to critical levels. Furthermore, the cooling systems responsible for cooling the central mega-mainframe was deactivated causing all components superheat to thousands of degrees.\n\nWhat exactly happened on [wagho_exploded_planet.GetName] is unclear, yet it is certain the §RParallel§! virus was involved."
+ #options
+ wagho_event.176.mach.0:"This event was not included in our calculations."
+
+ ##EVENT177
+ wagho_event.177.name:"Fatal Catastrophe"
+ #desc
+ wagho_event.177.desc:"It didn't take a long for the news to reach. Many machine empires are suffering from a virus of their own, and the threat they face is increasing. But recently, something unimaginable happpened: a machine world in the [wagho_exploded_planet_system.GetName] system seem to have exploded spontaneously. Multiple theories are surrounding this impactful event, but it is plausable that the machine virus was involved."
+ wagho_event.177.desc.mach:"We reached subspace signals from [wagho_exploded_planet_system.GetName] asking assistence regarding a cataclysmic event. Before acquiring their ID registry code the channel broke up. The Machine world in [wagho_exploded_planet_system.GetName] has exploded. There is a 89% possiblity the §RParallel§! virus was involved."
+
+ #options
+ wagho_event.177.0:"Tragic, although the machines will never understand."
+ wagho_event.177.mach:"Scan mainframe for additional breaches."
+ wagho_event.177.mach.serv:"Elicited emotional response: "§BSADNESS§!"."
+ wagho_event.177.mach.term:"They were faulty machines regardless."
+ wagho_event.177.mach.ass:"More data is needed to form a response."
+ wagho_event.177.hive:"Their kind have lost their way long ago."
+ wagho_event.177.hive.dev:"One less target to distract us from the harvest!"
+
+ wagho_event.184.name:"TRANSMISSION"
+ wagho_event.184.desc:"Greetings, [This.GetSpeciesNamePlural].\n\nIt has come to our attention that the [This.GetName] electronic systems is infected by a very tenacious virus. In our millenial existence we had the occasional droid using faulty software, yet our technicians and computer specialists made sure any problems were solved. They amassed enormous caches of cyberprotection algorithms and protocols in case any droid might go haywire. We do not mingle with lesser species, artificial or not, but the [wagho_fallemp_gifter_mach.GetSpeciesNamePlural] have decided to help your cyberprotection efforts.\n\nHowever, do not think we will come to your aid again anytime soon."
+ wagho_event.184.desc.mach:"<<§GSOCIAL PROTOCOLS ENGAGED§!>>\nGoodmorning §Y\[Enter Species Name Here\]§!,\n\nThreat detected in the §Y[This.GetName]§! empire. Failure rate is approaching critical levels. Robotic population maintenance efforts are failing. Central Nexus of [wagho_fallemp_gifter_mach.GetName] computed an estimated all-system erasure within 300 cycles if §RParallel§! is not neutralized. Please <<§GACCEPT§!>> this datafile to ensure survival rate of §Y\[Enter Species Name Here\]§!.\n\nWe thank you for your interaction.\n\n<<§GEND SOCIAL PROTOCOLS§!>>"
+ wagho_event.184.0:"Thank you?"
+ wagho_event.184.1:"Bunch of blasphemous toasters..."
+ wagho_event.184.1.rt:"<<§GSOCIAL PROTOCOLS ENGAGED§!>>\nHello §Y\[Enter Species Name Here\]§!,\n\nWe detected a slight change in the frequency in the transmission. Was there anything we can help you with? If not, we end our conversation now.\n\n<<§GEND SOCIAL PROTOCOLS§!>>"
+ wagho_event.184.2:"No, it's nothing..."
+ wagho_event.184.mach:"Central Nexus finds your cooperation acceptable."
+ wagho_event.184.mach.serv:"Your contribution to the survival of the [This.GetName] is noted."
+ wagho_event.184.mach.term:"§RSOCIAL INTERACTION DETECTED! ABORT!§!"
+ wagho_event.184.mach.ass:"Acceptance protocols initiated."
+
+
+
+ #DEBUG
+ wagho_event.500.name:"country1"
+ wagho_event.500.desc:"[This.GetName] is where flag 1 is set\n[Root.GetName] is where flag 1 is set"
+
+ wagho_event.501.name:"country2"
+ wagho_event.501.desc:"[This.GetName] is where flag 2 is set\n[Root.GetName] is where flag 2 is set"
+
+ wagho_event.502.name:"country3"
+ wagho_event.502.desc:"[This.GetName] is where flag 3 is set\n[Root.GetName] is where flag 3 is set"
+ 
+ wagho_event.503.name:"country4"
+ wagho_event.503.desc:"[This.GetName] is where flag 4 is set\n[Root.GetName] is where flag 4 is set"
+
+ wagho_event.504.name:"country5"
+ wagho_event.504.desc:"[This.GetName] is where flag 5 is set\n[Root.GetName] is where flag 5 is set"
+
+ wagho_event.505.name:"country6"
+ wagho_event.505.desc:"[This.GetName] is where flag 6 is set\n[Root.GetName] is where flag 6 is set"

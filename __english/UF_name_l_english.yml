@@ -1,0 +1,29 @@
+﻿l_english:
+#################################
+ Warship_Girls:0 "Shipgirl"
+ warship_girls:0 "Warship Girls"
+ Warship_Girl:0 "Warship Girl Avatar"
+ warship_girl:0 "Warship Girl"
+ FLAG_CATEGORY_warshipgirls:0 "Warship Girls R Flag"
+ wsg_trait_warshipgirls:0 "Warship Girls"
+ wsg_trait_warshipgirls_desc:0 "Warship Girls are designed by Illumoe Inc. through reverse engineering of Abyssal Fleet's technology. Their purpose is to resist the invasion of the Abyssal Fleet and save human civilization."
+
+ MACHINE_Warship_Girls:0 "Mechanical Warship Girl"
+ MACHINE_Shenhai:0 "Mechanical Abyssal Shipgirl"
+ United_fleet:0 "United Fleet"
+ ShenHai:0 "Shipgirl"
+ 
+ START_SCREEN_WSG:0 "After defeating the Abyssal Fleet's last defense line, the rest of Abyssal shipgirls suddenly disappear off our homeworld. From the decrypted data in the Abyssal's base, we had known that the remainders of them ran away into deep space with hyperspace engines. Now we have eventually developed these technologies, and it's time to put an end to our old enemy."
+ 
+
+ 
+ 
+ 
+ 
+ building_warshipgirl_assembly_plant:0 "Minato Builder"
+ building_warshipgirl_assembly_plant_desc:0 "Under Dr. Yubari's transformation, the Minato Builder can continue to be used."
+
+ CORE_JUGGERNAUT_HEAVY_SECTION:"HEAVY CORE"
+ WSG_TITAN_MID:"Titan BOW"
+ WSG_TITAN_MID_9L:"Titan heavy MID"
+ WSG_TITAN_STERN:"Titan heavy stern"

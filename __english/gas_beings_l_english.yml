@@ -1,0 +1,101 @@
+﻿l_english:
+
+    #Species
+    
+    GAS:0 "Gaseous"
+    GASEOUS:0 "Gaseous"
+    
+    #Traits
+    
+    trait_gas_aliens:0 "Gaseous Beings"
+    trait_single_bond:0 "Single Bonds"
+    trait_double_bond:0 "Double Bonds"
+    trait_triple_bond:0 "Triple Bonds"
+    trait_ionic_bonds:0 "Ionic Bonds"
+    trait_low_energy:0 "Low Energy"
+    trait_high_energy:0 "High Engery"
+    trait_gas_aromatic:0 "Aromatic Gases"
+    trait_gas_sulfur:0 "Sulfur Odour"
+    trait_combust:0 "Combustible"
+    trait_non_combust:0 "Non Combustible"
+    trait_good_work_ethic:0 "Natural Labourers"
+    trait_poor_work_ethic:0 "Labour Aversion"
+    trait_nitrogen_rich:0 "Nitrogen Gases"
+    trait_stable:0 "Stable Nuclei"
+    trait_beta_decay:0 "Beta Decay"
+    trait_complex:0 "Complex Structures"
+    trait_simple:0 "Simple Structures"
+    trait_neural_multiplex:0 "Neural Multiplex"
+    trait_high_pressure:0 "High Pressure Clouds"
+    trait_five_bond:0 "Quintuple Bonds"
+    
+    trait_gas_aliens_desc:0 "Beings made from gases"
+    trait_single_bond_desc:0 "Gas particles held together by single bonds, not very strong."
+    trait_double_bond_desc:0 "Gas particles held together by double bonds, fairly strong."
+    trait_triple_bond_desc:0 "Gas particles held together by triple bonds, very strong."
+    trait_ionic_bonds_desc:0 "Electrostatic energy has been harnest from natural ionic bonds."
+    trait_low_energy_desc:0 "The atoms for this gaseous species are low energy and tend to remain closely packed."
+    trait_high_energy_desc:0 "The atoms for this gaseous species are high energy and rarely remain closely packed."
+    trait_gas_aromatic_desc:0 "Something about the combination of atoms in this gaseous species gives off a delightful scent."
+    trait_gas_sulfur_desc:0 "Something about the combination of atoms in this gaseous species gives off a sulfur like odour."
+    trait_combust_desc:0 "Made from gases that could combust under certain conditions."
+    trait_non_combust_desc:0 "Safe gases unlikely to combust in most conditions."
+    trait_good_work_ethic_desc:0 "This species enjoys dumb labour for the most part."
+    trait_poor_work_ethic_desc:0 "This species works out of necessity rather than desire."
+    trait_nitrogen_rich_desc:0 "The nitrogen gases in this species are perfect for farming."
+    trait_stable_desc:0 "The nuclei of this gaseous species are perfectly stable."
+    trait_beta_decay_desc:0 "The nuclei of this gaseous species are in a state of decay, they produce high amounts of beta radiation."
+    trait_complex_desc:0 "The complexity to which this gaseous lifeform has evolved makes for high intellect."
+    trait_simple_desc:0 "The simplicity to which this gaseous lifeform has evolved makes for average intellect."
+    trait_neural_multiplex_desc:0 "By enhancing the neural gases of this species, there intellect increases substantially."
+    trait_high_pressure_desc:0 "Simplicity is often more efficient, the pressures with this being allow for better mineral production."
+    trait_five_bond_desc:0 "Double bonds? Triple bonds? Pathetic! Quintuple bonds are the future dissipating Aeriform!"
+    
+    trait_pc_habitable_gas_preference:0 "Gas Giant Habitability"
+    trait_pc_habitable_gas_preference_desc:0 "Your species prefers the thick gaseous layers of this planetary body."
+    mod_pc_habitable_gas_habitability:0 "Gas Giant Habitability"
+    
+    #Origin
+    
+    origin_gas_species:0 "Gaseous Beginings"
+    origin_gas_species_desc:0 "An unnatural gaseous body hosted our evolution. Within, our species has thrived and gazed at the stars. As time passed we grew curious, and in that curiousity discovered structures deep inside the gaseous core of our home. We grow tired of merely looking, it's time to reach for the stars and learn about our origins!"
+    origin_tooltip_gas_species_effects:0 "Our species gains a starting colony in an §Y$pc_habitable_gas$§!."
+    
+    #Planet
+    
+    pc_habitable_gas:0 "Altered Gas Giant"
+    pc_habitable_gas_desc:0 "This gaseous body isn't natural, there are clear and present signs of alteration that wouldn't occur in a normal gas giant."
+    
+    #Deposits
+    
+    habitable_gas_deposit:0 "Swirling Exotics"
+    habitable_energy_deposit:0 "Violent Friction Layers"
+    habitable_minerals_deposit:0 "High Pressure Layers"
+    habitable_space_deposit:0 "Nitrogen Layers"
+    habitable_gas_wildlife:0 "Dangerous Wildlife"
+    habitable_gas_deposit_desc:0 "This gas layer containts a adundance of exotic gases, we can harvet these."
+    habitable_energy_deposit_desc:0 "The friction from these violent clouds will be great for power generation."
+    habitable_minerals_deposit_desc:0 "High pressure layers have forced compound minerals to form, we can use these."
+    habitable_space_deposit_desc:0 "The nitrogen rich layers are fantastic for our citizens."
+    habitable_gas_wildlife_desc:0 "These predators wouldn't let us live here in peace, we'll have to deal with them."
+    
+    #Ascension Perks
+    
+    requires_species_type_gas:0 "You must be §Y$GAS$§! to choose this perk."    
+    ap_gas_terraform:0 "Gaseous Ambitious"
+    ap_gas_terraform_desc:0 "Our future lies in the stars, like those who created our home it is time we made giants alter to our needs. New horizons are but a terraform away! \n\nAllows Terraforming of §Y$pc_gas_giant$§! into §Y$pc_habitable_gas$§!"
+    #PERK_TOOLTIP_GAS_TERRIFORM:0 "Allows Terraforming of §Y$pc_gas_giant$§! into §Y$pc_habitable_gas$§!"
+    
+    #Relics
+    
+    r_gas_relic:0 "Proto-Aeriform Experiment"
+    r_gas_relic_desc:0 "These proto-aeriforms never new sentients, but there exotic structures could still prove useful."
+    gas_relic_active:0 "Spawns an exotic gas deposit on a random planet with your borders."
+    
+    #Buildings
+    
+    building_gas_burner:0 "Proto-Aeriform Plant"
+    building_gas_burner_desc:0 "We can use these proto-aeriform gases to produce power in this special constucted plant."
+   
+    
+    

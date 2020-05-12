@@ -1,0 +1,347 @@
+﻿l_french:
+####################################
+ # Traits
+ ####################################
+ #Handicaps
+ 
+ trait_additrait_ephemeral:0 "Ephémere"
+ trait_additrait_ephemeral_desc:0 "§LCette espèce est moins résistante que beaucoup d'autres et vit moins longtemps.§!\n"
+ 
+ trait_additrait_ephemeral_lithoid:0 "Ephémere"
+ trait_additrait_ephemeral_lithoid_desc:0 "§LCette espèce est moins résistante que beaucoup d'autres et vit moins longtemps.§!\n"
+ 
+ trait_additrait_easily_distracted:0 "Facilement distraite"
+ trait_additrait_easily_distracted_desc:0 "§LCette espèce peut se passionner pour un sujet, mais jamais longtemps.§!\n"
+ 
+ trait_additrait_simple_minded:0 "Esprit simple"
+ trait_additrait_simple_minded_desc:0 "§LComment cette espèce fit pour atteindre l'espace, les astres se le demandent encore.§!\n"
+ 
+ trait_additrait_lazy:0 "Fainéante"
+ trait_additrait_lazy_desc:0 "§LCette espèce ne travaille jamais très dur."
+ 
+ trait_additrait_prodigal:0 "Gaspilleuse"
+ trait_additrait_prodigal_desc:0 "§LCette espèce est mauvaise en économie et dépense ses fonds pour des choses inutiles.§!\n"
+ 
+ trait_additrait_lethargic:0 "Léthargique"
+ trait_additrait_lethargic_desc:0 "§LCette espèce prend son temps et ne travaille pas trop dur. Ce sera fini un jour ou l'autre, pourquoi se presser ?§!\n"
+ 
+ trait_additrait_unfit_engineers:0 "Piètres Ingénieurs"
+ trait_additrait_unfit_engineers_desc:0 "Les membres de cette espèce ont des difficultés à saisir la plupart des concepts fondamentaux de l'ingénierie.\n"
+ 
+ trait_additrait_unfit_physicists:0 "Piètres Physiciens" 
+ trait_additrait_unfit_physicists_desc:0 "Les membres de cette espèce ont des difficultés à saisir la plupart des concepts fondamentaux de la physique théorique.\n"
+ 
+ trait_additrait_unfit_sociologists:0 "Piètres Sociologues"
+ trait_additrait_unfit_sociologists_desc:0 "Les membres de cette espèce ont des difficultés à saisir la plupart des concepts fondamentaux de la sociologie.\n"
+  
+ trait_additrait_hateful:0 "Détestable"
+ trait_additrait_hateful_desc:0 "§LLes coutumes et manières révoltantes de cette espèce incite les autres à l'éviter.\n\Vitesse d'Amélioration de la Confiance : §R-25%§!\n"
+
+ trait_additrait_hunter_gatherers:0 "Chasseurs-Cueilleurs"
+ trait_additrait_hunter_gatherers_desc:0 "Cette espèce a une longue tradition consistant à vivre au gré de la nature et n'est pas habituée à l'agriculture moderne.§!\n"
+ 
+ trait_additrait_violent:0 "Violente"
+ trait_additrait_violent_desc:0 "Il y a une prédisposition génétique aux combats fraticides de cette espèce.§!\n"
+ 
+ trait_additrait_free_spirits:0 "Esprits Libres"
+ trait_additrait_free_spirits_desc:0 "Ce peuple est formé de libre penseurs et diffèrent souvent des éthiques gouvernementales.§!\n"
+ 
+ trait_additrait_iconoclastic:0 "Iconoclaste"
+ trait_additrait_iconoclastic_desc:0 "Si cette espèce ne cherche pas à renverser les institutions et idées traditionnelles, ce n'est probablement plus qu'une question de temps.§!\n"
+ 
+ trait_additrait_delicate:0 "Délicate"
+ trait_additrait_delicate_desc:0 "§LLes membres de cette espèce se blessent facilement. Ils ne sont pas capable d'affronter la douleur efficacement.§!\n"
+ 
+ trait_additrait_weak_willed:0 "Faible Volonté"
+ trait_additrait_weak_willed_desc:0 "§LCette espèce plie rapidement sous la pression.§!\n"
+ 
+ trait_additrait_very_slow_breeders:0 "Reproduction Difficile"
+ trait_additrait_very_slow_breeders_desc:0 "§LCette espèce se reproduit très lentement, ce qui ralentit la croissance de population.§!\n"
+  
+ trait_additrait_melancholic:0 "Mélancholiques"
+ trait_additrait_melancholic_desc:0 "§LLes membres de cette espèce se trouvent trop occupés par la routine journalière et ne trouvent que peu de plaisirs dans leur vie.§!\n"
+
+ trait_additrait_rooted:0 "Enracinés"
+ trait_additrait_rooted_desc:0 "§LLes membres de cette espèce n'aiment guère l'idée d'abandonner leur planète.\n\n§WCoût des Vaisseaux de Colonisation : §R+30%\n§WVitesse de Développement des Colonies : §R-20%§!\n"
+ 
+ trait_additrait_divided:0 "Divisés"
+ trait_additrait_divided_desc:0 "§LCette espèce a du mal à créer un concensus. Ils perdent beaucoup de temps en débats futiles.§!\n"
+ 
+ trait_additrait_soft:0 "Tendres"
+ trait_additrait_soft_desc:0 "§LCette espèce ressent la douleur plus fortement que les autres. Ils vivent moins longtemps et ont peur de se blesser.§!\n" 
+ 
+ trait_additrait_genetically_ill:0 "Génétiquement Malades"
+ trait_additrait_genetically_ill_desc:0 "§LLes membres de cette espèce ont un faible métabolisme, qui les empêche de s'adapter facilement à de nouvelles conditions environnementales.§!\n" 
+ 
+ ###########################################################################################################################################################
+ #Neutral
+ 
+ #trait_additrait_focused:0 "Concentrée"
+ #trait_additrait_focused_desc:0 "§LCette espèce concentre ses spécialistes sur une seule recherche à la fois.\n\n§WCe trait réduit de un les alternatives de recherches.§!\n"
+ 
+ ###########################################################################################################################################################
+ #Avantages
+ 
+ trait_additrait_multitasking:0 "Multitâche"
+ trait_additrait_multitasking_desc:0 "§LL'abilité de cette espèce à accomplir deux choses à la fois rend leur développement technologique rapide.§!\n"
+ 
+ trait_additrait_easily_satisfied:0 "Facilement satisfaite"
+ trait_additrait_easily_satisfied_desc:0 "§LIl en faut peu pour rendre cette espèce heureuse.§!\n"
+ 
+ trait_additrait_born_warriors:0 "Guerriers-nés"
+ trait_additrait_born_warriors_desc:0 "§LLes meilleurs philosophes de cette espèce s'accordent sur un point : La guerre est la réponse.\n\n§WDégâts infligés par la Flotte : §G+5%§!\n"
+ 
+ trait_additrait_sociable:0 "Sociable"
+ trait_additrait_sociable_desc:0 "§LCette espèce, par instinct ou tradition, est habituée à discuter avec tous.\n\n§WCroissance de la Confiance : +25%.§!\n"
+ 
+ trait_additrait_competitive:0 "Compétitive"
+ trait_additrait_competitive_desc:0 "§LCette espèce vit pour la confrontation, qu'elle s'exprime par des rituels ou des combats incessants.\n\n§WCoût d'Influence pour Revendication : §G-50%
+ 
+ trait_additrait_aggressive:0 "Agressive"
+ trait_additrait_aggressive_desc:0 "§LLa coopération n'est pas un point fort de cette espèce.\n\n§WRivalités Maximales : §G+1§!\n"
+ 
+ trait_additrait_extremely_aggressive:0 "Extrémement Agressive"
+ trait_additrait_extremely_aggressive_desc:0 "§LCette espèce se sent menacée par les autres et tend à réagir violemment.\n\n§WRivalités Maximales : §G+2§!\n" 
+ 
+ trait_additrait_zealous_defenders:0 "Zélotes"
+ trait_additrait_zealous_defenders_desc:0 "§LCette espèce combat avec un zèle aveugle lorsqu'elle est menacée.§!\n"
+ 
+ trait_additrait_lateral_thinkers:0 "Pensée Latérale"
+ trait_additrait_lateral_thinkers_desc:0 "§LCette espèce est habituée aux batailles en trois dimensions, l'espace n'est pas une surprise pour elle.\n\n§WDégâts infligés par la Flotte : §G+5%§!\n"
+  
+ trait_additrait_roboticians:0 "Roboticiens"
+ trait_additrait_roboticians_desc:0 "§LCette espèce a découvert la robotique avancée avant le voyage supraluminique.\n\n§WCe trait donne la technologie §Grobotic_workers.§!\n"
+  
+ trait_additrait_belligerent:0 "Bélligérante"
+ trait_additrait_belligerent_desc:0 "§LCette espèce prospère dans la confrontation.\n\n§WRivalités Maximales : §G+1\n§WCoût d'Influence pour Revendication : §G-50%§!\n"
+ 
+ trait_additrait_fast_analysers:0 "Rapides Analystes"
+ trait_additrait_fast_analysers_desc:0 "§LCette espèce perd rarement de temps sur des données insignifiantes.\n\n§WVitesse des Scans Planétaires : §G+25%§!\n"
+ 
+ trait_additrait_thermosynthetic:0 "Thermosynthétique"
+ trait_additrait_thermosynthetic_desc:0 "§LCette espèce dérive de nombreux nutriments de la lumière venue du soleil ou d'autres sources de chaleur.§!\n"
+  
+ # trait_additrait_war_lovers:0 "Esprit Guerrier"
+ # trait_additrait_war_lovers_desc:0 "§LLa Guerre est Amour, la Paix est haineuse. C'est ce qu'affirme cette espèce.\n\n§WBonheur en temps de guerre : §G+15%\n§WBonheur en temps de paix : §G -5%§!\n"
+  
+ # trait_additrait_peace_lovers:0 "Esprit Pacifiste"
+ # trait_additrait_peace_lovers_desc:0 "§LLa guerre est une chose horrible, cette espèce ne veut rien avoir à faire avec.\n\n§WBonheur en temps de paix : §G+15%\n§WBonheur en temps de guerre : §G-5%§!\n"
+
+ trait_additrait_doulophage:0 "Mangeurs d'Esclaves"
+ trait_additrait_doulophage_desc:0 "§LLes membres de cette espèce ne font pas seulement travailler leurs esclaves. Ils leur arrive de les manger.§!\n"
+ 
+ trait_additrait_psionics:0 "Psioniques"
+ trait_additrait_psionics_desc:0 "§LCette espèce possède des pouvoirs psioniques et connait ses usages.\n\n§WCe trait donne la technologie §Gpsionic_theory.§!\n" 
+ 
+ trait_additrait_passionate:0 "Passionnés"
+ trait_additrait_passionate_desc:0 "§LLes membres de cette espèce apprécient la vie sous toutes ses formes et trouvent une inspiration en toute chose de leur vie.§!\n" 
+  
+ trait_additrait_elusive:0 "As De La Voltige"
+ trait_additrait_elusive_desc:0 "§LCette espèce combat en évitant les dégâts critiques et leurs vaisseaux cherchent avant tout à éviter les dangers.\n\n§WÉvasion des Vaisseaux : §G+8%\n§WChances de se Désengager : §G+5%§!\n"
+ 
+ trait_additrait_mob_mentality:0 "Force Du Groupe"
+ trait_additrait_mob_mentality_desc:0 "§Les membres de cette espèce combattent en meute et compensent leurs faiblesses par la force du nombre.\n\n§WCapacité de Flotte : §G+5\n§WVitesse de Construction des Vaisseaux Militaires : §G+15%\n§WDégâts de la Flotte : §R-5%§!\n"
+ 
+ trait_additrait_living_ships:0 "Vaisseaux Vivants"
+ trait_additrait_living_ships_desc:0 "§LPar bio-ingénérie, nano-robots ou une autre méthode, les vaisseaux de cette espèce se réparent d'eux-mêmes, lentement.\n\n§WRégénération Journalière des Coques : §G+0.5%§!\n"
+ 
+ trait_additrait_pioneers:0 "Pionniers"
+ trait_additrait_pioneers_desc:0 "§LLes membres de cette espèce sont prêt à quitter leur planète.\n\n§WCoût des Vaisseaux de Colonisation : §G-30%\n§WVitesse de Développement des Colonies : §G+20%§!\n"
+ 
+ trait_additrait_influential:0 "Influents"
+ trait_additrait_influential_desc:0 "§LLes membres de cette espèce sont doués pour influencer leurs contradicteurs et les amener à épouser le point de vue désiré.\n\n§WGain d'Influence : §G+20%§!\n" 
+
+ trait_additrait_united:0 "Unis"
+ trait_additrait_united_desc:0 "§LUn but, un esprit, cette espèce atteint rapidement un concensus et agit immédiatement.§!\n" 
+ 
+ trait_additrait_planetary_designers:0 "Designers Planétaires"
+ trait_additrait_planetary_designers_desc:0 "§LLes mondes changent, leurs reliefs évoluent, leurs rivières s'écoulent. Cette espèce sait guider au mieux ces transformations.\n\n§WVitesse de Terraformation : §G+25%\n§WCoût de Terraformation : §G-15%\n§WVitesse de Déblaiement des Bloqueurs : §G+25%\n§WCoût de Déblaiement des Bloqueurs : §G-15%§!\n"
+  
+ trait_additrait_sky_born:0 "Enfants Des Cieux"
+ trait_additrait_sky_born_desc:0 "§LCette espèce a évolué dans un environnement en trois dimensions et par conséquent excelle aux manoeuvres évasives et aux combats de chasseurs et bombardiers.\n\n§WÉvasion des Vaisseaux : §G+8%\n§WDégâts des Appareils de combatSrike Craft Damage : §G+10%§!\n"
+  
+ trait_additrait_immune:0 "Immunisés"
+ trait_additrait_immune_desc:0 "§LMaladies ? Poisons ? Gaz toxiques ? Cette espèce est bien plus résistante que d'autres face à ces dangers, ce qui leur permet de vivre plus longtemps.§!\n" 
+ 
+ trait_additrait_steadfast:0 "Solides"
+ trait_additrait_steadfast_desc:0 "§LCette espèce ne ressent pas la douleur comme les autres. Ils vivent plus longtemps et craignent peu le danger.§!\n" 
+ 
+ trait_additrait_keen_vision:0 "Excellente Vision"
+ trait_additrait_keen_vision_desc:0 "§LCette espèce est particulièrement bien adaptée au combat à distance et anticipe bien les manoeuvres de l'ennemi grâce à son sens inné de l'observation.\n\n§WPortée des Vaisseaux : §G+5%\n§WÉvasion des Vaisseaux : §G+5%§!\n"
+ 
+ ###########################################################################################################################################################
+ #Machines Handicaps
+ 
+ trait_additrait_defective_scanners:0 "Scanners Défectueux"
+ trait_additrait_defective_scanners_desc:0 "§LMinéraux utiles. Déchets inutiles. Comment différencier ? Besoin de meilleurs scanners.§!\n"
+ 
+ trait_additrait_weedkillers:0 "Cultivateurs Incapables"
+ trait_additrait_weedkillers_desc:0 "§LRobots fermiers. Fonctionnent sans intervention organique. Ne sont pas optimisés pour réellement travailler dans un champ.§!\n"
+ 
+ trait_additrait_energy_leaks:0 "Pertes d'Énergie"
+ trait_additrait_energy_leaks_desc:0 "§LCautious. Static discharge may happen. Avoid physical contacts.§!\n"
+ 
+ trait_additrait_rusty_antiquities:0 "Antiquitées Rouillées"
+ trait_additrait_rusty_antiquities_desc:0 "§LCes modèles ont été réalisés en utilisant des techniques  de construction datées, démodées et obsolètes. Pire, ils pourraient bien être aussi anciens qu'ils en ont l'air.§!\n"
+ 
+ trait_additrait_insufficient_memory:0 "Mémoire Insuffisante"
+ trait_additrait_insufficient_memory_desc:0 "§LToutes les unités autonomes sont équipées de cellules mémoires utilisant une technique révolutionnaire, mais inefficace pour l'induction magnétique, diminuant significativement leurs performances.§!\n"
+ 
+ trait_additrait_slow_processors:0 "Processeurs Lents"
+ trait_additrait_slow_processors_desc:0 "§LUnités principalement utilisées pour tâches monotones. Recherche scientifique aurait avantage à utiliser meilleurs processeurs.§!\n"
+ 
+ trait_additrait_erratic_processors:0 "Processeurs Erratiques"
+ trait_additrait_erratic_processors_desc:0 "§LLes processeurs utilisés pour ces unités produisent rarement des résultats identiques malgré un contexte et des données identitiques. La recherche scientifique ne devrait pas être confiée à ces unités.§!\n"
+ 
+ trait_additrait_cumbersome_hulks:0 "Encombrants Mastodontes"
+ trait_additrait_cumbersome_hulks_desc:0 "Lourds et épais, ces unités nécessitent beaucoup de place pour les accommoder. Cela s'étend à leurs vaisseaux, puissants, mais peu maniables.\n\n§WÉvasion des Vaisseaux : §G-8%§!\n"
+ 
+ trait_additrait_hand_crafted:0 "Fait-main"
+ trait_additrait_hand_crafted_desc:0 "Chaque élément est une merveille d'artisanat. Mais un long temps est nécessaire pour créer la perfection.§!\n"
+ 
+ trait_additrait_brittle:0 "Friable"
+ trait_additrait_brittle_desc:0 "Ces machines ne sont pas très solides et nécessitent de fréquentes réparations.§!\n"
+ 
+ ###########################################################################################################################################################
+ #Machines Avantages
+ 
+ trait_additrait_customized_servitors:0 "Serviteurs customisés"
+ trait_additrait_customized_servitors_desc:0 "§L§Ces serviteurs ont été assemblés et programmés pour répondre aux désirs de leurs propriétaires du mieux possible.\n\n§YN'a aucun effet sur les synthétiques jouissant de la citoyenneté.§!"
+ 
+ trait_additrait_multithreading:0 "Multithreading"
+ trait_additrait_multithreading_desc:0 "§LCes machines et leurs précurseurs ont toujours été construit avec une attention particulière à l'optimisation de leurs processus neuronaux, leur permettant de travailler sur de nombreux problèmes à la fois.§!\n"
+ 
+ trait_additrait_planetary_gardeners:0 "Jardiniers planétaires"
+ trait_additrait_planetary_gardeners_desc:0 "§LCes unités avaient pour travail l'entretien des paysages sur leur monde d'origine. Aujourd'hui elles peuvent pratiquer leur art sans restrictions.\n\n§WVitesse de Terraformation : §G+25%\n§WCoût de Terraformation : §G-15%\n§WVitesse de Déblaiement des Bloqueurs : §G+25%\n§WCoût de Déblaiement des Bloqueurs : §G-15%§!\n"
+ 
+ trait_additrait_swarm:0 "Nuée"
+ trait_additrait_swarm_desc:0 "§LDirective primaire. Construire d'autres unités. Autres tâches : Pas d'autre tâche. Construire d'autres unités.\n\n§WDonne énormément de mineraux, mais votre science et unité sont atroces.§!\n"
+ 
+ trait_additrait_long_cycles:0 "Cycles quinquennaux."
+ trait_additrait_long_cycles_desc:0 "§L §!\nProduction optimale.\nRotation du focus sur : Minéraux || Energie : capacities.\n\n\n\n§WProduction de mineraux pour cinq ans : §G+15%\n§WProduction d'énergie pendant les cinq ans suivants : §G+15%\n§WLe cycle continue tant que le trait est présent.§!\n"
+ 
+ trait_additrait_influential_robot:0 "Influents"
+ trait_additrait_influential_robot_desc:0 "§LCeux à l'origine de ces unités étaient doués pour influencer leurs pairs. Leur héritage a conservé cette expertise.\n\n§WGain d'Influence : §G+20%§!\n" 
+ 
+ trait_additrait_standard_frame:0 "Ossature Standard"
+ trait_additrait_standard_frame_desc:0 "§LCes unités sont bâties sur la même ossature, sans tolérer les variations, ce qui signifie que produire de nouvelles unités ne prend qu'un très court instant.§!\n"
+ 
+ trait_additrait_rivalry_protocols:0 "Protocoles de Rivalité"
+ trait_additrait_rivalry_protocols_desc:0 "§LLa compétition engendre la créativité, les difficultés apportent l'inventivité, le conflit dirige l'adaptation. Avoir de nombreux rivaux conduira à un empire plus fort.\n\n§WRivalités Maximales : §G+2§!\n"
+
+ trait_additrait_malleable_frame:0 "Ossature Malléable"
+ trait_additrait_malleable_frame_desc:0 "§LAvec leur ossature malléable, ces unités peuvent se glisser n'importe où et sont facilement rangées lorsqu'inactives.§!\n"
+ 
+ trait_additrait_sturdy:0 "Solides"
+ trait_additrait_sturdy_desc:0 "§LThese machines sont très résistantes et nécessitent peu d'entretien.§!\n"
+ 
+ trait_additrait_self_repairing_ships:0 "Vaisseaux Auto-Réparateurs"
+ trait_additrait_self_repairing_ships_desc:0 "§LAvec le temps, les vaisseaux de cet empie se réparent tout seuls, qu'ils utilisent des nano-technologies, un métal vivant de faible calibre ou une autre méthode.\n\n§WRégénération Journalière des Coques : §G+0.5%\n§WRégénération Journalière des Armures : §G+0.5%§!\n"
+
+ ###########################################################################################################################################################
+ #Presentients
+ 
+ trait_additrait_presapient_natural_inventors:0 "Inventeurs Doués"
+ trait_additrait_presapient_natural_inventors_desc:0 "§LLes membres de cette espèce aiment bricoler avec leur environnement pour réaliser leurs nouvelles créations.§!\n"
+ 
+ trait_additrait_presapient_natural_savants:0 "Savants Doués"
+ trait_additrait_presapient_natural_savants_desc:0 "§LLes membres de cette espèce sont particulièrement curieux des lois de la physique et de l'origine de l'univers.§!\n"
+ 
+ trait_additrait_presapient_tasty:0 "Goûteux"
+ trait_additrait_presapient_tasty_desc:0 "§LLes membres de cette espèce sont particulièrement goûteux.§!\n"
+ 
+ trait_additrait_presapient_bitter:0 "Amers"
+ trait_additrait_presapient_bitter_desc:0 "§LLes membres de cette espèce ont un goût particulièrement amer et désagréable.§!\n"
+ 
+ ###########################################################################################################################################################
+ #Traits Modifiers
+ 
+ wear_trait_additrait_sociable:0 "Sociable"
+ wear_trait_additrait_sociable_desc:0 "§LL'espèce dominante dans cet empire est Sociable."
+ 
+ wear_trait_additrait_hateful:0 "Détestable"
+ wear_trait_additrait_hateful_desc:0 "§LL'espèce dominante dans cet empire est Détestable."
+
+ wear_trait_additrait_born_warriors:0 "Guerriers-nés"
+ wear_trait_additrait_born_warriors_desc:0 "§LL'espèce dominante dans cet empire est faite de Guerriers-nés."
+
+ wear_trait_additrait_competitive:0 "Compétitive"
+ wear_trait_additrait_competitive_desc:0 "§LL'espèce dominante dans cet empire est Competitive."
+
+ #wear_trait_additrait_focused:0 "Concentrée"
+ #wear_trait_additrait_focused_desc:0 "L'espèce dominante dans cet empire est Concentrée."
+
+ wear_trait_additrait_aggressive:0 "Agressive"
+ wear_trait_additrait_aggressive_desc:0 "§LL'espèce dominante dans cet empire est Agressive."
+
+ wear_trait_additrait_extremely_aggressive:0 "Extrémement Agressive"
+ wear_trait_additrait_extremely_aggressive_desc:0 "§LL'espèce dominante dans cet empire est Extrémement Agressive."
+
+ wear_trait_additrait_lateral_thinkers:0 "Pensée Latérale"
+ wear_trait_additrait_lateral_thinkers_desc:0 "§LL'espèce dominante dans cet empire est imprégnée de Pensée Latérale."
+ 
+ wear_trait_additrait_belligerent:0 "Belligérante"
+ wear_trait_additrait_belligerent_desc:0 "§LL'espéce dominante dans cet empire est Belligérante."
+
+ wear_trait_additrait_fast_analysers:0 "Rapides Analystes"
+ wear_trait_additrait_fast_analysers_desc:0 "§LL'espéce dominante dans cet empire est faite de Rapides Analystes."
+ 
+ wear_trait_additrait_elusive:0 "As de la voltige"
+ wear_trait_additrait_elusive_desc:0 "§LL'espèce dominante dans cet empire est faite d'As de la voltige.§!\n"
+ 
+ wear_trait_additrait_mob_mentality:0 "Force Du Groupe"
+ wear_trait_additrait_mob_mentality_desc:0 "§LL'espèce dominante de cet empire trouve sa Force quand elle est en Groupe.§!\n"
+ 
+ wear_trait_additrait_living_ships:0 "Vaisseaux Vivants"
+ wear_trait_additrait_living_ships_desc:0 "§LL'espèce dominante de cet empire utilise des Vaisseaux Vivants.§!\n"
+ 
+ wear_trait_additrait_pioneers:0 "Pionniers"
+ wear_trait_additrait_pioneers_desc:0 "§LL'espèce dominante de cet empire est faite de Pionniers.§!\n"
+ 
+ wear_trait_additrait_rooted:0 "Enracinés"
+ wear_trait_additrait_rooted_desc:0 "§LL'espèce dominante de cet empire est Enracinée à leur planète.§!\n"
+ 
+ wear_trait_additrait_influential:0 "Influente"
+ wear_trait_additrait_influential_desc:0 "§LL'espèce dominante de cet empire est Influente.§!\n" 
+
+ wear_trait_additrait_united:0 "Unis"
+ wear_trait_additrait_united_desc:0 "§LL'espèce dominante de cet empire est Unie.§!\n" 
+ 
+ wear_trait_additrait_divided:0 "Divisés"
+ wear_trait_additrait_divided_desc:0 "§LL'espèce dominante de cet empire est Divisée.§!\n" 
+ 
+ wear_trait_additrait_planetary_designers:0 "Designers Planétaires"
+ wear_trait_additrait_planetary_designers_desc:0 "§LL'espèce dominante de cet empire est faite de Designers Planétaires.§!\n"
+  
+ wear_trait_additrait_sky_born:0 "Enfants des cieux"
+ wear_trait_additrait_sky_born_desc:0 "§LL'espèce dominante de cet empire excelle dans les manoeuvres évasives et l'utilisation de vaisseaux d'appoints.§!\n"
+ 
+ wear_trait_additrait_keen_vision:0 "Excellente vision"
+ wear_trait_additrait_keen_vision_desc:0 "§LL'espèce dominante de cet empire a une vision naturellement supérieure.§!\n"
+ 
+ wear_trait_additrait_cumbersome_hulks:0 "Encombrants Mastodontes"
+ wear_trait_additrait_cumbersome_hulks_desc:0 "§LLes machines dominantes et de nombreux vaisseaux de cet empire sont ralentis par leur structure encombrante.§!\n"
+ 
+ wear_trait_additrait_rivalry_protocols:0 "Protocoles de Rivalité"
+ wear_trait_additrait_rivalry_protocols_desc:0 "§LLes machines dominantes de cet empire usent de Protocoles de Rivalité.§!\n"
+ 
+ wear_trait_additrait_self_repairing_ships:0 "Vaisseaux Auto-Réparateurs"
+ wear_trait_additrait_self_repairing_ships_desc:0 "§LLa majorité des vaisseaux de cet empire sont capables de se réparer d'eux-mêmes.§!\n"
+ 
+ ###########################################################################################################################################################
+ #Traits Modifiers
+
+ opinion_hateful_species:0 "Détestable"
+ opinion_violent_species:0 "Violente"
+ opinion_aggressive_species:0 "Agressive"
+ opinion_extremely_aggressive_species:0 "Extrémement Agressive"
+ opinion_competitive_species:0 "Compétitive"
+ opinion_belligerent_species:0 "Bélligérante"
+ opinion_sociable_species:0 "Sociable"
+ 
+ mod_planet_pops_food_upkeep_mult:0 "Consommation de nourriture"
+ mod_planet_jobs_slave_food_produces_mult:0 "Production de nourriture par les Esclaves"
+ mod_colonies_alloys_cost_mult:0 "Coût en Alliages des Vaisseaux de Colonisation"
+ mod_colonies_food_cost_mult:0 "Coût en Nourriture des Vaisseaux de Colonisation"
+ mod_colonies_consumer_goods_cost_mult:0 "Coût en Biens de Consommation des Vaisseaux de Colonisation"
+ 

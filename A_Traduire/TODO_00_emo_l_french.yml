@@ -1,0 +1,91 @@
+﻿l_french:
+
+debris_dwellers_system_initializer_NAME:0 "Origin: Debris Dwellers"
+debris_dwellers_system_initializer_DESC:0 "A catastrophic incident happened within this system. Every single planetoid is shattered, creating multiple asteroid rings around the singular stellar body. \n\nStart with an §YAsteroid §Las your homeworld.\n\n§RWARNING: Extremely challenging; Currently the Asteroid does not have a background texture and will just show whatever you had selected first. Please contact me if you know how to fix this issue. \n\n$system_initializer_DESC$"
+
+
+reliquary_system_initializer_NAME:0 "Back to the Future"
+reliquary_system_initializer_DESC:0 "Maximum-sized Trinary System with a §YRelic World§L (size 26), accompanied by two Relic moons, one of them tiny (size 11 and 1).\n\n$system_initializer_DESC$"
+
+origin_reliquary:0 "Back to the Future"
+origin_reliquary_desc:0 "This civilization once experienced an enormous scientific growth that allowed it to settle its planetary moons. Their technological prowess was lost however, when a coronal mass ejection from their sun destroyed all electrical equipment. Only tales of the wonders their forefathers were capable of remained. Eons later, scientists discovered once again that magic was nothing more than incomprehensible technology."
+origin_tooltip_reliquary_effects:0 "Maximum-sized Trinary System with a §YRelic World§W (size 26), accompanied by two Relic moons, one of them tiny (size 11 and 1)."
+
+
+origin_egg:0 "Walking On Eggshells"
+origin_egg_desc:0 "Strange earthquakes have shaken our planet for centuries now. Legends tell us about the great serpent that devours our world from within. Is it true?"
+origin_tooltip_egg_effects:0 "§WStart with a §YVoidspawn §Wgrowing inside your Home Planet. It will hatch and §Rdestroy §Wyour empire capital.\n\nYou will be able to pick how long it takes at the start of the game. Choose from options between certain annihilation at 1 year and the 'very challenging' timeframe of 100 years."
+
+emo.2.title: "Even More Origins: Walking On Eggshells"
+emo.2.desc: "Choose after what time the egg hidden beneath the planets crust will start to hatch.\n\nThis indicates when the event chain starts, the colony will be destroyed about a year later.\n\nOptions are color coded to indicate how likely your survival will be. The first few options are almost certainly impossible, if you are not able to quickly locate and colonize a habitable planet. The last option is there if you just want to fight and slay a Void Spawn some time in the future. Everything up to five years will guarantee none of your original population survives (as you will not be able to resettle pops unto a developing colony)."
+emo.2.option.oneyear: "§R1 year§W"
+emo.2.option.oneandahalfyears: "§R1.5 years§W"
+emo.2.option.twoyears: "§P2 years§W"
+emo.2.option.threeyears: "§P3 years§W"
+emo.2.option.fouryears: "§S4 years§W"
+emo.2.option.fiveyears: "§S5 years§W"
+emo.2.option.sevenyears: "§H7 years§W"
+emo.2.option.tenyears: "§Y10 years§W"
+emo.2.option.fifteenyears: "15 years"
+emo.2.option.twentyfiveyears: "25 years"
+emo.2.option.hundredyears: "§G100 years§W"
+
+
+origin_hive:0 "Ecosystem Integration"
+origin_hive_desc:0 "This Hive Mind has developed an understanding of its surroundings, so far unknown. It has successfully merged with its Home Planet."
+origin_tooltip_hive_effects:0 "§WStart with a §YHive World §Was your Home Planet."
+
+
+origin_tooltip_emo_eldest_sibling_effects:0 "Start with up to §Ytwo other primitive civilizations§! in your home system. Choose if they're of your own species or randomly generated ones."
+origin_eldest_sibling_desc:0 "This society has always been fascinated by the presence of two specific other planets in their solar system. With the discovery of telescopes, scientists have verified the existence of alien life present on at least one of them! \nOld legends long retold seem more credible now, and as the first among us, we take to the stars."
+
+START_SCREEN_ELDEST_SIBLING:0 "Even before the invention of the telescope, we've long since known stories of our sibling civilizations. Time has shrouded their origin into mystery. And for centuries, observing them from the comfort of our home world was the only way to gather information.\n\nWith the advent of telecommunication it wasn't long before ambitious scientists tried to contact them. The first reply gathered worldwide attention. Finally - answers would be ours!\n\nSoon thereafter we knew that they had their own stories about us and legends about portals to other worlds. Speculation ensued, but no consent could be reached upon our shared past.\n\n The discovery of sustainable spaceflight has gifted us the immeasurable opportunity to visit them. The communication so far had always been positive, reinforced by the leading scientists of our time. But now there are voices among us, gathering support for a preventative first strike!"
+
+emo.1.title: "Even More Origins: Eldest Sibling"
+emo.1.desc: "Choose what kind of primitive civilizations have been located by our scientists."
+emo.1.option.sametwo: "2 primitive civilizations of our species."
+emo.1.option.sameone: "1 primitive civilization of our species."
+emo.1.option.oneandone: "1 primitive civilization of our species and another, random one."
+emo.1.option.onerandom: "1 primitive civilization of a single, random species."
+emo.1.option.tworandom: "2 primitive civilizations of different, random species."
+
+
+origin_emperor:0 "The Chosen One"
+origin_emperor_desc:0 "''You are the Chosen One. You have brought balance to this world. Stay on this path and you will do it again... for the galaxy. But beware your heart...'' \n- The Father's last words"
+origin_tooltip_emperor_effects:0 "§WYour ruler is §YThe Chosen One§W, an immortal, erudite level 10 leader. You are granted the opportunity to research §YPsionic Theory§W early."
+
+
+fratricide_system_initializer_NAME:0 "Fratricide"
+fratricide_system_initializer_DESC:0 "The §YTomb World §Lpart of this Unary System is a silent reminder of the civilization once neighbouring your own.\n\n$system_initializer_DESC$"
+
+origin_fratricide:0 "Fratricide"
+origin_fratricide_desc:0 "The Tomb World part of this Unary System is a silent reminder of the civilization once neighbouring your own. Learn from your history or embrace and repeat it."
+origin_tooltip_fratricide_effects:0 "§WStart with an additional §YTomb World §Win your Home System."
+
+
+nine_sun_system_initializer_NAME:0 "Legacy of Nine Suns"
+nine_sun_system_initializer_DESC:0 "When a sister galaxy collided with our own, its supermassive black hole tore multiple stars away from their galactic niche. They all ended up here, accompanying their new center of gravity. A massive planet formed out of the debris present in the system, orbiting the black hole. The light of nine suns created a new cycle of varying perpetual daylight and radiation. Life still evolved there, defying the adverse conditions.\n\n$system_initializer_DESC$"
+
+origin_nine_suns:0 "Legacy of Nine Suns"
+origin_nine_suns_desc:0 "When a sister galaxy collided with our own, its supermassive black hole tore multiple stars away from their galactic niche. They all ended up here, accompanying their new center of gravity. A massive planet formed out of the debris present in the system, orbiting the black hole. The light of nine suns created a new cycle of varying perpetual daylight and radiation. Life still evolved there, defying the adverse conditions."
+origin_tooltip_nine_suns_effects:0 "§WStart on a §Ysize 30 §Wplanet, accompanied by nine different stars, orbiting the supermassive §YBlack Hole §Win your Home System. A §YSuperflare §W will strike after one year."
+
+
+origin_subterra:0 "Out of Sight, Out of Mind"
+origin_subterra_desc:0 "Unbeknownst to your civilization, a subterranean species has thrived below the surface for eons."
+origin_tooltip_subterra_effects:0 "§WStart with a §YSubterranean Civilization §Won your Home Planet."
+
+
+origin_bio_trophy:0 "Runaway Children"
+origin_bio_trophy_desc:0 "#INSERT_FLUFF_HERE"
+origin_tooltip_bio_trophy_effects:0 "§WAnother advanced empire of your §YBio-Trophies §Wspecies is created somewhere in the galaxy."
+
+
+
+pc_asteroid_ori:1 "Asteroid"
+pc_asteroid_ori_desc:0 "This Asteroid was once the tectonic plate of a Broken World, which it now orbits."
+
+
+
+d_hydroponic_farms:1 "Hydroponic Farms"
+d_hydroponic_farms_desc:0 "This area of greenhouses and fields has been used to feed the planet since time immemorial. Now most of it is unusable, but it's still yielding a bit of food."

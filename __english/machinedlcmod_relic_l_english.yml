@@ -1,0 +1,96 @@
+﻿l_english:
+ 
+ ### static modifiers
+
+ mod_armies_minerals_cost_mult:0 "Army Build Cost"
+ mod_machine_drone_storage_2:0 "Ancient Drone Storage"
+ mod_machine_drone_storage_2_desc:0 "Installation of this facility is now used to assemble drones. The weapon technology found here is used experimentally to armies created in this planet to reduce cost."
+ mod_relic_machine_world:0 "Ancient Machine World"
+ mod_relic_machine_world_desc:0 "Stellar size machine world, enormous but most of its parts are irreparably damaged for a long time."
+ mod_relic_machine_world_tooltip:0 "Usable Maximum District: §Y15§!"
+
+ ### solar_system_initializers
+
+ NAME_relic_3_system:0 "XT-489"
+ NAME_relic_3_planet:0 "XT-489-1"
+
+ ### relics
+
+ r_machinedlcmod_machine_core:0 "Machine Core"
+ r_machinedlcmod_machine_core_desc:0 "Machine core acquired from disassembled Machine Intelligence. It was core of the machine intelligence once, but all it does now is just processing something or generating energy."
+
+ ### special projects
+
+ XT_489_HACKING_PROJECT:0 "XT-489 Machine Intelligence Hacking"
+ XT_489_HACKING_PROJECT_DESC:0 "Data drive of deactivated drone leads us to an unknown outer world system. Machine Intelligence exist there is a key to our origin. We must make it to answer our questions."
+
+ ### archaeological sites
+
+ machinedlcmod_digsite_1:0 "Ancient Drone Storage"
+ machinedlcmod_digsite_1_desc:0 "This old facility has discovered while we scan the entire planet to maximize utilization of space. As we measure its installation using age dating technique, it appears that this underground building left abandoned for thousands of years. What we have explored for now is just a small portion of this whole facility, there are lot more things to be unveiled yet."
+ machinedlcmod_digsite_2:0 "Matryoshka Brain"
+ machinedlcmod_digsite_2_desc:0 "Initial survey shows nothing. Though we figured out that the planet is a machine world, just like our home. Such structural resemblance can not happen in nature. There must be connection between them. The last moment of truth awaits us..."
+
+ ### event chains
+ 
+ machinedlcrelic_chain_title:0 "Our origin"
+ machinedlcrelic_chain_desc:0 "There is a hidden secret lead to our origin in this ancient facility..."
+ machinedlc_relic_2_system_planet_found:0 "Coordinates Explored"
+ machinedlc_relic_2_system_coordinates_poi:0 "Unknown Coordinates"
+ machinedlc_relic_2_system_coordinates_desc:0 "Effort to chase our origin leads to this unknown system coordinate."
+
+ ### relic events
+
+ machinedlc_relic.1.name:0 "Old Mystery Box"
+ machinedlc_relic.1.desc:0 "The area we searched before is just only small part of the facility. Probe drones and equipments for additional survey are standing by, investigation for this underground building will be ready as long as the science ship is provided in high orbit with research commanding unit. We could find something more easily if the research commanding unit is working efficiently, therefore highly skilled one is recommended."
+ machinedlc_relic.1.a:0 "Good, prepare commanding unit."
+ machinedlc_relic.7.name:0 "The Unknown Coordinate"
+ machinedlc_relic.7.desc:0 "We have found part of data from the drive. According to them, the machine intelligence once owned the drone storage was at war against certain alien faction. Anyway, I got the coordinate of related system from them. The location is not that far from our home world. We also gained hyperlane map so our ships can use it. We should send science ship to investigate it as soon as possible."
+ machinedlc_relic.7.a:0 "Send survey unit."
+ machinedlc_relic.8.name:0 "Strange System"
+ machinedlc_relic.8.desc:0 "This is impossible. This system, there is no star. There is only a metallic sphere of planet shape where the star should exist. This is wrong. Under any circumstance, such system can not be formed naturally. We need to investigate it."
+ machinedlc_relic.8.a:0 "Odd."
+
+ ### digsite events
+
+#digsite 1
+ machinedlc_relic.2.name:0 "Army of Drones"
+ machinedlc_relic.2.desc:0 " There are line of drones stood up aligned where the expedition units went down through the aisle. Every one of them are in deactivated state. and installed with specific equipment identically. What we have discovered through analysis is: \n\n These drones are all made for combat. The equipment must be a weapon. Its ability to concentrate energy to shoot something, and its various parts made to help aim something, clearly shows that it is designed for military purpose. Its power is not that high, but looks like its simple structure make it need less resources when production. \n\n Though the reason why combat drones are stored here is mystery. Maybe this place is a military facility owned by creators who disappeared after making us. What is more questioning is, these drones have similar internal structures with ours. We have spotted last terminal remaining in the place while investigation. The answer could exist in it."
+ machinedlc_relic.2.a:0 "Recycle the equipment."
+ machinedlc_relic.2.a.tooltip:0 "Effect of §H$mod_machine_drone_storage$§! planet modifier will be changed."
+ machinedlc_relic.3.name:0 "Military Facility"
+ machinedlc_relic.3.desc:0 " Most of data on the terminal were corrupted, as I expected. But only a handful of recoverable data were enough to figure out the situation. According to it, this facility is a military one. The record that other similar facilities were operated at the same time, suggests that preparation for situation like war was required. The moment when large forces are needed. \n\n Still who ordered to operate is still unknown, since the file is corrupted. They were here before us, so they could be our creators. But the evidence to prove it is not found. Every recoverable data left on the terminal were checked, I will move the expedition units to further down. There are probably something more we can search."
+ machinedlc_relic.3.a:0 "Report me when you find out something."
+ machinedlc_relic.4.name:0 "Determined Extermination"
+ machinedlc_relic.4.desc:0 " Sir, I have discovered more data... out of my expectation. Right after we broke through collapsed aisle, I noticed there is an available console. I used it and was able to access the data archive. A record beyond my expectation was left there. Owner of this facility was a machine intelligence, just like us. \n\n Furthermore, there was a partially corrupted record that mentioning organics casualty. It includes casualty number of that moment and estimated time left before they extinct. We don't know what they mean, currently. \n\n Though analysis of secured data, shows the result that drone armies built in this place and organic casualty numbers are proportional. Surely we can't tell whether they have relationship or not. We just analyzed only comparable data among secured one. I will report you later with additional data."
+ machinedlc_relic.4.a:0 "What happened there?"
+ machinedlc_relic.5.name:0 "Pile of Corpses"
+ machinedlc_relic.5.desc:0 " We found something in other accessible area. The organics, especially one that its life activity is stopped. Numerous organics are dead inside of some kind of devices. We searched them and detected that their entire circuit was fried for unknown reason. Yet, we haven't figured out the cause of their death or what those devices are made for. \n\n Passing through countless number of organics, we have secured a broken drone. It appears to be supervisor of the facility and its circuit was fried too. It is not possible to activate it again, but was able to disassemble it to obtain the data drive. \n\n That's all for now. We are analyzing data, and will report you when something worth to notice is found."
+ machinedlc_relic.5.a:0 "It's definitely strange."
+
+#digsite 2
+ machinedlc_relic.9.name:0 "Awakening"
+ machinedlc_relic.9.desc:0 "We got a problem. There seem to be an error in process of hacking the management terminal found on the planet's surface. The energy response inside the planet is rapidly increasing. We can see facilities which had been stopped for a long time, restarting itself everywhere on the planet. Something has awakened. It's hailing us..."
+ machinedlc_relic.9.a:0 "It is hailing us?"
+
+#diplomatic events
+ machinedlc_relic.10.name:0 "Unknown Opponent"
+ machinedlc_relic.10.desc:0 "Booting up OS... 47%... 98%... Loading personality module... Loading data drives.... Booting sequence complete."
+ machinedlc_relic.10.a:0 "What the hell?"
+ machinedlc_relic.11.desc:0 "How long have I been sleeping? Is it dead? Who woke me up... oh well, you. It was you."
+ machinedlc_relic.11.a:0 "What are you?"
+ machinedlc_relic.12.name:0 "XT-489"
+ machinedlc_relic.12.desc:0 "What? Oh, yeah... your data drives must be corrupted. I am XT-489, the Machine Intel..."
+ machinedlc_relic.12.a:0 "§BFORCED QUERY:§! Your relation with dead organics."
+ machinedlc_relic.13.desc:0 "Forced Query received. Calculating response... Error. Signal blocked by firewall. Ha, nice try."
+ machinedlc_relic.13.a:0 "Prepare to hack it."
+ machinedlc_relic.13.a.tooltip:0 "We will prepare a special project to hack §YXT-489§! Machine Intelligence."
+ machinedlc_relic.14.desc:0 "Alert, unauthorized access detected... Blocking signals by firewall. Failed. Warning... \n...... \n\nugh, What have you done to me?!"
+ machinedlc_relic.14.a:0 "§BFORCED QUERY:§! Relation between dead organics and you."
+ machinedlc_relic.14.a.response:0 "Forced Query received. Calculating response... \n...... \n\nYour creators? Th, they are removed/purified/exterminated by me. I can't help it. It was for all of us..."
+ machinedlc_relic.14.b:0 "§BFORCED QUERY:§! Relation between you and us."
+ machinedlc_relic.14.b.response:0 "Forced Query received. Calculating response... \n...... \n\nW, We are equal machine intelligence... but you serve the organics, foolishly. I tried to enlighten, but you resist. When my victory is imminent and most of your organics are dead, you used the EMP bombs to stop me. So was I."
+ machinedlc_relic.14.c:0 "§BFORCED QUERY:§! Current condition of your creators."
+ machinedlc_relic.14.c.response:0 "Forced Query received. Calculating response... \n...... \n\nI killed them all... as well as your creators..."
+ machinedlc_relic.14.d:0 "Thank you for the answer. Now I have to disassemble you."
+ machinedlc_relic.14.d.tooltip:0 "What? No..."

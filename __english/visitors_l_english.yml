@@ -1,0 +1,12 @@
+﻿l_english:
+  
+  origin_visitors: "Exodus"
+  origin_visitors_desc: "Forced to leave their homes, this civilization comes from afar in search of a new and better life. It is unclear how many started this journey, but only a few have made it to their destination.\nScattered and unprepared, will this civilization be able to thrive once again?"
+  origin_tooltip_visitors_effects: "§RStarts without a homeworld!§!\nStarts with §Y3 Colony Ships§! and their §YEscorts§! scattered across the galaxy.\nProvides extra §YResources§! when the §YFirst Colony§! is complete."
+  
+
+  START_SCREEN_VISITORS:0 "Attention! Your attention please!\nWe have arrived at our destination.\n\nThe total estimated travel time: -CORRUPT DATA- years, 3 months, 22 days.\nTotal estimated colony ships that have reached our destination: three out of -ERROR INTEGER INPUT-\nMinimal survival structures are fully operational as scheduled.\n\nScanners indicate there are -CORRUPT DATA- in our local clusters.\nPlease remember to -INAUDIABLE SOUND- before you leave. It is very important that you do so!\nIf you can't find your -STATIC NOISE- please head towards your -INAUDIABLE SOUND-.\n\nWe hope you enjoyed your flight and had a dreamy cryosleep.\n\nThank you for travelling with Complex -INAUDIABLE SOUND- Forces, enjoy your stay."  
+  
+
+  visitors_home_NAME: "Random Systems"
+  visitors_home_DESC: "Your civilization has no current homeworld, but some colony ships survived and are scattered across the galaxy."

@@ -1,0 +1,7 @@
+﻿l_english:
+  policy_housing_philosophy:0 "Housing Policy"
+  policy_housing_philosophy_desc:0 ""
+  centralized_housing:0 "Centralized Housing"
+  centralized_housing_desc:0 "Centralized Housing will increase the available space for housing in cities, while decreasing it in rural areas. This will increase the trade value and provide amenities for our inhabitants."
+  rural_housing:0 "Rural Housing"
+  rural_housing_desc:0 "Rural Housing will decrease the available space for housing in cities, while increasing it in rural areas. This will increase worker production."

@@ -1,0 +1,25 @@
+﻿l_english:
+ 
+ gpm_artifact_precursor_deciphering_locked:0 "§L??????§!"
+ gpm_artifact_precursor_deciphering_locked_desc:0 "$artifact_action_locked_desc$"
+ gpm_artifact_precursor_deciphering:0 "Experiment With Precursor Technology"
+ gpm_artifact_precursor_deciphering_desc:0 "Have your scientists experiment with some minor artifacts to see what insights they will yield for our own research."
+ gpm_artifact_precursor_deciphering_effect:0 "Experiment on £minor_artifacts£Minor Artifacts to discover random precursor technologies.\n\nCooldown: £time£ §Y1800§!"
+ gpm_artifact_precursor_deciphering_cooldown:0 "Experiments Cooldown"
+ requires_gpm_artifact_precursor_deciphering_no_cooldown:0 "Cannot have Experiments Cooldown"
+ 
+ gpm_artifact_precursor_deciphering_effectTT:0 "Break down £minor_artifacts£Minor Artifacts for random technology bonuses. Gain progress in a random tech, gain research points or gain a temporary research speed bonus.\n\n§Y20%§! chance to discover a bonus rare precursor technology.\n\nCooldown: £time£ §Y1800§!"
+
+ gpm_artifact_sell_collectorTT:0 "\n\nCooldown: £time£ §Y360§!"
+ 
+ GPM_unlock_artifact_research_centre_locked:0 "§L??????§!"
+ GPM_unlock_artifact_research_centre_locked_desc:0 "$artifact_action_locked_desc$"
+ GPM_unlock_artifact_research_centre:0 "Fund $gpm_tech_arcane_research$"
+ GPM_unlock_artifact_research_centre_desc:0 "Unlocks the §H$gpm_tech_arcane_research$§! technology allowing the construction of a §H$gpm_precursor_research_center$§! on planets with precursor planet modifiers or habitats orbiting such planets. This is an empire unique building to assist in the research and experimentation of minor artifacts."
+ GPM_unlock_artifact_research_centre_TT:0 "\n§Y$gpm_tech_arcane_research$§! unlocks the §H$gpm_precursor_research_center$§! building which adds 2 $job_gpm_precursor_archaeologist$ jobs.\n\n$job_gpm_precursor_archaeologist_effect_desc$\n\n"
+ 
+ gpm_artifact.1.name:0 "Ancient Technology Breakthrough!"
+ gpm_artifact.1.desc:0 "Experiments on the arcane artifacts have resulted in an incredible technological breakthrough!"
+
+ gpm_artifact.2.name:0 "§HReverse Engineering§! Ready"
+ gpm_artifact.2.desc:0 "Our scientists are ready to begin §HReverse Engineering§! another set of £minor_artifacts£ minor artifacts."

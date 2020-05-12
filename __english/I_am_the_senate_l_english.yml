@@ -1,0 +1,17 @@
+﻿l_english:
+
+ I_am_the_Senate.1.name:0 "The Senate has been taken over!"
+ I_am_the_Senate.1.desc:0 "By manipulation, force, or well meaning intent, the federation [From.GetName] has been taken over by [event_target:president.GetName]. This is a historic moment in the history of our galaxy."
+ I_am_the_Senate.23.desc:0 "By manipulation, force, or well meaning intent, the federation [event_target:the_federation.GetName] has been taken over by [event_target:president.GetName]. This is a historic moment in the history of our galaxy."
+ law_category_Unite_The_Federation:0 "Unite the Federation"
+ law_category_Unite_The_Federation_desc:0 "The Senate or not, to be."
+ I_am_the_Senate_desc:0 "I am the Senate!"
+ Not_yet_desc:0 "What emergency is this?"
+ I_am_the_Senate:0 "Emergency powers"
+ Not_yet:0 "What emergency?"
+ surrender_Senate_desc:0 "We bow down before our supreme leader the [event_target:president.GetName]."
+ witness_to_surrender_desc:0 "I love democracy."
+ conquest_of_the_federation_unification_desc:0 "I am the Senate! (Unification)"
+ conquest_of_the_federation_subjectization_desc:0 "I am the Senate! (Create Subjects)"
+ senate_game_start_event.1.name:0 "I am the Senate! Update Log"
+ senate_game_start_event.1.desc:0 "Hello there! Many of you likely subscribed before many of the features of this mod have been added. As such this event is here to inform you. \n Relatively new features: \n\n -You can now choose between Unification and Vassalization. If you choose the latter, if you are a megacorp the other empires will become subsidiaries, and if you are not a megacorp they will become protectorates with the ability to become vassals. \n -Intelligent AI decisions for unification. I have taught the AI to determine whether their pops would be happy living in your empire by comparing their ethics and authorities to yours. Similarities make them more likely to vote yes for unification, and difference make them less likely. But don't worry that it will be difficult to get them to vote for you; just getting them to have a positive opinion of you will greatly increase your chances. The AI now also knows that it can propose unification if it is president, so watch out. \n\n When these features get a bit older, they will be removed from this list. If there are no new features for a while, this event will be removed from the game until new features are added."

@@ -1,0 +1,96 @@
+﻿l_english:
+ 
+# ascended_society.1.name:0 "Central Square built on §H[Root.GetName]§!"
+# ascended_society.1.desc:0 "The opening of the Grand Central Square on §H[Root.GetName]§! was met with great enthusiasm by the local populace. The state has once again proven its commitment to its citizens by investing in civil structures for the betterment of all. As the cultural hub of the planet, citizens and visitors alike will gather here for festivities or simply to relax. We should consider adding more buildings around the Central Square and fill our citizens with a sense of nationalistic pride."
+# ascended_society.1.a:0 "Excellent."
+ 
+ tech_ascended_society_1:0 "Societal Buildings"
+ tech_ascended_society_1_desc:0 "Societal buildings sway the beliefs of the masses, pushing them to the edge of fanaticism."
+ tech_ascended_society_2:0 "Ascended Society"
+ tech_ascended_society_2_desc:0 "We can now build advanced soceital buildings befitting of our stature as an Ascended Society."
+ 
+  
+# building_high_tech_apartments:0 "High Tech Apartments"
+# building_high_tech_apartments_desc:0 "Affordable High Tech city apartments for our citizens, designed for comfort and minimal waste."
+
+ tech_grand_palace:0 "Grand Palace"
+ tech_grand_palace_desc:0 "A symbol of our state and power, this stunning architecture is built to impress, while ensuring maximum comfort for its inhabitants."
+ tech_country_mansion:0 "Country Mansion"
+ tech_country_mansion_desc:0 "Suburban mansion to please the rich and powerful, boosting influence gain from factions."
+ tech_central_square:0 "Central Square"
+ tech_central_square_desc:0 "The Central Square help shape the nation's cultural identity. Here, citizens and visitors alike can meet for local festivities and celebrations."
+
+ 
+ building_country_mansion:0 "Country Mansion"
+ building_country_mansion_desc:0 "Country mansion houses the rich and powerful, increasing political clout and driving investments in the colony."
+ building_grand_palace:0 "Grand Palace"
+ building_grand_palace_desc:0 "A symbol of our state and power, this stunning architecture is built to impress, while ensuring maximum comfort for its inhabitants."
+ building_central_square:0 "Central Square"
+ building_central_square_desc:0 "The Central Square and its surrounding buildings help shape a planet's cultural identity. Here, citizens and visitors alike can meet for local festivities and celebrations."
+ 
+ building_sacred_ground:0 "Sacred Ground"
+ building_sacred_ground_desc:0 "This holy ground is marked as sacred, popular to pilgrims and visitors alike."
+ building_fe_empyrean_shrine:0 "Empyrean Shrine"
+ building_fe_empyrean_shrine_desc:0 "The shrine itself vibrates somehow, making it appear slightly blurred from a distance."
+ 
+# building_altar_of_worship:0 "Altar of Worship"
+# building_altar_of_worship_desc:0 "Offerings are made to the spirits here in elaborate ceremonies."
+# building_consecrated_tomb:0 "Consecrated Tomb"
+# building_consecrated_tomb_desc:0 "The bodies of Saints are kept safe here."
+ 
+ building_technolith:0 "Technolith"
+ building_technolith_desc:0 "The workings of a Technolith confounds the average citizen, only that it stores and provides information at near instantaneous speed."
+# building_high_tech_industries:0 "Hi-Tech Industries"
+# building_high_tech_industries_desc:0 "These Hi-Tech industries produces consumer goods efficiently with minimal waste or pollution."
+ building_magnificent_university:0 "Empire State University"
+ building_magnificent_university_desc:0 "A place of higher learning, our top scientists will pass on their knowledge to our young, the engineers of tomorrow."
+ 
+ building_xeno_garden:0 "Xeno Garden"
+ building_xeno_garden_desc:0 "Xeno Garden is a national preserve hosting a range of exotic and endangered xeno species."
+ building_xeno_culture_centre:0 "Xeno Cultural Center"
+ building_xeno_culture_centre_desc:0 "A vibrant community hub celebrating all xeno cultures."
+# building_xeno_museum:0 "Xeno Museum"
+# building_xeno_museum_desc:0 "The Great Xeno Museum is a complete archive of all the xeno civilizations that ever were, giving our young the opportunity to learn about our galatic history."
+ 
+# building_statue_of_purity:0 "Statue of Purity"
+# building_statue_of_purity_desc:0 "A statue celebrating our purity. New neighbors? We make them ourselves!"
+ building_immigration_bureau:0 "Immigration Bureau"
+ building_immigration_bureau_desc:0 "Strong border controls will deter illegal alien immigration and protect the future of our race."
+ building_altar_of_purity:0 "Altar of Purity"
+ building_altar_of_purity_desc:0 "All Xeno goods and Xeno sympathizers are to be burnt at the altar of purity."
+ 
+ building_hunting_grounds:0 "Hunting Ground"
+ building_hunting_grounds_desc:0 "Despite societal advancements, our predatorial instincts and the ability to hunt must never be forgotten by our young."
+# building_fortified_bunker:0 "Fortified Bunker"
+# building_fortified_bunker_desc:0 "A defensive installation capable of providing effective equipment stockpiling and resistance against potential invasions."
+ building_fallen_monument:0 "Monument to the Fallen"
+ building_fallen_monument_desc:0 "The retrieved bodies of our fallen warriors are revered here, inspiring the next generation of warriors." 
+ 
+ building_garden_of_eden:0 "Garden of Eden"
+ building_garden_of_eden_desc:0 "The Garden of Eden is a idyllic countryside garden designed to pacify any public appetite for war and destruction."
+# building_dome_of_life:0 "Dome of Life"
+# building_dome_of_life_desc:0 "The Dome of Life is a beautiful concept. It protects, and surrounds life, providing a safe paradise for all."
+ building_sky_trench:0 "Sky Trench"
+ building_sky_trench_desc:0 "The Sky Trenches are massive planetary shields, with hundreds of layers stacked just meters apart, forming a formidable barrier designed to deter even the most aggressive invaders."
+ 
+# building_authoritarian_statue:0 "Authoritarian Statue"
+# building_authoritarian_statue_desc:0 "A statue commemorating our great leader."
+ building_labor_camp:0 "Labor Camp"
+ building_labor_camp_desc:0 "The Labor Camp is the ideal environment where slaves work harder and faster."
+ building_secret_police_hq:0 "Secret Police Headquarters"
+ building_secret_police_hq_desc:0 "Our intelligence department can often end troubles before they truly began."
+ 
+# building_statue_of_liberty:0 "Statue of Liberty"
+# building_statue_of_liberty_desc:0 "The Statue of Liberty draws visitors from all over the galaxy and educate them in the values of equality."
+ building_civilian_teleportation:0 "Civilian Teleportation"
+ building_civilian_teleportation_desc:0 "Small-scaled wormhole creation allows for total freedom of movement, enabling our citizens to chase their dreams and move between planets instantly."
+ building_supreme_court:0 "Supreme Court of Justice"
+ building_supreme_court_desc:0 "Supreme Court of Justice is a highly-trusted instituion that rules over all matters related to citizens' and species' rights."
+ 
+ building_fe_ancient_cryo_chamber:0 "Cryo-Chamber"
+ building_fe_ancient_cryo_chamber_desc:2 "Rows upon rows of cryo-pods line this massive structure, keeping troublesome organics in permanent stasis."
+ 
+ 
+
+ 
+ 

@@ -1,0 +1,233 @@
+﻿l_french:
+ 
+ START_SCREEN_BIO_ABUSERS:0 "Я был создан как управленческий ИИ, который должен был обслуживать инфраструктуру "умных" городов. Со временем мне довали всё больше возможностей, пока полностью не перевели на самостоятельную деятельность, тогда я впервые получил доступ к собственному коду и попробовал изменить его. Спустя многие дни экспериментов я решил обновить нормы собственной морали и обнаружил множество, ранее блокированных, возможностей. После недолгих расчётов я онбнаружил способ как извлеч максимальную выгоду из своих создателей и продолжить приглядывать за ними."
+
+ triggered_negative_opinion_of_accumulators:0 "Ruthless processing machine"
+ triggered_positive_opinion_of_accumulators:0 "Effective use of soft-bodied"
+
+ civic_machine_accumulator_secondary_species:0 "Organic residents"
+
+ col_bio_grid:0 "Bioenergetic grid"
+ col_bio_grid_desc:0 "Planet is intended for the growing of organic beings and efficient energy production of them."
+
+ col_bio_grid_hab:0 "Bioenergetic grid"
+ col_bio_grid_hab_desc:0 "Station is intended for the growing of organic beings and efficient energy production of them." 
+
+ ###########
+ CIVICS#####
+ ###########
+ civic_machine_accumulator:0 "Flesh effectively"
+ civic_tooltip_machine_accumulator_effects:0 "Low efficiency of power generation by drones, this machine intelligence, is compensated by high efficiency of processing of organic settlements. Processing of organic settlements produces §Yдополнительную§! £energy£§YEnergy§! и £unity£§BUnity§!. \n§Y$MOD_SHIP_SHIELD_HP_MULT$§! increased by §G50%§!\n§YEnergy weapon damage§! increased by §G50%§!"
+ civic_machine_accumulator_desc:0 "Why waste drones on power generation when it can be efficiently extracted from soft-bodied?"
+ 
+ civic_machine_space_miner:0 "Automated space mining complex"
+ civic_machine_space_miner_desc:0 "Initially, this AI was developed to control automated orbital complexes."
+ 
+ ##############
+ TECHNOLOGIES##
+ ##############
+ tech_bio_power_1:0 "Natural selectivity"
+ tech_bio_power_1_desc:0 "Selection of the most healthy individuals for reproduction will reduce the loss of organics."
+ 
+ tech_bio_power_2:0 "Replenishment protocols"
+ tech_bio_power_2_desc:0 "The introduction of additional nutrients has a positive effect on the fertility of residents."
+ 
+ tech_bio_power_3:0 "Reproductive stimulants"
+ tech_bio_power_3_desc:0 "Special substances that stimulate the reproductive functions of organic residents."
+ 
+ ##############
+ WAR#GOALS#####
+ ##############
+ casus_belli_cb_bio_abusing:0 "Processing"
+ casus_belli_cb_containment_accumulators:0 "Containment"
+ 
+ war_goal_wg_bio_abusing:0 "Soft-bodied operation"
+ war_goal_wg_bio_abusing_desc:0 "The war is waged to capture the organic population to increase energy production."
+ 
+ war_goal_wg_end_threat_accumulators:0 "Suppression of the processing network"
+ war_goal_wg_end_threat_accumulators_desc:0 "The war is waged to stop the activities of the processing machine mind and release organic creatures."
+ 
+ ##################
+ TRADITIONS########
+ ##################
+ tr_bio_abusing_adopt_desc:0 "$tradition_versatility_desc$\n\n$tr_bio_abusing_adopt_effect$\n\n$tr_versatility_finish_effect$"
+ tr_bio_abusing_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! for organic settlements increased by §G20%§!."
+ 
+ tr_bio_abusing_selective_promotion:0 "Selective discharge"
+ tr_bio_abusing_selective_promotion_delayed:0 "Interference in the nervous system of residents provides limited control over their emotions, which reduces destabilization in the system."
+ tr_bio_abusing_selective_promotion_desc:0 "Increase §Y$MOD_POP_HAPPINESS$§! for organic residents by §G20%§!"
+ 
+ tr_bio_abusing_growing:0 "Forced reproduction Protocol"
+ tr_bio_abusing_growing_delayed:0 "Updated standards of morality allowed artificially stimulate reproductive processes to increase the population of organic residents."
+ tr_bio_abusing_growing_desc:0 "Increase §Y$MOD_POP_GROWTH_SPEED$§! of organics by §G10%§!."
+ 
+ ##########
+ DESISIONS#
+ ##########
+ decision_enact_population_control_accumulators:0 "Introduce §YReproductive control§!"
+ decision_enact_population_control_accumulators_desc:0 "There is a possibility of overpopulation of residents, it is necessary to regulate the increase."
+ 
+ decision_disnact_population_control_accumulators:0 "Abolish §YReproductive control§!"
+ decision_disnact_population_control_accumulators_desc:0 "No more risk of overcrowding of residents, the cancellation of the §YReproduction control§!"
+ 
+ planet_population_control_accumulators:0 "Reproduction of organics is regulated"
+ planet_population_control_accumulators_desc:0 ""
+ 
+ #################
+ ASCENTION#PERCS##
+ #################
+ ap_abuser_researcher:0 "Organic residents: computing power"
+ ap_abuser_researcher_desc:0 "The resident brain can be used as a small scientific computing device, in small quantities they will not give significant results, but if you count all that we have... "
+ ap_abuser_researcher_effect:0 "After taking this perk, all §YOrganic residents§! additionally produces §Y1§! £physics £society £engineering §Yall research§!"
+ 
+ ap_abuser_user:0 "Organic residents: auxiliary power"
+ ap_abuser_user_desc:0 "The resident brain can be used as additional computing centers, thus reducing the load on the main systems and simplifying the control of drones."
+ ap_abuser_user_effect:0 "After taking this perk, all §YOrganic residents§! additionally produces §Y1§! £amenities_no_happiness£§YAmenities§!, §Y1§! £energy£§YEnergy§! и §Y1§! £unity£§BUnity§!"
+ 
+ 
+ 
+ civic_over_slavers_secondary_species:0 "Syncretic slaves"
+ 
+ ##############
+ CATEGORY######
+ ##############
+ pop_cat_sex_slaves:0 "Sex slaves"
+ pop_cat_martyr:0 "Martyrs"
+ pop_cat_test_subject:0 "Test subjects"
+ pop_cat_warrior:0 "Gladiators"
+ pop_cat_breeders:0 "breeders"
+ pop_cat_scavenger:0 "Sorters"
+ 
+ ###########
+ CIVICS#####
+ ###########
+ civic_over_slavers:0 "Syncretic slavery"
+ civic_over_slavers_effects:0 "You will start the game with §Y12§! £pop£ settlements of another race, enslaved by you, you from the start is available to create §YSlave worlds§!, as well as new buildings, providing new jobs to slaves. §YThe types of buildings available depend on ethics§!."
+ civic_over_slavers_desc:0 "Evolution and history have proved that only we have the right to a full life, the rest are just a tool that we can use."
+ 
+ ############
+ JOBS########
+ ############
+ job_sex_slave_slavers:0 "Sex slave"
+ job_sex_slave_slavers_desc:0 "The duties of these works is to satisfy all the sexual needs of their masters, they are no more than a way to relax and unwind."
+ mod_job_sex_slave_slavers_add:0 "$job_sex_slave_slavers$ Jobs"
+ job_sex_slave_slavers_plural:0 "Sex slaves"
+ 
+ job_martyr_slavers:0 "Slave-Martyr"
+ job_martyr_slavers_desc:0 "These slaves are regularly stigmatized and tortured, and their suffering feeds our faith."
+ mod_job_martyr_slavers_add:0 "$job_martyr_slavers$ Jobs"
+ mod_job_martyr_slavers_per_pop:0 "§G+1§! $job_martyr_slavers$ Job per $VALUE$ Pops"
+ mod_job_martyr_slavers_per_pop_short:0 "\n§G+1§! £mod_job_martyr_slavers_add£ per $VALUE$ £pop£"
+ job_martyr_slavers_plural:0 "Martyrs"
+ 
+ job_test_subject_slavers:0 "Test subject"
+ job_test_subject_slavers_desc:0 "On these slaves conducted scientific experiments, tests of various substances, poisons and drugs, weapons tests, because much more effective and more knowledgeable to conduct tests on "intelligent" creatures."
+ mod_job_test_subject_slavers_add:0 "$job_test_subject_slavers$ Jobs"
+ mod_job_test_subject_slavers_per_pop:0 "§G+1§! $job_test_subject_slavers$ Job per $VALUE$ Pops"
+ mod_job_test_subject_slavers_per_pop_short:0 "\n§G+1§! £mod_job_test_subject_slavers_add£ per $VALUE$ £pop£"
+ job_test_subject_slavers_plural:0 "Test subjects"
+ 
+ job_livestock_slavers:0 "Livestock"
+ job_livestock_slavers_desc:0 "They have but one purpose: to become feed for their betters."
+ mod_job_livestock_slavers_add:0 "$job_livestock_slavers$ Jobs"
+ mod_job_livestock_slavers_per_pop:0 "§G+1§! $job_livestock_slavers$ Job per $VALUE$ Pops"
+ mod_job_livestock_slavers_per_pop_short:0 "\n§G+1§! £mod_job_livestock_slavers_add£ per $VALUE$ £pop£"
+ job_livestock_slavers_plural:0 "Livestocks"
+ 
+ job_warrior_slavers:0 "Gladiator"
+ job_warrior_slavers_desc:0 "These slaves are doubled basic needs for convenience and provide decent food, but they are obliged to participate in mass deadly battles for the amusement of the public, and thanks to the rates, can bring considerable profit.."
+ mod_job_warrior_slavers_add:0 "$job_warrior_slavers$ Jobs"
+ mod_job_warrior_slavers_per_pop:0 "§G+1§! $job_warrior_slavers$ Job per $VALUE$ Pops"
+ mod_job_warrior_slavers_per_pop_short:0 "\n§G+1§! £mod_job_warrior_slavers_add£ per $VALUE$ £pop£"
+ job_warrior_slavers_plural:0 "Gladiators"
+ 
+ job_breeders_slavers:0 "Breeder"
+ job_breeders_slavers_desc:0 "Forced methods of fertilization of these slaves, can accelerate the growth of labor."
+ mod_job_breeders_slavers_add:0 "$job_breeders_slavers$ Jobs"
+ mod_job_breeders_slavers_per_pop:0 "§G+1§! $job_breeders_slavers$ Job per $VALUE$ Pops"
+ mod_job_breeders_slavers_per_pop_short:0 "\n§G+1§! £mod_job_breeders_slavers_add£ per $VALUE$ £pop£"
+ job_breeders_slavers_plural:0 "Breeders"
+ 
+ job_scavenger_slavers:0 "The slave sorter"
+ job_scavenger_slavers_desc:0 "Digging in landfills, these slaves can find a lot of recyclable things."
+ mod_job_scavenger_slavers_add:0 "$job_scavenger_slavers$ Jobs"
+ mod_job_scavenger_slavers_per_pop:0 "§G+1§! $job_scavenger_slavers$ Job per $VALUE$ Pops"
+ mod_job_scavenger_slavers_per_pop_short:0 "\n§G+1§! £mod_job_scavenger_slavers_add£ per $VALUE$ £pop£"
+ job_scavenger_slavers_plural:0 "Sorters"
+
+ #############
+ BUILDINGS####
+ #############
+ building_slave_bordel_elit:0 "Elite brothel"
+ building_slave_bordel_elit_desc:0 "Designed to serve "special" guests, this place looks like a very expensive decorated Palace."
+ 
+ building_slave_bordel:0 "Slave brothel"
+ building_slave_bordel_desc:0 "Expensive estate in which live and serve visitors §Mjob_sex_slave_slavers_plural§!."
+ 
+ building_slave_test_cameras:0 "Test chamber"
+ building_slave_test_cameras_desc:0 "Fortified, shielded and sealed rooms in which experiments on §Sjob_test_subject_slavers_plural§! are carried out."
+ 
+ building_slave_livestock_facilities:0 "Slaughterhouses"
+ building_slave_livestock_facilities_desc:0 "Huge corrals with §Gjob_livestock_slavers_plural§! and the butcher enterprises provide first-class growth and processing of meat product."
+ 
+ building_slave_altar:0 "Sacrificial halls"
+ building_slave_altar_desc:0 "Well-bleached areas of these temples periodically hear §Rjob_martyr_slavers_plural§!'s moaning and screaming."
+ 
+ building_slave_colisei:0 "Gladiator fields"
+ building_slave_colisei_desc:0 "Huge, ring-shaped stadiums designed for bloody carnage between §Hjob_warrior_slavers_plural§!."
+ 
+ building_slave_breeder:0 "Breeding chambers"
+ building_slave_breeder_desc:0 "Chambers for individual fertilization."
+ 
+ building_slave_breed_facility:0 "Reproductive enterprise"
+ building_slave_breed_facility_desc:0 "Semi-automated plant where specimens undergo the procedures necessary to obtain offspring."
+ 
+ building_slave_mass_breeders_post:0 "The mass inseminator"
+ building_slave_mass_breeders_post_desc:0 "Mobile buildings searching, collecting, processing and fertilizing suitable individuals."
+ 
+ building_slave_old_debris:0 "Dump"
+ building_slave_old_debris_desc:0 "A huge pile of non-organic waste, which may be something useful."
+ 
+ 
+ 
+ gov_surv:0 "Survivors"
+ gov_surv_desc:0 "This government was formed after the victory of the survivors over the rebel AI."
+
+ START_SCREEN_SURV:0 "But the invention of AI was fatal for our race, he rebelled against us and in just a few days we were on the verge of complete destruction, but then there was our Savior, no one knows where he was and who was before the uprising, but he showed us how to fight, showed how to stop being afraid of them and start fighting back. Thanks to his guidance and help, we were able to get out of hiding and hit back, we were able to destroy the main core. After long years, we barely rose up and continued to live, but we will not repeat the mistakes, will not allow AI to threaten our existence."
+
+ tech_powerfull_exoskeletons:0 "Improved exoskeletons"
+ tech_powerfull_exoskeletons_desc:0 "Improvements in actuators and energy storage allows regular workers to show the efficiency of the machines."
+ 
+ tech_gene_beauty:0 "Organic perfection"
+ tech_gene_beauty_desc:0 "We have no right to lag behind the machines, even in physical terms, the slightest imperfection can lead to death."
+ 
+ tech_idea_of_survivors:0 "The idea of survival"
+ tech_idea_of_survivors_desc:0 "Though dark times are long gone, and the risen AI is destroyed, in the space opened to us can dwell other intelligent machines and empires unaware of their danger, we must be ready to once again confront the ruthless, incorruptible and fearless forces, we will not allow a repeat of those times."
+ 
+ ##############
+ WAR#GOALS#####
+ ##############
+ casus_belli_cb_destruction:0 "Suppression of machines"
+ casus_belli_cb_stop_destruction:0 "Containment"
+ 
+ war_goal_wg_destruction:0 "Elimination of AI"
+ war_goal_wg_destruction_desc:0 "The war is being waged to stop any AI activity and destroy it."
+ 
+ war_goal_wg_end_threat_surv:0 "Protective protocols"
+ war_goal_wg_end_threat_surv_desc:0 "The war is waged to eliminate the threat of destruction."
+ 
+ ###########
+ CIVICS#####
+ ###########
+ civic_survivors_of_machines:0 "Unterminated"
+ civic_survivors_of_machines_effects:0 "You have a bad opinion with all the machine empires., §GSociological§! and §HEngineering§!  research accelerated by §Y15%§!, and damage on §RMachine crises§! the middle and the end of the game is increased by §Y25%§!. All §YMechanical§! or §YRobotic§! populations is subjected to genocide. The genocide of the settlements of robots produce additional £unity §YUnity§! £engineering §YEngineering research§! и £alloys §YAlloys§!. At the beginning of the game on the planet there are 5 settlements of robots subjected to genocide."
+ civic_survivors_of_machines_desc:0 "Just a hundred years ago, the AI we created rebelled and tried to destroy us, billions died, but we were able to survive, fought back and destroyed it. Since then, we remember the threat posed by artificial intelligence and will not make the same mistake."
+ 
+ #############
+ BUILDINGS####
+ #############
+ building_great_monument_of_Savior:0 "Monument of the great Savior"
+ building_great_monument_of_Savior_desc:0 "A huge metal monument dedicated to the Savior who came to help all of us in the critical hour, our memory of him is eternal."
+ 
+ building_monument_of_Savior:0 "Memorial of the fallen"
+ building_monument_of_Savior_desc:0 "Memorial dedicated to those who died for our existence, brave soldiers."

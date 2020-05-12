@@ -1,0 +1,42 @@
+﻿l_english:
+ 
+ 
+ inspiring_warlord:0 "Inspiring Warlord"
+ inspiring_warlord_desc:0 "The Overlord inspires this empire to fight."
+ 
+ demilitarized_state:0 "Demilitarized State"
+ demilitarized_state_desc:0 "This country is demilitarized, restricting the number of ships it can field."
+ 
+ new_world_order:0 "New World Order"
+ new_world_order_desc:0 "The society is suffering the effects of conforming to a new order."
+ 
+ democratized_utopia:0 "Democratized Utopia"
+ democratized_utopia_desc:0 "This is apparently a democratized utopia."
+ 
+ fe_satrapy:0 "Satrapy"
+ fe_satrapy_desc:0 "As a Satrapy, we are obligated to supply a certain amount of military recruits from among our population."
+ 
+ the_preserve:0 "The Preserve"
+ the_preserve_desc:0 "This planet hosts a wide range of sapient life and forms part of the great xeno preserve project."
+ 
+ has_preserve_world_planet:0 "Preserving Xenos"
+ has_preserve_world_planet_desc:0 "We have designated a Gaia world within our borders as The Preserve."
+ 
+ op_vs_plebs:0 "OP vs Plebs"
+ op_vs_plebs_desc:0 "We know all their tacitcs, all their flaws and weaknesses."
+ 
+ auxiliary_overlord: "Auxiliary Bonus"
+ auxiliary_overlord_desc:0 "Our Auxiliary Unit is greatly enhancing our ability to assemble the next generation of machines."
+ 
+ fe_xeno_preserve:0 "Xeno Preserve"
+ fe_xeno_preserve_desc:0 "A massive complex designed to protect a wide range of sapient life collected from all over the galaxy."
+ 
+ ai_debug_ascend:0 "Ascended Empire"
+ ai_debug_ascend_desc:0 "An Ascended Empire has a greater clout over the galaxy."
+ 
+ pm_planet_fe_buildings_boost:0 "Automated Buildings Overclock"
+ pm_planet_fe_buildings_boost_desc:0 "Overclocking our automated industries will provide 20% increased resource output."
+ planet_fe_buildings_boost:0 "Automated Buildings Output: §G+20%§!"
+ 
+ 
+ 

@@ -1,0 +1,73 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###         Nanite Cannon            ###
+########################################
+
+NHSC_NANITE_CANNON_1: "Nanite Cannon"
+NHSC_NANITE_CANNON_1_DESC: "A cannon that shoots canisters filled with nanities which will aggressively attempt to disassemble enemy ships."
+SMALL_NHSC_NANITE_CANNON_1: "Small $NHSC_NANITE_CANNON_1$"
+SMALL_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+MEDIUM_NHSC_NANITE_CANNON_1: "Medium $NHSC_NANITE_CANNON_1$"
+MEDIUM_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+LARGE_NHSC_NANITE_CANNON_1: "Large $NHSC_NANITE_CANNON_1$"
+LARGE_NHSC_NANITE_CANNON_1_DESC: "$NHSC_NANITE_CANNON_1_DESC$"
+
+########################################
+###      Improved Nanite Cannon      ###
+########################################
+
+NHSC_NANITE_CANNON_2: "Improved Nanite Cannon"
+NHSC_NANITE_CANNON_2_DESC: "An improved version of the Nanite Cannon"
+SMALL_NHSC_NANITE_CANNON_2: "Small $NHSC_NANITE_CANNON_2$"
+SMALL_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+MEDIUM_NHSC_NANITE_CANNON_2: "Medium $NHSC_NANITE_CANNON_2$"
+MEDIUM_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+LARGE_NHSC_NANITE_CANNON_2: "Large $NHSC_NANITE_CANNON_2$"
+LARGE_NHSC_NANITE_CANNON_2_DESC: "$NHSC_NANITE_CANNON_2_DESC$"
+
+########################################
+###      Nanite Warhead Torpedo      ###
+########################################
+
+NHSC_NANITE_TORPEDO_1: "Nanite Warhead Torpedo"
+NHSC_NANITE_TORPEDO_1_DESC: "A torpedo that delivers a mass of disassembling nanities straight to the enemy ship."
+
+########################################
+###     Gray Goo Warhead Torpedo     ###
+########################################
+
+NHSC_NANITE_TORPEDO_2: "Gray Goo Warhead Torpedo"
+NHSC_NANITE_TORPEDO_2_DESC: "An improved version of the Natite Warhead Torpedo with more aggressive nanities."
+
+########################################
+### Nanite Warhead Missile Launcher  ###
+########################################
+
+NHSC_NANITE_XSLOT_1: "Nanite Warhead Missile Launcher"
+NHSC_NANITE_XSLOT_1_DESC: "An upscaled version of Nanite torpedo launcher that can drown enemies in rocket fire."
+
+########################################
+### Nanite Warhead Rocket Artillery  ###
+########################################
+
+NHSC_NANITE_XSLOT_2: "Nanite Warhead Rocket Artillery"
+NHSC_NANITE_XSLOT_2_DESC: "An improved version of the Nanite Warhead Missile Launcher."
+
+########################################
+###  Nanite Warhead Barrage System   ###
+########################################
+
+NHSC_NANITE_TITANIC_WEAPON: "Nanite Warhead Barrage System"
+NHSC_NANITE_TITANIC_WEAPON_DESC: "A scaled up version of the Nanite Warhead Rocket Artillery, meant to be mounted on the ships of titanic size."
+NHSC_NANITE_JUGGERNAUT_WEAPON: "$NHSC_NANITE_TITANIC_WEAPON$"
+NHSC_NANITE_JUGGERNAUT_WEAPON_DESC: "$NHSC_NANITE_TITANIC_WEAPON_DESC$"
+
+########################################
+###          Nanite Bombers          ###
+########################################
+
+NHSC_NANITE_STRIKECRAFT: "Nanite Bombers"
+NHSC_NANITE_STRIKECRAFT_DESC: "Strikecraft armed with nanite weapons."

@@ -1,0 +1,55 @@
+﻿l_french:
+
+    CREATORGATE_GALACTIC:0 "§HArchaic Pylon§!"
+    CREATORGATE_GALACTICS:0 "§H$CREATORGATE_GALACTIC$s§!"
+    CREATORGATE_GALACTIC_DESC:0 "This system contains an $CREATORGATE_GALACTIC$"
+    CREATORGATE_COUNTRY_CANNOT_USE:0 "$TRIGGER_FAIL$ We do not have the means to use an '$ehof_gateway_disabled$'"
+
+    ehof_gateway_consite:0 "$CREATORGATE_GALACTIC$ Construction Site"
+    ehof_gateway_consite_DESC:0 "$ehof_gateway_DESC$"
+    ehof_gateway_consite_MEGASTRUCTURE_DETAILS:0 "$ehof_gateway_DESC$"
+
+    ehof_gateway_disabled:0 "§HArchaic Stone§!"
+    ehof_gateway_disableds:0 "§H$ehof_gateway_disabled$s§!"
+    ehof_gateway_disabled_DESC:0 "We have acquired the technology to open the $ehof_gateway_disabled$, this could potentially link us permanently to the $ehof_cohesive$ systems."
+    ehof_gateway_disabled_MEGASTRUCTURE_DETAILS:0 "$ehof_gateway_DESC$"
+
+    ehof_gateway_unknown:0 "$ehof_gateway_disabled$"
+    ehof_gateway_unknown_DESC:0 "What is this?..."
+    ehof_gateway_unknown_MEGASTRUCTURE_DETAILS:0 "$ehof_gateway_DESC$"
+
+    ehof_gateway_restored:0 "$CREATORGATE_GALACTIC$"
+    ehof_gateway_restored_DESC:0 "$ehof_gateway_DESC$"
+
+    ehof_gateway:0 "$CREATORGATE_GALACTIC$"
+    ehof_gateway_DESC:0 "A conduit through the very fabric of subspace that enables rapid travel to other $CREATORGATE_GALACTICS$."
+
+    BYPASS_DESC_INACTIVE_CREATORGATE:0 "Requires activation by upgrading the $ehof_gateway_disabled$."
+    requires_cohesive_system:0 "$TRIGGER_FAIL$Requires $ehof_cohesive$ system."
+    requires_no_existing_ehof_gateway:0 "$TRIGGER_FAIL$Cannot build due to existing $CREATORGATE_GALACTIC$."
+    requires_technology_ehof_gateway_construction:0 "$TRIGGER_FAIL$Requires technology £engineering£ §H$tech_ehof_build_gateway$§!."
+
+    tech_ehof_use_gateway:0 "$ehof_gateway_disabled$ Activation"
+    tech_ehof_use_gateway_desc:0 "The ability to reactivate the $ehof_gateway_disableds$ that can be found in $ehof_cohesive$ systems could potentially link us permanently to these newly discovered systems."
+    tech_ehof_build_gateway:0 "$CREATORGATE_GALACTIC$ Construction"
+    tech_ehof_build_gateway_desc:0 "The construction of an $CREATORGATE_GALACTIC$, linking us to the $ehof_cohesive$ systems has unlimited potential."
+    allow_ehof_gateway:0 "$CREATORGATE_GALACTIC$"
+    ehof_megastructure_gateway_DESC:0 "$ehof_gateway_DESC$"
+
+    ehof_pylons.001.name:0 "$CREATORGATE_GALACTIC$ Constructed"
+    ehof_pylons.001.desc:0 "In what can only be described as a triumph of science and engineering, we have finished construction of our first operational $CREATORGATE_GALACTIC$ in the [ehof_gateway_system.GetName] system! The device has formed a stable subspace conduit and established a successful link with the rest of the galaxy's $CREATORGATE_GALACTIC$ network."
+
+    ehof_pylons.002.desc:0 "Construction has concluded on the new $CREATORGATE_GALACTIC$ in the §H[ehof_gateway_system.GetName]§! system. A stable subspace connection to the rest of the $CREATORGATE_GALACTIC$ network has been established, and it is now fully operational."
+
+    ehof_pylons.003.name:0 "$CREATORGATE_GALACTIC$ Construction Site Ready"
+    ehof_pylons.003.desc:0 "The deep space construction site for the planned $CREATORGATE_GALACTIC$ in the §H[ehof_gateway_system.GetName]§! system is now in place. Once we have the necessary resources, construction of the actual $CREATORGATE_GALACTIC$ may commence at any time."
+
+    ehof_pylons.004.name:0 "$CREATORGATE_GALACTIC$ Reactivated"
+    ehof_pylons.004.desc:0 "Power has been restored to the derelict $CREATORGATE_GALACTIC$ that was found in the §H[ehof_gateway_system.GetName]§! system. It has been connected to the rest of the $CREATORGATE_GALACTIC$ network and is now fully operational."
+
+    ehof_pylons.005.name:0 "$ehof_gateway_disabled$ Activity?"
+    ehof_pylons.005.desc:0 "Immediately after discovering how one would activate an $ehof_gateway_disabled$, every $ehof_gateway_disabled$ within our border appears to be showing signs of activity, almost like it's aware of our discovery."
+
+	ehof_pylons.006.name:0 "Unstable Connection"
+	ehof_pylons.006.desc1:0 "There is something in the [ehof_delete_gateway.GetName] system interfering with the connection of the gateway, the engineers at the site, believe it has something to do with the $ehof_gateway_disabled$ in the system.\n\nThe construction of the gateway has been dismantled and all costs refunded."
+	ehof_pylons.006.desc2:0 "There is something in the [ehof_delete_gateway.GetName] system interfering with the connection of the gateway, the engineers at the site, believe it has something to do with the $CREATORGATE_GALACTIC$ in the system.\n\nThe construction of the gateway has been dismantled and all costs refunded."

@@ -1,0 +1,133 @@
+﻿l_english:
+###_测试
+ z_modmenu.11.name: "§G无尽群星: 测试§!"
+ z_modmenu.11.desc: "这不是你该触碰的东西!"
+ z_modmenu_test_1: "失业人口刷新-失业"
+ z_modmenu_test_2: "失业人口刷新-分类"
+ z_modmenu_test_3: "失业人口刷新-物种"
+ z_modmenu_test_4: "失业人口刷新-强制检测派系"
+ z_modmenu_test_5: "失业人口刷新-刷新"
+ z_modmenu_test_6: "测试物体-创建-首都"
+ z_modmenu_test_7: "获取测试relic"
+ z_modmenu_test_8: "10级科学家"
+
+
+
+
+###_IS panel
+ z_modmenu_button: "§GInfinite Stellaris: Mod Menu§!"
+ z_modmenu_button_white: "IS Mod Menu Panel"
+ z_modmenu.1.name: "Infinite Stellaris MOD Customization Menu"
+ z_modmenu.2.name: "Sub Mods of Infinite Stellaris"
+ z_modmenu.3.name: "Mods Supported by Infinite Stellaris"
+ z_modmenu.1.desc: "Detailed setting for all IC sub mods."
+ z_modmenu_exit: "§RCancel§!"
+ z_modmenu_start_title: "§GInfinite Stellaris Modmenu Panel§! Initialized"
+ z_modmenu_start_title_desc: "§YDo you know?§!, you can access the modmenu panel by toggling the shortcut button in the bottom of left navigation bar. Or you can access it through an edict.\n\nIn Infinite Stellaris modmenu panel, you can access all Infintie Stellaris sub modules and some supported mods. There are also some key function buttons included in the modmenu panel. Make proper use of this modmenu, and your game experience will be better.\n\n§GInfinite Stellaris§! core frameworks is the fundation of §BInfinite Collection§! now part of it has been integrated in this modmenu panel. But most function of the frameworks is initially disabled unless you are using Infintie Collection or enable them by toggling the big logo button."
+ z_modmenu.12.a1: "Excellent, golory to the §YInfinite Stellaris§!!"
+ z_modmenu.12.a3: "Excellent, golory to the §YInfinite Stellaris§!!"
+ z_modmenu.12.a3.tooltip: "Start the game with new buildings, war types and start game assistance from Infintie Stellaris frameworks."
+ z_modmenu.12.a2: "Excellent, but I only want the §YModmenu Panel§!."
+ z_modmenu.12.a2.tooltip: "Start the game without new content from Infinite Stellaris frameworks."
+ z_modmenu.12.a4: "Excellent, but I only want the §YModmenu Panel§! and never touch any frameworks setting."
+ z_modmenu.12.a4.tooltip: "Start the game without new content from Infinite Stellaris frameworks, and also disable frameworks settings in the game.\nIf you really cannot control your hands to touch any frameworks setting or use any cheating fucntion, this is you choice!"
+ 
+###_tooltips
+ z_mm_tips_mid_game_passed: "§YMid-Game Stage§! has passed"
+ z_mm_tips_wip: "This feature is §Yunder development§!"
+ z_mm_tips_framework_disabled: "You have chosen to completely disabled the frameworks setting, there is no regret.\n\nOf course, if you have to regret it, ask the author to get the console code."
+ z_mm_tips_sub_mod_not_activited: "This sub module is not properly installed and cannot be toggled."
+ z_mm_tips_sub_modmenu_on: "Multiple submodule windows toggled is not allowed."
+ z_mm_pf_manual_job_checking: "Manually job check ongoing."
+ z_mm_pf_manual_job_check_button: "$edict_z_performance_manual_edict$\n$edict_z_performance_manual_edict_desc$"
+ z_mm_pf2_ai_species_merging: "Merging AI species ongoing."
+ z_mm_pf2_merge_ai_species_button: "$z_performance_misc.11.f1$\n$z_performance_misc.11.f1.tooltip$"
+
+
+
+
+
+
+
+
+###_功能edit  ############################################################################################
+#_z modmenu开启设置
+ edict_z_modmenu_edt: "§GInfinite Stellaris§!: Customization Menu"
+ edict_z_modmenu_edt_desc: "Open Infinite Collection Customization Menu. Detailed setting for all IC sub mods."
+#_初始化modmenu
+ edict_z_modmenu_initialization_edt: "§GInfinite Stellaris§!: modmenu initialization"
+ edict_z_modmenu_initialization_edt_desc: "If you have installed the Infinite Stellaris mod menu, but there is no shortcut button in the leftbar or edict to open the menu, please use this edict to initialize the mod."
+#_修复modmenu 按钮
+ edict_z_modmenu_restoration_edt: "§GInfinite Stellaris§!: modmenu button restoration"
+ edict_z_modmenu_restoration_edt_desc: "If your modmenu shortcut button is grayed out, please use this command to fix it."
+ 
+ 
+ 
+ 
+###_mod未安装提示 ############################################################################################
+ z_modmenu_no_mod: "§RThis mod is not activited§!"
+ z_modmenu_no_mod_desc: "It may be because of improper installation."
+ z_modmenu_pity: "OH NOOOOOOOO..."
+ 
+ 
+ 
+ 
+###_按钮  ############################################################################################
+#_evts z modmenu
+ z_mm_desc_framework:0 "§GInfinite Stellaris§!: Framework Customization Menu"
+ z_modmenu.13.name:0 "$z_mm_desc_framework$"
+ z_modmenu.13.desc:0 "This is the customization menu of the original contents of the Infinite Stellaris Core Framework, and you can toggle on some core functions including adaptive difficulty system, cheat menu, etc."
+ z_modmenu.13.a1:0 "Cheating Mode §HEnabled§!"
+ z_modmenu.13.a1.tooltip:0 "Cheating mode allows you to destroy any system with the Cellestial Orrey and gives admirals special traits."
+ z_modmenu.13.a2:0 "Cheating Mode §GDisabled§!"
+ z_modmenu.13.a2.tooltip:0 "$z_modmenu.13.a1.tooltip$"
+ z_modmenu.13.b1:0 "Acquire §H$z_fw_r_monument$§!"
+ z_modmenu.13.b1.tooltip:0 "You don't have $z_fw_r_monument$ now, but you can get it directly through this command."
+ z_modmenu.13.b2:0 "Cheating: $z_fw_desire_point_var$ §G+3§!"
+ z_modmenu.13.b3:0 "Cheating: $z_fw_desire_point_var$ §G+30§!"
+ z_modmenu.13.c1:0 "Infintie Collection Frameworks §GEnabled§!"
+ z_modmenu.13.c1.tooltip:0 "The original content of Infintie Stellaris, if you use Infintie Collection, it will be automatically switched, adding new buildings, new war goals, start game assistance and the Desire of Stars, etc."
+ z_modmenu.13.c2:0 "Infintie Collection Frameworks §HDisabled§!"
+ z_modmenu.13.c2.tooltip:0 "$z_modmenu.13.c1.tooltip$"
+ z_modmenu.13.c3:0 "Get initial technologies"
+ z_modmenu.13.c3.tooltip:0 "In Infinite Stellaris system some non-initial techs will be set as initial techs, such as Automatic Exploration."
+ z_modmenu.13.c4:0 "Refresh Infinite Stellaris Original Relics"
+ z_modmenu.13.c4.tooltip:0 "The original relics of the Infinite Stellaris will be initialized and separated among the galaxy, this function can only be used once."
+#_evts z modmenu misc
+ z_modmenu.130.name:0 "Supreme relics obtained"
+ z_modmenu.130.desc:0 "$z_fw_r_celestial_orrey$ and $z_fw_r_cheat_quantum_beacon$ obtained."
+ z_modmenu.131.name:0 "Cheater appears"
+ z_modmenu.131.desc:0 "It's shameful that [event_target:z_fw_tgt_country_last_cheater.GetName] has just toggled the cheating function of §GInfinite Stellaris§!, and we all know this is multiplay game!"
+ 
+ 
+ 
+ 
+#_IS misc function
+ z_mm_autostation_desc: "§BAutomatic Mining Station§!:\n\nCustomizable setting §Y100 Minerals Reserved/ 600 Minerals Reserved/ Disabled§!, if §YDisabled§! is not chosen. A fully-automated construction ship will be built in any system inside your border, and it will build mining stations for all planets that has mining deposits if your minerals storage stockpile is above setting.\n\nNote: It is currently not possible to build a research station because of PDX bugs." 
+ 
+#_IS sub modules
+ z_mm_performance_desc: "§GInfintie Stellaris§!: Performance\nA mod which optimizes the job checking system to improve late game performance. Sub mod of Infinite Stellaris Project."
+ z_mm_pf2_desc: "§GInfintie Stellaris§!: Performance Plus\nA mod that optimizes the game in all aspects to improve late game performance. Sub mod of Infinite Stellaris Project."
+ z_mm_statistic_desc: "§GInfintie Stellaris§!: Performance Statistics\nA mod for game data statistics, which provides reference for optimization and debugging. Sub mod of Infinite Stellaris Project."
+ z_mm_cm_desc: "§GInfintie Stellaris§!: Crisis Master\nA powerful crisis manager and crisis expansion mod which make crisis and the War in Haven more challenging and interesting. Sub mod of Infinite Stellaris Project."
+ 
+#_misc mods
+ z_misc_modmenu_button:0 "§GInfinite Stellaris§!: Supported Customization Menu"
+ z_misc_modmenu_button.tooltip:0 "§HOpen§! Supported Mod Customization Menu"
+ z_misc_modmenu.1.name:0 "$z_misc_modmenu_button$"
+ z_misc_modmenu.1.desc:0 "Only when supported mods are activited, those customization button will appear."
+ z_misc_modmenu_desc:0 "$z_misc_modmenu_button$\n$z_misc_modmenu.1.desc$"
+
+#_standalone shortcut buttons
+ z_mm_sm_dduc_desc: "§BDynamic Difficulty - Ultimate Customization§!\nThis mod allows you to adjust the strength of all enemies in the game, including resources and combat power, giving you more challenges."
+ z_mm_sm_mem_desc: "§BMore Events Mod§!\nThis mod adds new anomalies and events to your game, focusing on spicing up the game after exploration has slowed down."
+ z_mm_sm_esc_desc: "§BExtra Ship Components§!\nThis mod aims to provide an extended and expanded technology tree, adding advanced weapons, shields and armor."
+ z_mm_sm_rls_desc: "§BRuler Level System§!\nRLS let every Ruler has their own level system! Make ruler role playing like a rpg game."
+ z_mm_sm_acot_desc: "§BAncient Cache of Technologies§!\nThis mod introduces a large varieties of new technologies based on the enigmatic dark matter/dark energies. From ship weapons, to buildings, to armies or planetary decisions."
+ z_mm_sm_cmn_desc: "§BCrisis Manager Unofficial§!\nThis mod allows you to set the details of all original crisis, including the endgame crisis, mid-term threat, and end of the circle. §RNote: conflict with the Crisis Master, choose one or another.§!"
+ z_mm_sm_tgu_desc: "§BThe Galactic University§!\nThis mod allows you to hire leaders based on the trait by spending enough energy credits."
+ z_mm_sm_ftm_desc: "§BFleet Transfer Mod§!\nThis mod has 4 functions: fleet transfer, fleet market, fleet lease, fleet auction. Allows you to have more ways to manage your fleet and establish a multinational arms supply mechanism."
+
+
+
+

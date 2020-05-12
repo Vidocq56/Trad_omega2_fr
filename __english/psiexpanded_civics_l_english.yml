@@ -1,0 +1,38 @@
+﻿l_english:
+ #Descendants
+ civic_psionic_descendants:0 "Psionic Descendants"
+ civic_psionic_descendants_desc:0 "Your efforts will have considerable influence on this galaxy's future."
+ #Tranquility
+ civic_psionic_tranquility:0 "Psionic Tranquility"
+ civic_psionic_tranquility_desc:0 "We urge you to keep that in mind as you proceed."
+ #Neutral
+ civic_psionic_equilibrium:0 "Psionic Equilibrium"
+ civic_psionic_equilibrium_desc:0 "This species has discovered the perfect balance in the use of psionic powers."
+ #Militarist
+ civic_psionic_service:0 "Psionic Service"
+ civic_psionic_service_desc:0 "This species trains their psionic powers day in and day out in attempts to become the greatest warriors of their time. Their combatitive prowess is unmatched."
+ #Pacifist
+ civic_psionic_protectionists:0 "Psionic Protectionists"
+ civic_psionic_protectionists_desc:0 "This society finds their own powers dangerous, but useful in keeping the peace and finds safety in numbers to be more important than ever."
+ #Spiritualist
+ civic_psionic_theocracy:0 "Psionic Theocracy"
+ civic_psionic_theocracy_desc:0 "This species is deeply religious, and believes that they have been rewarded for their convictions."
+ #Materialist
+ civic_psionic_technocracy:0 "Psionic Technocracy"
+ civic_psionic_technocracy_desc:0 "This society has a long-standing tradition of technological progress, and their intent is to understand psionics as deeply as possible."
+ #Xenophobe
+ civic_psionic_superiority:0 "Psionic Superiority"
+ civic_psionic_superiority_desc:0 "This species firmly believes that psionics makes a species superior to other non-psionic beings, and views all those that lack psionic powers to be lesser."
+ #Xenophile
+ civic_psionic_empathizers:0 "Psionic Empathizers"
+ civic_psionic_empathizers_desc:0 "This society uses their psionic powers to further understand xeno's and empathize with their troubles."
+ #Egalitarian
+ civic_psionic_harmony:0 "Psionic Harmony"
+ civic_psionic_harmony_desc:0 "This society is telepathically unified, their songs of joy and equality can be heard in the back of the minds of all species."
+ #Authoritarian
+ civic_psionic_subsumed_telepathy:0 "Subsumed Telepathy"
+ civic_psionic_subsumed_telepathy_desc:0 "The elite in this society are characterized by their immensely powerful psionic will, which is used to subsume the wills of the lower strata."
+ #Shrouded Origins
+ civic_shrouded_origins:0 "Shrouded Origins"
+ civic_shrouded_origins_desc:0 "The society living on this planet has always been exposed to psionic powers since its origins. Focus on philosophy is valued above tangible discoveries."
+ civic_tooltip_shrouded_origins_effects:0 "Start on a §Y25§! size §YPsionic World§! with the §YPsiocratic§! authority type and the §YPsionic Theory§! technology."

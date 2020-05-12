@@ -1,0 +1,33 @@
+﻿l_french:
+
+### FRENCH (ACTUALLY ENGLISH) LOCALIZATION
+
+########################################
+###            Titan Auras           ###
+########################################
+
+NHSC_TITAN_AURA_VANILLA_MIRAGE: "Système Mirage"
+NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC: "Un ensemble de projecteurs et de dispositifs de camouflage qui modifient la position apparente des flottes, ce qui rend les ennemis beaucoup plus difficiles à toucher."
+NHSC_TITAN_AURA_NSC_MIRAGE: "$NHSC_TITAN_AURA_VANILLA_MIRAGE$"
+NHSC_TITAN_AURA_NSC_MIRAGE_DESC: "$NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC$"
+nhsc_aura_mirage_system: "$NHSC_TITAN_AURA_VANILLA_MIRAGE$"
+nhsc_aura_miage_system_desc: "$NHSC_TITAN_AURA_VANILLA_MIRAGE_DESC$"
+
+NHSC_TITAN_AURA_NSC_SHIELD_DESTABILIZER: "Déstabilisateur de bouclier"
+NHSC_TITAN_AURA_NSC_SHIELD_DESTABILIZER_DESC: "Un émetteur d'énergie sombre qui affaiblit les boucliers des ennemis, leur faisant même parfois perdre du pouvoir tout seul."
+nhsc_aura_shield_destabilizer: "$NHSC_TITAN_AURA_NSC_SHIELD_DESTABILIZER$"
+nhsc_aura_shield_destabilizer_desc: "$NHSC_TITAN_AURA_NSC_SHIELD_DESTABILIZER_DESC$"
+
+NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES: "Essaim d'infiltration de nanites"
+NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES_DESC: "Nanites spécialisées qui attaqueront les vaisseaux ennemis, affaiblissant leur armure et réduisant l'intégrité de la coque."
+NHSC_TITAN_AURA_NSC_OFFENSIVE_NANITES: "$NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES$"
+NHSC_TITAN_AURA_NSC_OFFENSIVE_NANITES_DESC: "$NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES_DESC$"
+nhsc_aura_nanite_offensive: "$NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES$"
+nhsc_aura_nanite_offensive_desc: "$NHSC_TITAN_AURA_VANILLA_OFFENSIVE_NANITES_DESC$"
+
+NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION: "Module de distorsion spatiale"
+NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION_DESC: "Puissants projecteurs gravitiques qui ondulent le tissu de l'espace-temps autour des vaisseaux ennemis, ce qui rend plus difficile pour eux de se déplacer ou d'échapper à nos attaques."
+NHSC_TITAN_AURA_NSC_SPACE_DISTORTION: "$NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION$"
+NHSC_TITAN_AURA_NSC_SPACE_DISTORTION_DESC: "$NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION_DESC$"
+nhsc_aura_space_distortion: "$NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION$"
+nhsc_aura_space_distortion_desc: "$NHSC_TITAN_AURA_VANILLA_SPACE_DISTORTION_DESC$"

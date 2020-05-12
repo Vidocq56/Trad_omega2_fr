@@ -1,0 +1,1064 @@
+﻿l_english:
+
+ ###################################################
+ # Planet Modifiers
+ ###################################################
+ 
+ # 1
+ terraforming_candidate_precursor:0 "Valuable World"
+ terraforming_candidate_precursor_desc:0 "This world did not appear fascinating at first, but recent discoveries have proven otherwise. It is in our best interest to develop this world in the future in order to gain access to all its riches and technologies."
+ gpm_terraforming_candidate_precursorTT:0 "§GAllows terraforming of this world.§!"
+ 
+ # 2 
+ gpm_frequent_thunderstorms:0 "Frequent Thunderstorms"
+ gpm_frequent_thunderstorms_desc:0 "This world suffers from unstable weather patterns. Violent storms frequently appear out of nowhere to wreak havoc on the surface. Our scientists are excited to study this planet, as they believe it could lead to advancements in our understanding of weather patterns."
+
+ # 3
+ gpm_global_thunderstorms:0 "Global Thunderstorms"
+ gpm_global_thunderstorms_desc:0 "This world suffers from quickly shifting global weather patterns, which cause violent, planet wide storms to constantly appear out of nowhere. These storms wreak havoc on the surface, but our scientists are determined to study them for the insights they could offer in the field of meteorology."
+ 
+ # 4
+ gpm_hyper_complex_biome:0 "Hyper Complex Biome"
+ gpm_hyper_complex_biome_desc:0 "Extremely complex fauna and flora have evolved upon this world. The surface is teeming with all sorts of lifeforms waiting to be studied. Their biology offers extensive research opportunities."
+ 
+ # 5
+ gpm_single_biome:0 "Single Biome"
+ gpm_single_biome_desc:0 "This world has a single, global biome within which very simple fauna and flora have evolved. The surface is teeming with all sorts of lifeforms waiting to be studied. Their biology offers significant research opportunities."
+ 
+ # 6
+ gpm_unstable_tectonics_2:0 "Unstable Tectonics"
+ gpm_unstable_tectonics_2_desc:0 "This world has extremely unstable plate tectonics and is prone to massive earthquakes and volcanic activity. After confirming the atmosphere is safe to breathe despite the constant eruptions, our scientists want to study the geology of this planet to better understand its effects."
+ 
+ # 7
+ gpm_strong_volcanism:0 "Strong Volcanism"
+ gpm_strong_volcanism_desc:0 "This world has extremely unstable plate tectonics. Its surface is covered with enormous volcanic complexes that are prone to massive eruptions. Our scientists caution that our settlement locations must be carefully chosen to avoid potential disasters."
+ 
+ # 8
+ gpm_asteroid_impacts_2:0 "Asteroid Impacts"
+ gpm_asteroid_impacts_2_desc:0 "The orbital path this world takes around its star is littered with small asteroids, meteors, and comet swarms. Large impacts on the surface occur at an alarming frequency. They have covered the surface of the planet with craters. However, our scientists have assured us that this world is still safe to colonize, so long as the atmosphere is breathable and the climate suitable."
+ 
+ # 9
+ gpm_highly_charged_air_particles:0 "Highly Charged Atmospheric Particles"
+ gpm_highly_charged_air_particles_desc:0 "This world has extremely charged atmospheric particles. There is no obvious indication of their purpose or origin. Our scientists agree that it is a strange phenomenon worthy of study."
+
+ #10 
+ gpm_thin_atmospheres:0 "Unusually Thin Atmosphere"
+ gpm_thin_atmospheres_desc:0 "This world has an unusually thin atmosphere. It shows no sign of fading further or growing denser. Although the planet is possibly still habitable, our scientists warn that life upon its surface will be a challenge."
+ 
+ # 11
+ gpm_dense_atmospheres:0 "Unusual Dense Atmosphere"
+ gpm_dense_atmospheres_desc:0 "This world has an unusually thick atmosphere. Life is good."
+
+ # 12
+ gpm_strong_magnetic_field_2:0 "Strong Magnetic Field"
+ gpm_strong_magnetic_field_2_desc:0 "This world has an abnormally high magnetic field. This will interfere with many of our instruments and computers."
+ 
+ # 13
+ gpm_weak_magnetic_field_2:0 "Weak Magnetic Field"
+ gpm_weak_magnetic_field_2_desc:0 "This world has an abnormally weak magnetic field. This will interfere with many of our instruments and computers."
+ 
+ # 14
+ gpm_low_gravity_2:0 "Very Low Gravity"
+ gpm_low_gravity_2_desc:0 "This world has an unusually low density and therefore much lower gravity than most worlds of comparable size."
+ 
+ # 15
+ gpm_high_gravity_2:0 "Very High Gravity"
+ gpm_high_gravity_2_desc:0 "The unusual density of this world creates an uncomfortably high gravity."
+
+ # 16
+ gpm_mineral_rich_2:0 "High Density Mineral Veins"
+ gpm_mineral_rich_2_desc:0 "An abundance of high-quality minerals in this world's crust makes mining here a lucrative business."
+ 
+ # 17
+ gpm_ultra_rich_2:0 "Very Dense Mineral Veins"
+ gpm_ultra_rich_2_desc:0 "The exceptional quality of the minerals and the density of the mineral veins in this world's crust provides a truly staggering opportunity for mining."
+ 
+ # 19
+ gpm_time_displaced_planet:0 "Temporally Displaced"
+ gpm_time_displaced_planet_desc:0 "The chroniton readings on this planet are extremely high. Our scientists theorize that this planet has somehow been taken from its native timeline, and placed in this one. Dating this exchange is impossible due to the temporal fluctuations still present, but apart from that, merely studying this world gives us unique and valuable insights into the nature of time, space and their interactions."
+ 
+ # 20
+ gpm_floating_islands:0 "Floating Islands"
+ gpm_floating_islands_desc:0 "Some mineral or substance on this world causes large rocks to float through the air, forming floating islands that hover dozens to sometimes hundreds of feet off the ground."
+
+ # 21
+ gpm_hostile_flora:0 "Hostile Flora"
+ gpm_hostile_flora_desc:0 "The plant life on this world seems unusually hostile or toxic to external physiology."
+
+ # 22
+ gpm_magma_ocean:0 "Magma Oceans"
+ gpm_magma_ocean_desc:0 "Large bodies of lava lie upon the surface of this world. They are fed by large, molten rivers of rock which run from erupting volcanoes or a large section of the world's core that is exposed to the elements. Our scientists are uncertain how such damage to the planet's crust could have occurred. Some postulate that the planet's surface never fully cooled, leading to this unique and dangerous landscape. They have advised the colonists to use caution when building new outposts and towns."
+
+ # 23
+ gpm_toxic_gas:0 "Toxic Gas"
+ gpm_toxic_gas_desc:0 "Quickly forming and disappearing, small volcanic geysers regularly spew forth toxic gases from within the planet. Our colonists need to take extreme caution when travelling through uncharted territory here."
+
+ # 24
+ gpm_extensive_cavern_system:0 "Extensive Cavern System"
+ gpm_extensive_cavern_system_desc:0 "Resembling a Beehive, the crust of this planet has an incredibly high number of natural cave systems and ravines that stretch for miles. As far as we know, they were naturally formed by primordial plate tectonics, which makes them stable enough to be used as shelter in case of orbital bombardment or natural disasters."
+
+ # 25
+ gpm_titanic_predators:0 "Titanic Predators"
+ gpm_titanic_predators_desc:0 "This world is home to gigantic monstrous creatures that soar through the sky and eat nearly everything in sight."
+
+ # 26
+ gpm_unnatural_world:0 "Unnatural World"
+ gpm_unnatural_world_desc:0 "There is something unsettling about this world; explorers speak of hushed voices on the edge of hearing and things moving unexplainably. Indeed, sensors do report that this world sits slightly out of sync with reality."
+
+ # 27
+ gpm_atmospheric_stimulant:0 "Atmospheric Stimulant"
+ gpm_atmospheric_stimulant_desc:0 "There is something unusual in the air on this planet. Our scientists have been unable to pinpoint the exact molecule or microbe responsible, but all evidence points to some sort of airborne stimulant that causes extreme irritability among the colonists. Anyone who spends a length of time on this planet feels these effects; they work harder but also have shorter tempers. Our scientists are thankful to report that the stimulant appears to be localized to the planet; those who leave soon return to their normal behavioral patterns."
+
+ # 28
+ gpm_unusual_seasons:0 "Unusual Seasons"
+ gpm_unusual_seasons_desc:0 "Due to this world's orbit, geology, and even weather, the world goes through varying seasons which can change on the fly and cause drastic shifts in the atmosphere."
+
+ # 29
+ gpm_perfect_seasons:0 "Perfect Seasons"
+ gpm_perfect_seasons_desc:0 "The weather is simply fabulous all year round, and hardly ever changes. This is truly paradise."
+
+ # 30
+ gpm_ruined_battlefield:0 "Titanic Battlefield"
+ gpm_ruined_battlefield_desc:0 "A massive war of truly titanic scale was fought here. The surface is scarred by weapons which we have deemed too destructive to ever use in planetary combat, there are massive craters where we can only assume cities once stood. Among various ruins, weapons and the rusted wrecks of aircraft, tanks and mechs we have found untold millions of corpses. Across this entire world, billions must have lost their lives here."
+
+ # 31
+ gpm_spaceship_graveyard:0 "Spaceship Graveyard"
+ gpm_spaceship_graveyard_desc:0 "A titanic battle once raged overhead and the world is now littered with the derelict skeletons of craft that once ruled the skies."
+
+ # 32
+ gpm_living_planet:0 "Living Planet"
+ gpm_living_planet_desc:0 "The world itself is seemingly alive, as in it's a single giant organism. It says hello."
+
+ # 33
+ gpm_gemstones:0 "Gemstones"
+ gpm_gemstones_desc:0 "This world is littered with exotic gemstones and mineral deposits; not all of them are useful but they catch the eye."
+
+ # 34
+ gpm_ideal_for_life:0 "Ideal for Life"
+ gpm_ideal_for_life_desc:0 "It is hard to explain, but whatever is on this world just seems right for a growing population. People are healthier, more attractive, have greater life expectancy, and have stronger immune systems."
+
+ # 35
+ gpm_endless_fish:0 "Endless Fish"
+ gpm_endless_fish_desc:0 "No one knows how this world sustains these large amounts of fish populations, but it does mean we can fish forever!"
+
+ # 36
+ gpm_artificial_water:0 "Artificial Water"
+ gpm_artificial_water_desc:0 "Some of the water on this world doesn't consist of just hydrogen and oxygen molecules. Instead, the water is entirely made up from advanced nanites that behave a lot like normal water. Their swarm-like behaviour almost perfectly simulates the flows and splashes of water. Scientists aren't sure how it got there, or why it even exists, but they sure hope these nanites' only function is to behave like water."
+
+ # 37
+ gpm_clear_skies:0 "Clear Skies"
+ gpm_clear_skies_desc:0 "This world has a very calm atmosphere and is ideally located within the galaxy. Somehow, this exact spot in space allows for the most beautiful vision of the universe."
+
+ # 38
+ gpm_android_pleasure_palace:0 "Android Pleasure Palace"
+ gpm_android_pleasure_palace_desc:0 "We do not know who built this, but it sounds like a fun place."
+
+ # 39
+ gpm_melted_ice_caps:0 "Melted Ice Caps"
+ gpm_melted_ice_caps_desc:0 "The geological record of this world suggests it once had large polar ice caps at one point in its history, but somehow these have all but disappeared."
+
+ # 40
+ gpm_small_islands:0 "Small Islands"
+ gpm_small_islands_desc:0 "The islands of this oceanic world are unusually small, making it difficult to establish sizeable settlements and population centres."
+
+ # 41
+ gpm_windy:0 "Windy"
+ gpm_windy_desc:0 "Meteorological circumstances beyond our control focus harsh winds into our colony sites. It gets cold at night, and the wind howls through the mountains, but we could live here."
+
+ # 42
+ gpm_simple_organisms:0 "Simple Organisms"
+ gpm_simple_organisms_desc:0 "This world is host to an unusually high number of newly evolved organisms. Most of these organisms seem to be in the early stages of their evolution."
+
+ # 43
+ gpm_newly_evolved_complex_organisms:0 "Complex Organisms"
+ gpm_newly_evolved_complex_organisms_desc:0 "This world seems to be in a stage of development where, for the first time, groups of unicellular organisms have combined into multicellular ones. truly fascinating."
+
+ # 44
+ gpm_delicious_ingredients:0 "Delicious Ingredients"
+ gpm_delicious_ingredients_desc:0 "The fauna and flora of this world are unusually tasty."
+
+ # 45
+ gpm_recent_mass_extinction:0 "Recent Mass Extinction"
+ gpm_recent_mass_extinction_desc:0 "According to our scientists this world went through a great mass extinction event relatively recently."
+
+ # 46
+ gpm_friendly_wildlife:0 "Friendly Wildlife"
+ gpm_friendly_wildlife_desc:0 "The fauna on this world tend to be docile and of agreeable temperament."
+
+ # 47
+ gpm_pleasant_weather:0 "Pleasant Weather"
+ gpm_pleasant_weather_desc:0 "The atmospheric and geological systems of this world are unusually mild and agreeable to most sentient species."
+
+ # 48
+ gpm_unusual_formations:0 "Unusual Formations"
+ gpm_unusual_formations_desc:0 "On this planetary body are numerous amounts of odd but nevertheless natural geological shapes stretching for miles and miles."
+
+ # 49
+ gpm_flat_terrain:0 "Flat Terrain"
+ gpm_flat_terrain_desc:0 "The terrain on this world is mostly flat."
+
+ # 50
+ gpm_rugged_terrain:0 "Rugged Terrain"
+ gpm_rugged_terrain_desc:0 "This world's terrain is extremely uneven."
+
+ # 51
+ gpm_many_extremophiles:0 "Many Extremophiles"
+ gpm_many_extremophiles_desc:0 "For some reason this world is full of extremophile organisms."
+
+ # 51
+ gpm_great_temperature_variation:0 "Great Temperature Variation"
+ gpm_great_temperature_variation_desc:0 "This world suffers from extreme variations in temperature - sometimes it is too hot, sometimes it is too cold."
+
+ # 52
+ gpm_gorgeous_sky:0 "Gorgeous Sky"
+ gpm_gorgeous_sky_desc:0 "Due to the chemical composition of this world's atmosphere, this world's sky is a vivid, brilliant, dazzling display of various colours and lights."
+
+ # 53
+ gpm_large_asteroid:0 "Large Asteroid"
+ gpm_large_asteroid_desc:0 "This asteroid is unusually large and might even be considered a proto-planet of sorts."
+
+ # 54
+ gpm_asteroid_moon:0 "Asteroid Moon"
+ gpm_asteroid_moon_desc:0 "This asteroid is large enough to have a number of small satellites circling it."
+
+ # 55
+ gpm_ice_age:0 "Ice Age"
+ gpm_ice_age_desc:0 "This world is currently in the midst of a major ice age."
+
+ # 56
+ gpm_ancient_temple:0 "Ancient Temple"
+ gpm_ancient_temple_desc:0 "An ancient temple dedicated to an age long gone. Writings on the murals indicate it was a temple shared by many different alien species. The images on the walls depict the aliens as creatures with unusual powers, moving objects with their mind, wielding glowing sticks and a participating in a lot of meditating."
+
+ # 57
+ gpm_metal_asteroid:0 "Metal Asteroid"
+ gpm_metal_asteroid_desc:0 "This asteroid is made out of a single dense element."
+
+ # 58
+ gpm_dense_core:0 "Dense Core"
+ gpm_dense_core_desc:0 "This asteroid has an unusual dense core. Perhaps it can be mined."
+
+ # 59
+ gpm_unusual_sun_spots:0 "Unusual Sun Spots"
+ gpm_unusual_sun_spots_desc:0 "Unusual sun spots are covering this star. We do not know for sure at what point this sun is in its cycle because of this. Very unusual indeed."
+ 
+ # 60
+ gpm_unusual_bright_sun:0 "Unusually Bright"
+ gpm_unusual_bright_sun_desc:0 "This sun is unusually bright due to vastly increased surface solar activity. A rare combination of elements and gravitational pressure seems to be the cause of this unusual phenomenon. We could take advantage of this!"
+
+ # 61
+ gpm_tilted_axis:0 "Tilted Axis"
+ gpm_tilted_axis_desc:0 "This world's axis of rotation is tilted more than usual, resulting in more extreme weather patterns."
+
+ # 62
+ gpm_perpendicular_axis:0 "Perpendicular Axis"
+ gpm_perpendicular_axis_desc:0 "This world's axis of rotation extreme, so for some parts of the year, each half the world suffers almost constant day or night. The weather patterns are downright unfriendly."
+
+ # 63
+ gpm_radioactive_mantle:0 "Radioactive Mantle"
+ gpm_radioactive_mantle_desc:0 "The world's rocky exterior has an unusually high proportion of radioactive elements like uranium."
+
+ # 64
+ gpm_locust_plagues:0 "Ravaging Insects"
+ gpm_locust_plagues_desc:0 "The world is home to a particularly voracious species of locust. "
+
+ # 65
+ gpm_acidic_seas:0 "Acidic Seas"
+ gpm_acidic_seas_desc:0 "This world has not yet sequestered its carbonic and sulphuric acids. Its oceans are unusually acidic."
+
+ # 66
+ gpm_empathic_life:0 "Empathic Life"
+ gpm_empathic_life_desc:0 "Most life forms on this world have evolved innate telepathic defences and can induce intense feelings of dread or even joy to confuse potential predators."
+
+ # 67
+ gpm_seasonal_flooding:0 "Seasonal Flooding"
+ gpm_seasonal_flooding_desc:0 "Entire regions on this world are prone to severe flooding due to extreme tidal forces or recurring cycles of glacial melting."
+
+ # 68
+ gpm_lingering_pollution:0 "Lingering Pollution"
+ gpm_lingering_pollution_desc:0 "The biosphere of this world is slowly recovering from intense pollution and industrial contamination produced several eons ago by an unknown civilization."
+
+ # 69
+ gpm_thin_ozone_layer:0 "Thin ozone layer"
+ gpm_thin_ozone_layer_desc:0 "The ozone layer does not repel much solar radiation."
+
+ # 70
+ gpm_symbiotic_life:0 "Symbiotic Life"
+ gpm_symbiotic_life_desc:0 "Natural parasites have proven to be beneficial for the health of our settlers. Every colonist now has one. Sadly they need special atmospheric conditions which would make an export business too expensive."
+
+ # 71
+ gpm_resilent_parasites:0 "Resilient Parasites"
+ gpm_resilent_parasites_desc:0 "One of the parasite species on this world is withstanding all efforts of our doctors to remove it. Potential colonists are doomed to suffer in the long term."
+
+ # 72
+ gpm_ice_flora:0 "Ice Flora"
+ gpm_ice_flora_desc:0 "Our scientists are awestruck by the wondrous ice formations on the poles of this world. Even more so because it seems like these ice formations are actually similar to endryophyte life forms of other worlds with green vegetation, complete with their own form of reproduction and cryosynthesis!"
+
+ # 73
+ gpm_strange_ice_river:0 "Strange Ice River"
+ gpm_strange_ice_river_desc:0 "Amidst the eternal cold of the world, our scientists discovered something magnificent: A river of flowing ice with a multitude of strange physical properties that defies all logic and is sure making us re-evaluate several important theories about the laws of the universe."
+
+ # 74
+ gpm_juggernaut_manta_rays:0 "Juggernaut Manta Rays"
+ gpm_juggernaut_manta_rays_desc:0 "Our scientists discovered truly gigantic colonies of fish that resemble manta rays. They are humongous, have an extraordinarily thick skin and spot other features that make them impossible to harm unless one destroys the entire world along with them. They roam giant stretches of the ocean and react very aggressively towards intruders, yet our scientists believe we can gain valuable knowledge from them."
+
+ # 75
+ gpm_black_oily_stone:0 "Black Oily Stone"
+ gpm_black_oily_stone_desc:0 "The jungle seems to flee from a big glade at the heart of the continent, where tons of strange black & oily stones seem scattered in a curious pattern. There are no noises from the local fauna and even the grass amongst our scientists feet feels strangely other worldly, yet very lush. Probes we extracted from the stone seem to get heavier the further we take them away from the glade."
+
+ # 76
+ gpm_crystal_moon_palace:0 "Crystal Moon Palace"
+ gpm_crystal_moon_palace_desc:0 "Our scientists discovered a beautiful palace made entirely out of crystal on the surface of this moon. The interior is full of strange runes and cryptic devices. We hope to extract a lot of information about this long lost society."
+
+ # 77
+ gpm_cities_in_the_sky:0 "Cities in the Sky"
+ gpm_cities_in_the_sky_desc:0 "The landscape is dotted with remnants of an unknown civilization. Bright metal spires and monoliths reach up beyond the cloud cover. The towers are shaped to concentrate sunlight on certain areas, and provide excellent living and working environments."
+
+ # 78
+ gpm_old_world:0 "Old World"
+ gpm_old_world_desc:0 "Under the surface of this world lie a vast number of archaeological layers. In between the layers are periodic layers of advanced ruins, topped with a layer of ash, witness of an ancient, perhaps violent civilization that went through several cycles before resetting."
+
+ # 79
+ gpm_dunes:0 "Dunes"
+ gpm_dunes_desc:0 "The weather systems of this world have covered it in massive, shifting dunes. Though a challenge for settlements, the dunes also provide a rich mineral wealth."
+
+ # 80
+ gpm_extensive_reef_systems:0 "Extensive Reef Systems"
+ gpm_extensive_reef_systems_desc:0 "The shallow seas of this world are dominated by massive reefs, harbouring impressive biodiversity. Not only do the fishing and tourism industries tremendously benefit, but researchers are also flocking to investigate the many forms of life that live here."
+ 
+ # 81
+ gpm_protomolecule_infected_station:0 "Protomolecule Infected Station"
+ gpm_protomolecule_infected_station_desc:0 "At first this asteroid station seemed abandoned, damaged. But as soon as we started listening to various channels we could hear strange voices, ever so slightly picking up in speed. On closer inspection the interior of the station is filled with strange crystals and a bizarrely moving bio-metal core, almost lifelike. The entire place sounds terrifying."
+
+ # 82
+ gpm_trubbles:0 "Trubbles"
+ gpm_trubbles_desc:0 "They just sit there, looking cute, until they breed like crazy and overrun everything"
+
+ # 83
+ gpm_strange_voices:0 "Strange Voices"
+ gpm_strange_voices_desc:0 "During the initial scans of this world, the exploration crew heard strange voices. Voices promising eternal life, unlimited power and to fulfil all your desires. All you have to do is come down to the surface and perform a certain ritual.."
+
+ # 84
+ gpm_hot_geysers:0 "Hot Geysers"
+ gpm_hot_geysers_desc:0 "A vent in the surface that periodically ejects a column of hot liquid and gas. Even a small geyser is an amazing phenomenon to behold. Some geysers have eruptions that blast thousands of gallons of boiling-hot liquids up to a few hundred feet in the air."
+
+ # 85
+ gpm_cryogeysers:0 "Cryogeysers"
+ gpm_cryogeysers_desc:0 "Due to the low ambient pressures, these eruptions consist of vapour without liquid; they are made more easily visible by particles of dust and ice carried aloft by the gas."
+
+ # 86
+ gpm_very_hot_core:0 "Very Hot Core"
+ gpm_very_hot_core_desc:0 "This world has a remarkable hot core. Surface temperatures are higher than what one would expect from such world. Learning from these kinds of worlds could help us better understand the terraforming process.\n§HDiscovering worlds like this gives you a stacking terraforming speed bonus of§! §G+10%§! §Hup to a total of§! §G+30%§!"
+
+ # 87
+ gpm_solidified_core:0 "Solidified Core"
+ gpm_solidified_core_desc:0 "This world core is dead. Time has proven unfortunate for this world as its core has turned entirely solid as it cooled down. Surface temperatures are remarkably colder and terraforming this world would prove almost impossible for a civilization less advanced than ours. Fortunately, we might be able to do it."
+
+ # 88
+ gpm_low_metallicity:0 "Low Metallicity"
+ gpm_low_metallicity_desc:0 "This star has unusually low concentrations of elements it cannot fuse, rendering it more energetic compared to other stars."
+
+ # 89
+ gpm_high_metallicity:0 "High Metallicity"
+ gpm_high_metallicity_desc:0 "This star has unusually high concentrations of elements it cannot fuse, leaving it dimmer but ultimately longer-lived."
+
+ # 90
+ gpm_plasmoid_life:0 "Plasmoid Life"
+ gpm_plasmoid_life_desc:0 "Somehow, life comprised entirely of plasma has managed to evolve on this star. If only we could study this."
+
+ # 91
+ gpm_compact_star:0 "Compact Star"
+ gpm_compact_star_desc:0 "The surface of a stellar remnant is perhaps one of the most extreme environments in the known universe, second only to black holes."
+
+ # 92
+ gpm_pulsar_clock:0 "Pulsar clock"
+ gpm_pulsar_clock_desc:0 "Not only is this pulsar fast, but it also spins with such amazing regularity that it is among the most accurate clocks in the universe. Using these celestial timekeepers, astronomers are answering questions about stars, matter - and even space and time itself - that would otherwise be impossible."
+
+ # 93
+ gpm_stellar_spectacle:0 "Stellar Spectacle"
+ gpm_stellar_spectacle_desc:0 "The surface of this star regularly erupts in a vibrant lightshow."
+
+ # 94
+ gpm_plasma_tornadoes:0 "Plasma Tornadoes"
+ gpm_plasma_tornadoes_desc:0 "The photosphere of this star tends to coalesce into incandescent vortices."
+
+ # 95
+ gpm_temple_of_the_ancient_one:0 "Temple of the Ancient One"
+ gpm_temple_of_the_ancient_one_desc:0 "The breath taking, indescribable beauty of the ruined, mysterious rock-hewn temple, would be amazing to any that were to spend time looking at it if it was not for its dangerous allure. Stories are scribbled on the walls, warning almost, of previous explorers who spend days in darkness as they wandered around the temple. In the end, they were no longer able to resist the powerful visions and auditory hallucinations that appeared, nor the madness-inspired impulse to enter the inner sanctum of the temple. The inner sanctum, now appearing to you impossibly illuminated by what seems to be a flickering altar flame.."
+
+ # 96
+ gpm_beautiful_lakes:0 "Beautiful Lakes"
+ gpm_beautiful_lakes_desc:0 "This world is dotted with numerous small and large lakes of indescribable beauty. water, so clear and still you can see the bottom from any distance. Lush foliage and tiny sea creatures dot the landscape and lakes."
+
+ # 97
+ gpm_proto_forests:0 "Proto Forests"
+ gpm_proto_forests_desc:0 "With a diameter of up to 1 m, and a height reaching 8 m, these proto forest trees are fairly small. Viewed from afar, the trees take the form of tree-trunks, spreading slightly near their base in a fashion that suggests a connection to unpreserved root-like structures. Concentric growth rings, sometimes containing embedded plant material, suggest that the organism grows sporadically by the addition of external layers. It is probable that the "trunks" represent the fruiting body, or "sporophore", of a fungus, which would be fuelled by a mycelium, a net of dispersed hyphae filaments."
+
+ # 98
+ gpm_dense_forests:0 "Dense Forests"
+ gpm_dense_forests_desc:0 "Surprisingly dense forests can be found on this world. The trees crowd together to form a thick canopy and the canopy provides shelter to the vegetation and wildlife that live beneath it. "
+
+ # 99
+ gpm_planetwide_forest:0 "Endless Forest"
+ gpm_planetwide_forest_desc:0 "Massive forests as far as the eye can see cover this world. Sometimes a world like this would be called a forest world. these worlds provide habitats very suitable for complex life over much of the surface, resulting in life more diverse than there are on other worlds."
+ 
+ # 100
+ gpm_inspirational:0 "Inspirational"
+ gpm_inspirational_desc:0 "It is hard to think of practical applications of the black hole. Because practical applications are so remote, many people assume we should not be interested. But this quest to understand the world is what defines us as intelligent beings."
+ 
+ # 101
+ gpm_hiveworld:0 "Hiveworld Fossils"
+ gpm_hiveworld_desc:0 "These fossilized remnants of worlds seem to have thousands of synapse nodes spread on them. Serving as massive bio-factories that could churn out the endless swarms of bio-forms. Hive worlds as we name them seem to have been living creatures on their own, incorporating millions of bioengineered organisms. Each was a biological factory capable of creating trillions of large and small organisms, of replicating genomes and splicing together new creatures perfectly adapted for each new world and environment they are found on. We can only hope these types of creatures are no longer amongst us.."
+ 
+ # 102
+ gpm_periodic_meteor_showers:0 "Periodic Meteor Showers"
+ gpm_periodic_meteor_showers_desc:0 "A reoccurring celestial event in which a number of meteors are observed to radiate, or originate, from one point in the night sky. These meteors are caused by streams of cosmic debris called meteoroids entering the gravitational pull of the world at extremely high speeds on parallel trajectories. Most meteors are smaller than a grain of sand, on atmospheric rich worlds they almost never reach the surface duo to burning up. Intense or unusual meteor showers are known as meteor outbursts and meteor storms. These displays can sometimes be very beautiful to observe."
+ 
+ # 103
+ gpm_arachnophobia:0 "Arachnophobia"
+ gpm_arachnophobia_desc:0 "A world overrun by packs of giant arachnids. It seems like madness to even think of setting foot on this world. Early explorers tell stories of night-time hissing coming from the treetops and caverns, of endless thumping sounds as they hear these arachnids walk over their ship. It is not known if any of the early explorers actually set foot outside of their ship or if they just sent a drone and lied in their reports."
+ gpm_arachnophobiaTT:0 "Unique Army: §GGiant Arachnids§!"
+ 
+ # 104
+ gpm_giant_worm:0 "Giant Worm"
+ gpm_giant_worm_desc:0 "Colossal worms that live beneath the sand. They are easily attracted to rhythmic vibrations on the surface, and they would breach in pursuit of the origin of such vibrations almost immediately. This seems to be an effort to defend their territory, of which they seem to be highly protective. Thus to see a worm, and live to tell about it, might be a rarity in itself. The sandworms are extremely territorial; as soon as two worms sense each other's presence, they let out chuffing roars of challenge, bellowing melange-smelling exhaust from their cavernous throats. Despite all the potential danger, the spice must flow."
+ 
+ # 105
+ gpm_artificial_core:0 "Artificial Core"
+ gpm_artificial_core_desc:0 "This world should have died long ago after the core froze and the magnetic field died, but a massive installation in the planet's core, made by a particularly powerful precursor empire somehow keeps the core spinning and the magnetic field active."
+
+ # 106
+ gpm_fast_rotation:0 "Fast Rotation"
+ gpm_fast_rotation_desc:0 "This world has a very fast rotation making the day/night-cycle extremely daunting. Living on this world would be very challenging, especially to ones sleep cycle."
+ 
+ # 107
+ gpm_surface_of_bones:0 "Surface of Bones"
+ gpm_surface_of_bones_desc:0 "Bones, skulls, corpses, as far as the eye can see. The entire surface of this world is covered in bones. A horrific sight. Whatever battle happened here, it it must have been brutal."
+ 
+ # 108
+ gpm_ghost_ships:0 "Ghostly Images"
+ gpm_ghost_ships_desc:0 "Sensors, eyes, it does not matter what is used. Everyone, everything, keeps reporting they see ghostly images in the distance. They look like floating vessels but are transparent. Yet, when we get close, there is nothing."
+ 
+ # 109
+ gpm_omnious_fog:0 "Ominous Fog"
+ gpm_omnious_fog_desc:0 "Every time it gets dark, a strange dark purple fog starts seeping out of the ground. Our scans show this to be just water vapour, yet there is something strange about it. The fog moves around as if it has a will of its own.."
+ 
+ # 110
+ gpm_beautiful_planet_rings:0 "Beautiful Planetary Rings"
+ gpm_beautiful_planet_rings_desc:0 "The rings around this world glisten and shine very brightly, and in various colours, every time the sun hits them. From the surface or from orbit these rings are spectacular to behold."
+ 
+ # 111
+ gpm_blood_moon:0 "Blood Moon"
+ gpm_blood_moon_desc:0 "Every so often the moon turns blood red. Strangely the moons actual surface turns red, it's not just an atmospheric illusion. We're not sure why this is happening, but it promises nothing good.."
+ 
+ # 112
+ gpm_solar_eclipse:0 "Solar Eclipse"
+ gpm_solar_eclipse_desc:0 "Every month the moon lines up perfectly between this world and its sun producing a spectacular global solar eclipse. Beautiful golden rays of light can be seen shining down onto the surface. A unique event rarely seen on any other world."
+ 
+ # 113
+ gpm_lunar_dance:0 "Lunar Dance"
+ gpm_lunar_dance_desc:0 "The moons of this world have a unique intertwined orbit. As if they dance they swing about, around and over each other as they orbit their main world. It looks chaotic, but once you look at them long enough you'll see the beauty that is this lunar dance."
+ 
+ # 114
+ gpm_dark_skies:0 "Dark Skies"
+ gpm_dark_skies_desc:0 "Even during daylight hours, this planet receives paltry amounts of sunlight."
+ 
+ # 115
+ gpm_musical_creatures:0 "Musical Creatures"
+ gpm_musical_creatures_desc:0 "The creatures of this planet have evolved to communicate with each other using what we recognize as musical notes. It is not only a boon for researchers, but also lends the world a nice melodic quality to it, almost magical."
+ 
+ # 116
+ gpm_odd_cloud_shapes:0 "Odd Cloud Shapes"
+ gpm_odd_cloud_shapes_desc:0 "Perhaps due to this planet's atmospheric chemistry, it's clouds often take on unusually vivid, interesting shapes. Some say it's almost as if the clouds are alive."
+ 
+ # 117
+ gpm_giant_mold_blobs:0 "Giant Mold Blobs"
+ gpm_giant_mold_blobs_desc:0 "Massive slime molds inhabit this planet, roving the landscape for food. They do appear to have some semblance of sentience."
+ 
+ # 118
+ gpm_subterranean_eco_system:0 "Subterranean Eco Systems"
+ gpm_subterranean_eco_system_desc:0 "Deep under the surface of this planetary body are miles of crisscrossing caverns with a near perfectly sealed environment. Who knows what else lives down there."
+ 
+ # 119
+ gpm_colossal_cliffs:0 "Colossal Cliffs"
+ gpm_colossal_cliffs_desc:0 "These cliffs rise well over a mile into the sky and have clouds form around their bases. The geographical forces that formed them must have been cataclysmic. Just.. watch your step."
+ 
+ # 120
+ gpm_massive_waterfalls:0 "Massive Waterfalls"
+ gpm_massive_waterfalls_desc:0 "Waterfalls are a common site on this world, and can extend for miles pouring trillions of gallons of water over their precipices every single day. They are a breath taking site if impractical to go near."
+ 
+ # 121
+ gpm_strange_alien_eggs:0 "Strange Eggs"
+ gpm_strange_alien_eggs_desc:0 "Unsure what creature made these, they seem dormant. Perhaps we best not touch.."
+ 
+ # 122
+ gpm_mushroom_forest:0 "Mushroom Forests"
+ gpm_mushroom_forest_desc:0 "Massive mushrooms dot the landscape. These mushrooms forests are very strange looking and produce mists of spores every so often. They're very soft so they should be very easy to clear."
+
+ # 123
+ gpm_exotic_spices:0 "Exotic Spice"
+ gpm_exotic_spices_desc:0 "Small shrubberies and plants cover a lot of the surface. Despite the harsher conditions of this world the plant life grows very fast and in a great variety. More excitingly, the plant life is delicious as additives to food. The exotic flavours that these shrubs and plants produce make this world quite unique."
+
+ # 124
+ gpm_sandstorms:0 "Sandstorms"
+ gpm_sandstorms_desc:0 "On a windy day, giant, short lived walls of sand occasionally cover the surface with a thin layer of sand. Although these sandstorms happen quite frequently, they are more of an annoyance than a danger. A quick sweeping with a brush is enough to clean up any sand. With a bit of luck the next winds will just blow it all away again."
+ 
+ # 125
+ gpm_sand_tornadoes:0 "Sand Tornadoes"
+ gpm_sand_tornadoes_desc:0 "Occasionally sand tornadoes can be seen on this world. Though very small they usually happen in clusters of about three to seven depending on the terrain and direction of wind. The sand is fairly reflective which causes the sand tornadoes to almost shine in the sunlight. Very beautiful, albeit a bit chaotic, to see."
+ 
+ # 126
+ gpm_silicon_crystals:0 "Silicon Crystals"
+ gpm_silicon_crystals_desc:0 "Large silicon crystals are seen growing on this world. They seem to form clusters of crystals starting at a point in the soil and growing outwards like a flower. Their colours depend on the composition of the soil, with bright soil resulting in fairly clear yellow and brown crystals and darker, iron rich soil resulting in bright red or purple crystals. Various other types can be found across the surface of this world."
+ 
+ # 127
+ gpm_quicksand:0 "Quicksand Plains"
+ gpm_quicksand_desc:0 "Large pools of loose soil on this world is seen to behave much like quicksand. Though unlike quicksand it doesn't always have to be wet, which makes it very deceptive and dangerous. Every step taken on this world has to be checked beforehand and routes have to be carefully mapped."
+
+ # 128
+ gpm_never_ending_aurora:0 "Never Ending Aurora"
+ gpm_never_ending_aurora_desc:0 "Because of this systems almost unique solar activity this world is blessed with a permanent display of auroras. These auroras are formed when the magnetosphere is sufficiently disturbed by the solar wind to form charged particles that are visible. The resulting ionization and excitation of atmospheric constituents emits light of varying colour and complexity."
+ 
+ # 129
+ gpm_spirals_of_ice:0 "Spirals of Ice"
+ gpm_spirals_of_ice_desc:0 "Very unusual features are found on this planet. The cold wind and moist air tend to form spirals of ice. Some of these spirals have grown so large they match our tallest buildings. It's remarkable how not a single crack can be found on them as well as no air bubbles which makes them crystal clear. During the night they reflect the galaxy's light in a beautiful display of colours."
+ 
+ # 130
+ gpm_furry_packs:0 "Furry Packs"
+ gpm_furry_packs_desc:0 "This world is inhabited by huge roaming packs of giant, four legged creatures. These creatures have massive horns on their head and a long, and very nimble, extra arm as nose. They are covered in a thick, mostly brown fur to keep them warm during the nights. They seem to be a very social type of animal. It's not known how, but they seem to take the same route around the world looking for food every season. Perhaps they're just good at remembering the terrain they roam."
+ 
+ # 131
+ gpm_blizzards:0 "Blizzards"
+ gpm_blizzards_desc:0 "It always starts with light snowfall, but this world's weather always follows the same pattern. Light snow, heavy wind and in just a moment's notice, it becomes a full-fledged blizzard. With snowfall so dense you can hardly see the end of your extremities."
+ 
+ # 132
+ gpm_abominable_predators:0 "Abominable Predators"
+ gpm_abominable_predators_desc:0 "On cold nights, this creature roams the lands looking for food. It's massive height and large forearms are a terrifying sight. While they don't hunt in packs they are seen to be living in small groups of around four to six. These creatures have a thick light-blue to white coat of fur and giant claws. It behaves almost apelike and has been observed to communicate through grunts and gestures with its fellow companions."
+ 
+ # 133
+ gpm_rich_soil:0 "Rich Soil"
+ gpm_rich_soil_desc:0 "The rich soil on this world has produced very healthy and dense local plant life. Producing food on this world should be very easy."
+ 
+ # 134
+ gpm_otherworldly_colours:0 "Otherworldly Colours"
+ gpm_otherworldly_colours_desc:0 "This world's vegetation comes in all sorts of colours. The most remarkable thing is, the vegetation colour depends on the latitude of the planet. From bright yellow flowers and trees on the equator to deep purple grass near the arctic. This world feels truly alien."
+ 
+ # 135
+ gpm_misty:0 "Misty"
+ gpm_misty_desc:0 "This world's surface is almost completely covered in mist. The combination of pressure and temperature cause the oceans and lakes to give off a lot of water vapour that hangs around the surface."
+ 
+ # 136
+ gpm_ecological_nervous_system:0 "Ecological Nervous System"
+ gpm_ecological_nervous_system_desc:0 "The plant life on this world seems to be connected to each other through a complex root system. The energetic pulses that run through it is very reminiscent of a nervous system. Observations have found that killing one plant has an effect on nearby plants as they seem to close their flowers or slowly grow in the opposite direction."
+ 
+ # 137
+ gpm_carnivorous_flies:0 "Carnivorous Flies"
+ gpm_carnivorous_flies_desc:0 "These tiny flies may seem like just an annoyance, they are the most dangerous creatures on this world. These tiny flies glow in the dark at night, but that's not when they're out feeding. During the night they glow as a means to attract other carnivorous flies as a part of their mating ritual, which seems to be quite complex. During the day they fly around looking for food.\nBeing carnivorous, they tend to swarm their prey and eat it alive in a matter of hours. Large, or small, all creatures are food for them. What makes it even worse is their colony like behaviour, allowing them to navigate complex tunnels.. or vents! The fact that they emit no noise to even warn their next meal is the worst part."
+
+ # 138
+ gpm_algae_boom:0 "Algae Boom"
+ gpm_algae_boom_desc:0 "This world is in the midst of a century long algae boom. Millions of tons of algae cover the planet's oceans and lakes. While it looks bad, it's actually very good for the wildlife and air quality."
+
+ # 139
+ gpm_ocean_forests:0 "Unique Ocean Forests"
+ gpm_ocean_forests_desc:0 "Strange trees are growing on this world's ocean floors. These trees look very similar to trees found on the surface of this world, yet are fully capable on surviving, and blooming, under water. Truly a sight to behold."
+ Clear_Water:0 "Clear Water"
+ Clear_Water_desc:0 "This worlds lakes and oceans are remarkably clear and see through."
+ 
+ # 140
+ gpm_warm_water_lakes:0 "Warm Water Lakes"
+ gpm_warm_water_lakes_desc:0 "The water on this world is very warm. The unusual composition of the soil allows it to retain a fair amount of heat resulting in lukewarm to hot lakes. If the perfect holiday was a planet, this world would be it."
+ 
+ # 141
+ gpm_torrential_rainstorms:0 "Torrential Rainstorms"
+ gpm_torrential_rainstorms_desc:0 "Massive torrential rainstorms are a frequent occurrence on this world. There's so much rain falling so fast that you'll be soaked in about three seconds."
+ 
+ # 142
+ gpm_ocean_currents:0 "Drowning Ocean Currents"
+ gpm_ocean_currents_desc:0 "The ocean currents of this world are remarkably complex and highly unusual. While warm water has a chance to reach even the furthest areas of this world allowing for more favourable conditions for life, cold areas of the ocean have a dangerous pull. Anyone caught into these currents will be sucked down and quickly crushed by the extreme pressures."
+ 
+ # 143
+ gpm_giant_ocean_snakes:0 "Gigantic Ocean Snakes"
+ gpm_giant_ocean_snakes_desc:0 "Giant underwater snakes roam the ocean's seafloor. These snakes can become hundreds of feet and are seen to be extremely predatory. They are the apex predator of this world's oceanic life."
+ 
+ # 144
+ gpm_ocean_trenches:0 "Extreme Ocean Trenches"
+ gpm_ocean_trenches_desc:0 "The unfathomable deep trenches of the ocean floor on this world will probably never be fully explored. The depth pressure is enough to buckle any exploration vessel and outright destroy even the material it's made from. It is so dark and so deep that staring into the nothingness of these trenches is highly unnerving, almost as if it is staring back into you."
+ 
+ # 145
+ gpm_unique_marine_habitats:0 "Unique Marine Habitats"
+ gpm_unique_marine_habitats_desc:0 "Living organisms in this deep, dark, ecosystem rely on chemicals and a process called chemosynthesis as the base of their food web and not on sunlight and photosynthesis."
+ 
+ # 146
+ gpm_massive_waves:0 "Colossal Waves"
+ gpm_massive_waves_desc:0 "The oceans on this world periodically produce massive waves that travel across the globe. Once they reach land they produce dangerous tsunamis."
+ 
+ #147
+ gpm_work_camps:0 "Work Camps"
+ gpm_work_camps_desc:0 "These specialised camps are designed to offer criminals a high quality of care while they work for the state."
+ 
+ # 148
+ gpm_galactic_equality:0 "Galactic Equality"
+ gpm_galactic_equality_desc:0 "Equal rights have been declared for all citizens of our empire."
+ 
+ # 149
+ gpm_augment_integrated_systems:0 "Augment Integrated Systems"
+ gpm_augment_integrated_systems_desc:0 "Every electronic system on our world includes integrated connection nodes that allow our citizens to link with it."
+ 
+ # 150
+ gpm_mysterious_force:0 "Mysterious Force"
+ gpm_mysterious_force_desc:0 "A strange force has manifested on this world. The planet's citizens are able to interact with their environment and each other, using only their mind."
+ 
+ # 151
+ gpm_mandatory_military_service:0 "Mandatory Military Service"
+ gpm_mandatory_military_service_desc:0 "Every citizen on this world has received extensive combat training."
+ 
+ # 152
+ gpm_monument_to_the_stars:0 "Monument To The Stars"
+ gpm_monument_to_the_stars_desc:0 "This world has constructed a colossal monument that reaches for the stars. This monument symbolises the desire to explore and reach out to all life in the galaxy."
+ 
+ # 153
+ gpm_ministery_of_the_hunt:0 "Ministry Of The Hunt"
+ gpm_ministery_of_the_hunt_desc:0 "Government-sponsored bounty hunting has been approved on this world. This ministry sees to the distribution of hunting rights and handles all rewards."
+ 
+ # 153
+ gpm_galactic_outreach_program:0 "Galactic Outreach Program"
+ gpm_galactic_outreach_program_desc:0 "A diplomatic outreach program has been founded on this world. Every so often, the world celebrates the diversity of species and reaches out to all alien civilisations in the galaxy in the hopes that galactic peace can be established."
+ 
+ # 154
+ gpm_synopsys_nodes:0 "Synopsys Nodes"
+ gpm_synopsys_nodes_desc:0 "Every person on this world has received a cybernetic synopsys node. These nodes enhance and amplify the signal of the hive mind, allowing it to better bridge the vast distances of space."
+ 
+ # 155
+ gpm_rapid_assembly_systems:0 "Rapid Assembly Systems"
+ gpm_rapid_assembly_systems_desc:0 "Strategically placed construction and fabrication units allow this capital world to continuously upgrade itself to keep up with the latest technological developments."
+ 
+ # 156
+ gpm_combat_simulator_systems:0 "Combat Simulator Systems"
+ gpm_combat_simulator_systems_desc:0 "111111111"
+ 
+ # 157
+ gpm_planitary_defenses:0 "Planetary Defenses"
+ gpm_planitary_defenses_desc:0 "111111111"
+ 
+ # 158
+ gpm_hollow_structure:0 "Hollow Structure"
+ gpm_hollow_structure_desc:0 "Large sections of this asteroid appear to be hollowed out. The exact cause of this is unknown. Some theories include a collision with a much smaller, denser asteroid, gas pocket expansion caused by the asteroid heating up, or space mining."
+ 
+ # 159
+ gpm_crystallized_structure:0 "Crystallized Structure"
+ gpm_crystallized_structure_desc:0 "Most of the asteroid is of a crystalline nature. Some unique process allowed the material that makes up this asteroid to form into crystalline structures."
+ 
+ # 160
+ gpm_abandoned_mining_platforms:0 "Abandoned Mining Platforms"
+ gpm_abandoned_mining_platforms_desc:0 "Small mining platforms are attached to this asteroid. While most of the minerals on the outside have been mined out, a fair amount can still be found within the asteroid's interior."
+ 
+ # 161
+ gpm_decaying_structures:0 "Decaying Structures"
+ gpm_decaying_structures_desc:0 "Several large structures on this world are in a highly rapid state of decay. The various toxic elements in the environment are to blame."
+ 
+ # 162
+ gpm_toxic_flora_fauna:0 "Toxic Flora and Fauna"
+ gpm_toxic_flora_fauna_desc:0 "Several unique species of flora and fauna can be found on this world. They appear to be extremely adaptable and have been able to sustain themselves despite their harsh, toxic environment."
+ 
+ # 163
+ gpm_water_pockets:0 "Water Pockets"
+ gpm_water_pockets_desc:0 "Deep beneath the surface of this world, a large number of dense pockets of water can be found. It is speculated that the heat from the planet's core keeps the water in a liquid state and could contribute to a life-sustaining environment."
+ 
+ # 164
+ gpm_lava_geysers:0 "Lava Geysers"
+ gpm_lava_geysers_desc:0 "Spread across the flatter areas of this planet are a large number of lava geysers. These geysers allow most of the subsurface pressure to vent, keeping part of the landscape predominantly flat and solid. It is advisable to maintain a distance, however, as these geysers can be dangerous."
+ 
+ # 165
+ gpm_thin_planetary_crust:0 "Thin Planetary Crust"
+ gpm_thin_planetary_crust_desc:0 "Relative low surface pressure has allowed this world to develop a fairly thin planetary crust over billions of years."
+ 
+ # 166
+ gpm_hydrogen_mist:0 "Hydrogen Mist"
+ gpm_hydrogen_mist_desc:0 "An unusual concentration of hydrogen has formed a dense mist across the surface of this world. Thanks to this world's strong magnetic field, most of the hydrogen is protected from the stellar winds. The planet's distance from its parent sun also plays a factor in keeping this hydrogen atmosphere from depositing upon the surface as ice."
+ 
+ # 167
+ gpm_spherical_asteroid:0 "Spherical Asteroid"
+ gpm_spherical_asteroid_desc:0 "This asteroid has enough mass that its own gravitational pull turns it into a sphere. It is, however, still too small to be called a planet."
+ 
+ # 168
+ gpm_binary_asteroids:0 "Binary Asteroids"
+ gpm_binary_asteroids_desc:0 "These asteroids are caught in each other's gravitational influence and endlessly spin around each other."
+ 
+ # 169
+ gpm_trojan_asteroid:0 "Trojan Asteroid"
+ gpm_trojan_asteroid_desc:0 "Known as a Trojan asteroid, this type of asteroid is found in a stable orbit between its parent planet and its parent star in either the leading Lagrangian point or the trailing Lagrangian point."
+ 
+ # 170
+ gpm_c_type_asteroid:0 "C-type Asteroid"
+ gpm_c_type_asteroid_desc:0 "This asteroid has a grayish colour due to its composition. It is largely made of clay and stony silicate rocks."
+ 
+ # 171
+ gpm_s_type_asteroid:0 "S-Type Asteroid"
+ gpm_s_type_asteroid_desc:0 "This greenish asteroid is mainly composed of silicate materials and nickel-iron."
+ 
+ # 172
+ gpm_m_type_asteroid:0 "M-Type Asteroid"
+ gpm_m_type_asteroid_desc:0 "This reddish asteroid owes its moderately bright colour to its composition. It is composed largely of nickel-iron."
+ 
+ # 173
+ gpm_v_type_asteroid:0 "V-type Asteroid"
+ gpm_v_type_asteroid_desc:0 "This dark coloured asteroid is composed mostly of silicate rocks. It has a basaltic crust."
+ 
+ # 174
+ gpm_corrosive_atmosphere:0 "Corrosive Atmosphere"
+ gpm_corrosive_atmosphere_desc:0 "This world has a highly corrosive atmosphere capable of breaking down almost any metallic material."
+ 
+ # 175
+ gpm_toxic_garbage:0 "Toxic Garbage"
+ gpm_toxic_garbage_desc:0 "A civilisation once used this planet as a dumping ground for their toxic waste. It will probably take millions of years for this world to become habitable again."
+ 
+ # 176
+ gpm_hydrogen_ice:0 "Hydrogen Ice"
+ gpm_hydrogen_ice_desc:0 "This world is covered in a sheet of frozen hydrogen."
+ 
+ # 177
+ gpm_nitrogen_ice:0 "Nitrogen Ice"
+ gpm_nitrogen_ice_desc:0 "This world is covered in a sheet of frozen nitrogen."
+ 
+ # 178
+ gpm_cracking_surface:0 "Cracking Surface"
+ gpm_cracking_surface_desc:0 "The extreme temperature shifts from hot to cold that occur during the day and night cycle of this planet cause the surface to swell and contract, creating millions of cracks on the world's icy surface."
+ 
+ # 179
+ gpm_chlorine_planet:0 "Chlorine Planet"
+ gpm_chlorine_planet_desc:0 "This world is covered in lakes and oceans of muriatic acid and has clouds made of muriatic acid drifting in its atmosphere. Viewed from space, the oceans on this world appear deep green, the continents appear brownish to blackish green, and the clouds appear white with a green tinge."
+ 
+ # 180
+ gpm_phosphorus_planet:0 "Phosphorus Planet"
+ gpm_phosphorus_planet_desc:0 "This world's surface is covered in lakes and oceans of phosphoric acid, and its clouds are made of phosphoric acid. Unlike conventional habitable planets, phosphorus planets use phosphoric acid as a variable gas instead of water vapor. As a result, this planet has phosphoric acid rain in its hot climates and phosphoric acid snow in its colder climates."
+ 
+ # 181
+ gpm_sulfur_planet:0 "Sulfur Planet"
+ gpm_sulfur_planet_desc:0 "This world's surface is covered in lakes and oceans of sulfuric acid, and its clouds are made of sulfuric acid. Unlike conventional habitable planets, sulfur planets use sulfuric acid as a variable gas instead of water vapor. As a result, this planet has sulfuric acid rain in its hot climates and sulfuric acid snow in its colder climates."
+ 
+ # 182
+ gpm_deep_aquifer:0 "Deep Aquifer"
+ gpm_deep_aquifer_desc:0 "Deep beneath the surface of this world lies a large aquifer of stable, liquid water. There is a good chances this aquifer is close enough to thermal sources in this world that it could provide optimal conditions for microscopic life."
+ 
+ # 183
+ gpm_iron_planet:0 "Iron Planet"
+ gpm_iron_planet_desc:0 "This planet has a super dense iron core and virtually no mantle. As a result, this world has no plate tectonics and is highly magnetic."
+ 
+ # 184
+ gpm_carbon_planet:0 "Carbon Planet"
+ gpm_carbon_planet_desc:0 "This planet has an iron- or steel-rich core and a molten silicon carbide and titanium carbide mantle. A kilometers-thick substratum of diamond, formed by extremely high pressure, lies above the mantle, and is in turn covered by a thick layer of carbon. During volcanic eruptions, diamonds spew from the volcanoes along with molten interior materials. This can result in mountains of diamonds and silicon carbides. The planet's surface mostly contains tar, methane, and carbon monoxide in frozen or liquid forms."
+ 
+ # 185
+ gpm_stellar_irradiation:0 "Stellar Irradiation"
+ gpm_stellar_irradiation_desc:0 "Over the course of billions of years, hyper-intensive stellar irradiation from this world's parent star has melted most of this world's surface. The strong radiation  stripped all of the atmosphere from this planet and has since been slowly smelting its surface."
+ 
+ # 190
+ gpm_mercury_atmosphere:0 "Mercury Atmosphere"
+ gpm_mercury_atmosphere_desc:0 "This world's molten surface is mostly mercury, heated to a high enough temperature that it gives off a lot of vapor. This has created a fairly thin mercury atmosphere."
+ 
+ # 193
+ gpm_oppressive_laws:0 "Oppressive Laws"
+ gpm_oppressive_laws_desc:0 "New draconian laws are causing a lot of friction with the population."
+ 
+ # 194
+ gpm_rights_movement:0 "Rights Movement"
+ gpm_rights_movement_desc:0 "Several rights movements have been positively received by local politicians."
+ 
+ # 195
+ gpm_cybernetic_breaktroughs:0 "Cybernetic Breakthroughs"
+ gpm_cybernetic_breaktroughs_desc:0 "Scientific breakthroughs in the fields of biology and cybernetics are rapidly shaping our ability to improve ourselves."
+ 
+ # 196
+ gpm_tranquility:0 "Tranquillity"
+ gpm_tranquility_desc:0 "Citizens on our capital are experiencing a moment of tranquillity and peace."
+ 
+ # 197
+ gpm_recruitment_drive:0 "Recruitment Drive"
+ gpm_recruitment_drive_desc:0 "Large campaigns are being organised to recruit new citizens into the army."
+ 
+ # 198
+ gpm_stargazing:0 "gpm_stargazing"
+ gpm_stargazing_desc:0 "Citizens enjoy looking at the stars and wondering about life out there."
+ 
+ # 198
+ gpm_bounty_hunting:0 "Bounty Hunting"
+ gpm_bounty_hunting_desc:0 "Bounty hunt contracts are finally paying off."
+ 
+ # 199
+ gpm_diversity_holiday:0 "Diversity Holiday"
+ gpm_diversity_holiday_desc:0 "Citizens are celebrating a holiday dedicated to the vast diversity of people found in the galaxy. "
+ 
+ # 200
+ gpm_synopsys_overload:0 "Synopsys Overload"
+ gpm_synopsys_overload_desc:0 "An ever-increasing population of drones is putting strain on our ability to maintain order and integrity within the empire."
+ 
+ # 201
+ gpm_falling_behind:0 "Falling Behind"
+ gpm_falling_behind_desc:0 "Our prime world is slowly falling behind efficiency compared to the rest of our expanding empire."
+
+ # 202
+ gpm_solar_storm:0 "Solar Storms"
+ gpm_solar_storm_desc:0 "This world is directly in the path of a dangerous solar storm."
+ 
+ # 203
+ gpm_violent_sun:0 "Violent Sun"
+ gpm_violent_sun_desc:0 "This sun is experiencing violent eruptions from its surface."
+ 
+ # 204
+ gpm_increased_solar_output:0 "Increased Solar Output"
+ gpm_increased_solar_output_desc:0 "This world is experiencing more sunshine thanks to the increased output of its parent star."
+ 
+ # 205
+ gpm_decreased_solar_output:0 "Decreased Solar Output"
+ gpm_decreased_solar_output_desc:0 "This world is experiencing less sunshine due to the decreased output of its parent star."
+ 
+ # 206
+ gpm_increased_solar_activity:0 "Increased Solar Activity"
+ gpm_increased_solar_activity_desc:0 "This sun has entered a cycle of increased solar activity."
+ 
+ # 207
+ gpm_decreased_solar_activity:0 "Decreased Solar Activity"
+ gpm_decreased_solar_activity_desc:0 "This sun has entered a cycle of decreased solar activity."
+ 
+ # 208
+ gpm_acid_rain:0 "Acid Rain"
+ gpm_acid_rain_desc:0 "High hydrogen concentrations in the atmosphere of this world causes it to experience frequent and deadly rainstorms. Land-based fauna has trouble surviving here, and the plant life has evolved thick, fleshy cellulose walls in order to protect itself from the acidic rain."
+ 
+ # 209
+ gpm_salt_flats:0 "Salt Flats"
+ gpm_salt_flats_desc:0 "Formed from dried-up oceans and exposed rocks, these salt flats cover vast areas of the planet and are barren wastelands only inhabited by the hardiest of vegetation. However, their desolation and composition might hide vast mineral deposits."
+ 
+ # 210
+ gpm_cursed_world:0 "Cursed world"
+ gpm_cursed_world_desc:0 "Every team we send down to explore this planet always returns missing several team members. They don't even realize their crewmates are gone until asked about the absent people. Investigations always reveal our landing site covered in viscera and the torn limbs of the missing explorers. Something strange is happening on this world. The superstitious whisper that it is cursed. Our scientists dismiss those rumors, but they have yet to find an explanation for these tragedies."
+ 
+ # 211
+ gpm_garbage_dump:0 "Garbage Dump"
+ gpm_garbage_dump_desc:0 "This place was once a dump for the refuse of some ancient civilization. There is no clear design to it, and there is certainly a lot to look through. It is possible there is something worthwhile to be found, though it will take some searching to locate anything."
+ 
+ # 212
+ gpm_abundant_natural_radioactivity:0 "Abundant Natural Radioactivity"
+ gpm_abundant_natural_radioactivity_desc:0 "Extensive natural nuclear reactions within this planet's crust combine with vigorous tectonic activity to produce massive volcanoes spewing fissile materials. As a result, the atmosphere of this world is saturated with radioactive particles."
+ 
+ # 213
+ gpm_proto_planet:0 "Protoplanet"
+ gpm_proto_planet_desc:0 "This planet is slowly undergoing the changes necessary to become a habitable world. Its seas of lava are hardening to become landmasses, and the introduction of steam vapour will soon create real oceans."
+ 
+ # 214
+ gpm_sunken_cities:0 "Sunken Cities"
+ gpm_sunken_cities_desc:0 "Millennia ago, this planet was a continental world home to a sentient species. However, their industrialisation efforts started a process that melted the planet's large glaciers and ultimately terraformed the planet. The species did not survive, leaving only these sunken cities as evidence of their lost civilisation."
+ 
+ # 215
+ gpm_titanic_geo_form:0 "Titanic Geo Form"
+ gpm_titanic_geo_form_desc:0 "A single mountain on this planet is so large it almost defies belief. It outclasses every other formation by a staggering amount. The leading hypothesis is that it is the debris from an asteroid that impacted the planet millions of years ago."
+ 
+ # 216
+ gpm_singing_star:0 "Singing Star"
+ gpm_singing_star_desc:0 "Unusual radio-frequency signals emanate from this star. A curious engineer converted recordings of the star's output to an audible format, and this 'music' has become quite popular across our civilization. While the sounds are hauntingly beautiful, we can find no scientific explanation for this phenomenon."
+ 
+ # 217
+ gpm_precursor_star_filter:0 "Precursor Star Filter"
+ gpm_precursor_star_filter_desc:0 "An ancient alien device is emitting an energy field that covers this entire star. Somehow surviving deep within the star's photosphere, the device appears to have no function other than to cause fluctuations in the star's emissions in the visible range. As a result, the star twinkles rather prettily."
+ 
+ # 218
+ gpm_wretched_abyss:0 "Wretched Abyss"
+ gpm_wretched_abyss_desc:0 "Just gazing upon this celestial body fills any sane being with dread, and spending any length of time in the system changes them for the worse. Nightmares and delusions plague everyone here. Although nobody will ever admit it, this area of space is always referred to as the 'Wretched Abyss'."
+ 
+ # 219
+ gpm_resonant_twins:0 "Resonant Twins"
+ gpm_resonant_twins_desc:0 "Through some unknown process, this star and another closeby are intertwined, allowing quantum phenomena to be readily studied and exploited."
+ 
+ # 220
+ Space_X_Tesla:0 "SpaceX Tesla"
+ Space_X_Tesla_desc:0 "On February 6th, 2018, SpaceX, one of the first and most successful private space flight companies, launched an ancient automobile into space. After flying past the planet Mars for a gravity assist, the ancient vehicle entered a stable orbit around the sun, where it will remain for several billion years."
+
+ # 221
+ gpm_death_world:0 "Capital - Death World"
+ gpm_death_world_desc:0 "Almost every creature and plant on this world is deadly to sentient life in some way. Life on this world is unimaginably harsh; fifty percent of the planet's population does not survive infancy, and fifty percent of the remainder does not live past the age of ten. Those who do reach adulthood are invariably among the toughest, most uncompromising and resourceful warriors, masters of surviving in one of the most inhospitable environments in the galaxy."
+ 
+ # 222
+ gpm_metallic_ring_small:0 "Small Metallic Rings"
+ gpm_metallic_ring_small_desc:0 "Most of this rather small ring system consists mainly out of silicate and dust. The darker rings however mainly consist out of metallic rocks and other minerals."
+ 
+ # 223
+ gpm_metallic_ring:0 "Metallic Rings"
+ gpm_metallic_ring_desc:0 "Most of this ring system consists mainly out of silicate and dust. The darker rings however mainly consist out of metallic rocks and other minerals."
+ 
+ # 224
+ gpm_metallic_ring_large:0 "Large Metallic Rings"
+ gpm_metallic_ring_large_desc:0 "An unusual large rings system sits around this planet. Most of this large ring system consists mainly out of silicate and dust. The darker rings however mainly consist out of metallic rocks and other minerals."
+ 
+ # 225
+ gpm_metallic_ring_huge:0 "Huge Metallic Rings"
+ gpm_metallic_ring_huge_desc:0 "A rare massive ring system spans around this planet. Most of this huge ring system consists mainly out of silicate and dust. The darker rings however mainly consist out of metallic rocks and other minerals."
+ 
+ # 226
+ gpm_ice_ring_small:0 "Small Ice Rings"
+ gpm_ice_ring_small_desc:0 "Most of this rather small ring system consists mainly out of dust and ice. The brighter rings however mainly consist out of dense ice and ice particles."
+ 
+ # 227
+ gpm_ice_ring:0 "Ice Rings"
+ gpm_ice_ring_desc:0 "Most of this ring system consists mainly out of dust and ice. The brighter rings however mainly consist out of dense ice and ice particles."
+ 
+ # 228
+ gpm_ice_ring_large:0 "Large Ice Rings"
+ gpm_ice_ring_large_desc:0 "An unusual large rings system sits around this planet. Most of this large ring system consists mainly out of dust and ice. The brighter rings however mainly consist out of dense ice and ice particles."
+ 
+ # 229
+ gpm_ice_ring_huge:0 "Huge Ice Rings"
+ gpm_ice_ring_huge_desc:0 "A rare massive ring system spans around this planet. Most of this huge ring system consists mainly out of dust and ice. The brighter rings however mainly consist out of dense ice and ice particles."
+
+ # 230
+ gpm_tiyanki_feeding_grounds:0 "Tiyanki Feeding Grounds"
+ gpm_tiyanki_feeding_grounds_desc:0 "Some of the minerals in this planetary ring seem to be very liked by the local space creatures. So much so that some have been observed to return here quite frequently."
+ 
+ # 231
+ gpm_geoengineering:0 "Geoengineering"
+ gpm_geoengineering_desc:0 "Scientists on this world are currently attempting to geoengineer the biosphere in an attempt to improve its living conditions."
+
+ # 232
+ gpm_rogue_traders_outpost:0 "Abandoned Rogue Trader Outposts"
+ gpm_rogue_traders_outpost_desc:0 "Build into several clustered together asteroids are small outposts that were used by rogue traders. These outposts seem to have been used to hide or stash their goods and trophies. Some of them seem to be made into tiny homes for them to live in. Not much, if anything, is worth salvaging here."
+
+ # 233
+ gpm_holy_planet_redeemed:0 "Desecrated Holy Planet"
+ gpm_holy_planet_redeemed_desc:0 "The strange beacons warning others to not set foot on this 'holy' world have been deactivated."
+
+ # 234
+ gpm_oppertunity:0 "Forgotten Little Robot"
+ gpm_oppertunity_desc:0 "Analysis of the databanks in this seemingly forgotten robot its reveals it sent out a final message before dying. It reads:\n §W-- My battery is low and it's getting dark --§!\nThe engraving on the hull seems to indicate its name 'Opportunity'."
+
+ gpm_supersonic_winds:0 "Supersonic Winds"
+ gpm_supersonic_winds_desc:0 "Extremely high winds on this world make it virtually impossible to do any low atmosphere flights with anything larger than a small probe."
+ 
+ gpm_geometrical_polar_storm:0 "Geometric Polar Storm"
+ gpm_geometrical_polar_storm_desc:0 "The spectacular northern polar storm is perfectly shaped like a pentagon. A very unique pressure and wind process have shaped this near endlessly lasting storm into a perfect geometric shape."
+ 
+ gpm_floating_forest:0 "Floating Flora"
+ gpm_floating_forest_desc:0 "Spread out across the gas giants upper gas layer are small pockets of floating flora. Small islands of roots and vegetation. The leaves and roots are long and extremely light and sway with every gust of wind."
+ 
+ gpm_viscous_gas_layer:0 "Viscous Gas"
+ gpm_viscous_gas_layer_desc:0 "The atmosphere is so dense it mimics the flow of a liquid. While extremely improbably for a gas giant to have such dense gas it is not impossible."
+ 
+ gpm_everlasting_tornadoes:0 "Everlasting Tornadoes"
+ gpm_everlasting_tornadoes_desc:0 "Raging long-lasting tornadoes can be found on this gas giant. These massive vortexes move in the other direction the planet is spinning at roughly the same speed making them look like they never move."
+ 
+ gpm_shrinking_giant:0 "Shrinking Giant"
+ gpm_shrinking_giant_desc:0 "Powerful and violent solar winds have, over the course of millions of years, stripped most of the outer and middle layer of the gas giant's gaseous atmosphere."
+ 
+ gpm_charged_atmosphere:0 "Charged Atmosphere"
+ gpm_charged_atmosphere_desc:0 "Constant friction of the gasses in the upper atmosphere of this gas giant have caused it to gain a massive permanent static charge. Frequent localised discharges cause spectacular but short lightning storms."
+ 
+ gpm_aeroplankton_clouds:0 "Aeroplankton Clouds"
+ gpm_aeroplankton_clouds_desc:0 "Tiny plankton like lifeforms float across the upper layers of the gas giant, absorbing both the gasses and sunlight in order to grow, multiply and survive."
+ 
+ gpm_radiation_storms:0 "Radiation Storms"
+ gpm_radiation_storms_desc:0 "Huge amounts of radioactive dust once entered this gas giant billions of years ago. Ever since it's localised storms have been extremely radiocative and have a mild green-yellow glow."
+ 
+ gpm_beautiful_storms:0 "Beautiful Storms"
+ gpm_beautiful_storms_desc:0 "The beautiful bands of different gasses and layers come together whenever a storm rages on this gas giant. This orgy of colour is extremely pleasing to observe."
+ 
+ gpm_abandoned_refineries:0 "Abandoned Refineries"
+ gpm_abandoned_refineries_desc:0 "Abandoned failing refineries are still autonomously sucking in gas from this gas giant and processing it into raw solid materials."
+ 
+ gpm_floating_kelp:0 "Floating Kelp"
+ gpm_floating_kelp_desc:0 "Colossal kelp-like flora floats in the upper atmosphere of this gas giant. These floating kelp are hundreds of meters long with giant leaves and thin floating roots at the top."
+ 
+ gpm_thin_atmospheres_gas_giant:0 "$gpm_thin_atmospheres$"
+ gpm_thin_atmospheres_gas_giant_desc:0 "$gpm_thin_atmospheres_desc$"
+ 
+ gpm_global_thunderstorms_gas_giant:0 "$gpm_global_thunderstorms$"
+ gpm_global_thunderstorms_gas_giant_desc:0 "$gpm_global_thunderstorms_desc$"
+ 
+ gpm_weak_magnetic_field_gas_giant:0 "$weak_magnetic_field$"
+ gpm_weak_magnetic_field_gas_giant_desc:0 "$gpm_weak_magnetic_field_2_desc$"
+ 
+ gpm_strong_magnetic_field_gas_giant:0 "$strong_magnetic_field$"
+ gpm_strong_magnetic_field_gas_giant_desc:0 "$gpm_strong_magnetic_field_2_desc$"
+ 
+ gpm_super_heated_atmosphere:0 "Super Heated Atmosphere"
+ gpm_super_heated_atmosphere_desc:0 "Glowing extremely hot and dense atmosphere. The atmosphere is so hot that probes are unable to reach the inner part of the gas giant to study what the core could be made out of."
+ 
+ gpm_floatig_behemothaurs:0 "Ancient Behemothaurs"
+ gpm_floatig_behemothaurs_desc:0 "Occasionally surfacing in the upper atmosphere these hyper intelligent creatures, several millions years old, are home to entire ecosystems of symbiotic fauna and flora."
+
+ gpm_heavy_elements:0 "Heavy Metal Rich"
+ gpm_heavy_elements_desc:0 "Constant tectonic activity has pushed large amounts of heavy metals to the surface of this world."
+
+ gpm_rare_metals:0 "Rare Metal Rich"
+ gpm_rare_metals_desc:0 "A substantial amount of precious metals can be within the crust of this world."
+
+ gpm_crystaline_deposits:0 "Crystalline Deposits"
+ gpm_crystaline_deposits_desc:0 "Large dense crystals rapidly grow out of the surface of this world duo to a unique combination of pressure and heat right below the surface."
+
+ gpm_searing_fumes:0 "Searing Fumes"
+ gpm_searing_fumes_desc:0 "Small cracks in the surface of this world are causing searing hot flames and gasses to shoot out hundreds of feet upwards."
+
+ gpm_stable_geodes:0 "Stable Geodes"
+ gpm_stable_geodes_desc:0 "Small stone rocks that, when opened carefully, contain beautiful hyper-reactive mineral formations."
+
+ gpm_weak_magnetic_field_nb:0 "$weak_magnetic_field$"
+ gpm_weak_magnetic_field_nb_desc:0 "$weak_magnetic_field_desc$"
+ 
+ gpm_strong_magnetic_field_nb:0 "$strong_magnetic_field$"
+ gpm_strong_magnetic_field_nb_desc:0 "$strong_magnetic_field_desc$"
+ 
+ gpm_asteroid_impacts_nb:0 "$asteroid_impacts$"
+ gpm_asteroid_impacts_nb_desc:0 "$asteroid_impacts_desc$"
+ 
+ gpm_mineral_rich_nb:0 "$mineral_rich$"
+ gpm_mineral_rich_nb_desc:0 "$mineral_rich_desc$"
+ 
+ gpm_ultra_rich_nb:0 "$ultra_rich$"
+ gpm_ultra_rich_nb_desc:0 "$ultra_rich_desc$"
+ 
+ gpm_low_gravity_nb:0 "$low_gravity$"
+ gpm_low_gravity_nb_desc:0 "$low_gravity_desc$"
+ 
+ gpm_high_gravity_nb:0 "$high_gravity$"
+ gpm_high_gravity_nb_desc:0 "$high_gravity_desc$"
+ 
+ gpm_flat_terrain_nb:0 "$gpm_flat_terrain$"
+ gpm_flat_terrain_nb_desc:0 "$gpm_flat_terrain_desc$"
+ 
+ gpm_rugged_terrain_nb:0 "$gpm_rugged_terrain$"
+ gpm_rugged_terrain_nb_desc:0 "$gpm_rugged_terrain_desc$"
+ 
+ gpm_radioactive_mantle_nb:0 "$gpm_radioactive_mantle$"
+ gpm_radioactive_mantle_nb_desc:0 "$gpm_radioactive_mantle_desc$"
+ 
+ gpm_old_world_nb:0 "$gpm_old_world$"
+ gpm_old_world_nb_desc:0 "$gpm_old_world_desc$"
+ 
+ gpm_hiveworld_nb:0 "$gpm_hiveworld$"
+ gpm_hiveworld_nb_desc:0 "$gpm_hiveworld_desc$"
+ 
+ gpm_periodic_meteor_showers_nb:0 "$gpm_periodic_meteor_showers$"
+ gpm_periodic_meteor_showers_nb_desc:0 "$gpm_periodic_meteor_showers_desc$"
+
+ gpm_mushroom_forest_toxic_world:0 "$gpm_mushroom_forest$"
+ gpm_mushroom_forest_toxic_world_desc:0 "$gpm_mushroom_forest_desc$"
+
+ gpm_relic_factories:0 "Archaeotech Factories"
+ gpm_relic_factories_desc:0 "Ancient decrepit factories long lost and forgotten."
+
+ gpm_relic_generators:0 "Archaeotech Generators"
+ gpm_relic_generators_desc:0 "Ancient humming generators. These generators still function, but duo to their age and their lack of maintenance only produce a tiny fraction of what they once produced."
+
+ gpm_relic_laboratories:0 "Archaeotech Laboratories"
+ gpm_relic_laboratories_desc:0 "Vast open laboratories so old the dust covering them turned to stone. With some work these may become usable once more."
+
+ gpm_relic_lower_levels:0 "Lower City Levels"
+ gpm_relic_lower_levels_desc:0 "Part of the massive endless city has collapsed revealing that the top layer of the city planet is build on an much older city."
+
+ gpm_heavy_metal_coral:0 "Heavy Metal Corals"
+ gpm_heavy_metal_coral_desc:0 "Living corals have build their shells and exteriors out of the heavy metals in the sea floor."
+
+ gpm_decomposing_leviathan:0 "Decomposing Leviathan"
+ gpm_decomposing_leviathan_desc:0 "Colossal dead leviathan, slowly decomposing and withering away."
+ 
+ gpm_diamond_rain:0 "Diamond Rain"
+ gpm_diamond_rain_desc:0 "Every so often it rains microscopic diamonds. These appear to be formed from the strong inner pressure of the gas giant and are swooped upwards by convection currents."
+ 
+ gpm_radioactive_biome:0 "Radioactive Biome"
+ gpm_radioactive_biome_desc:0 "Most of the biome this planet has is strangly radioactive."

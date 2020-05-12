@@ -1,0 +1,353 @@
+﻿l_english:
+###_功能 Crisis Master ################################################################################################
+ z_modmenu_cm: "§BInfinite Collection: Crisis Master§!"
+ z_crisis_master_title: "§BCrisis Master§! Customization Menu"
+ z_crisis_master_title_1: "§BCrisis Master§! Detailed Customization Menu for Midgame Threat"
+ z_crisis_master_title_2: "§BCrisis Master§! Detailed Customization Menu for Endgame Crisis"
+ z_crisis_master_title_3: "§BCrisis Master§! Detailed Customization Menu for the War in Haven"
+ z_crisis_master_desc: "A sub module of §GInfinite Collection§!.\nYou can set various properties of the §Ymedium-term threat§!, §Ythe endgame crisis§!, and §Ythe war in heaven§!, including burst time, probability, power, and some other special properties. Open the §Bdetailed customization§! menu for details.\n "
+ z_cm_threaten_desc: "You can adjust all related properties of §YMidgame Threat§!, such as event probability, fleet reinforcement, etc."
+ z_cm_crisis_desc: "You can adjust all related properties of §YEndgame Crisis§!, such as trigger time, trigger frequency, trigger chance and multiple crisis. §HPrethoryn§! and §RContingency§! are allowed to repeatedly happen."
+ z_cm_fallen_desc: "You can also adjust all related properties of §YWar in Haven§!, such as trigger time, trigger frequency. If there are at least 2 remained §!§H$awakened_fallen_empire$§!, which is not §BCybrex, §Ythe War in Haven§! is allowed to repeat happening."
+ 
+#_
+ z_midgame_threaten_setting_tooltip: "\nOther setting see $z_crisis_master.11.l0$."
+ z_crisis_master_desc.l1: "L-gate Event §GGray Goo Tempest§! $z_midgame_threaten_setting_tooltip$"
+ z_crisis_master_desc.l2: "L-gate Event §GGray Goo Empire§! $z_midgame_threaten_setting_tooltip$"
+ z_crisis_master_desc.l3: "L-gate Event §GL Dragon§! $z_midgame_threaten_setting_tooltip$"
+ z_crisis_master_desc.l4: "L-gate Event §HVanilla§! $z_midgame_threaten_setting_tooltip$"
+#_
+ z_crisis_master_desc.b1: "Time for Endgame Crisis §GVanilla§! 50 years after late game checkpoint"
+ z_crisis_master_desc.b2: "Time for Endgame Crisis §GLate term§! start from late game checkpoint"
+ z_crisis_master_desc.b3: "Time for Endgame Crisis §GMid term§! start from mid game checkpoint"
+ 
+ z_crisis_master_desc.a1: "Multiple Crisis §GAllowed§!"
+ z_crisis_master_desc.a2: "Multiple Crisis §HDisallowed§!"
+ z_crisis_master_desc.d1: "Interval between Multiple Crisis §GNone§! at least §G1§! years"
+ z_crisis_master_desc.d2: "Interval between Multiple Crisis §YShort§! at least §G10§! years"
+ z_crisis_master_desc.d3: "Interval between Multiple Crisis §HLong§! at least §G25§! years"
+ 
+ z_crisis_master_desc.e1: "Repeatable Crisis §HDisallowed§!"
+ z_crisis_master_desc.e2: "Repeatable Crisis §GAllowed§!"
+ z_crisis_master_desc.m1: "Repeatable Crisis Cooldown §YMid§! at least §G30§! years"
+ z_crisis_master_desc.m2: "Repeatable Crisis Cooldown §GShort§! at least §G15§! years"
+ z_crisis_master_desc.m3: "Repeatable Crisis Cooldown §HLong§! at least §G45§! years"
+ 
+ z_crisis_master_desc.c1: "Probability of Endgame Crisis §GVanilla§!"
+ z_crisis_master_desc.c2: "Probability of Endgame Crisis §YHiger§!"
+ z_crisis_master_desc.c3: "Probability of Endgame Crisis §HVery High§!"
+ z_crisis_master_desc.c4: "Probability of Endgame Crisis §RSuper High§!"
+#_
+ z_crisis_master_desc.g1: "Fallen Empire Awakening §GInevitable§!"
+ z_crisis_master_desc.g2: "Fallen Empire Awakening §RNever§!"
+ z_crisis_master_desc.g3: "Fallen Empire Awakening §YProbabilistic§! vanilla setting"
+ 
+ z_crisis_master_desc.h1: "Fallen Empire Awakening time §YMid term§!"
+ z_crisis_master_desc.h2: "Fallen Empire Awakening time §GEarly term§!"
+ z_crisis_master_desc.h3: "Fallen Empire Awakening time §HLate term§! vanilla setting"
+ 
+ z_crisis_master_desc.j1: "Repeatable War in Haven §HDisallowed§!"
+ z_crisis_master_desc.j2: "Repeatable War in Haven §GAllowed§!"
+ z_crisis_master_desc.k1: "Repeatable War in Haven Cooldown §GVery Short§! §G10§!Years"
+ z_crisis_master_desc.k2: "Repeatable War in Haven Cooldown §YShort§! §G25§!Years"
+ z_crisis_master_desc.k3: "Repeatable War in Haven Cooldown §HMid§! §G50§!Years"
+ z_crisis_master_desc.k4: "Repeatable War in Haven Cooldown §RLong§! §G75§!Years"
+ 
+ z_crisis_master_desc.x1: "§HPrethoryn§! ongoing"
+ z_crisis_master_desc.x2: "§BExtradimention§! ongoing"
+ z_crisis_master_desc.x3: "§RContingency§! ongoing"
+ z_crisis_master_desc.x4: "Remained §H$awakened_fallen_empire$(not Cybrex)§! §G[root.z_cm_normal_afe_var]§!"
+ z_crisis_master_desc.x5: "Remained §YFallen Empires§! §G[root.z_cm_fe_var]§!"
+ z_crisis_master_desc.x6: "§YThe War in Haven§! ongoing"
+ z_crisis_master_desc.x7: "§YThe War in Haven§! cooling down"
+
+
+
+
+#_威胁-开启细节设置
+ z_crisis_master.11.l0: "§BCrisis Master§! Detailed Customization Menu for §YMidgame Threat§!"
+ z_crisis_master.11.l0.tooltip:  "Detailed setting for midgame Threat."
+ 
+#_威胁-灰蛊概率
+ z_crisis_master.111.a1: "§RCheating:§! L clue +1/ Now §Groot.num_lcluster_clues§!"
+ z_crisis_master.111.a1.tooltip: "Not recommended."
+ z_crisis_master.111.a2: "§RCheating:§! L clue -1/ Now §Groot.num_lcluster_clues§!"
+ z_crisis_master.111.a2.tooltip: "$z_crisis_master.111.a1.tooltip$"
+ 
+ z_crisis_master.11.l1: "Set event of L Gate to §GGray Goo Empire§!/ Now §GGray Tempest§! must happen"
+ z_crisis_master.11.l1.tooltip: "Be sure to set it at the beginning of the game."
+ z_crisis_master.11.l2: "Set event of L Gate to §GL-dragons§!/ Now §GGray Goo Empire§! must happen"
+ z_crisis_master.11.l2.tooltip: "Be sure to set it at the beginning of the game."
+ z_crisis_master.11.l3: "Set event of L Gate to §GVanilla§!/ Now §GL-dragons§! must happen"
+ z_crisis_master.11.l3.tooltip: "Be sure to set it at the beginning of the game."
+ z_crisis_master.11.l4: "Set event of L Gate to §GGray Tempest§!/ Now using §GVanilla§! probablity"
+ z_crisis_master.11.l4.tooltip: "Be sure to set it at the beginning of the game."
+
+ z_crisis_master.11.n1: "More goo fleets §RHardcore§!"
+ z_crisis_master.11.n1.tooltip: "Grey goo fleet number, and double the spped for refresh"
+ z_crisis_master.11.n2: "More goo fleets §HDisabled§!"
+ z_crisis_master.11.n2.tooltip:  "Grey goo fleet number remains default."
+ z_crisis_master.11.n3: "More goo fleets §GActivated§!"
+ z_crisis_master.11.n3.tooltip: "Grey goo fleet number increase."
+ z_crisis_master.11.o1: "Additional goo fleets amount §GNormal§!"
+ z_crisis_master.11.o1.tooltip: "Determine the number of additional fleets, note that the number will cause problems."
+ z_crisis_master.11.o2: "Additional goo fleets amount §HMore§!"
+ z_crisis_master.11.o2.tooltip: "$z_crisis_master.11.o1.tooltip$"
+ z_crisis_master.11.o3: "Additional goo fleets amount §RMax§!"
+ z_crisis_master.11.o3.tooltip: "$z_crisis_master.11.o1.tooltip$"
+ z_crisis_master.11.p1: "Goo fleet self reinforcement §RHardcore§!"
+ z_crisis_master.11.p1.tooltip: "$z_crisis_master.11.p2.tooltip$ Double the speed of self replenishment."
+ z_crisis_master.11.p2: "Goo fleet self reinforcement §HDisabled§!"
+ z_crisis_master.11.p2.tooltip: "As long as the Mothership exists, the grey goo fleet will replenish lost warships"
+ z_crisis_master.11.p3: "Goo fleet self reinforcement §GActivated§!"
+ z_crisis_master.11.p3.tooltip: "$z_crisis_master.11.p2.tooltip$"
+
+
+
+
+#_天灾-开启细节设置
+ z_crisis_master.11.a0: "§BCrisis Master§! Detailed Customization Menu for §YEndgame Crisis§!"
+ z_crisis_master.11.a0.tooltip:  "Detailed setting for endgame crisis."
+
+#_天灾-多重
+ z_crisis_master.11.a1: "§HDisallow§! Multiple Crisis/ Now §GAllowed§!"
+ z_crisis_master.11.a1.tooltip: "Only one crisis will be triggered. This can be changed at any time during the game."
+ z_crisis_master.11.a2: "§GAllow§! Multiple Crisis/ Now §HDisallowed§!"
+ z_crisis_master.11.a2.tooltip: "All crisis will be triggered. This can be changed at any time during the game."
+#_天灾-重复
+ z_crisis_master.11.e1: "§GAllow§! Repeatable Crisis/ Now §HDisallowed§!"
+ z_crisis_master.11.e1.tooltip: "§HPrethoryn§! and §RContingency§! are allowed to repeatedly happen. Interval between crisis can be set. This can be changed at any time during the game.
+ z_crisis_master.11.e2: "§HDisallow§! Repeatable Crisis/ Now §GAllowed§!"
+ z_crisis_master.11.e2.tooltip: "All crisis will only happen once. Interval between crisis can be set. This can be changed at any time during the game.
+#_天灾-时期
+ z_crisis_master.11.b1: "Crisis time set to §YLate term§!/ Now §HVanilla§!"
+ z_crisis_master.11.b1.tooltip: "All crisis will happen after late game checkpoint.  This can be changed at any time during the game.
+ z_crisis_master.11.b2: "Crisis time set to §GMid term§!/ Now §YLate term§!"
+ z_crisis_master.11.b2.tooltip: "All crisis will happen after mid game checkpoint. This can be changed at any time during the game.
+ z_crisis_master.11.b3: "Crisis time set to §HVanilla§!/ Now §GMid term§!"
+ z_crisis_master.11.b3.tooltip: "All crisis will happen after 50 years since late game checkpoint. This can be changed at any time during the game.
+#_天灾概率
+ z_crisis_master.11.c1: "Probablity of Endgame Crisis §YHigher§!/ Now §GVanilla§!"
+ z_crisis_master.11.c1.tooltip: "Probability of triggering crisis become higher; the vanilla endgame crisis checking happens every 5 years. This can be changed at any time during the game.
+ z_crisis_master.11.c2: "Probablity of Endgame Crisis §HVery High§!/ Now §YHigher§!"
+ z_crisis_master.11.c2.tooltip: "Probability of triggering crisis become very high; the vanilla endgame crisis checking happens every 5 years. This can be changed at any time during the game.
+ z_crisis_master.11.c3: "Probablity of Endgame Crisis §RSuper High§!/ Now §HVery High§!"
+ z_crisis_master.11.c3.tooltip: "Probability of triggering crisis become super high; the vanilla endgame crisis checking happens every 5 years. This can be changed at any time during the game.
+ z_crisis_master.11.c4: "Probablity of Endgame Crisis §GVanilla§!/ Now §RSuper High§!"
+ z_crisis_master.11.c4.tooltip: "Probability of triggering crisis is set as default; the vanilla endgame crisis checking happens every 5 years. This can be changed at any time during the game.
+#_多重天灾时间间隔
+ z_crisis_master.11.d1: "Interval between different Endgame Crisis §YShort§!/ Now §GNone§!"
+ z_crisis_master.11.d1.tooltip: "If multiple crisis is allowed, differnet crisis will happen in 10-year intervals."
+ z_crisis_master.11.d2: "Interval between different Endgame Crisis §HLong§!/ Now §YShort§!"
+ z_crisis_master.11.d2.tooltip: "If multiple crisis is allowed, differnet crisis will happen in 25-year intervals."
+ z_crisis_master.11.d3: "Interval between different Endgame Crisis §GNone§!/ Now §HLong§!"
+ z_crisis_master.11.d3.tooltip: "If multiple crisis is allowed, differnet crisis will happen in 5-year intervals."
+#_重复天灾时间间隔
+ z_crisis_master.11.m1: "Repeatable Crisis Cooldown set to §GShort§!/ Now §YMid§!"
+ z_crisis_master.11.m1.tooltip: "If repeatable crisis is allowed, the same crisis will happen in 15-year intervals."
+ z_crisis_master.11.m2: "Repeatable Crisis Cooldown set to §HLong§!/ Now §GShort§!"
+ z_crisis_master.11.m2.tooltip: "If repeatable crisis is allowed, the same crisis will happen in 45-year intervals."
+ z_crisis_master.11.m3: "Repeatable Crisis Cooldown set to §YMid§!/ Now §HLong§!"
+ z_crisis_master.11.m3.tooltip: "If repeatable crisis is allowed, the same crisis will happen in 30-year intervals."
+ 
+#_天灾舰队增援与额外天灾舰队
+ z_crisis_master.112.a1: "Crisis fleets self reinforcement §RHardcore§!"
+ z_crisis_master.112.a1.tooltip: "$z_crisis_master.112.a3.tooltip$\nCompared with the normal mode, the reinforcement frequency is doubled"
+ z_crisis_master.112.a2: "Crisis fleets self reinforcement §HDisabled§!"
+ z_crisis_master.112.a2.tooltip:  "No crisis fleet get self reinforcement."
+ z_crisis_master.112.a3: "Crisis fleets self reinforcement §GActivated§!"
+ z_crisis_master.112.a3.tooltip: "All scourge fleets will be reinforced when they are downsized. §Hprethoryn_scourge_chain_title§! can automatically build the same level or lower level ships as long as there are more senior members. §Bextradimensional_invasion_chain_title§! get additional combat buffs  based on the number of members lost. §Rai_crisis_chain§! will self-replenish the lost members from low level to high level according to a given fleet template."
+ z_crisis_master.112.b1: "Crisis fleets self reinforcement intensity §GNormal§!"
+ z_crisis_master.112.b1.tooltip: "Determines intensity of self reinforcement strength."
+ z_crisis_master.112.b2: "Crisis fleets self reinforcement intensity §HHigher§!"
+ z_crisis_master.112.b2.tooltip: "$z_crisis_master.112.b1.tooltip$"
+ z_crisis_master.112.b3: "Crisis fleets self reinforcement intensity §RMax§!"
+ z_crisis_master.112.b3.tooltip: "$z_crisis_master.112.b1.tooltip$"
+ 
+ z_crisis_master.112.c1: "Extra crisis fleet §RHardcore§!"
+ z_crisis_master.112.c1.tooltip: "$z_crisis_master.112.c3.tooltip$ Compared with the normal mode, the reinforcement frequency is doubled"
+ z_crisis_master.112.c2: "Extra crisis fleet §HDisabled§!"
+ z_crisis_master.112.c2.tooltip: "The endgame crisis won't get extra fleet"
+ z_crisis_master.112.c3: "Extra crisis fleet §GActivated§!"
+ z_crisis_master.112.c3.tooltip: "§Hprethoryn_scourge_chain_title§! will copy fleets anytime, anywhere. §Bextradimensional_invasion_chain_title§! will use $extradimensional_invasion_1_poi$ to add extra fleets §Rai_crisis_chain§! will build new fleets from mechanical worlds."
+ z_crisis_master.112.d1: "Additional crisis fleets amount §GNormal§!"
+ z_crisis_master.112.d1.tooltip: "Determine the number of additional fleets, note that the number will cause problems."
+ z_crisis_master.112.d2: "Additional crisis fleets amount §YMore§!"
+ z_crisis_master.112.d2.tooltip: "$z_crisis_master.112.d1.tooltip$"
+ z_crisis_master.112.d3: "Additional crisis fleets amount §RMax§!"
+ z_crisis_master.112.d3.tooltip: "$z_crisis_master.112.d1.tooltip$"
+
+
+
+
+#_天堂之战-开启细节设置
+ z_crisis_master.11.f0: "§BCrisis Master§! Detailed Customization Menu for §Ythe War in Haven§!"
+ z_crisis_master.11.f0.tooltip:  "Detailed setting for the War in Haven."
+
+#_Fallen Empire Awakening
+ z_crisis_master.11.f1: "Fallen Empire Awakening restriction §GUnlimited§!/ Now §HVanilla§!"
+ z_crisis_master.11.f1.tooltip: "Guardian of Galaxy and Ancient Rivals can coexist."
+ z_crisis_master.11.f2: "Fallen Empire Awakening restriction §HVanilla§!/ Now §GUnlimited§!"
+ z_crisis_master.11.f2.tooltip: "Guardian of Galaxy and Ancient Rivals cannot coexist."
+#_Fallen Empire Awakening概率
+ z_crisis_master.11.g1: "Probablity of Fallen Empire Awakening §HNever§!/ Now §GInevitable§!"
+ z_crisis_master.11.g1.tooltip: "Fallen empires will never awaken."
+ z_crisis_master.11.g2: "Probablity of Fallen Empire Awakening §YProbabilistic§!/ Now §HNever§!"
+ z_crisis_master.11.g2.tooltip: "Guardian of Galaxy and Ancient Rivals will happen at a certain probability. Vanilla setting."
+ z_crisis_master.11.g3: "Probablity of Fallen Empire Awakening §GInevitable§!/ Now §YProbabilistic§!"
+ z_crisis_master.11.g3.tooltip: "Guardian of Galaxy will happen when crisis comes, and Ancient Rivals will happen after a fallen empire naturally awakened."
+#_Fallen Empire Awakening时期
+ z_crisis_master.11.h1: "Fallen Empire Awakening time set to §YMid term§!/ Now §GLate term§!"
+ z_crisis_master.11.h1.tooltip: "Fallen empires start awakening from mid game checkpoint."
+ z_crisis_master.11.h2: "Fallen Empire Awakening time set to §HEarly term§!/ Now §YMid term§!"
+ z_crisis_master.11.h2.tooltip: "Fallen empires start awakening in early game."
+ z_crisis_master.11.h3: "Fallen Empire Awakening time set to §GLate term§!/ Now §HEarly term§!"
+ z_crisis_master.11.h3.tooltip: "Fallen empires start awakening from late game checkpoint. Vanilla setting."
+#_The War in Haven
+ z_crisis_master.11.i1: "§GAllow§! The War in Haven/ Now §HDisallowed§!"
+ z_crisis_master.11.i1.tooltip: "If there are ancient rivals, the War in Haven will happen. Note that War in Haven CD time will return to zero when this button is pushed."
+ z_crisis_master.11.i2: "§HDisallow§! The War in Haven/ Now §GAllowed§!"
+ z_crisis_master.11.i2.tooltip: "The War in Haven will never happen."
+#_The War in Haven-重复
+ z_crisis_master.11.j1: "§GAllow§! Repeatable War in Haven/ Now §HDisallowed§!"
+ z_crisis_master.11.j1.tooltip: "The War in Haven will repeatedly happens, but there is a interval between each War in Haven. When CD time ends, if there are two $awakened_fallen_empire$, which is not Cybrex, they will become rivals and start the War in Haven."
+ z_crisis_master.11.j2: "§HDisallow§! Repeatable War in Haven/ Now §GAllowed§!"
+ z_crisis_master.11.j2.tooltip: "The War in Haven will only happen once. If a repeatable War in Haven has happened, it will not happen again with this setting on."
+#_Repeatable War in Haven时间间隔
+ z_crisis_master.11.k1: "Repeatable War in Haven CD §GShort§!/ Now §RNone§!"
+ z_crisis_master.11.k1.tooltip: "Interval between repeatable War in Haven is set to 25 years."
+ z_crisis_master.11.k2: "Repeatable War in Haven CD §YMid§!/ Now §GShort§!"
+ z_crisis_master.11.k2.tooltip: "Interval between repeatable War in Haven is set to 50 years."
+ z_crisis_master.11.k3: "Repeatable War in Haven CD §HLong§!/ Now §YMid§!"
+ z_crisis_master.11.k3.tooltip: "Interval between repeatable War in Haven is set to 75 years."
+ z_crisis_master.11.k4: "Repeatable War in Haven CD §RNone§!/ Now §HLong§!"
+ z_crisis_master.11.k4.tooltip: "Interval between repeatable War in Haven is set to 10 years."
+ 
+ z_crisis_master.11.y1: "§BSummon Prethoryn§!"
+ z_crisis_master.11.y1.tooltip: "Start Prethoryn Crisis from the beginning."
+ z_crisis_master.11.y2: "§BSummon Contingency§!"
+ z_crisis_master.11.y2.tooltip: "Start Contingency Crisis from the beginning."
+ z_crisis_master.11.z1: "§BForce a random fallen empire to awaken§!"
+ z_crisis_master.11.z1.tooltip: "Stop faking sleeping!"
+ z_crisis_master.11.z2: "§BForce all fallen empires to awaken§!"
+ z_crisis_master.11.z2.tooltip: "All of you, stop faking sleeping!"
+ z_crisis_master.11.z3: "§BForce War in Haven to happen§!"
+ z_crisis_master.11.z3.tooltip: "Stop faking sleeping, get up! Start War in Haven from the beginning."
+ 
+ z_crisis_master.11.x3: "All setting §GVanilla§! Default"
+ z_crisis_master.11.x3.tooltip: "$z_crisis_master.11.x30.tooltip$ $z_crisis_master.11.x31.tooltip$ $z_crisis_master.11.x32.tooltip$"
+ z_crisis_master.11.x30: "Midgame Threat setting §GVanilla§! Default"
+ z_crisis_master.11.x30.tooltip: "Goo fleets self-renewal."
+ z_crisis_master.11.x31: "Endgame Crisis setting §GVanilla§! Default"
+ z_crisis_master.11.x31.tooltip: "Disallow Multiple Crisis. Start calculating trigger probability of endgame crisis after 50 years since late game checkpoint."
+ z_crisis_master.11.x32: "War in Haven setting §GVanilla§! Default"
+ z_crisis_master.11.x32.tooltip: "The fallen empire will awaken according to the original probability, and the awakening period will be late game."
+ 
+ z_crisis_master.11.x4: "All setting §GInfinite Collection§! Default"
+ z_crisis_master.11.x4.tooltip: "$z_crisis_master.11.x40.tooltip$ $z_crisis_master.11.x41.tooltip$ $z_crisis_master.11.x42.tooltip$"
+ z_crisis_master.11.x40: ""Midgame Threat setting §GInfinite Collection§! Default"
+ z_crisis_master.11.x40.tooltip: "Gray goo tempest, goo fleets self-renewal."
+ z_crisis_master.11.x41: "Endgame Crisis setting §GInfinite Collection§! Default"
+ z_crisis_master.11.x41.tooltip: "Allow Multiple Crisis, Start calculating trigger probability of endgame crisis since late game checkpoint."
+ z_crisis_master.11.x42: "War in Haven setting §GInfinite Collection§! Default"
+ z_crisis_master.11.x42.tooltip: "The fallen empire will start awaken in the mid game."
+ 
+ z_crisis_master.11.x0: "Return"
+ z_crisis_master.11.x0.tooltip: "Go back to $z_crisis_master_title$"
+ z_crisis_master.11.x1: "Back to IC Customization Menu"
+ z_crisis_master.11.x1.tooltip: "Go back to the main menu of Infinite Collection."
+ z_crisis_master.11.x2: "Exit"
+ z_crisis_master.11.x2.tooltip: "Close this dialog."
+
+
+
+
+###_功能---灰蛊拓展###################################################################
+#_其他
+ z_tempest_fleet: "You already have one goo fleet"
+ z_cm_goo_dec_only: "Can't build directly. Create a grey goo fleet through the decision of the capital, and an existed design will be used automatically
+#_事件
+ z_cm_threat_goo.21.name:0 "Stop the tempest"
+ z_cm_threat_goo.21.desc:0 "We've tried our best to stop the terrible gray tempest and get the incredible technology from the wreckage of the nano factory. It must be a gift from the infinite stellaris.\n\nBut at the same time, we are also very clear that this crisis will not end so easily. There are many remnants of gray storms in the galaxy, and we must keep eternal vigilance.\n\nNew orbit bombardment method unlocked §B$bombardment_z_bomb_nanite$§!, this kind of bombing is mainly used to kill people and living forces.\nCan build one §G$z_building_tempest_factory$§! on the capital planet. It will increase job production and unlock decision $z_decision_nanite_fleet$ to creat a goo fleet of yourself."
+ z_cm_threat_goo.21.a:0 "That's good."
+ z_cm_threat_goo.22.name:0 "Stop the tempest"
+ z_cm_threat_goo.22.desc:0 "§G[event_target:z_ai_goo_slayer.GetName]§!stop the terrible gray storm and get the incredible technology from the wreckage of the nano factory, It's a gift from the infinite stellaris.\n\nWe don't know how §G[event_target:z_ai_goo_slayer.GetName]§! will use powerful technologies, but one thing is certain that they have become a potential threat. We also know that this crisis will not end so easily. There are many remnants of gray storms in the galaxy, and we must keep our eternal vigilance."
+ z_cm_threat_goo.22.a:0 "But it's not us..."
+ z_cm_threat_goo.23.name:0 "Windfall"
+ z_cm_threat_goo.23.desc:0 "The terrible gray goo tempest has been put out by unknown forces, and §G[event_target:z_ai_goo_lucky_man.GetName]§! has acquired the incredible technology from the wreckage of the nano factory! Why are they so lucky! \n\nWe don't know how §G[event_target:z_ai_goo_lucky_man.GetName]§! will use powerful technologies, but one thing is certain that they have become a potential threat. We also know that this crisis will not end so easily. There are many remnants of gray storms in the galaxy, and we must keep our eternal vigilance."
+ z_cm_threat_goo.23.a:0 "Damn it. They're lucky."
+ z_cm_threat_goo.41.name:0 "Gray goo fleet is done."
+ z_cm_threat_goo.41.desc:0 "With the help of grey goo technology, we have successfully established a grey Gu fleet of our own, and this powerful force will be the guarantee for us to control and dominate the star sea.\n\nAlthough it is impossible to add new ships from the starbase, the grey goo fleet with the grey goo mothership will automatically replenish the lost ships every 2 months."
+ z_cm_threat_goo.41.a:0 "Set sail, set sail!"
+ z_cm_threat_goo.41.b:0 "It can't be built. The capital system must have a space base"
+ z_cm_threat_goo.5.name:0 "Capture grey goo technology"
+ z_cm_threat_goo.5.desc.a:0 "§Y[event_target:z_goo_tech_loser.GetName]§! was destroyed by us. In the ruins of their capital, we found the technology that is beyond our control. It seems to be the legacy of the great catastrophe of the grey magic storm.\n\nNew method of bombardment unlocked. The §B$bombardment_z_bomb_nanite$§!, which is good for killing population. \nCan build one §G$z_building_tempest_factory$§! one the capital planet. It will increase pop production and unlock the decision $z_decision_nanite_fleet$ to build a gray goo fleet."
+ z_cm_threat_goo.5.desc.b:0 "§Y[event_target:z_goo_tech_loser.GetName]§! has been destroy by their enermy §G[event_target:z_goo_tech_winner.GetName]§!, and §G[event_target:z_goo_tech_winner.GetName]§! seems to have found some incredible technology in the ruin of the capital planet of §Y[event_target:z_goo_tech_loser.GetName]§!. It seems to be the legacy of the great catastrophe of the grey goo tempest.\n\nWe don't know how §G[event_target:z_goo_tech_winner.GetName]§! will use powerful technologies, but one thing is certain that they have become a potential threat"
+ z_cm_threat_goo.5.desc.c:0 "§Y[event_target:z_goo_tech_loser.GetName]§! was destroyed by unknown powerful forces, and §G[event_target:z_goo_tech_lucky_man.GetName]§! seems to have found some incredible technology in the ruin of the capital planet of §Y[event_target:z_goo_tech_loser.GetName]§!. It seems to be the legacy of the great catastrophe of the grey goo tempest.\n\nWe don't know how §G[event_target:z_goo_tech_lucky_man.GetName]§!, but one thing is for sure, if we don't recycle these technologies as soon as possible, they may be lost in the galaxy of npredictable threat."
+ z_cm_threat_goo.5.a:0 "That's good."
+ z_cm_threat_goo.5.b:0 "Disturbing"
+ z_cm_threat_goo.5.c:0 "Sooner or later, we're going to get it"
+ 
+#_政策
+ policy_z_cm_orbital_bombardment: "§GCrisis Master：Special orbit bombardment policy§!"
+ policy_z_cm_orbital_bombardment_desc:0 "New technologies bring new ways of war and give us more firepower to crush the enemy's planetary defense. However, due to the special orbit bombardment method often needs professional technical support, we can only allow one special orbit bombardment mode at the same time."
+ z_orbital_bombardment_none:0 "§RDisable Advanced Orbit bombardment§!"
+ z_orbital_bombardment_none_name:0 "Disable Advanced Orbit bombardment"
+ z_orbital_bombardment_none_desc:1 "These horrible bombardment methods are only allowed to be used at critical moments.\n\n$z_orbital_bombardment_none$"
+ z_orbital_bombardment_nanite:0 "§GAllow nanoerosion Orbit Bombardment§!"
+ z_orbital_bombardment_nanite_name:0 "Allow nanoerosion Orbit Bombardment"
+ z_orbital_bombardment_nanite_desc:1 "Nano technology from the grey tempest gives us new ways of killing to crush the enemy's planetary defenses.\n\n$z_orbital_bombardment_nanite$"
+#_星球决策
+ z_decision_nanite_fleet:0 "§Build gray goo fleet§!"
+ z_decision_nanite_fleet_desc:0 "Through the in-depth study of the nano technology, we have been able to reverse this technology to a certain extent, and create a powerful fleet of grey insects driven by us."
+ z_decision_nanite_fleet_effects:0 "Immediately build a grey goo fleet at the starbase, which can automatically replenish the lost warships every month as long as the mothership exists."
+
+ z_cm_pc_goo_upkeep_1:0 "§GCrisis Master: Grey goo fleet maintenance§!"
+ z_cm_pc_goo_upkeep_1_desc:0 "Maintaining such a self regenerating fleet requires a lot of nanoresources."
+ z_cm_pc_goo_upkeep_2:0 "$z_cm_pc_goo_upkeep_1$"
+ z_cm_pc_goo_upkeep_2_desc:0 "$z_cm_pc_goo_upkeep_1_desc$"
+ z_cm_pc_goo_upkeep_3:0 "$z_cm_pc_goo_upkeep_1$"
+ z_cm_pc_goo_upkeep_3_desc:0 "$z_cm_pc_goo_upkeep_1_desc$"
+ 
+#_科技
+ z_tech_grey_goo_reverse:0 "§BGray goo technology project§!"
+ z_tech_grey_goo_reverse_desc:0 "Allow building a $z_building_tempest_factory$ on the capital planet, and you will be allowed to use $z_decision_nanite_fleet$ to create a goo fleet."
+#_建筑
+ z_building_tempest_factory:0 "Super nano factory"
+ z_building_tempest_factory_desc:0 "Reverse the products of the gray storm factory, improve the output of star positions, and produce nano insects. \n Allow using $z_decision_nanite_fleet$ to create a self-sustaining nanofleet."
+#_态度
+ z_opinion_policy_bomb:0 "Special orbit bombardment policy"
+ z_opinion_bomb_nanite:0 "Use $bombardment_z_bomb_nanite$ to clean our colony"
+#_轨道轰炸
+ bombardment_z_bomb_nanite:0 "§BNano erosion§!"
+ bombardment_z_bomb_nanite_desc:2 "$bombardment_z_bomb_nanite$ Spread the nano storm, destroy the living force on the ground. Civilians will be devastated while minimizing damage to buildings and facilities.\n-§YSerious§! damage to §YArmy§!\n-§YSlight§! damage to §YStructures§!\n-§yDevastating§! damage to §YPops§!\n-Will bombard defenseless planets\n- Can §Rwipe out§! all the population"
+#_船体
+ ship_section_template:0 "Goo Mothership"
+ gray_warship_key:0 "Goo Warship"
+ nanite_interdictor_key:0 "Goo Interdictor"
+ z_nanite_mothership_key:0 "$ship_section_template$ ADV"
+ z_nanite_mothership_battleship_key:0 "$ship_section_template$ Supreme"
+ z_nanite_warship_battleship_key:0 "$gray_warship_key$ Heavy"
+ z_nanite_warship_key:0 "$gray_warship_key$ ADV"
+ z_nanite_interdictor_torpedo_key:0 "$nanite_interdictor_key$ Torpedo"
+ z_nanite_interdictor_artillery_key:0 "$nanite_interdictor_key$ Heavy Gun"
+ z_nanite_interdictor_combat_key:0 "$nanite_interdictor_key$ Battle"
+#_配件
+ INTERDICTOR_NANITE_REACTOR:0 "Nanoreactor"
+ INTERDICTOR_NANITE_REACTOR_DESC:0 "This energy source provides energy through swarm of nanoworms, giving the spacecraft unparalleled power."
+ GREYGOO_MOTHERSHIP_NANITE_REACTOR:0 "$INTERDICTOR_NANITE_REACTOR$"
+ GREYGOO_MOTHERSHIP_NANITE_REACTOR_DESC:0 "$INTERDICTOR_NANITE_REACTOR_DESC$"
+ COMBAT_NANITE_COMPUTER_PICKET:0 "Nano combat computer (Picket)"
+ COMBAT_NANITE_COMPUTER_PICKET_DESC:0 "$PICKET_BEHAVIOR_DESC$"
+ COMBAT_NANITE_COMPUTER_LINE:0 "Nano combat computer (Line)"
+ COMBAT_NANITE_COMPUTER_LINE_DESC:0 "$LINE_BEHAVIOR_DESC$"
+ COMBAT_NANITE_COMPUTER_ARTILLERY:0 "Nano combat computer (Artillery)"
+ COMBAT_NANITE_COMPUTER_ARTILLERY_DESC:0 "$ARTILLERY_BEHAVIOR_DESC$"
+ INTERDICTOR_SHIP_THRUSTER_4:0 "Standard nanopropulsor"
+ INTERDICTOR_SHIP_THRUSTER_4_DESC:0 "This powerful engine beyond our understanding provides unparalleled maneuverability and sub light speed for the spacecraft."
+ GREYGOO_MOTHERSHIP_SHIP_THRUSTER_4:0 "$INTERDICTOR_SHIP_THRUSTER_4$"
+ GREYGOO_MOTHERSHIP_SHIP_THRUSTER_4_DESC:0 "$INTERDICTOR_SHIP_THRUSTER_4_DESC$"
+ INTERDICTOR_SHIP_THRUSTER_5:0 "Dark Matter nanopropulsor"
+ INTERDICTOR_SHIP_THRUSTER_5_DESC:0 "The dark matter enhanced nano engine provides unparalleled maneuverability and sub light speed for the spacecraft."
+ GREYGOO_MOTHERSHIP_SHIP_THRUSTER_5:0 "$INTERDICTOR_SHIP_THRUSTER_5$"
+ GREYGOO_MOTHERSHIP_SHIP_THRUSTER_5_DESC:0 "$INTERDICTOR_SHIP_THRUSTER_5_DESC$"

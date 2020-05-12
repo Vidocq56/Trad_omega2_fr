@@ -1,0 +1,113 @@
+﻿l_english:
+
+ ################
+ #####CIVICS#####
+ ################
+ origin_hive_infestor:0 "Infector swarm"
+ origin_hive_infestor_effects:0 "Homeworld is a §Y$pc_hive$§! (Size: £planetsize£ §Y20§!)\nConsciousness of this swarm has strong connection with biomass that cover its homeworld therefore, drones produce and consume resources on §G10%§! more effectively on §Y$pc_hive$§!, but they are almost not capable on any other worlds. Allows §YInfect§! planets with special decision to gathering more resources from them."
+ origin_hive_infestor_desc:0 "From the very beginning, this swarm spread its own biomass on the planet, which supported its existence and helped in its development. In the end, the symbiosis of biomass and swarm led to the fact that the mind of the swarm merged with the biomass and is no longer able to exist outside of its distribution area."
+ START_SCREEN_INFEST:0 "From the very beginning, our consciousness has been in a symbiotic relationship with the biomass. We fed it, allowing it to grow on the surface of the entire planet. After absorbing the entire ecosystem of the planet, we turned our attention to the stars. By opening the first hyperdrive, we were able to spread the biomass to other planets. We will continue its growth and our development throughout the galaxy."
+ 
+ pc_bio_organ:0 "Space organoid"
+ pc_bio_organ_desc:0 "A huge organic mass has covered this planet and is pulling resources out of it."
+ 
+ pc_bio_organ_broken:0 "Space organoid"
+ pc_bio_organ_broken_desc:0 "A huge organic mass has covered this planet and is pulling resources out of it."
+ 
+ ##############
+ #DECISIONS####
+ ##############
+ decision_gas_gaser:0 "Infection by the gatherer: $pc_gas_giant$"
+ decision_gas_gaser_effects:0 "Infected §Y$pc_gas_giant$§! produces £energy£ §Y$energy$§!, large-sized planets also produce £exotic_gases£ §Y$exotic_gases$§!."
+ decision_gas_gaser_desc:0 "-"
+ 
+ decision_molt_gaser:0 "Infection by the gatherer: $pc_molten$"
+ decision_molt_gaser_effects:0 "Infected §Y$pc_molten$§! produces £alloys£ §Y$alloys$§!, large-sized planets also produce £volatile_motes£ §Y$volatile_motes$§!." 
+ decision_molt_gaser_desc:0 "-"
+ 
+ decision_barren_gaser:0 "Infection by the gatherer: $pc_barren$"
+ decision_barren_gaser_effects:0 "Infected §Y$pc_barren$§! produces £minerals£ §Y$minerals$§!, large-sized planets also produce £rare_crystals£ §Y$rare_crystals$§!."
+ decision_barren_gaser_desc:0 "-"
+ 
+ decision_broken_gaser:0 "Infection by the gatherer: $pc_broken$"
+ decision_broken_gaser_effects:0 "Infected §Y$pc_broken$§! produces large amount of £minerals£ §Y$minerals$§! and £alloys£ §Y$alloys$§! and £exotic_gases£ §Y$exotic_gases$§!, £volatile_motes£ §Y$volatile_motes$§!, £rare_crystals£ §Y$rare_crystals$§!."
+ decision_broken_gaser_desc:0 "-"
+ 
+ ##########################
+ ##############brains######
+ ##########################
+ 
+ decision_egg_gaser:0 "Infection by the cerebral cortex: $pc_egg_cracked$"
+ decision_egg_gaser_effects:0 "Cerebral cortex on §Y$pc_egg_cracked$§! produces large amount of £society_research£ §Y$society_research$§!."
+ decision_egg_gaser_desc:0 "-"
+ 
+ decision_tox_brain:0 "Infection by the cerebral cortex: $pc_toxic$"
+ decision_tox_brain_effects:0 "Cerebral cortex on §Y$pc_toxic$§! produces £society_research£ §Y$society_research$§!"
+ decision_tox_brain_desc:0 "-"
+ 
+ decision_gas_brain:0 "Infection by the cerebral cortex: $pc_gas_giant$"
+ decision_gas_brain_effects:0 "Cerebral cortex on §Y$pc_gas_giant$§! produces £physics_research£ §Y$physics_research$§!"
+ decision_gas_brain_desc:0 "-"
+ 
+ decision_molt_brain:0 "Infection by the cerebral cortex: $pc_molten$"
+ decision_molt_brain_effects:0 "Cerebral cortex on §Y$pc_molten$§! produces £physics_research£ §Y$physics_research$§! и £engineering_research£ §Y$engineering_research$§!."
+ decision_molt_brain_desc:0 "-"
+ 
+ decision_barren_brain:0 "Infection by the cerebral cortex: $pc_barren$"
+ decision_barren_brain_effects:0 "Cerebral cortex on §Y$pc_barren$§! produces £engineering_research£ §Y$engineering_research$§!"
+ decision_barren_brain_desc:0 "-"
+ 
+ 
+ 
+ ##################
+ ######TRAITS######
+ ##################
+ 
+ trait_infestor_drone_1:0 "Dependence on biomass"
+ trait_infestor_drone_1_desc:0 "Consciousness of this hive has strong connection with biomass and in its distribution area its drones show maximum efficiency."
+ 
+ trait_infestor_drone_2:0 "Dependence on biomass"
+ trait_infestor_drone_2_desc:0 "Out of biomasses distribution area, drones lost connection with consciousness and gone out of control."
+ 
+ ######################
+ ######AP SPECIAL######
+ ######################
+ ap_infested_worlds:0 "Autonomus organoids"
+ 
+ ap_infested_worlds_desc:0 "Increasing  control over iomass, we can give it form and autonomy."
+ 
+ allow_grow_infested_organoids:0 "Allows §YGrowing§! special megastructures: §Yfleeter§!, §YTerritorial controller§! and §YBioform§! above habitable planets.\n§RMAXIMUM OF 3 ORGANOIDS§!"
+ 
+ describe_ap_infested_worlds:0 "Significantly lowering the habitability of all planets, except §Y$pc_hive$§!.\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! §G+65%§!"
+ 
+ 
+ 
+ ap_better_organism:0 "Growing organical mass"
+ 
+ ap_better_organism_desc:0 "As we grow, our biomass begins to take more complex and voluminous forms, although it becomes more difficult for us to exist outside of its reach,but we are able to spread it even more."
+ 
+ allow_apgrade_infested_worlds:0 "Allows upgrade of §Yfleeter§!, §YTerritorial controller§! and §YBioform§!.\n§YIncreases the maximum amount of organoids to 5§!."
+ 
+ describe_edict_infested_worlds:0 "§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§! §G-50%§!"
+ 
+ 
+ bioform_biosupplyment:0 "Bioform"
+ bioform_biosupplyment_DESC:0 "Autonomous space organoid that helps the Consciousness monitor the state of drones and is able to regulate their internal processes."
+ bioform_biosupplyment_MEGASTRUCTURE_DETAILS:0 "§Y$bioform_biosupplyment$§! helps the Consciousness monitor the state of drones and regulating their internal processes."
+ 
+ bioform_biosupplyment_up:0 "Growed Bioform"
+ bioform_biosupplyment_up_DESC:0 "Massive organoid, monitoring the state of drones."
+ 
+ bioform_fleeter:0 "Fleeter"
+ bioform_fleeter_DESC:0 "Autonomous space organoid that helps the Consciousness controll and upkeep fleet."
+ bioform_fleeter_MEGASTRUCTURE_DETAILS:0 "§Y$bioform_fleeter$§! helps the Consciousness controll and upkeep fleet."
+ 
+ bioform_fleeter_up:0 "Growed Fleeter"
+ bioform_fleeter_up_DESC:0 "Massive organoid, responsible for fleet logistics."
+ 
+ bioform_controller:0 "Territorial controller"
+ bioform_controller_DESC:0 "Autonomous space organoid that helps the Consciousness controll the behavior of the drones and the territory in outer space."
+ bioform_controller_MEGASTRUCTURE_DETAILS:0 "§Y$bioform_controller$§! helps the Consciousness controll the behavior of the drones and the territory in outer space."
+ 
+ bioform_controller_up:0 "Growed Territorial controller"
+ bioform_controller_up_DESC:0 "Massive organoid, controlling internal space and the behavior of the drones."

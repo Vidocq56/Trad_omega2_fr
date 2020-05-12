@@ -1,0 +1,159 @@
+﻿l_english:
+
+ #####################
+ # add infrastructure
+ #####################
+  gpm_add_moon_mining_infrastructure:0 "Planetary Feature: §H$gpm_d_moon_mining_infrastructure$§!"
+  gpm_add_asteroid_mining_infrastructure:0 "Planetary Feature: §H$gpm_d_asteroid_mining_infrastructure$§!"
+  gpm_add_orbital_research_infrastructure:0 "Planetary Feature: §H$gpm_d_orbital_research_infrastructure$§!"
+  gpm_add_archeology_infrastructure:0 "Planetary Feature: §H$gpm_d_archeology_infrastructure$§!"
+  gpm_add_archeology_precursor_infrastructure:0 "Planetary Feature: §H$gpm_d_archeology_precursor_infrastructure$§!"
+  gpm_add_time_research_infrastructure:0 "Planetary Feature: §H$gpm_d_time_research_infrastructure$§!"
+  gpm_add_alloy_mining_infrastructure:0 "Planetary Feature: §H$gpm_d_alloy_mining_infrastructure$§!"
+  gpm_add_mineral_mining_infrastructure:0 "Planetary Feature: §H$gpm_d_mineral_mining_infrastructure$§!"
+  gpm_add_particle_collecting_infrastructure:0 "Planetary Feature: §H$gpm_d_particle_collecting_infrastructure$§!"
+  gpm_add_spice_collecting_infrastructure:0 "Planetary Feature: §H$gpm_d_spice_collecting_infrastructure$§!"
+  gpm_add_alien_egg_infrastructure:0 "Planetary Feature: §H$gpm_d_alien_egg_infrastructure$§!"
+
+ #####################
+ # pop jobs categories
+ #####################
+
+  pop_cat_gpm_spacer:0 "Orbital Extractor"
+  pop_cat_gpm_spacer_plural:0 "Orbital Extractors"
+  pop_cat_gpm_spacer_desc:0 "These are basic workers used for the extraction of materials from space."
+
+  pop_cat_gpm_spacer_specialist:0 "Orbital Specialist"
+  pop_cat_gpm_spacer_specialist_plural:0 "Orbital Specialist"
+  pop_cat_gpm_spacer_specialist_desc:0 "These are the workers that specialise in orbital extraction of information and materials."
+ #####################
+ # pop jobs
+ #####################
+ 
+ job_gpm_bunker_drone:0 "Precursor Bunker Swarm"
+ job_gpm_bunker_drone_plural:0 "Precursor Bunker Swarms"
+ job_gpm_bunker_drone_desc:0 "The complexity of the bunker grid on this world is amazing. Clearly designed by an advanced AI. It seems every bunker is a self-maintaining system, one which we can use to our advantage. Virtually impenetrable walls mean it'll take our enemies months to get through. With enough of these bunkers we might just be able to hold off hostile forces indefinitely. By introducing self-sufficient sentinel drone swarms we can ensure every bunker in the grid can eliminate any potential intruder."
+ job_gpm_bunker_drone_effect_desc:0 "£job_gpm_bunker_drone£ $job_gpm_bunker_drone_plural$ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! and spawn £job_gpm_bunker_drone£ §YDefense Armies§!"
+ 
+ job_gpm_bunker_army:0 "Precursor Bunker Unit"
+ job_gpm_bunker_army_plural:0 "Precursor Bunker Units"
+ job_gpm_bunker_army_desc:0 "The complexity of the bunker grid on this world is amazing. Clearly designed by an advanced AI. It seems every bunker is a self-maintaining system, one which we can use to our advantage. Virtually impenetrable walls mean it'll take our enemies months to get through. With enough of these bunkers we might just be able to hold off hostile forces indefinitely."
+ job_gpm_bunker_army_effect_desc:0 "£job_gpm_bunker_army£ $job_gpm_bunker_army_plural$ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! and spawn £job_gpm_bunker_army£ §YDefense Armies§!"
+
+ job_gpm_moon_miner:0 "Moon Miner"
+ job_gpm_moon_miner_plural:0 "Moon Miners"
+ job_gpm_moon_miner_desc:0 "It is hard work but the extraction of materials from moon mining can be quite lucrative."
+ job_gpm_moon_miner_effect_desc:0 "£job_gpm_moon_miner£ $job_gpm_moon_miner_plural$ produce £minerals£ §Y$minerals$§! but costing some £consumer_goods£ §Y$consumer_goods$§!"
+ 
+ job_gpm_moon_miner_drone:0 "Moon Extractor"
+ job_gpm_moon_miner_drone_plural:0 "Moon Extractors"
+ job_gpm_moon_miner_drone_desc:0 "$job_gpm_moon_miner_desc$"
+ job_gpm_moon_miner_drone_effect_desc:0 "£job_gpm_moon_miner_drone£ $job_gpm_moon_miner_drone_plural$ produce £minerals£ §Y$minerals$§! but costing some £energy£ §Y$energy$§!"
+
+ job_gpm_asteroid_miner:0 "Asteroid Miner"
+ job_gpm_asteroid_miner_plural:0 "Asteroid Miners"
+ job_gpm_asteroid_miner_desc:0 "One of the most dangerous jobs is that of extracting materials from captured asteroids. One wrong move and you get crushed."
+ job_gpm_asteroid_miner_effect_desc:0 "£job_gpm_asteroid_miner£ $job_gpm_asteroid_miner_plural$ produce £minerals£ §Y$minerals$§! but costing some £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_asteroid_miner_drone:0 "Asteroid Extractor"
+ job_gpm_asteroid_miner_drone_plural:0 "Asteroid Extractors"
+ job_gpm_asteroid_miner_drone_desc:0 "$job_gpm_asteroid_miner_desc$"
+ job_gpm_asteroid_miner_drone_effect_desc:0 "£job_gpm_asteroid_miner_drone£ $job_gpm_asteroid_miner_drone_plural$ produce £minerals£ §Y$minerals$§! but costing some £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_researcher:0 "Orbital Researcher"
+ job_gpm_orbital_researcher_plural:0 "Orbital Researchers"
+ job_gpm_orbital_researcher_desc:0 "Scientific expeditions have always been the backbone to discovery."
+ job_gpm_orbital_researcher_effect_desc:0 "£job_gpm_orbital_researcher£ $job_gpm_orbital_researcher_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £physics£ £society£ £engineering£ §YResearch Points§! for new technologies."
+
+ job_gpm_orbital_researcher_drone:0 "Orbital Calculator"
+ job_gpm_orbital_researcher_drone_plural:0 "Orbital Calculators"
+ job_gpm_orbital_researcher_drone_desc:0 "$job_gpm_orbital_researcher_desc$"
+ job_gpm_orbital_researcher_drone_effect_desc:0 "£job_gpm_orbital_researcher_drone£ $job_gpm_orbital_researcher_drone_plural$ turn £energy£ §Y$energy$§! into £physics£ £society£ £engineering£ §YResearch Points§! for new technologies."
+
+ job_gpm_archaeologist:0 "Archaeologist"
+ job_gpm_archaeologist_plural:0 "Archaeologists"
+ job_gpm_archaeologist_desc:0 "Outfitted with a hat, whip and a can-do attitude, these archaeologists leave no stone unturned."
+ job_gpm_archaeologist_effect_desc:0 "£job_gpm_archaeologist£ $job_gpm_archaeologist_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £physics£ £society£ £engineering£ §YResearch Points§!."
+
+ job_gpm_archaeologist_drone:0 "Archaeologist Drone"
+ job_gpm_archaeologist_drone_plural:0 "Archaeologist Drones"
+ job_gpm_archaeologist_drone_desc:0 "$job_gpm_archaeologist_desc$"
+ job_gpm_archaeologist_drone_effect_desc:0 "£job_gpm_archaeologist_drone£ $job_gpm_archaeologist_drone_plural$ turn £energy£ §Y$energy$§! into £physics£ £society£ £engineering£ §YResearch Points§!."
+
+ job_gpm_precursor_archaeologist:0 "Precursor Archaeologist"
+ job_gpm_precursor_archaeologist_plural:0 "Precursor Archaeologists"
+ job_gpm_precursor_archaeologist_desc:0 "Archaeologists specialised in the study of ancient civilisations."
+ job_gpm_precursor_archaeologist_effect_desc:0 "£job_gpm_precursor_archaeologist£ $job_gpm_precursor_archaeologist_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £physics£ £society£ £engineering£ §YResearch Points§! and £minor_artifacts£ §YMinor Artifacts§!"
+
+ job_gpm_precursor_archaeologist_drone:0 "Precursor Archaeologist Drone"
+ job_gpm_precursor_archaeologist_drone_plural:0 "Precursor Archaeologist Drones"
+ job_gpm_precursor_archaeologist_drone_desc:0 "$job_gpm_precursor_archaeologist_desc$"
+ job_gpm_precursor_archaeologist_drone_effect_desc:0 "£job_gpm_precursor_archaeologist_drone£ $job_gpm_precursor_archaeologist_drone_plural$ turn £energy£ §Y$energy$§! into £physics£ £society£ £engineering£ §YResearch Points§! and £minor_artifacts£ §YMinor Artifacts§!"
+
+ job_gpm_orbital_alloy_miner:0 "Orbital Alloy Miner"
+ job_gpm_orbital_alloy_miner_plural:0 "Orbital Alloy Miners"
+ job_gpm_orbital_alloy_miner_desc:0 "Experienced industrial miners who specialise in extracting valuable alloys from the most dangerous surfaces."
+ job_gpm_orbital_alloy_miner_effect_desc:0 "£job_gpm_orbital_alloy_miner£ $job_gpm_orbital_alloy_miner_plural$ produce £alloy£ §Y$alloys$§! but costing some £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_orbital_alloy_miner_drone:0 "Orbital Alloy Extractor"
+ job_gpm_orbital_alloy_miner_drone_plural:0 "Orbital Alloy Extractors"
+ job_gpm_orbital_alloy_miner_drone_desc:0 "$job_gpm_orbital_alloy_miner_desc$"
+ job_gpm_orbital_alloy_miner_drone_effect_desc:0 "£job_gpm_orbital_alloy_miner_drone£ $job_gpm_orbital_alloy_miner_drone_plural$ produce £alloy£ §Y$alloys$§! but costing some £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_mineral_miner:0 "Orbital Miner"
+ job_gpm_orbital_mineral_miner_plural:0 "Orbital Miners"
+ job_gpm_orbital_mineral_miner_desc:0 "Cheap industrial miners who specialise in mining common minerals from planetary surfaces."
+ job_gpm_orbital_mineral_miner_effect_desc:0 "£job_gpm_orbital_mineral_miner£ $job_gpm_orbital_mineral_miner_plural$ produce £minerals£ §Y$minerals$§! but costing some £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_orbital_mineral_miner_drone:0 "Orbital Extractor"
+ job_gpm_orbital_mineral_miner_drone_plural:0 "Orbital Extractors"
+ job_gpm_orbital_mineral_miner_drone_desc:0 "$job_gpm_orbital_mineral_miner_desc$"
+ job_gpm_orbital_mineral_miner_drone_effect_desc:0 "£job_gpm_orbital_mineral_miner_drone£ $job_gpm_orbital_mineral_miner_drone_plural$ produce £minerals£ §Y$minerals$§! but costing some £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_particle_collector:0 "Orbital Particle Collector"
+ job_gpm_orbital_particle_collector_plural:0 "Orbital Particle Collectors"
+ job_gpm_orbital_particle_collector_desc:0 "Specialised particle harvesters are the backbone of this workforce and are so strong they can withstand extreme environments."
+ job_gpm_orbital_particle_collector_effect_desc:0 "£job_gpm_orbital_particle_collector£ $job_gpm_orbital_particle_collector_plural$ produce £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_particle_collector_drone:0 "Orbital Particle Extractor"
+ job_gpm_orbital_particle_collector_drone_plural:0 "Orbital Particle Extractors"
+ job_gpm_orbital_particle_collector_drone_desc:0 "$job_gpm_orbital_particle_collector_desc$"
+ job_gpm_orbital_particle_collector_drone_effect_desc:0 "£job_gpm_orbital_particle_collector_drone£ $job_gpm_orbital_particle_collector_drone_plural$ produce £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_spicer:0 "Orbital Spice Collector"
+ job_gpm_orbital_spicer_plural:0 "Orbital Spice Collectors"
+ job_gpm_orbital_spicer_desc:0 "Spice is the lifeblood of the galaxy, extracting it is all that matters."
+ job_gpm_orbital_spicer_effect_desc:0 "£job_gpm_orbital_spicer£ $job_gpm_orbital_spicer_plural$ produce £energy£ §Y$energy$§!"
+ 
+ job_gpm_orbital_spicer_drone:0 "Orbital Spice Extractor"
+ job_gpm_orbital_spicer_drone_plural:0 "Orbital Spice Extractors"
+ job_gpm_orbital_spicer_drone_desc:0 "$job_gpm_orbital_spicer_desc$"
+ job_gpm_orbital_spicer_drone_effect_desc:0 "£job_gpm_orbital_spicer_drone£ $job_gpm_orbital_spicer_drone_plural$ produce £energy£ §Y$energy$§!"
+
+ job_gpm_android_entertainer:0 "'Entertainment' Visitor"
+ job_gpm_android_entertainer_plural:0 "'Entertainment' Visitors"
+ job_gpm_android_entertainer_desc:0 "The spirit is willing but the body parts are weak."
+ job_gpm_android_entertainer_effect_desc:0 "£job_gpm_android_entertainer£ $job_gpm_android_entertainer_plural$ produce £amenities£ §Y$AMENITIES$§! £trade_value£ §Y$trade_value$§! £unity£ §Y$unity$§!"
+
+ mod_job_gpm_bunker_drone_add:0 "$job_gpm_bunker_drone$ Jobs"
+ mod_job_gpm_bunker_army_add:0 "$job_gpm_bunker_army$ Jobs"
+ mod_job_gpm_moon_miner_add:0 "$job_gpm_moon_miner$ Jobs"
+ mod_job_gpm_moon_miner_drone_add:0 "$job_gpm_moon_miner_drone$ Jobs"
+ mod_job_gpm_asteroid_miner_add:0 "$job_gpm_asteroid_miner$ Jobs"
+ mod_job_gpm_asteroid_miner_drone_add:0 "$job_gpm_asteroid_miner_drone$ Jobs"
+ mod_job_gpm_orbital_researcher_add:0 "$job_gpm_orbital_researcher$ Jobs"
+ mod_job_gpm_orbital_researcher_drone_add:0 "$job_gpm_orbital_researcher_drone$ Jobs"
+ mod_job_gpm_archaeologist_add:0 "$job_gpm_archaeologist$ Jobs"
+ mod_job_gpm_archaeologist_drone_add:0 "$job_gpm_archaeologist_drone$ Jobs"
+ mod_job_gpm_precursor_archaeologist_add:0 "$job_gpm_precursor_archaeologist$ Jobs"
+ mod_job_gpm_precursor_archaeologist_drone_add:0 "$job_gpm_precursor_archaeologist_drone$ Jobs"
+ mod_job_gpm_orbital_alloy_miner_add:0 "$job_gpm_orbital_alloy_miner$ Jobs"
+ mod_job_gpm_orbital_alloy_miner_drone_add:0 "$job_gpm_orbital_alloy_miner_drone$ Jobs"
+ mod_job_gpm_orbital_mineral_miner_add:0 "$job_gpm_orbital_mineral_miner$ Jobs"
+ mod_job_gpm_orbital_mineral_miner_drone_add:0 "$job_gpm_orbital_mineral_miner_drone$ Jobs"
+ mod_job_gpm_orbital_particle_collector_add:0 "$job_gpm_orbital_particle_collector$ Jobs"
+ mod_job_gpm_orbital_particle_collector_drone_add:0 "$job_gpm_orbital_particle_collector_drone$ Jobs"
+ mod_job_gpm_orbital_spicer_add:0 "$job_gpm_orbital_spicer$ Jobs"
+ mod_job_gpm_orbital_spicer_drone_add:0 "$job_gpm_orbital_spicer_drone$ Jobs"
+ mod_job_gpm_android_entertainer_add:0 "$job_gpm_android_entertainer$ Jobs"
+

@@ -1,0 +1,261 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+esc_option.exit: "Leave Menu"
+esc_option.back: "Go Back"
+esc_no_hide_disabled_components: "\n\n§HNOTE§!: Already researched components will remain available even if their technologies have been disabled."
+esc_no_disable_buildings: "\n\n§HNOTE§!: Already constructed buildings will not be disabled or demolished."
+esc_other_cat_dependants: "\n\n§RWARNING§!: Some tehcnologies from different categories have these technologies as prerequisites and will become §Runavailable§! for research."
+
+########################################
+###        Options Menu : MAIN       ###
+########################################
+
+esc_options_title: "Extra Ship Components 3.0 Customization Menu"
+esc_options_title_desc: "This menu allows configuration of content offered by the \"§YExtra Ship Components 3.0§!\" mod."
+
+esc_options.1.weapons: "Configure Weapon Components"
+esc_options.1.weapons.tooltip: "Go to weapon components' customization menu."
+
+esc_options.1.utilities: "Configure Utility Components"
+esc_options.1.utilities.tooltip: "Go to utility components' customization menu."
+
+esc_options.1.special: "Configure Leviathan Technologies"
+esc_options.1.special.tooltip: "Go to leviathan technologies' customization menu."
+
+esc_options.1.buildings: "Configure Buildings"
+esc_options.1.buildings.tooltip: "Go to buildings' customization menu."
+
+esc_option.1.ai_boost.a: "AI research boost is §Genabled§!"
+esc_option.1.ai_boost.a.tooltip: "AI is granted §G50§!% research speed boost during the mid-game and §G100§!% research speed boost during the endgame. Click to §Rdisable§! AI research boost."
+esc_option.1.ai_boost.b: "AI research boost is §Rdisabled§!"
+esc_option.1.ai_boost.b.tooltip: "Click to §Genable§! AI research boost. AI will be given §G50§!% research speed boost during the mid-game and §G100§!% research speed boost during the endgame."
+
+esc_option.1.crisis.a: "Triggered Unbidden invasion is §Genabled§!"
+esc_option.1.crisis.a.tooltip: "Click to §Rdisable§! Unbidden invasion triggered by researching \"§YExtra Ship Components 3.0§!\" dangerous techs."
+esc_option.1.crisis.b: "Triggered Unbidden invasion is §Rdisabled§!"
+esc_option.1.crisis.b.tooltip: "Click to §Genable§! Unbidden invasion triggered by researching \"§YExtra Ship Components 3.0§!\" dangerous techs. This crisis will not block Contingency or Scourge and is not blocked by them."
+
+esc_option.1.repeated_unbidden.b: "Repeated Unbidden Invasions are §Rdisabled§!"
+esc_option.1.repeated_unbidden.b.tooltip: "Click to §Genable§! repeated Unbidden invasions."
+esc_option.1.repeated_unbidden.a: "Repeated Unbidden Invasions are §Genabled§!"
+esc_option.1.repeated_unbidden.a.tooltip: "Click to §Rdisable§! repeated Unbidden invasions."
+
+########################################
+###      Options Menu : WEAPONS      ###
+########################################
+
+esc_options_weapons_title: "$esc_options_title$"
+esc_options_weapons_title_desc: "This menu allows configuraiton of weapons, added by \"§YExtra Ship Components 3.0§!\". Please note that weapons obtainable from leviathans are configurable through Special technologies menu."
+
+esc_option.2.vanilla.a: "Vanilla weapons' upgrades are §Genabled§!"
+esc_option.2.vanilla.a.tooltip: "Click to §Rdisable§! research of upgraded vanilla weapons. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.2.vanilla.b: "Vanilla weapons' upgrades are §Rdisabled§!"
+esc_option.2.vanilla.b.tooltip: "Click to §Genable§! research of upgraded vanilla weapons."
+
+esc_option.2.crystal.a: "Crystalline weapons are §Genabled§!"
+esc_option.2.crystal.a.tooltip: "Click to §Rdisable§! research of crystalline weapons. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.crystal.b: "Crystalline weapons are §Rdisabled§!"
+esc_option.2.crystal.b.tooltip: "Click to §Genable§! research of crystalline weapons."
+
+esc_option.2.gravity.a: "Gravitic weapons are §Genabled§!"
+esc_option.2.gravity.a.tooltip: "Click to §Rdisable§! research of gravitic weapons. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.gravity.b: "Gravitic weapons are §Rdisabled§!"
+esc_option.2.gravity.b.tooltip: "Click to §Genable§! research of gravitic weapons."
+
+esc_option.2.nanite.a: "Nanite components are §Genabled§!"
+esc_option.2.nanite.a.tooltip: "Click to §Rdisable§! research of nanite components. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$ $esc_other_cat_dependants$"
+esc_option.2.nanite.b: "Nanite components are §Rdisabled§!"
+esc_option.2.nanite.b.tooltip: "Click to §Genable§! research of nanite components."
+
+esc_option.2.psionic.a: "Psionic components are §Genabled§!"
+esc_option.2.psionic.a.tooltip: "Click to §Rdisable§! research of psionic components. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$ $esc_other_cat_dependants$"
+esc_option.2.psionic.b: "Psionic components are §Rdisabled§!"
+esc_option.2.psionic.b.tooltip: "Click to §Genable§! research of psionic components."
+
+esc_option.2.plasmamissile.a: "Plasma missiles are §Genabled§!"
+esc_option.2.plasmamissile.a.tooltip: "Click to §Rdisable§! research of plasma missiles. $esc_no_hide_disabled_components$"
+esc_option.2.plasmamissile.b: "Plasma missiles weapons are §Rdisabled§!"
+esc_option.2.plasmamissile.b.tooltip: "Click to §Genable§! research of plasma missiles."
+
+esc_option.2.xmissiles.a: "Extra-large missiles are §Genabled§!"
+esc_option.2.xmissiles.a.tooltip: "Click to §Rdisable§! research of extra-large missiles. $esc_no_hide_disabled_components$"
+esc_option.2.xmissiles.b: "Extra-large missiles weapons are §Rdisabled§!"
+esc_option.2.xmissiles.b.tooltip: "Click to §Genable§! research of extra-large missiles."
+
+esc_option.2.xautocannons.a: "Extra-large autocannons are §Genabled§!"
+esc_option.2.xautocannons.a.tooltip: "Click to §Rdisable§! research of extra-large autocannons. $esc_no_hide_disabled_components$"
+esc_option.2.xautocannons.b: "Extra-large autocannons weapons are §Rdisabled§!"
+esc_option.2.xautocannons.b.tooltip: "Click to §Genable§! research of extra-large autocannons."
+
+esc_option.2.juggernaut.a: "Juggernaut weapons are §Genabled§!"
+esc_option.2.juggernaut.a.tooltip: "Click to §Rdisable§! research of Juggernaut weapons. $esc_no_hide_disabled_components$"
+esc_option.2.juggernaut.b: "Juggernaut weapons weapons are §Rdisabled§!"
+esc_option.2.juggernaut.b.tooltip: "Click to §Genable§! research of Juggernaut weapons."
+
+esc_option.2.wavemotion.a: "Wave-Motion Guns are §Genabled§!"
+esc_option.2.wavemotion.a.tooltip: "Click to §Rdisable§! research of Wave-Motion Guns. $esc_no_hide_disabled_components$"
+esc_option.2.wavemotion.b: "Wave-Motion Guns weapons are §Rdisabled§!"
+esc_option.2.wavemotion.b.tooltip: "Click to §Genable§! research of Wave-Motion Guns."
+
+esc_option.2.chrono.a: "Chrono-spatial components are §Genabled§!"
+esc_option.2.chrono.a.tooltip: "Click to §Rdisable§! research of chrono-spatial components. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.chrono.b: "Chrono-spatial components are §Rdisabled§!"
+esc_option.2.chrono.b.tooltip: "Click to §Genable§! research of chrono-spatial components."
+
+esc_option.2.crafts.a: "Advanced strikecrafts are §Genabled§!"
+esc_option.2.crafts.a.tooltip: "Click to §Rdisable§! research of advanced strikecrafts. $esc_no_hide_disabled_components$"
+esc_option.2.crafts.b: "Advanced strikecrafts are §Rdisabled§!"
+esc_option.2.crafts.b.tooltip: "Click to §Genable§! research of advanced strikecrafts."
+
+esc_option.2.crisis.a: "Improved crises weapons are §Genabled§!"
+esc_option.2.crisis.a.tooltip: "Click to §Rdisable§! research of improved crises weapons. $esc_no_hide_disabled_components$"
+esc_option.2.crisis.b: "Improved crises weapons are §Rdisabled§!"
+esc_option.2.crisis.b.tooltip: "Click to §Genable§! research of improved crises weapons."
+
+########################################
+###      Options Menu : UTILITIES    ###
+########################################
+
+esc_options_utilities_title: "$esc_options_title$"
+esc_options_utilities_title_desc: "This menu allows configuraiton of utility components, added by \"§YExtra Ship Components 3.0§!\". Please note that utility components obtained from leviathans are configurable through Special technologies menu."
+
+esc_option.3.armor.a: "Armor components are §Genabled§!"
+esc_option.3.armor.a.tooltip: "Click to §Rdisable§! research of armor components. $esc_no_hide_disabled_components$"
+esc_option.3.armor.b: "Armor components are §Rdisabled§!"
+esc_option.3.armor.b.tooltip: "Click to §Genable§! research of armor components."
+
+esc_option.3.shield.a: "Shield components are §Genabled§!"
+esc_option.3.shield.a.tooltip: "Click to §Rdisable§! research of shield components. $esc_no_hide_disabled_components$"
+esc_option.3.shield.b: "Shield components are §Rdisabled§!"
+esc_option.3.shield.b.tooltip: "Click to §Genable§! research of shield components."
+
+esc_option.3.reactor.a: "Reactor components are §Genabled§!"
+esc_option.3.reactor.a.tooltip: "Click to §Rdisable§! research of advanced reactors. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.reactor.b: "Reactor components are §Rdisabled§!"
+esc_option.3.reactor.b.tooltip: "Click to §Genable§! research of advanced reactors."
+
+esc_option.3.sensor.a: "Sensor components are §Genabled§!"
+esc_option.3.sensor.a.tooltip: "Click to §Rdisable§! research of sensor components. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.sensor.b: "Sensor components are §Rdisabled§!"
+esc_option.3.sensor.b.tooltip: "Click to §Genable§! research of sensor components."
+
+esc_option.3.thrusters.a: "Thruster components are §Genabled§!"
+esc_option.3.thrusters.a.tooltip: "Click to §Rdisable§! research of advanced thrusters. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.thrusters.b: "Thruster components are §Rdisabled§!"
+esc_option.3.thrusters.b.tooltip: "Click to §Genable§! research of advanced thrusters."
+
+esc_option.3.ftl.a: "Advanced jump-drives are §Genabled§!"
+esc_option.3.ftl.a.tooltip: "Click to §Rdisable§! research of advanced jump-drives. $esc_no_hide_disabled_components$"
+esc_option.3.ftl.b: "Advanced jump-drives are §Rdisabled§!"
+esc_option.3.ftl.b.tooltip: "Click to §Genable§! research of advanced jump-drives."
+
+esc_option.3.aux.a: "Auxiliary components are §Genabled§!"
+esc_option.3.aux.a.tooltip: "Click to §Rdisable§! research of auxiliary components. $esc_no_hide_disabled_components$"
+esc_option.3.aux.b: "Auxiliary components are §Rdisabled§!"
+esc_option.3.aux.b.tooltip: "Click to §Genable§! research of auxiliary components."
+
+########################################
+###      Options Menu : SPECIAL      ###
+########################################
+
+esc_options_special_title: "$esc_options_title$"
+esc_options_special_title_desc: "This menu allows configuraiton of components and buildings added by \"§YExtra Ship Components 3.0§!\", that can be obtained from leviathans."
+
+esc_option.4.fortress.a: "Enigmatic Fortress technologies are §Genabled§!"
+esc_option.4.fortress.a.tooltip: "Click to §Rdisable§! research of Enigmatic Fortress. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.fortress.b: "Enigmatic Fortress technologies are §Rdisabled§!"
+esc_option.4.fortress.b.tooltip: "Click to §Genable§! research of Enigmatic Fortress."
+
+esc_option.4.dragon.a: "Ether Drake technologies are §Genabled§!"
+esc_option.4.dragon.a.tooltip: "Click to §Rdisable§! research of Ether Drake technologies. $esc_no_hide_disabled_components$"
+esc_option.4.dragon.b: "Ether Drake technologies are §Rdisabled§!"
+esc_option.4.dragon.b.tooltip: "Click to §Genable§! research of Ether Drake technologies."
+
+esc_option.4.dreadnought.a: "Automated Dreadnought technologies are §Genabled§!"
+esc_option.4.dreadnought.a.tooltip: "Click to §Rdisable§! research of Automated Dreadnought technologies. $esc_no_hide_disabled_components$"
+esc_option.4.dreadnought.b: "Automated Dreadnought technologies are §Rdisabled§!"
+esc_option.4.dreadnought.b.tooltip: "Click to §Genable§! research of Automated Dreadnought technologies."
+
+esc_option.4.wraith.a: "Spectral Wraith technologies are §Genabled§!"
+esc_option.4.wraith.a.tooltip: "Click to §Rdisable§! research of Spectral Wraith technologies. $esc_no_hide_disabled_components$"
+esc_option.4.wraith.b: "Spectral Wraith technologies are §Rdisabled§!"
+esc_option.4.wraith.b.tooltip: "Click to §Genable§! research of Spectral Wraith technologies."
+
+esc_option.4.stellarite.a: "Stellarite Devourer technologies are §Genabled§!"
+esc_option.4.stellarite.a.tooltip: "Click to §Rdisable§! research of Stellarite Devourer technologies. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.stellarite.b: "Stellarite Devourer technologies are §Rdisabled§!"
+esc_option.4.stellarite.b.tooltip: "Click to §Genable§! research of Stellarite Devourer technologies."
+
+esc_option.4.technosphere.a: "Technosphere technologies are §Genabled§!"
+esc_option.4.technosphere.a.tooltip: "Click to §Rdisable§! research of Technosphere technologies. $esc_no_disable_buildings$"
+esc_option.4.technosphere.b: "Technosphere technologies are §Rdisabled§!"
+esc_option.4.technosphere.b.tooltip: "Click to §Genable§! research of Technosphere technologies."
+
+esc_option.4.horror.a: "Dimensional Horror technologies are §Genabled§!"
+esc_option.4.horror.a.tooltip: "Click to §Rdisable§! research of Dimensional Horror technologies. $esc_no_hide_disabled_components$"
+esc_option.4.horror.b: "Dimensional Horror technologies are §Rdisabled§!"
+esc_option.4.horror.b.tooltip: "Click to §Genable§! research of Dimensional Horror technologies."
+
+esc_option.4.scrapper.a: "Scrapper Bot technologies are §Genabled§!"
+esc_option.4.scrapper.a.tooltip: "Click to §Rdisable§! research of Scrapper Bot technologies. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.scrapper.b: "Scrapper Bot technologies are §Rdisabled§!"
+esc_option.4.scrapper.b.tooltip: "Click to §Genable§! research of Scrapper Bot technologies."
+
+esc_option.4.matriarch.a: "Tiyanki Matriarch technologies are §Genabled§!"
+esc_option.4.matriarch.a.tooltip: "Click to §Rdisable§! research of Tiyanki Matriarch technologies. $esc_no_hide_disabled_components$"
+esc_option.4.matriarch.b: "Tiyanki Matriarch technologies are §Rdisabled§!"
+esc_option.4.matriarch.b.tooltip: "Click to §Genable§! research of Tiyanki Matriarch technologies."
+
+esc_option.4.voidspawn.a: "Voidspawn technologies are §Genabled§!"
+esc_option.4.voidspawn.a.tooltip: "Click to §Rdisable§! research of Voidspawn technologies. $esc_no_hide_disabled_components$"
+esc_option.4.voidspawn.b: "Voidspawn technologies are §Rdisabled§!"
+esc_option.4.voidspawn.b.tooltip: "Click to §Genable§! research of Voidspawn technologies."
+
+########################################
+###     Options Menu : BUILDINGS     ###
+########################################
+
+esc_options_buildings_title: "$esc_options_title$"
+esc_options_buildings_title_desc: "This menu allows configuraiton of buildings, added by \"§YExtra Ship Components 3.0§!\". Please note that buildings that produce special resources are configured through their respective weapon or leviathan options."
+
+esc_option.5.bureau.a: "Central Research Bureau is §Genabled§!"
+esc_option.5.bureau.a.tooltip: "Click to §Rdisable§! Central Research Bureau building. $esc_no_disable_buildings$"
+esc_option.5.bureau.b: "Central Research Bureau is §Rdisabled§!"
+esc_option.5.bureau.b.tooltip: "Click to §Genable§! Central Research Bureau building."
+
+esc_option.5.tech_institute.a: "Technology Institute is §Genabled§!"
+esc_option.5.tech_institute.a.tooltip: "Click to §Rdisable§! Technology Institute building. $esc_no_disable_buildings$"
+esc_option.5.tech_institute.b: "Technology Institute is §Rdisabled§!"
+esc_option.5.tech_institute.b.tooltip: "Click to §Genable§! Technology Institute building."
+
+esc_option.5.cult_nexus.a: "Culture Nexus is §Genabled§!"
+esc_option.5.cult_nexus.a.tooltip: "Click to §Rdisable§! Culture Nexus building. $esc_no_disable_buildings$"
+esc_option.5.cult_nexus.b: "Culture Nexus is §Rdisabled§!"
+esc_option.5.cult_nexus.b.tooltip: "Click to §Genable§! Culture Nexus building."
+
+esc_option.5.mat_laboratory.a: "Advanced Materials Laboratory is §Genabled§!"
+esc_option.5.mat_laboratory.a.tooltip: "Click to §Rdisable§! Advanced Materials Laboratory building. $esc_no_disable_buildings$"
+esc_option.5.mat_laboratory.b: "Advanced Materials Laboratory is §Rdisabled§!"
+esc_option.5.mat_laboratory.b.tooltip: "Click to §Genable§! Advanced Materials Laboratory building."
+
+esc_option.5.watcher.a: "Watcher of Eternity is §Genabled§!"
+esc_option.5.watcher.a.tooltip: "Click to §Rdisable§! Watcher of Eternity building. $esc_no_disable_buildings$"
+esc_option.5.watcher.b: "Watcher of Eternity is §Rdisabled§!"
+esc_option.5.watcher.b.tooltip: "Click to §Genable§! Watcher of Eternity building."
+
+esc_option.5.dark_matter.a: "Dark Matter Drawing Facility is §Genabled§!"
+esc_option.5.dark_matter.a.tooltip: "Click to §Rdisable§! Dark Matter Drawing Facility building. $esc_no_disable_buildings$"
+esc_option.5.dark_matter.b: "Dark Matter Drawing Facility is §Rdisabled§!"
+esc_option.5.dark_matter.b.tooltip: "Click to §Genable§! Dark Matter Drawing Facility building."
+
+esc_option.5.zro_dist.a: "Zro Distillery is §Genabled§!"
+esc_option.5.zro_dist.a.tooltip: "Click to §Rdisable§! Zro Distillery building. $esc_no_disable_buildings$"
+esc_option.5.zro_dist.b: "Zro Distillery is §Rdisabled§!"
+esc_option.5.zro_dist.b.tooltip: "Click to §Genable§! Zro Distillery building."
+
+esc_option.5.mantle_miner.a: "Mantle Mining Facility is §Genabled§!"
+esc_option.5.mantle_miner.a.tooltip: "Click to §Rdisable§! Mantle Mining Facility buildings. $esc_no_disable_buildings$"
+esc_option.5.mantle_miner.b: "Mantle Mining Facility is §Rdisabled§!"
+esc_option.5.mantle_miner.b.tooltip: "Click to §Genable§! Mantle Mining Facility buildings."

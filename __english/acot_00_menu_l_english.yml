@@ -1,0 +1,124 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+
+edict_acot_mod_menu_edict: "§YACOT Configuration Menu§!"
+edict_acot_mod_menu_edict_desc: "Use your reality-bending power to dictate what ACOT stuffs should or should not be allowed in this little galaxy you have decided to tamper with.\n\nSide-effects include amnesia, hair-loss, fourth-dimensional burn, terrible terrible damage and meme infestation. Do not invoke this without class-35 singularity event."
+
+acot_mod_options_title: "Ancient Cache of Technologies Tech Options Menu"
+acot_mod_options_desc: "This menu allows you to disable certain elements in ACOT you want to get rid of in case you dislike/have better stuffs that make stuffs here a joke or crappier, won't stop the FE from having though. Dark Matter-Tier are technologies any empires with Dark Matter Power can acquire. This is the tech FE have. Ascended-Tier are the improvements to the FE-Tier, and are what AFE will gradually acquire."
+
+acot_mod_options.1.a: "Weapon Techs are §Genabled§!. §RDisable§!?"
+acot_mod_options.1.a.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Certain weapons are gated behind Dark Energy Reactors and Thrusters. If those are disabled, they will also not be obtainable."
+acot_mod_options.1.b: "Weapon Techs are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.1.b.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies, They will become researchable provided that all other conditions are met."
+
+acot_mod_options.2.a: "Defensive Utilities components are §Genabled§!. §RDisable§!?"
+acot_mod_options.2.a.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Shields are gated behind Dark Energy Reactors. If this is disabled, the shield will also not be obtainable."
+acot_mod_options.2.b: "Defensive Utilities are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.2.b.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. They will become researchable provided that all other conditions are met."
+
+acot_mod_options.3.a: "Aux components are §Genabled§!. §RDisable§!?"
+acot_mod_options.3.a.tooltip: "Disables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type. Already researched components will remain §Yavailable§!."
+acot_mod_options.3.b: "Aux components are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.3.b.tooltip: "Enables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type."
+
+acot_mod_options.4.a: "Ship components are §Genabled§!. §RDisable§!?"
+acot_mod_options.4.a.tooltip: "Disables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: disabling this will make many other ACOT technologies unavailable for research."
+acot_mod_options.4.b: "Ship components are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.4.b.tooltip: "Enables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors."
+
+acot_mod_options.5.a: "Army Technologies are §Genabled§!. §RDisable§!?"
+acot_mod_options.5.a.tooltip: "Disables all ACOT army technologies. Existing armies will remain §Yactive§!, they will haunt your empire for all eternity and there is nothing you can possibly ever hope to accomplish to end this horrible fate."
+acot_mod_options.5.b: "Army Technologies are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.5.b.tooltip: "Enables all  ACOT army technologies, allowing your empire to recruit/build/train/morph/conjure/summon/materialize AE-tier armies."
+
+acot_mod_options.6.a: "Building Technologies are §Genabled§!. §RDisable§!?"
+acot_mod_options.6.a.tooltip: "Disables all ACOT building technologies. Already constructed buildings will remain §Yavailable§!, forcing your empire to question the reality of the galaxy, of why they can have buildings that the are not allowed to comprehend in this cycle of the galaxy, the existences of which are denied to them. Your people will soon realize the futility of existences."
+acot_mod_options.6.b: "Building Technologies are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.6.b.tooltip: "Enables all ACOT building technologies. Congrats, you have decided to enable the techs this mod is probably most famous for...why did you disable it again? Must be Giga Fortress."
+
+acot_mod_options.7.a: "Punishment/Exterminatus Bombardments are §Genabled§!. §RDisable§!?"
+acot_mod_options.7.a.tooltip: "Disables the ability for both players and AIs to use Punishment and Exterminatus Bombardments. Useful in case you screw up horribly, and wish to cheat your way to victory by tearing through the fabrics of reality and prevents your enemy from turning your worlds into soup-can."
+acot_mod_options.7.b: "Punishment/Exterminatus Bombardments §Rdisabled§!. §GEnable§!?"
+acot_mod_options.7.b.tooltip: "Enables the ability for both players and AIs to use Punishment and Exterminatus Bombardments. Battlebrothers!!, Today the enemy is at our door. We know our duty and we will DO IT. We fight for our honor, as Ascended Empire, as Precursors and we fight in the name of the emprah. If we die this day we will die. BUT  §RNO§!, we shall not §RDIE§!. It is the enemy who will taste §RDEATH§! and §RDEFEAT§!. AS YOU KNOW...§REXTERMINATUS§!"
+
+acot_mod_options.8.a: "Ethics Technologies are §Genabled§!. §RDisable§!?"
+acot_mod_options.8.a.tooltip: "Disables all ACOT unique ethic-based technologies. Already researched technologies will grant bonuses even if you have specifically tell the game to not do so,  there is no hope for you. It is over, Anakin. I have the high ground."
+acot_mod_options.8.b: "Ethics Technologies are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.8.b.tooltip: "Enables all ACOT unique ethic-based technologies. If you have already researched them, they will become buildable again. Time to waste all those influences spamming Giga Fortresses on every planets perhaps"
+
+acot_mod_options.9: "Set AI's Resource Bonus"
+acot_mod_options.9.tooltip: "Due to the increased amount of resources the AI will have to manage, sometimes they may end up digging early graves trying to manage everything. Given that I am not particularly good at these AI stuffs, this option exists to help the AI by periodically giving them free resources, especially resources that are typically hard for them to acquire."
+
+acot_mod_options.exit: "Exit Menu"
+
+acot_mod_options.10.a: "ACOT Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.10.a.tooltip: "Disables all ACOT events. This will prevent all ACOT-related events from appearing. Do be aware that may make certain technologies unobtainable. Useful if you prefer a less over the top power levels."
+acot_mod_options.10.b: "Dark Matter Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.10.b.tooltip: "Enables all ACOT events. This will cause events such as plebs asking for Dark Matter Tech or stealing from your science ships from happening. Good if you prefer AIs to eventually get good."
+
+acot_mod_options.12.a: "AI Helpers are §Genabled§!. §RDisable§!?"
+acot_mod_options.12.a.tooltip: "AI Building Managements are enabled. Disabling it will prevent the custom scripts from helping the AI upgrading old buildings into more advanced one."
+acot_mod_options.12.b: "AI Helpers are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.12.b.tooltip: "AI Building Managements are disabled. Enabling it will allow the custom scripts to help the AI by upgrading old buildings into more advanced one."
+
+acot_mod_options.200.name: "AI Resource Settings"
+
+acot_mod_options.200.a: "Change AE AI's Bonus to to : §WNone§!"
+acot_mod_options.200.b: "Change AE AI's Bonus to to : §YBasic§!"
+acot_mod_options.200.c: "Change AE AI's Bonus to to : §YHigh§!"
+acot_mod_options.200.d: "Change AE AI's Bonus to to : §GOPAF§!"
+
+acot_mod_options.200.a.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §RNone§!\n\nAE AIs will not have any bonuses, they will play fair, and most likely die or crumble through their own sheer stupidity and inability to be good. Good if you enjoy a game where only you alone get to be awesome."
+acot_mod_options.200.b.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §GBasic§!\n\nAE AIs will receive a set income to their basic resources that should more or less allow them to function as a proper AE. Good if you at least expect AI to be quite a threat."
+acot_mod_options.200.c.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §BOPAF§!\n\nAE AIs will receive double the income of the basic setting, but no other bonuses."
+acot_mod_options.200.d.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §BOPAF§!\n\nAE AIs will receive double the income they produce ontop of twice the set income of the normal, in case you really want the AE AIs to actually be a threat to you at all. Perhaps this time the AI will actually kill you (But most likely won't)."
+
+ easy_acot: "HEHE"
+ easy_acot_desc: "Oh YEAH"
+ easy_acot_pleb: "HEHE"
+ easy_acot_pleb_desc: "Oh YEAH"
+ moderate_acot_pleb: "COWMAN"
+ moderate_acot_pleb_desc: "GOOD BOY"
+ hard_acot: "I HAVE THE POWARRRRRRRRRRRRRRRRRRRRRR"
+ hard_acot_desc: "ARTHAS! STOP THIS ARTHAS BEFORE ITS TOO ARTHAS!"
+ hard_acot_pleb: "I HAVE THE POWARRRRRRRRRRRRRRRRRRRRRR"
+ hard_acot_pleb_desc: "ARTHAS! STOP THIS ARTHAS BEFORE ITS TOO ARTHAS!"
+
+jumpstarted_exp_development: "Bionic Simulation Protocol in Effect"
+
+return_to_menu: "Return to Main Options"
+
+acot_mod_options.3.title: "Revatilization Chambers"
+acot_mod_options.3.desc: "Faster. Meaner. Better. Stronger."
+acot_mod_options.3.1.name: "Remove negative traits off biological leaders."
+acot_mod_options.3.1.explain: "This process will remove all stupid and useless traits that hamper the abilities of our leaders to operate at optimal performance and then replace those dumb traits with the positive one.\n\n§YOnly supports vanilla negative traits at the moment.§!"
+not_has_shitty_leaders: "We don't have any leaders who are stupid at the moment, we need to wait for someone to show signs of mental sickness first"
+
+acot_mod_options.3.2.name: "Bionic Interface Simulation Protocol."
+acot_mod_options.3.2.explain: "This process will immediately grant all biological leaders §Y2500§! worth of experiences. Any biological scientists who are at least level 6 will also gain §YSpark of Genius§! traits."
+too_soon_to_do_that_nub: "Bionic Interface Simulation puts a lot of strain on our leaders. Once initiated, they will need sometimes to rest before the process can be done again"
+
+acot_mod_options.4.title: "Nano Assembly"
+acot_mod_options.4.desc: "Intelligent but not artificial."
+acot_mod_options.4.1.name: "Remove negative traits off mechanical leaders."
+acot_mod_options.4.1.explain: "This process will remove all stupid and useless malfunctions that hamper the abilities of our leaders to operate at optimal performance and then replace those dumb traits with the positive one.\n\n§YOnly supports vanilla negative traits at the moment.§!"
+not_has_shitty_leaders_machine: "We don't have any leaders who are terrible at the moment, we need to wait for someone to show signs of corruption first"
+
+
+acot_mod_options.4.2.a: "Enable Immortality Protocol"
+acot_mod_options.4.2.a.tooltip: "While the protocol is active, our mechanical leaders will have their memories preserved and  will be revived upon their termination. This will heavily increase their upkeep cost and drain our influences however.\n\nBe aware that the system cannot identify whether the leader is destroyed or simply dismissed from service. The protocol will fire regardless."
+acot_mod_options.4.2.b: "Disable Immortality Protocol"
+acot_mod_options.4.2.b.tooltip: "Our leaders will perform their functions until they are terminated. Then we replace it with a new one. Not everything are meant to last forever."
+
+
+resurface_protocol: "Immortality Protocol Engaged"
+resurface_protocol_desc: "Eternal Services."
+
+acot_mod_options.50.title: "Immortality Protocol Engaged"
+acot_mod_options.50.desc: "One of our leaders, [From.GetName] has been terminated. But the Immortality Protocol is in effect and will be able to rebuild [From.GetName] back.\n\nHowever, the system cannot classify whether [From.GetName] has been destroyed, or simply dismissed for being incompentent.\n\nShall we revive this leader?"
+acot_mod_options.50.a: "Affirmative, we will rebuild [From.GetName], we have the technology."
+acot_mod_options.50.a.explain: "Will revive the leader. Do not use this on dismissed leader."
+acot_mod_options.50.b: "Negative, [From.GetName] is annoying and useless to us, we will just get a better model."

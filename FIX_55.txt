@@ -1,0 +1,27 @@
+l_french:
+#_????
+ z_modmenu_button: "§GInfinite Collection(IC) Customization Menu§!"
+ z_modmenu.1.name: "Infinite Collection(IC) Customization Menu"
+ z_modmenu.1.desc: "Detailed setting for all IC sub mods."
+ z_modmenu_exit: "§RCancel§!"
+ z_modmenu_start_title: "§GInfinite Collection(IC) Customization Menu§! Initialized"
+ z_modmenu_start_title_desc: "§YDo you know?§! You can access this modmenu by using edict.\n\nIn this customization menu, you can set key parameters of all IC sub mods like §G!! 00 Performance, !! 00 Performance Plus, 00 Protectors of the Empire, 00 Technology Leaps§!, etc. Some functions are initially disabled, you need to turn it on manaully. Make proper use of this modmenu, and your game experience will be better."
+ z_modmenu.12.a: "Excellent!"
+ 
+###_tooltips
+ z_tooltip_mid_game_passed: "§YMid-Game Stage§! has passed"
+ z_tooltip_wip: "This feature is §Yunder development§!"
+ 
+###_other
+ tech_z_dummy: "§RIt is not something that you should have!§!"
+
+###_????????
+ z_chain_main_title: "§GInfinite Collection: Core System§!"
+ z_chain_main_desc: "Detailed variables for Infinite Collection.\n\n§G$z_desire_for_star_var$§! left §G[This.z_desire_for_star_var]§!"
+
+#_z modmenu????
+ edict_z_modmenu_edict: "§GInfinite Collection(IC) - Open the Customization Menu§!"
+ edict_z_modmenu_edict_desc: "Open Infinite Collection Customization Menu. Detailed setting for all IC sub mods."
+#_??modmenu topbar
+ edict_z_modmenu_edict: "§GInfinite Collection(IC) - Customization Menu§!"
+ edict_z_modmenu_edict_desc: "Open Infinite Collection Customization Menu. Detailed setting for all IC sub mods."

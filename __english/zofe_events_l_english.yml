@@ -1,0 +1,87 @@
+﻿l_english:
+
+ zofe.1.name:0 "Precursor Power Source"
+ zofe.1.desc:0 "For years, our scientists struggled to determine the exact source of power which distorts gravity so predictably that it can be used to power the precursor ships and their fancy buildings. Our scientists proposed an ambitious yet daring mission - by sending a science vessel to the precursor capital to observe and study it in secret. Any new findings on this power source could accelerate our progress, putting us far ahead of our rivals. Our research team will study in radio silence, and extra care will be taken to avoid detection by the precursor patrols. If discovered however, the consequences could be dire. Should we perform this risky operation to obtain the secrets of §HDark Matter Power§!?"
+ zofe.1.a:0 "Do it."
+ zofe.1.b:0 "We will do no such thing."
+ 
+ DARK_MATTER_POWER_RESEARCH:0 "Precursor Power Source"
+ DARK_MATTER_POWER_RESEARCH_DESC:0 "For years our scientists pondered the nature of this power source. Some theorized it could be Dark Matter, while others not so sure. In any case, this mission will get to the bottom of this mystery."
+ 
+ zofe.100.name:0 "Precursor Expedition Concluded"
+ zofe.100.desc:0 "After two years of skillful espionage, we have managed to obtain a sample of Dark Matter Power. This power source is indeed powerful, as the findings suggest. What's more, the precursor empire seemed none the wiser for it. We stole it from right underneath their noses."
+ zofe.100.desc.02:0 "After two years of skillful espionage, our research team has published their findings detailing the workings of this Dark Matter Power. This power source is indeed powerful, but more research is needed in order for us to find some real application for this. What's more, the precursor empire seemed none the wiser for it. We stole it from right underneath their noses."
+ zofe.100.desc.03:0 "After two years of skillful espionage, our research team has published their findings detailing their observations throughout this period. Unfortunately they were not able to bring back any useful information on how we could replicate this power for ourselves. Instead, the findings may prove useful in our other scientific researches."
+ zofe.100.desc.04:0 "After two years of espionage, our research team met their end as the radio silence was broken by one of the team members, letting slip of their location. Precursor patrols quickly blasted our vessel out of the sky, along with all the research findings in it. Fortunately, the precursor empire did not understand the nature of our presence there and seemed disinterested to ask further questions."
+ zofe.100.desc.05:0 "After two years of espionage, our research team met their end when they were spotted by one of the precursor patrols. They were blasted out of the sky and captured, along with the rest of their findings. After some interrogation, the precursor empire has learned of the nature of our presence there and demanded our government be held accountable for attempted theft. We may not hear the end of this just yet."
+ zofe.100.a:0 "At last!"
+ zofe.100.b:0 "Their secret shall be ours!"
+ zofe.100.c:0 "Perhaps we're just not that bright..."
+ zofe.100.d:0 "At least they aren't pursuing this further..."
+ zofe.100.e:0 "Oh no."
+ 
+ zofe.2.name:0 "Dark Matter Power"
+ zofe.2.desc:0 "For years our scientists pondered over the possibilities of 'Dark Matter Power' and its potential application. A recent scientific breakthrough has finally enabled us to start research on this elusive source of power."
+ zofe.2.a:0 "Good."
+ 
+ zofe.200.name:0 "Dark Matter Power Breakthrough"
+ zofe.200.desc:0 "Our intelligence report that there has been a recent scientific breakthrough in §H[From.GetName]§!. Reports suggest that they have begun research into the elusive Dark Matter Power and may soon find practical applications for this power source."
+ zofe.200.a:0 "Interesting."
+ 
+ zofe.3.name:0 "Societal Decadence"
+ zofe.3.desc:0 "Today's generation of §H[Root.Owner.GetSpeciesNamePlural]§! have never had it so good. The standard of living has never been higher, and many young §H[Root.Owner.GetSpeciesNamePlural]§! now grow up in laps of luxury, never experiencing hardship or real struggle. They are conceited, foolish, and have questionable work ethics, favoring of pleasure over work. They take for granted the nation that was built on the bodies of their ancestors, and feel complacent about their way of life, that nothing matters and nothing bad would ever happen. Some young §H[Root.Owner.GetSpeciesNamePlural]§! would go so far as to believe that the §H[Root.GetName]§! is invincible because the §H[Root.GetSpeciesAdj]§! race is inherently superior. That was the finding of §H[Root.GetRulerTitle] [Root.GetRulerName]§! anyway, during a routine stroll through the streets of [Root.Capital.GetName].\n\nAnd that is worrying. The §H[Root.GetName]§! and the future of the §H[Root.GetSpeciesAdj]§! race cannot be assured when our young live in such decadence with no ambition or drive. To ensure our continued survival, campaigns must be fought at each generation to halt the spread of decadence and complacency, if our civilization is truly to last millennia."
+ zofe.3.a:0 "We must re-double our efforts."
+ enable_decadence_edict: "Gives access to the §Y$edict_rejuvenate_society$§! Unity Ambition, which stops the further spread of Hedonism in the empire.\n\n"
+ 
+ zofe.4.name:0 "Rejuvenation of an Ascendancy"
+ zofe.4.desc:0 "A massive campaign is underway in the §H[From.GetName]§!.\n\nNews have spread of §H[From.GetRulerTitle] [From.GetRulerName]§!'s war on decadence, an issue that seems rife in §H[From.GetSpeciesAdj]§! society. If successful, §H[From.GetName]§! would surely return to the peak of their power, securing their ascendancy for a generation."
+ zofe.4.a:0 "What will it mean for us?"
+ 
+ zofe.6.name:0 "Conquest of [From.From.GetName]"
+ zofe.6.desc:0 "We have wrested control over §H[From.From.GetName]§! from the ravenous swarm, and the fighting has finally settled down. Sadly, the original population of this plant had all been eaten by the galactic scourge.\n\nUntil new colonists arrive from somewhere, this world will remain devoid of intelligent life."
+ zofe.6.a:0 "Withdraw our forces to orbit."
+ 
+ zofe.12.name:0 "Dark Matter - Possibilities"
+ zofe.12.desc:0 "Although we have mastered the technologies necessary to harness $sr_dark_matter$ from space, we have yet to find any real uses for them, and our knowledge of $sr_dark_matter$ remains limited.\n\nHowever, some of their special properties match our observations of precursor ships, which demonstrated propulsion behaviours that seem to defy the laws of physics - at least, our current understanding of physics.\n\nDo the Fallen Empires know something about the application of $sr_dark_matter$ that we don't?"
+ zofe.12.a:0 "Curious."
+ 
+ 
+ zofe.13.name:0 "Dark Matter Power"
+ zofe.13.desc:0 "From several of the minor artifacts we have gathered over the years, there were always persistent allusions to a power source of which we have little understanding. This naturally puzzled and frustrated the §H[Root.GetSpeciesAdj]§! scientific community at large. Now that we know Dark Matter can indeed be used as a source of power, as demonstrated by Precursor ships and cities, perhaps we can learn its secrets if we allow our scientists to have a few of these artifacts broken down and analysed."
+ zofe.13.a:0 "No harm in trying."
+ 
+ zofe.14.name:0 "Dark Matter Power Research Critical Failure"
+ zofe.14.desc:0 "Unfortunately Our scientists' attempts to break down £minor_artifacts£Minor Artifacts to learn the secrets of §HDark Matter Power§! have been met with disaster.\n\nDespite months of preparation and every precautions taken, the first prototype exploded, killing one of our scientists and inflicted heavy damage to our facilities. Whatever knowledge we have gained from our research team had been lost. Perhaps some secrets were simply not meant for us to learn."
+ zofe.14.a:0 "Give me back my scientist!"
+ 
+ zofe.15.name:0 "Dark Matter Power Research Failure"
+ zofe.15.desc:0 "Unfortunately, our scientists' attempts to break down £minor_artifacts£Minor Artifacts to learn the secrets of §HDark Matter Power§! have been unsuccessful.\n\nHowever, they promise they will crack it next time if we would just send them a few more artifacts."
+ zofe.15.a:0 "Disappointing."
+ 
+ zofe.16.name:0 "Dark Matter Power Research Success"
+ zofe.16.desc:0 "Our scientists' attempts to break down £minor_artifacts£Minor Artifacts to learn the secrets of §HDark Matter Power§! have been successful!\n\nFor months they began putting clues together, debated and overturned many theories along the way. Blueprints for the production of this power source can now be developed to transform our empire."
+ 
+ zofe.17.name:0 "Dark Matter Power Research Critical Success"
+ zofe.17.desc:0 "Our scientists' attempts to break down £minor_artifacts£Minor Artifacts to learn the secrets of §HDark Matter Power§! have been successful!\n\nFor months they began putting clues together, debated and overturned many theories along the way. They managed to create a functioning prototype and is ready for production right away."
+ 
+ zofe.19.name:0 "§H[From.GetName]§! has acquired Dark Matter Power!"
+ zofe.19.desc:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! through unknown means. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.02:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! by infiltrating a precursor world then seemingly stolen this technology. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.03:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after what §H[From.GetSpeciesAdj]§! scientists claim were the scientific breakthroughs of the century. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.04:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after what §H[From.GetSpeciesAdj]§! scientists claim were domestic breakthroughs and innovations. However, critics were skeptical that it was stolen technology. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.05:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after seemingly abusing their powers on the Galactic Council in a blatant attempt to hoard all secrets and artifacts from the galaxy. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.06:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after salvaging this technology from the battle debris of precursor ships. What they do with this new found knowledge remains to be seen."
+ zofe.19.desc.07:0 "Our intelligence report that §H[From.GetName]§! seemed to have mastered §HDark Matter Power§! after years of of hard work, searching for clues within the vast collection of minor artifacts they have gathered. What they do with this new found knowledge remains to be seen."
+ 
+ 
+ 
+ war_in_heaven.4.e:0 "We can take on the both of you."
+ war_in_heaven.4.f:0 "This is none of our concern right now."
+ 
+ artifact_dark_matter_power_research:0 "Research §Y$tech_dark_matter_power_core$§!"
+ artifact_dark_matter_power_research_desc:0 "Our scientists can reverse-engineer several minor artifacts, hoping to uncover the secrets to this elusive power source used by Fallen Empires."
+ artifact_dark_matter_power_research_effect:0 "Break down £minor_artifacts£Minor Artifacts for a chance to unlock §Y$tech_dark_matter_power_core$§!.\n\nCooldown: £time£ §Y720§!"
+ 
+ dark_matter_power_arfifacts_tooltip:0 "Unlocks a new minor artifact action: $artifact_dark_matter_power_research$\n\n"
+
+ 

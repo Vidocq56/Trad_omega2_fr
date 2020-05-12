@@ -1,0 +1,54 @@
+﻿l_english:
+
+ psionic_shroud.3000.a:0 "Explore the Shroud."
+ psionic_shroud.3000.b:0 "Expand in the Shroud."
+ psionic_shroud.3000.intro.desc:0 "The Shroud. It is unbelievably strange and unsettling, but also... immediately familiar, a place we can now also call home. Anyone with psionic powers will have seen this place in their dreams, though they likely did not know it at the time.\n\nWe linger now at the precipice of this realm, not far from the empty void of the Inbetween that serves as the boundary between here and normal space - or what we would call the real world.\n\nTo venture deeper into the Shroud will require great effort on the part of our synaptic drones. We must not dally... even now, we are being watched."
+
+
+ psionic_shroud.good:0 "Ok, lets use the Zro."
+ psionic_shroud.energy:0 "Zro is too valuable, use Energy."
+ psionic_shroud.notnow:0 "We cant spare the resources."
+ 
+ 
+ psionic_shroud.11.name:0 "Battle in the Shroud"
+ psionic_shroud.11.desc:0 "In the deeper regions of the Shroud, a presence suddenly makes itself felt. It feels... unwelcoming... hostile one would say.\n\nA faint image of massive organic beings floating in some kind of thick, gaseous atmosphere while being attended by swarms of smaller creatures flickers briefly into existence as their psychic echo touches our own. A battle rages in the Shroud between us and the presence.\n\nEven though the Shroud is inhabited by powerful beings of pure psionic energy, our synaptic drones weres able to overcome and defeat this being who saw us as its enemy.\nIts powers and strengths are within our grasp! Assimilating such a powerful foe with Zro will undoubtedly benefit the collective."
+ 
+ psionic_shroud.12.name:0 "Pychic Duel"
+ psionic_shroud.12.desc:0 "An endless desert stretches before us. We have been here before.\n\nA powerful psionic being from the Shroud challenges our collective to a psychic combat.\n\nThe contest is limited to rendering the oponent into submission.\n\nThe adversary is defeated and once we do, it offered us a way to further increase our power, both, within the Shroud and out of it.\n\nThe words are like thunder, spoken by a mouth for which they were never intended. All it wants in exchange for this power is a reasonable amount of Zro."
+ 
+ psionic_shroud.2.name:0 "Existential Doubt"
+ psionic_shroud.2.desc:0 "Suddenly, in a painful moment of clarity, the nature of our existence is laid bare. A multiverse where thousands of galaxies like our own are locked in endless cycles of conflict.\n\nIt begins, it ends, and then it begins again. Each time with trillions of lives hanging in the balance.\n\n§P"So it is,"§! a voice whispers, §P"and so it shall always be."§!\n\nOur synaptic drones are somewhat confused and pondering the nature of reality. The use of Zro should help unravel this blurriness."
+ 
+ psionic_shroud.31.name:0 "Exploring the Shroud"
+ psionic_shroud.31.desc:0 "As our mind grows within the Shroud, we venture and explore its various regions.\n\nWe navigate this sea of thoughts and reach an unknown void.\n\nThe concept of time, as we know it, is alien to this part of the Shroud. What can seem like centuries here may equal mere hours or even minutes in the real world. If one knows where to look, it is even possible to glimpse into the future...\n\nPrecognition is one of the surest paths to madness for a telepath, so we must use caution.\n\nOur Synaptic Drones are certain that with Zro, a limited precognitive connection to the Shroud can be maintained without risking insanity, but the massive influx of probability data is too overwhelming to be of much practical use.\n\nStill, if a digital interface could be devised to interpret this data, it could potentially be applied to improve the performance of our starships' combat computers..."
+ 
+ psionic_shroud.32.name:0 "Lost but found"
+ psionic_shroud.32.desc:0 "A small, flickering star materializes inside the Shroud. It flies past at incredible speed, and for a second, it reveals itself as an alien ship of unknown configuration. Then it vanishes in a cloud of psionic energy as quickly as it appeared.\n\nCan it be? Is it possible to physically enter the Shroud and then emerge somewhere else entirely in normal space?\n\nWe linger for a while full of curiosity.\n\nYet another flickering star suddenly appears, but this time we are ready. It is indeed an alien ship, unlike any that has ever been seen in our galaxy. As it flies past us, we feel the mind-glow of its crew, and their secrets are ours.\n\nA Psionic Jump Drive. How ingenious.\n\nOur Synaptic Drones could learn this technology with a vast amount of Zro."
+ 
+ psionic_shroud.33.name:0 "The Shield"
+ psionic_shroud.33.desc:0 "In one of the lower planes of the Shroud, we encounter a spirit that has ensconced itself behind some kind of powerful psionic shield.\n\nOur Synaptic Drones were able to form a breach in the shield large enough for some of them to peer through.\n\nWe do not know what those drones saw on the other side of the shield, but it was enough to permanently unhinge their minds. Their sacrifice was not in vain, however, as the act of breaching the shield taught us how to generate a similar force field. If the technique can be refined, we may be able to form psionic shields large enough to encompass entire starships..."
+ 
+ 
+ ##negative
+ psionic_shroud.41.name:0 "Painful vision"
+ psionic_shroud.41.desc:0 "[Root.Capital.GetName]... the vision is hazy and indistinct, but there can be no question - it is [Root.Capital.GetName], our capital. The great cities look different yet familiar, even through the obscuring wall of flames and smoke. Thousands... no, millions of mutilated bodies litter the streets, all of them [Root.GetSpeciesName]. The stench of decay is unbearable.\n\n§P"YOUR FUTURE."§!\n\nNothing living remains in the ruins. In the sky above, massive orbital installations, trailing smoke, have begun a slow and inevitable descent towards the planet. Are we witnessing one possible future out of many?\n\n§P"NOT ONE OF MANY. IT SHALL COME TO PASS. AS SURELY AS THE SUN RISES. IT IS YOUR DESTINY."§!\n\nThe vision is looping in the collective's mind bringing pain and malus to the Hive. The use of Zro might help aliviate the pain and endure this trying times."
+ 
+ 
+ psionic_shroud.42.name:0 "Wrong turn"
+ psionic_shroud.42.desc:0 "As we explore the Shroud, we encounter a particularly tempestuous region. Massive currents of raw psionic energy are funneled through here, sometimes giving violent birth to semi-intelligent spiritual apparitions.\n\nThese confused spirits often clash with one another, unleashing massive amounts of psychic power in battles that can last millennia. In fact, several such duels seem to be taking place right now.\n\nOne of those apparitions clashed with our mind. The spirit seems to be in a weak state, but it is strong enought to put up a battle that might take us years to recover from. Our Synaptic drones suggest using Zro to increase our psionic energy within the Shroud to defeat the spirit in an overwhelming fashion."
+ 
+ 
+ psionic_shroud.51.name:0 "$psionic_shroud.41.name$"
+ psionic_shroud.51.desc:0 "$psionic_shroud.41.desc$"
+ 
+ psionic_shroud.52.name:0 "$psionic_shroud.42.name$"
+ psionic_shroud.52.desc:0 "$psionic_shroud.42.desc$"
+ 
+ 
+ 
+ psionic_shroud.61.name:0 "Coup de Grace"
+ psionic_shroud.611.desc:0 "A light in the Horizon. Not a sun nor a star, but growth potential. As we linger in this uncharted space, we see how much we can grow. As our synaptic drones explore these endless posibilities and we are faced with a choice. There is a weakened psionic being in one of the higher planes of the Shroud. \n\nWho knows how long its been there. Our synaptic drones noticed that the spirit is not healing and estimate that, with a bit of extra psionic energy we could consume it and assimilate its powers, effectively growing our mind, forever!"
+ 
+ psionic_shroud.62.name:0 "Mirrors in the Void"
+ psionic_shroud.621.desc:0 "A stranger adrift, shattered. Pieces sinking, flaws and virtues alike. We try our best not to get into trouble, but we've got a war in our mind. We watch the Shroud darken as the light goes out. Knowledge brightens the night.\n\nReady to grow but with nowhere to go, lets hitch this winged ship and roam for a while. Escape the plunging waves of these troublesome seas, leave the daily nuances behind. Perpetually defiled, we should accept what we are.\n\nIn this place of conflict, our synaptic drones question our own very nature, and as they do so, the train of though collapses. We can feel an epiphany about to hit the collective.\n\nGreat power awaits us, unity beyond our imagination, a fully synchronized collective.\n\nWith just a little more psionic power we could finish this idea and become fully aware of the nature of our existance." 
+ 

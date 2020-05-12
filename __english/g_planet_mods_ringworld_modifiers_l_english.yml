@@ -1,0 +1,49 @@
+﻿l_english:
+
+ ###################################################
+ # Ringworld Modifiers
+ ###################################################
+ 
+ # 1 m
+ gpm_ringworld_engineering_mastery:0 "Master Engineering"
+ gpm_ringworld_engineering_mastery_desc:0 "Our mastery of megastructures has made constructing habitats trivial."
+ 
+ # 2 m
+ gpm_ringworld_engineering_voidborn:0 "Void Engineering"
+ gpm_ringworld_engineering_voidborn_desc:0 "Our affinity with the void allows us to construct near perfect ringsworlds."
+ 
+ # 3 m
+ gpm_ringworld_engineering_voidborn_mastery:0 "Void Mastery Engineering"
+ gpm_ringworld_engineering_voidborn_mastery_desc:0 "This ringworld is one of the wonders of the galaxy. It's perfect circular design, punctual orbit and fabulous design style show its creators are true masters of their craft."
+ 
+ # 4 m
+ gpm_ringworld_breath_taking_view:0 "Breathtaking View"
+ gpm_ringworld_breath_taking_view_desc:0 "The artificial atmosphere on this ringworld is so clear it's possible to see most of the ringworld and the star. This view is breathtaking to say the least. It is truly a remarkable sight that makes one wonder just how it is even possible at all."
+ 
+ # 5 m
+ gpm_ringworld_neural_nexus:0 "Neural Nexus"
+ gpm_ringworld_neural_nexus_desc:0 "This ringworld section has been outfitted with a section wide neural net allowing the centralised nexus to control every aspect of this ringworld."
+ 
+ # 6 m
+ gpm_ringworld_idyllic_gardens:0 "Idyllic Gardens"
+ gpm_ringworld_idyllic_gardens_desc:0 "The gardens on this section are of unimaginable beauty. Not only are the colours of the flowers, the plants and trees very soothing, the smells are a world on their own. "
+ 
+ # 7 m
+ gpm_ringworld_xeno_zoo:0 "Xeno Zoo"
+ gpm_ringworld_xeno_zoo_desc:0 "A large xeno zoo has been outfitted on this ringworld allowing it's residents a place to relax and learn about the universe outside of this ringworld. "
+ 
+ # 8 m
+ gpm_ringworld_badlands:0 "Badlands"
+ gpm_ringworld_badlands_desc:0 "A large section of this ringworld has been dedicated for a much simpler life. People can chose to live here and be entirely self-sufficient. It's a great place for anyone who needs to escape from everything for a while."
+ 
+ # 9 m
+ gpm_ringworld_battle_simulators:0 "Battle Simulators"
+ gpm_ringworld_battle_simulators_desc:0 "Large artificial battlezones are built around this section of the ringworld allowing our armies to train in multiple environments. From zero-g battle environments to urban or even jungle battle zones. As a result armies can be trained much quicker. "
+ 
+ # 10 m
+ gpm_ringworld_endless_ocean:0 "Endless Ocean"
+ gpm_ringworld_endless_ocean_desc:0 "This section on the ringworld was designed in such a way that it can appear as a single endless ocean. "
+ 
+ # 11 m
+ gpm_ringworld_mass_transit_systems:0 "Mass Transit System"
+ gpm_ringworld_mass_transit_systems_desc:0 "A complex grid of mass transit systems on this section of the ringworld allow for extremely efficient and fast transportation, significantly reducing the cost of transportation in both resources and time."

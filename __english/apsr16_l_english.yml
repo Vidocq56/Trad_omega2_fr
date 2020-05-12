@@ -1,0 +1,172 @@
+﻿l_english:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr16_planet_modifier:0 "Library of the Ancients"
+ apsr16_planet_modifier_desc:0 "This whole planet is a holistic archive of knowledge gathered by an ancient civilization. While it is a ruin at the moment, it can be restored to its former glory."
+ 
+ apsr16_deposit:0 "$apsr16_planet_modifier$"
+ apsr16_deposit_desc:0 "$apsr16_planet_modifier_desc$\n\n§M$apsr16_deposit_effect$§!" 
+ apsr16_deposit_effect:0 "Unique resource available: $apsr16_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr16_building_part1_text:0 "Shadow of the fading glory"
+ 
+ apsr16_building_part2_text:0 "Fraction of the reestablished Archive of Knowledge"
+ 
+ apsr16_building_part3_text:0 "Part of the reestablished Archive of Knowledge"
+ 
+ apsr16_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr16_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have the proper technologies required in order to maximize the output of this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr16_building_part1:0 "Library of the Ancients: Incipient"
+ apsr16_building_part1_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part1_text$"
+ 
+ apsr16_building_part2:0 "Library of the Ancient: Section"
+ apsr16_building_part2_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part2_text$"
+ 
+ apsr16_building_part3:0 "Library of the Ancients"
+ apsr16_building_part3_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr16_building_part1_fake:0 "$apsr16_building_part1$"
+ apsr16_building_part1_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part1_text$"
+ 
+ apsr16_building_part2_fake:0 "$apsr16_building_part2$"
+ apsr16_building_part2_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part2_text$"
+ 
+ apsr16_building_part3_fake:0 "$apsr16_building_part3$"
+ apsr16_building_part3_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr16_building_part1:0 "Restoring the Glory of the Ancients: Stage 1"
+ tech_apsr16_building_part1_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr16_building_part2:0 "Restoring the Glory of the Ancients: Stage 2"
+ tech_apsr16_building_part2_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr16_building_part3:0 "Restoring the Glory of the Ancients: Stage 3"
+ tech_apsr16_building_part3_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.16001.title:0 "$apsr16_building_part1$ completed"
+ apsr.16001.desc:0 "We have built the §Y$apsr16_building_part1$§!, the first step in restoring the Ancients' glory."
+ apsr.16001.ok-button:0 "Perfect"
+ 
+ apsr.16002.title:0 "$apsr16_building_part2$ completed"
+ apsr.16002.desc:0 "We have finished the §Y$apsr16_building_part2$§!! Its construction marks a breakthrough in our scientific development, and in the study of the Ancients' civilization!"
+ apsr.16002.ok-button:0 "Perfect"
+ 
+ apsr.16003.title:0 "$apsr16_building_part3$ completed"
+ apsr.16003.desc:0 "We have partly rebuilt the §YLibrary of the Ancients§! and gained access to their technologies. Unfortunately, there is only so much we could restore, as the passage of time caused destruction beyond recovery!"
+ apsr.16003.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.16811.title:0 "Performance restored"
+ apsr.16811.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr16_building_part1$§!, and developed methodological and technological guidelines for its use. Now we can start using it at an acceptable level."
+ apsr.16811.ok-button:0 "Good"
+ 
+ apsr.16812.title:0 "Performance improved"
+ apsr.16812.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr16_building_part2$§!, and improved the methodological and technological guidelines for its use. Its output has been greatly increased."
+ apsr.16812.ok-button:0 "Great"
+ 
+ apsr.16813.title:0 "Performance maximised"
+ apsr.16813.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr16_building_part3$§!, and perfected the methodological and technological guidelines for its use. Now we can use this building with maximum benefit."
+ apsr.16813.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.16011.title:0 "Point of Interest found: §M$apsr16_planet_modifier$§!"
+ apsr.16011.desc:0 "A research group from the science ship §H[Root.GetName]§! led by §H[Root.GetLeaderName]§! has discovered something peculiar!\nThe whole planet appears to be a holistic archive of knowledge gathered by an ancient civilization. While it is a ruin at the moment, it can be restored to its former glory."
+ apsr.16011.button:1 "We must get this artifact!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.16013.title:0 "Point of Interest found: §M$apsr16_planet_modifier$§!"
+ apsr.16013.desc:0 "Something peculiar has been found on one of our newly acquired worlds. \nThe whole planet appears to be a holistic archive of knowledge gathered by an ancient civilization. While it is a ruin at the moment, it can be restored to its former glory."
+ apsr.16013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.16015.title:0 "Point of Interest found: §M$apsr16_planet_modifier$§!"
+ apsr.16015.desc:0 "Our intelligence services, while checking for information about the planets of other empires, has found something interesting!\nOne of the planets appears to be a holistic archive of knowledge gathered by an ancient civilization. While it is a ruin at the moment, it can be restored to its former glory.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr16_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr16_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr16_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr16_resource_planet.Owner.GetName]§!"
+ apsr.16015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr16_special:0 "$apsr16_planet_modifier$"
+ apsr16_special_desc:0 "$apsr16_planet_modifier_desc$"
+ 
+ APSR16_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR16_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr16_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr16_anomaly:0 "Interesting data"
+ apsr16_anomaly_desc:0 "During the survey of [From.GetName]'s surface we aquired data that definitely needs further investigation."
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.16601.title:0 "$apsr.16011.title$"
+ apsr.16601.desc:0 "$apsr.16011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr16_planet_scientist_normal:0 "Scientists of the Ancient Library"
+ job_apsr16_scientist_normal:0 "Scientist of the Ancient Library"
+ job_apsr16_scientist_normal_plural:0 "Scientists of the Ancient Library"
+ job_apsr16_scientist_normal_desc:0 "Scientists of the Library of the Ancients explore archives left over from the ancient civilization in search of knowledge, technology and information."
+ mod_job_apsr16_scientist_normal_add:0 "Scientist of the Ancient Library"
+   
+ apsr16_planet_scientist_hive:0 "Drones of the Ancient Library"
+ job_apsr16_scientist_hive:0 "Drone of the Ancient Library"
+ job_apsr16_scientist_hive_plural:0 "Drones of the Ancient Library"
+ job_apsr16_scientist_hive_desc:0 "Drones of the Library of the Ancients explore archives left over from the ancient civilization in search of knowledge, technology and information."
+ mod_job_apsr16_scientist_hive_add:0 "Drone of the Ancient Library"
+   
+ apsr16_planet_scientist_machine:0 "Drones of the Ancient Library"
+ job_apsr16_scientist_machine:0 "Drone of the Ancient Library"
+ job_apsr16_scientist_machine_plural:0 "Drones of the Ancient Library"
+ job_apsr16_scientist_machine_desc:0 "Drones of the Library of the Ancients explore archives left over from the ancient civilization in search of knowledge, technology and information."
+ mod_job_apsr16_scientist_machine_add:0 "Drone of the Ancient Library"
+ 
+ 
+ 
+ 
+ 

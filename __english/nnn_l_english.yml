@@ -1,0 +1,239 @@
+﻿l_english:
+
+# Perks
+
+ eap_world_shaper:0 "Planet shaping Masters"
+ eap_world_shaper_desc:0 "Changing the ecosystem of a planet is just a little bit of work for us."
+ 
+ eap_hive_worlds:0 "Endless Hive"
+ eap_hive_worlds_desc:0 "We easily transformed habitable planets into hive worlds, and even turned our eyes to some potentially barren planets."
+
+ eap_galactic_force_projection:0 "Arms Race"
+ eap_galactic_force_projection_desc:0 "We need more, more fleets, to make sure our rights will be enforced."
+
+ eap_master_builders:0 "Demiurge"
+ eap_master_builders_desc:0 "Some of the ignorance of the low civilization call us the Demiurge, is also not too wrong."
+
+ eap_interstellar_dominion:0 "Galactic Hegemony"
+ eap_interstellar_dominion_desc:0 "Our position is supreme, and our territory is vast."
+
+ eap_technological_ascendancy:0 "Technological Singularity"
+ eap_technological_ascendancy_desc:0 "A technological singularity was summed up according to the history of technological development view, that the future will happen an inevitable event: technology development will be in a very short period of time has greatly close to infinite progress."
+ deseap_technological_ascendancy_desc:0 "Every §Y3§! years, "Future Technology Summit" is held, which provides 6 months worth of research output."
+ eap_one_vision:0 "Complete Confidence"
+ eap_one_vision_desc:0 "All government decisions, we are firmly maintained; any government instructions, we unswervingly follow."
+
+ eap_imperial_prerogative:0 "Enforce Prerogative"
+ eap_imperial_prerogative_desc:0 "After a series of profound reforms, the government's control ability has been further improved."
+ eap_imperial_prerogative_corp:0 "Enforce Prerogative"
+ eap_imperial_prerogative_corp_desc:0 "After a series of profound reforms, the government's control ability has been further improved."
+ eap_imperial_prerogative_corp2:0 "Enforce Prerogative"
+ eap_imperial_prerogative_corp2_desc:0 "After a series of profound reforms, the government's control ability has been further improved."
+
+ eap_shared_destiny:0 "Share Brilliance"
+ eap_shared_destiny_desc:0 "Those who are loyal to us, the brilliant future is in front of you." 
+ deseap_shared_destiny_desc:0 "subject £opinion  §YOpinion§! increased by§G+200§!"
+ describe_shared_destiny:0 "§EThe vassal and tributary will be promoted to junior partner after a period of time.\nThey have limited diplomatic options, and fight along their Overlord.\nThey must pays §Y25%§! of their monthly Research, Energy Credits and Minerals in tribute to their Overlord.\nAThey are supported by the production of the Overlord: Energy Credits and Minerals output increase by §!§Y100%§!§E. \nIf the affiliate relationship is lifted, the addition effect will disappear after a period of time.§!"
+ triggered_opinion_eap_shared_destiny:0 "Share Brilliance"
+ tributary_2 :0 "Overlord Support"
+ SUBJECT_tributary2:0 "Junior partner"
+ SUBJECT_DESC_tributary2:0 "They have limited diplomatic options, and fight along their Overlord.\nThey must pays §Y25%§! of their monthly Research, Energy Credits and Minerals in tribute to their Overlord.\nThey are supported by the production of the Overlord: Energy Credits and Minerals output increase by §Y100%§!.\nIf the affiliate relationship is lifted, the addition effect will disappear after a period of time."
+ 
+ eap_universal_transactions:0 "Capital Penetration"
+ eap_universal_transactions_desc:0 "We continue to invest and lend in Galaxy countries for high profits, gradually controlling their economic lifeline, and even affecting some senior officials'decision-making."
+ describe_universal_transactions_desc:0 "Subsidiary £opinion §YOpinion§! increased by§G+200§!"
+ describe_universal_transactions:0 "§EThe subsidiary will be promoted to wholly-owned subsidiary after a period of time.\nThey have limited diplomatic options, and fight along their parent company.\nThey must pays §Y25%§! of their monthly Research, Energy Credits and Minerals to their parent company.\nThey are supported by the production of the parent company: Energy Credits and Minerals output increase by §!§Y100%§!§E. \nIf the affiliate relationship is lifted, the addition effect will disappear after a period of time.§!"
+ triggered_opinion_eap_universal_transactions:0 "Capital Penetration"
+ tributary_3:0 "Support from parent company"
+ SUBJECT_subsidiary2:0 "Wholly-owned subsidiary"
+ SUBJECT_DESC_subsidiary2:0 "Wholly-owned subsidiary have limited diplomatic options, and fight along their parent company.\nThey must pays §Y25%§! of their monthly Research, Energy Credits and Minerals to their parent company.\nThey are supported by the production of the parent company: Energy Credits and Minerals output increase by §!§Y100%§!§E. \nIf the affiliate relationship is lifted, the addition effect will disappear after a period of time."
+ 
+ eap_mastery_of_nature:0 "Nature and harmony"
+ eap_mastery_of_nature_desc:0 "We have changed the way of transforming nature, following the laws of nature, and building a system that is conducive to the harmonious symbiosis between us and nature."
+ eap_mastery_of_nature_unlocks:1 "Unlock all £society  §YPlanet habitability§! technology."
+ allow_edict_land_clearance_perfection:0 "§HUnlocks decision:§! Nature and harmony"
+ 
+ describe_edict_land_clearance_perfection:1 "§EThis is a Decision that permanently increases the maximum number of districts a Planet can support by §Y8§!. It can only be performed once on each planet.§!"
+ 
+ decision_eapmastery_of_nature:0 "Nature and harmony"
+ decision_eapmastery_of_nature_desc:0 "We live in harmony with nature, almost perfect symbiosis."
+ d_AA:0 "Nature's Gift"
+ d_AA_desc:0 "The planet is a sustainable world."
+ 
+ eap_mastery_of_nature2:0 "Subjugation of Nature"
+ eap_mastery_of_nature2_desc:0 "Accumulated knowledge and experience are sufficient, and all natural environmental factors that interfere with our expansion can be easily ruled out. All lands, all naturals are open to us! We are the conquerors of nature! §!"
+ eap_mastery_of_nature2_unlocks:1 "Unlock all £society  §YClear Blocker§! technology."
+ allow_edict_land_clearance_perfection2:0 "§HUnlocks decision:§! Subjugation of Nature"
+ decision_eapmastery_of_nature2:0 "Subjugation of Nature"
+ decision_eapmastery_of_nature2_desc:0 "We have completely conquered nature."
+ d_BB:0 "Move mountain and Fill seas"
+ d_BB_desc:0 "Make full use of every inch of space."
+ 
+ deseap_one_vision_desc:0 "§HUnlocks policy: §!Complete Confidence\nAllow us to open up different trends of propaganda through the modification of the policy."
+ 
+ 
+ nnn_galactic_force_projection_desc:0 "§G1~5§! battleships are obtained every §G10§! years."
+ 
+ eap_defender_of_the_galaxy:0 "Guardians of the Galaxy"
+ eap_defender_of_the_galaxy_desc:0 "Our research spacecraft discovered an old-fashioned box full of mysterious patterns on a barren planet. After a preliminary study, the box is sealed by sophisticated technology and is very difficult to open. Its surface pattern seems to be telling the Galaxy may face a desperate disaster, with the prevention in the box.\n\nWe will never allow the Galaxy into a dark future!"
+ eap_defender_of_the_galaxy_modifier_desc:0 "Damage to Endgame Crisis factions: §G+50%§!\nAll resources produced: §G+50%§!"
+ eap_defender_of_the_galaxy_effect_opinion:0 "Everyone's  £opinion  §YOpinion§! increased by §G+80§!"
+ the_defender:0 "Pandora's Box"
+ eap_defender_of_the_galaxy_effect:0 "§RWarning, will result in the Endgame Crisis!§!"
+ triggered_opinion_eap_defender_of_the_galaxy:0 "Guardians of the Galaxy"
+ 
+ eap_executive_vigor:0 "Efficient Executive"
+ eap_executive_vigor_desc:0 "The edicts decided upon by our government will be carried out to the maximum extent."
+
+ eap_transcendent_learning:0 "Limitless"
+ eap_transcendent_learning_desc:0 "We have developed a magic agent: NZT-48, Can greatly improve the thinking ability of people who suck. At the same time, learning new knowledge will get a great euphoria. It has almost no side effects. Learning and research have become the best way to entertain!"
+ allow_decision_nzt48:0 "§HUnlocks Planetary Edict:§! NZT-48"
+ describe_decision_nzt48:3 "§EThis is a Planetary Edict that lasts for §Y100§! years and increases £pop  Pop §Y$MOD_POP_HAPPINESS$§!, increases Pop §YResearch Output§!, decrease §YGoverning Ethics Attraction§!.§!"
+ decision_nzt48:0 "NZT-48"
+ decision_nzt48_desc:0 "The local government began to spray NTZ-48 in large areas, The planet is shrouded in a strong academic atmosphere."
+ 
+# Techs                       
+
+ tech_world_shaper:0 "Rebuilding the barren world"
+ tech_world_shaper_desc:1 "Even the barren planet, we can directly transform it into a world where any form of life can be perfectly adapted!\n\n"
+ TECH_UNLOCK_TERRAFORMING_BARREN_TO_GAIA_CHANGE_TITLE:0 "§HUnlocked function:§! Barren planet transformation"
+ TECH_UNLOCK_TERRAFORMING_BARREN_TO_GAIA_CHANGE_DESC:0 "§Hclimate transformation§!\nAllow us to transform potential barren planet into Gaia planet.（Some barren planet get "Transformation of candidate"）"
+ 
+ tech_hive_worlds:0 "Barren world nests"
+ tech_hive_worlds_desc:1 "Even a barren planet can be transformed directly into hive!\n\n"
+
+ TECH_UNLOCK_TERRAFORMING_BARREN_TO_HIVE_CHANGE_TITLE:0 "§HUnlocked function:§! Barren planet transformation"
+ TECH_UNLOCK_TERRAFORMING_BARREN_TO_HIVE_CHANGE_DESC:0 "§Hclimate transformation§!\nAllow us to transform potential barren planet into hive world.（Some barren planet get "Transformation of candidate"）"
+ 
+ nnn_tech_repeatable_ascension_perks:0 "Recurring Ascendance"
+ nnn_tech_repeatable_ascension_perks_desc:0 "Time is a flat circle. Everything we have done, or will do, we will do over and over and over again. Forever."
+ 
+ nnn_terraforming_candidate:0 "Transformation of candidate"
+ nnn_terraforming_candidate_desc:0 "When the  £society  §H$tech_world_shaper$§! is studied,\nwe can transform it directly into gaia."
+ 
+ nnn_terraforming_candidate2:0 "Transformation of candidate"
+ nnn_terraforming_candidate2_desc:0 "When the  £society  §Htech_hive_worlds$§! is studied,\nwe can transform it directly into hive world."
+ 
+ tech_starbase_capacity:0 "Rapid expansion"
+ tech_starbase_capacity_desc:0 "The immense logistical support networks has made a great breakthrough and will be able to support more Starbase. We are going to have a period of rapid expansion."
+
+# Misc              
+
+ requires_ap_world_shaper:1 "$TRIGGER_FAIL$Requires the §Y$ap_world_shaper$§! Ascension Perk."
+ requires_ap_hive_worlds:1 "$TRIGGER_FAIL$Requires the §Y$ap_hive_worlds$§! Ascension Perk."
+ requires_ap_galactic_force_projection:1 "$TRIGGER_FAIL$Requires the §Y$ap_galactic_force_projection$§! Ascension Perk."
+ requires_ap_master_builders:0 "$TRIGGER_FAIL$Requires the §Y$ap_master_builders$§! Ascension Perk."
+ requires_ap_interstellar_dominion:0 "$TRIGGER_FAIL$Requires the §Y$ap_interstellar_dominion$§! or §Y$ap_grasp_the_void$§! Ascension Perk."
+ requires_ap_technological_ascendancy:0 "$TRIGGER_FAIL$Requires the §Y$ap_technological_ascendancy$§! Ascension Perk."
+ requires_ap_one_vision:0 "$TRIGGER_FAIL$Requires the §Y$ap_one_vision$§! Ascension Perk."
+ requires_ap_imperial_prerogative:0 "$TRIGGER_FAIL$Requires the §Y$ap_imperial_prerogative$§! Ascension Perk."
+ requires_ap_shared_destiny:1 "$TRIGGER_FAIL$Requires the §Y$ap_shared_destiny$§! Ascension Perk."
+ requires_tech_battleships:0 "$TRIGGER_FAIL$Requires the £engineering  §Y$tech_battleships$§! technology."
+ requires_ap_mastery_of_nature:1 "$TRIGGER_FAIL$Requires the §Y$ap_mastery_of_nature$§! Ascension Perk."
+ requires_not_eap_mastery_of_nature:1 "$TRIGGER_FAIL$May not have the §Y$eap_mastery_of_nature$§! Ascension Perk."
+ requires_not_eap_mastery_of_nature2:1 "$TRIGGER_FAIL$May not have the §Y$eap_mastery_of_nature2$§! Ascension Perk."
+ requires_ap_defender_of_the_galaxy:1 "$TRIGGER_FAIL$Requires the §Y$ap_defender_of_the_galaxy$§! Ascension Perk."
+ requires_years_2:0 "$TRIGGER_FAIL$Requires more than §Y2250§!."
+ requires_no_crisis:0 "$TRIGGER_PASS$Requires §YNo trigger crisis§!."
+ requires_ap_executive_vigor:1 "$TRIGGER_FAIL$Requires the §Y$ap_executive_vigor$§! Ascension Perk."
+ requires_ap_transcendent_learning:1 "$TRIGGER_FAIL$Requires the §Y$ap_transcendent_learning$§! Ascension Perk."
+ requires_tech_subdermal_stimulation_or_hive:0 "$TRIGGER_FAIL$Requires the £society  §Y$tech_subdermal_stimulation$§! technology or §Y$civic_tooltip_hive_mind$§!."
+ requires_not_ap_synthetic_evolution:1 "$TRIGGER_PASS$May not have the §Y$ap_the_flesh_is_weak$§! Ascension Perk."
+ requires_ap_universal_transactions:1 "$TRIGGER_FAIL$Requires the §Y$ap_universal_transactions$§! Ascension Perk."
+ 
+ mod_megastructures_cost_mult:0 "Megastructure Build Cost"
+ mod_megastructures_produces_mult:0 "Megastructure Resource Production"
+
+ # Evenets
+ 
+ adevent:0 "Future technology summit"
+ adevent_desc:0 "We believe in science, and believe that our science needs constant development, and far from turning the world into omniscience, science - the constant change of the unknown into the known, which is the true meaning of our greatness and the purpose of carrying forward the spirit of exploration\n"
+ eata:2 "The three year conference was successfully held"
+ eata.tooltip:2 "Gain §YResearch Points§! equivalent to §G6§! monthly gain."
+ eata2:2 "I know, no need to notify again."
+ eata2.tooltip:2 "Gain §YResearch Points§! equivalent to §G6§! monthly gain.\nWill not be notified again."
+ 
+ nnnethic_event.3.name:0 "Ideological propaganda"
+ nnnethic_event.3.desc:1 "\nAfter ten years of Ideological and moral propaganda, people will gradually accept the new ideology.\n"
+ 
+ nnnethic_event.4.name:0 "Ideological propaganda ends"
+ nnnethic_event.4.desc:1 "\nFor a period of ten years of ideological propaganda activities ended, the overall effect is satisfactory.\n"
+ 
+ nnnworld_shaper:0 "Rebuilding the barren world"
+ nnnworld_shaper_desc:1 "Our planet transformation technology is becoming more and more mature, and the first fully autonomous planet of §Ybarren planet§! transformation is already in preparation.\n"
+ world_shaper.a:0 "Excellent"
+ world_shaper_tooltip:0 "tech research option gained £society  §H$tech_world_shaper$§!"
+ 
+ nnnworld_shaper2:0 "Rebuilding the barren world"
+ nnnworld_shaper2_desc:1 "Our ability to expand is getting stronger and stronger, and we are trying to transform a barren planet into a hive world.\n"
+ world_shaper2.a:0 "Excellent"
+ world_shaper2_tooltip:0 "tech research option gained £society §H$tech_hive_worlds$§!"
+ 
+ force_event.2.title:0 "Navy construction"
+ force_event.2_desc:1 "Our military factories are so efficient that they can almost always over accomplish their tasks!"
+ force_event.tooltip:1 "Get §G1~5§! battleships"
+ force_event.b:0 "Selling additional ships to security companies"
+ force_event_b.tooltip:1 "Get §G5000§! energy.\n$MOD_STARBASE_TRADE_PROTECTION_ADD$:§G+5§!, lasting §G10§! years"
+ 
+ trade_protection:0 "$MOD_STARBASE_TRADE_PROTECTION_ADD$"
+ 
+ 
+ eapdefender:0 "Endgame Crisis ?"
+ eapdefender_desc:0 "Our experts kept studying the box. After analyzing, the pattern on the box seems to express a possible End Crisis of the galaxy, and there is technology or method to prevent this crisis."
+ defender1:2 "The crisis seems to come from...subspace creatures ?"
+ defender2:2 "These patterns seem to be describing a dimensional portal."
+ defender3:2 "A mysterious signal ? what does that mean ?"
+ 
+ eapdefender2:0 "Pandora's Box"
+ eapdefender2_desc:0 "We made a mistake, we were deceived! At the moment when the box was opened, we monitored a signal that could be used to mark this galaxy from which it was launched, unable to intercept, for an unknown purpose.\nDisaster may come at any time, and we must begin to prepare immediately to deal with the crisis.\nFortunately, the technology acquired by analyzing boxes has greatly increased our productivity.\n"
+ eapdefender2.a:0 "The coming will come, we are fearless"
+ eapdefender2.a.tooltip:1 "§REndgame Crisis§! will trigger in §R10§! years.\nAdd relics: §OPandora's Box§!"
+ 
+ eip:0 "Enforce Prerogative"
+ eip_desc:0 "The central government's control is constantly improving, firmly controlling every sectors."
+ eip_event.a:0 "All the sectors are under control！"
+ eip_tooltip:1 "§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§! increased by §G50§!."
+ 
+ # Relic
+ 
+ r_defender:0 "Pandora's box"
+ r_defender_desc:0 "The box attracts disaster, but gives strength, we love and hate it!"
+ 
+ # Policy
+ 
+ policy_nnn_ethic_attraction:0 "Complete Confidence"
+ policy_nnn_ethic_attraction_desc:0 "From the difficult years, the central government has proved his absolute correctness, and the people do not hesitate to believe everything that the central government wants the people to believe."
+ government_ethic_attraction:0 "Maintenance status"
+ government_ethic_attraction_desc:0 "There is no need to guide the ethics of the people."
+ ethic_authoritarian_attraction:0 "Turning authoritarianism."
+ ethic_authoritarian_attraction_desc:0 "Open ten years of authoritarian ethics propaganda"
+ ethic_egalitarian_attraction:0 "Turning egalitarianism"
+ ethic_egalitarian_attraction_desc:0 "Open ten years of egalitarianism ethics propaganda"
+ ethic_materialist_attraction:0 "Turning materialist"
+ ethic_materialist_attraction_desc:0 "Open ten years of materialist ethics propaganda"
+ ethic_spiritualist_attraction:0 "Turning spiritualist"
+ ethic_spiritualist_attraction_desc:0 "Open ten years of spiritualist ethics propaganda"
+ ethic_xenophobe_attraction:0 "Turning xenophobe"
+ ethic_xenophobe_attraction_desc:0 "Open ten years of xenophobe ethics propaganda"
+ ethic_xenophile_attraction:0 "Turning xenophile"
+ ethic_xenophile_attraction_desc:0 "Open ten years of xenophile ethics propaganda"
+ ethic_pacifist_attraction:0 "Turning pacifist"
+ ethic_pacifist_attraction_desc:0 "Open ten years of pacifist ethics propaganda"
+ ethic_militarist_attraction:0 "Turning militarist"
+ ethic_militarist_attraction_desc:0 "Open ten years of militarist ethics propaganda"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

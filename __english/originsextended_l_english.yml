@@ -1,0 +1,152 @@
+﻿l_english:
+
+ # Starless origin
+ originsextended_starless:0 "Starless"
+ originsextended_starless_desc:0 "Born onto an unforgiving planet, this civilization has grown up without a star in its sky, only the unyielding darkness of a black hole, forever drowning the landscapes of their desolate homeworld in darkness."
+ originsextended_tooltip_starless:0 "Capital starts as a §YTomb World§! and home star starts as a §YBlack Hole§!\nGain the §Y$trait_originsextended_starless$§! trait, granting:\n  Habitability: §R-10%§!\n  £minerals£ Minerals from £pops£ Jobs: §G+10%§!"
+
+ # Starless trait
+ trait_originsextended_starless:0 "Starless"
+ trait_originsextended_starless_desc:0 "§LBorn without a star, this species finds other worlds with stars unforgiving to their development.§!"
+
+ # Chain 1 - Ex-colony (shattered world)
+ starless_site_shattered:0 "Shattered Remains"
+ starless_site_shattered_desc:0 "The remains of this shattered planet sport what appear to be small colonial settlements dotting the surface of some of the larger, scattered chunks. Further investigation is necessary."
+
+ starless.200.name:0 "Shattered Remains"
+ starless.200.desc:0 "With our expansion into interstellar space, we have been able to take a larger look at our own home system. It appears that some of the scattered remains of the shattered §Y[starless_shattered.GetName]§! sport the remains of small colonial settlements. Our scientific community begs that we dedicate more time to investigate this phenomenon."
+ starless.200.a:0 "Most peculiar."
+
+ starless.201.name:0 "In Great Haste"
+ starless.201.desc:0 "At first glance, it appears that the remaining structures of §Y[starless_shattered.GetName]§!'s larger chunks are indeed the remains of long-abandoned colonial settlements, apparently quickly abandoned, for no clear reason.\n\nAlthough some of the remains of these buildings have fallen between the shattered bits of §Y[starless_shattered.GetName]§!, and some have lost their footing and now wander into the mouth of §Y[Root.Capital.GetStarName]§!, yet most sit under tons of dust and other remains."
+ starless.201.a:0 "Keep digging! But try to not fall off..."
+
+ starless.202.name:0 "Oversight"
+ starless.202.desc:0 "Deciphering the language and systems used by these ancient settlers has confirmed our suspicions that the colonial efforts of the colony were abandoned quickly, leaving everything behind. Apparently §Y[starless_shattered.GetName]§! was once a lush, albeit hot and dry, world, which seems bizarre when factoring the black-hole system it inhabits and its proximity to it.\n\nPerhaps continuing our search will lead to more answers?"
+ starless.202.a:0 "Curious."
+
+ starless.203.name:0 "Close call"
+ starless.203.desc:0 "Digging through the final remains of the colony's databanks has revealed that the colony was in its first stages relatively close to the collapse of the star that it was orbiting. At which point §Y[Root.Capital.GetStarName]§! did collapse and promptly tore §Y[starless_shattered.GetName]§! to pieces, rapidly ending the settlement's colonization efforts.\n\nThankfully it appears that the colony was evacuated in time, after the more dire signs of the system's demise became apparent. It also explains the state that the planet was in before its collapse, the rapidly expanding star it orbited generated much more heat, rendering the surface of the planet habitable. It appears that the civilization was so rushed in its efforts to colonize the planet that they did not notice their impending doom, perhaps something of greater importance was on their mind?"
+ starless.203.a:0 "Perhaps."
+
+ # Chain 2 - Rare crystals mining accident (broken world)
+ starless_site_broken:0 "Cracked Open"
+ starless_site_broken_desc:0 "§Y[starless_broken.GetName]§! appears to trace its fate to something other than the system's central Black Hole. More clues are needed in order to find what happened to the planet."
+
+ starless.300.name:0 "Cracked Open"
+ starless.300.desc:0 "At a glance, it would appear that §Y[starless_broken.GetName]§! was torn apart by §Y[Root.Capital.GetStarName]§!, but preliminary analysis of the planet reveals that it may have succumbed to its fate without the help of the Black Hole, or perhaps even prior to it. It may be worth looking into this before we venture too far out of our home system."
+ starless.300.a:0 "Intriguing."
+
+ starless.301.name:0 "Grand Operation"
+ starless.301.desc:0 "The first digging operations on the remains of §Y[starless_broken.GetName]§! reveal what appears to be ancient, planetary-scale drilling equipment. Most of it with some sort of orbital positioning systems, it is curious that they lay strewn about the surface of the planet, most of it in rough shape, even for it being some few thousand years old.\n\nBy the evidence of large craters, tunnel networks, and huge, but neatly carved, crevices exposed by the planet's broken surface, we believe that the equipment had some sort of terraforming or mining purpose, but it was certainly done after the formation of the black hole, which is itself a few million years old."
+ starless.301.a:0 "Keep digging!"
+
+ starless.302.name:0 "Over-drilled"
+ starless.302.desc:0 "Further analysis and excavation has proved that the equipment found was indeed mining and drilling equipment. From what we can make out based on old, translated records and logs, §Y[starless_broken.GetName]§! once had bountiful amounts of very-rare resources within it, prompting its enormous mining operations.\n\nIt wasn't long, however, before the equipment and planet gave out, unleashing a catastrophic chain of equipment malfunctions and tectonic destabilization, most likely the reason as to why the wrecked equipment we found was, well, wrecked.\n\nThe planet, ultimately over-drilled and worn-out, broke apart, prompting an abandonment of the mining operation before the planet's core exploded under the stress."
+ starless.302.a:0 "Boom!"
+
+ starless.303.name:0 "What Remains"
+ starless.303.desc:0 "Digging into the final remains of the ancient §Y[starless_broken.GetName]§! mining operation, we were able to find some of these infamous rare resources that some old empire was so desperate to have themselves. Although most was already gone, what we were able to find, combined with the scrapping of all of the old equipment, yields a handy resource stockpile."
+ starless.303.a:0 "Handy indeed."
+
+ # Chain 3 - Abandoned outpost (frozen barren world)
+ starless_site_frozen:0 "Lone Outpost"
+ starless_site_frozen_desc:0 "An abandoned building of some sort sits on the frozen surface of §Y[starless_barrencold.GetName]§!, practically begging for some archaeological dig-work."
+
+ starless.400.name:0 "Lone Outpost"
+ starless.400.desc:0 "Our scientific advancement enabling us to leave and explore beyond our home system have actually revealed something quite interesting on the frozen wasteland that is §Y[starless_barrencold.GetName]§!, apparently the planet's surface is home to an abandoned building of some sort. Further investigation is necessary in order to deduce what this strange structure holds, especially so close to our home planet."
+ starless.400.a:0 "Curious."
+
+ starless.401.name:0 "Laboratory"
+ starless.401.desc:0 "After finally managing to get inside the structure, which itself seems fairly rudimentary, it is quite evident that this building served as some sort of remote research outpost. Ancient computers, databanks, and various assortments of research equipment.\n\nTheir are currently no clues beyond this however. The equipment and materials at hand seem like basic research equipment, nothing that would necessitate a remote, frozen station in the system of a Black Hole."
+ starless.401.a:0 "Keep digging!"
+
+ starless.402.name:0 "Data, Data, Data"
+ starless.402.desc:0 "Deciphering the language of this old alien station reveals that only a few researchers, roughly 3 or four, actually worked the station, and hardly ever left it. As we looked into the available databanks we were able to find evidence that this outpost served some sort of data-collecting purpose. Millions of graphs, charts, spreadsheets, and quite random data points about anything and everything, fluctuations in §Y[Root.Capital.GetStarName]§!'s gravitational patterns, the brightness of stars billions of light-years away, soil quality over multiple decades, or how attracted each scientist was to their chair (seriously).\n\nThe current-running theory is that these were madmen of some sort who built their own research station for reasons that can only be imagined."
+ starless.402.a:0 "Odd."
+
+ starless.403.name:0 "Mad Indeed"
+ starless.403.desc:0 "Upon further digging, these scientists, indeed, were mad. Or more specifically, went mad. Looking at the patterns of their collected data, it became very sporadic and baseless in the last few decades of the outpost's lifespan, before the scientists, driven mad by the confined space and monotone life ended up taking their own lives.\n\nWe have yet to know exactly why they were here in the first place, however."
+ starless.403.a:0 "See what else you can find."
+
+ starless.404.name:0 "Exiled"
+ starless.404.desc:0 "Finally finding the first few reports of these bunch of mad scientists tells us they were exiled. Previously reputed scientists on the capital planet of their empire, they were cast out when pushing forward a theory that some random subspace signals they had picked up were actually the war sounds of an extra-galactic race coming to kill them all (could you imagine?!).\n\nPortrayed as mad and paranoid, the scientists were discredited and thrown out of their empire, eventually pooling everything that they had together in order to build this remote little outpost in the least suspecting place, the barren, cold, desolate, wasteland of §Y[starless_barrencold.GetName]§! where they waited out their days in search of these so-told extra-galactic invaders."
+ starless.404.a:0 "What happened next?"
+
+ starless.405.name:0 "Without a Trace"
+ starless.405.desc:0 "The final days of operations of the outpost are a bit of a mess in its archives, but apparently the invaders not only existed, did actually come to this galaxy. Going straight to the §Y[starless_barrencold.GetName]§! outpost, apparently they were attracted to whatever means the scientists were using to find the extra-galactic aliens. But the moment they finally arrived at the system (apparently with thousands of ships), ended up being the same moment that §Y[Root.Capital.GetStarName]§! collapsed into the Black Hole it is today!\n\nPretty-much instantly swallowing the entire alien fleet, never to be seen again.\n\nMost conveniently, there was therefore no sign whatsoever of the existence of these extra-galactic aliens, which lead to the scientists' suicides as they descended into madness in their fruitless efforts to convince their homeworld that they were, indeed, not crazy."
+ starless.405.a:0 "What a mess."
+
+ # Starborn origin
+ originsextended_starborn:0 "Starborn"
+ originsextended_starborn_desc:0 "This species has always, consciously or not, longed to traverse the void between the stars and, eager to do so, have prepared in advance for it."
+ originsextended_tooltip_starborn:0 "Gain an extra §YColony Ship§! upon begining the game\nGain the §Y$trait_originsextended_starborn$§! trait, granting:\n  Pop growth from immigration: §G+25%§!\n  Resettlement Cost: §G-25%§!\n  Habitability: §G+10%§!\nGain £unity£ Unity bonuses for colonizing new planets\nUnlock the §Y$edict_starborn_reach_stars$§! edict"
+
+ # Starborn trait
+ trait_originsextended_starborn:0 "Starborn"
+ trait_originsextended_starborn_desc:0 "§LThis species has always, consciously or not, longed to traverse the void between the stars.§!\n"
+
+ # Colony ship event
+ starborn.0.name:0 "Colony Ship Complete"
+ starborn.0.desc:0 "Eager as we were to finally launch our advance into space, our first colony ship has finished construction and now patiently awaits the right planet to colonize."
+ starborn.0.option:0 "Excellent!"
+ starborn.0.tooltip:0 "An extra §YColony Ship§! is ready at the §Y[Root.Capital.GetStarName]§! starbase."
+
+ # Colony formed event
+ starborn.1.name:0 "Colony Founded"
+ starborn.1.desc:0 "In our species' hearts and minds, adventuring into space is always what we have been destined to do. The foundation of a new colony has caused celebrations to erupt across §Y[Root.Planet.GetName]§!'s new settlements, and our people eagerly await our next advance in space."
+ starborn.1.option:0 "Excellent!"
+
+ new_starborn_colony:0 "New Colony"
+ new_starborn_colony_desc:0 "Our people, forever longing for the stars, are celebrating the foundation of our new colony, eagerly awaiting for our next adventure out in the cosmos."
+
+ # Edict
+ starborn.2.name:0 "Colony Ship Complete"
+ starborn.2.desc:0 "Eager as we were to expedite our advance into space, an extra colony ship has finished construction and now patiently awaits the next planet to colonize."
+ starborn.2.option:0 "Excellent!"
+ starborn.2.tooltip:0 "An extra §YColony Ship§! is ready at the §Y[Root.Capital.GetStarName]§! starbase."
+
+ edict_starborn_reach_stars:0 "Ambition: Reaching for the Stars"
+ edict_starborn_reach_stars_desc:0 "Our species has always long to reach for the stars, now that they are within our grasp, we can take advantage our their ambitions and celebrate them by building a new colony ship and holding festivals throughout our worlds."
+
+ # psi origin
+ originsextended_psi:0 "Shroud Touched"
+ originsextended_psi_desc:0 "§MThis origin requires the 'Utopia' DLC.§!\n\nStemming from a deeper, more natural connection with the mysterious entity that is the Shroud, this species has latent psionic abilities, which are dormant in most of its members, but may rarely manifest in some leaders."
+ originsextended_tooltip_psi:0 "Gain the §Y$trait_latent_psionic$§! trait, granting:\n  £physics£ Physics Research from £pops£ Jobs: §G+5%§!\n  £society£ Society Research from £pops£ Jobs: §G+5%§!\n  £engineering£ Engingeering Research from £pops£ Jobs: §G+5%§!\n  £energy£ Energy Credits from £pops£ Jobs: §G+5%§!"
+ psi.0.name:0 "Shroud Touched"
+ psi.0.desc:0 "Due to the long and complicated origins of species, we have discovered that most members of our speicies exhibit some minor psionic potential, which our empire is prepared to embrace at a much larger level."
+ psi.0.option:0 "An interesting development."
+ psi.0.tooltip:0 "Gain the §Y$tech_psionic_theory$§! tech, unlocking the §Y$ap_mind_over_matter$§! ascension perk to be chosen after we have unlocked another ascension perk"
+
+ # cyb origin
+ originsextended_cyb:0 "Cybernetic Manipulation"
+ originsextended_cyb_desc:0 "§MThis origin requires the 'Utopia' DLC.§!\n\nFor many ages prior to their space travels, this species has embraced cybernetics on such a scale that its members may be considered cyborgs, permeating every level of their society."
+ originsextended_tooltip_cyb:0 "Gain the §Y$trait_cybernetic$§! trait, granting:\n  Habitability: §G+20%§!\n  Army Damage: §G+10%§!\n  Leader Lifespan §G+40§! Years"
+ cyb.0.name:0 "Cybernetic Manipulation"
+ cyb.0.desc:0 "Due to the long and complicated origins of species, most members of our speicies exhibit some level of cybernetic augmentation, alongside our ability to construct droid worker pops, which our empire is prepared to embrace at a much larger level."
+ cyb.0.option:0 "An interesting development."
+ cyb.0.tooltip:0 "Gain the §Y$tech_droid_workers$§! tech, unlocking the §Y$ap_the_flesh_is_weak$§! ascension perk to be chosen after we have unlocked another ascension perk"
+
+ # host origin
+ originsextended_host:0 "Brain Slug Hosts"
+ originsextended_host_desc:0 "§MThis origin requires the 'Distant Stars' DLC.§!\n\nFor as long as they can remember, this species has been enjoying the presence of a helpful slug that attaches itself to the brain stem of its host as a neural symbiote."
+ originsextended_tooltip_host:0 "Gain the §Y$trait_brainslug$§! trait, granting:\n  £engineering£ Engineering Research from £pops£ Jobs: §G+10%§!\n  £physics£ Physics Research from £pops£ Jobs: §G+10%§!\n  £society£ Society Research from £pops£ Jobs: §G+10%§!\n  £unity£ Unity from £pops£ Jobs: §G+10%§!\n  Pop Growth Speed: §R-25%§!"
+
+ # farming origin
+ originsextended_farming:0 "Xeno Livestock Farming"
+ originsextended_farming_desc:0 "§MThis origin requires the 'Utopia' DLC.§!\n\nA second species forms an integral part of this civilization's food production techniques, particularly  in the form of livestock. They are tasty, delicious, and have had their higher brain functions selectively altered to create a kind of harmless livestock that can care for itself, without the pesky need for social interaction or self-determination."
+ originsextended_tooltip_farming:0 "Start the game with §Y5§! £pop£ Pops being of another, docile and delicious, livestock species"
+
+ # engineered origin
+ originsextended_engineered:0 "Engineered Genetic Perfection"
+ originsextended_engineered_desc:0 "This species has, early on in its lifetime, worked to reduce its genetic imperfections and impurities, enabling them to focus on more positive traits and genetic make-up across their entire species."
+ originsextended_tooltip_engineered:0 "Gain §Y2§! extra trait points."
+
+ # engineered trait
+ trait_originsextended_engineered:0 "Engineered Perfection"
+ trait_originsextended_engineered_desc:0 "§LActively working to reduce its genetic imperfections and impurities, this species has been able to focus more on positive traits as a result.§!"
+
+ # core origin
+ originsextended_core:0 "Dormant Core"
+ originsextended_core_desc:0 "§MThis origin requires the 'Synthetic Dawn' DLC.§!\n\nThe ancient central consciousness of this machine intelligence has not been utilizing the capacity of all of its worker and processing drones and still has remaining modifications it could enact later."
+ #originsextended_tooltip_core:0 "Gain the §Y$trait_cybernetic$§! trait, granting:\n  Habitability: §G+20%§!\n  Army Damage: §G+10%§!\n  Leader Lifespan §G+40§! Years"

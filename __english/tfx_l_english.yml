@@ -1,0 +1,512 @@
+﻿l_english:
+
+ origin_alien_invasion:0 "Alien Invasion"
+ origin_alien_invasion_desc:0 "This civilization encountered a hostile alien invasion or extraterrestrial event during their early space age, and must now deal with the calamities that ensued.\n\nIntroduces three new stories for you to explore (with more to come)"
+ origin_tooltip_alien_invasion:0 "- §BInvasion Storyline:§! Choose you own Invasion storyline reminiscent of classics such as the §BXCOM§! series.\n\n- §SThe Combine Invasion:§! Play as remanents of a planet subjugated by the Combine from the §SHalf-Life§! series."
+ ###
+ \n\n- §MThe Visitation:§! Hyperadvanced Aliens briefly visited your homeworld, leaving behind area's known as 'Zones' that exhibit extreme spacetime phenomena and produce wonderous artifacts. Based on §MRoadside Picnic§! by Arkady and Boris Strugatsky and associated S.T.A.L.K.E.R games.
+ ###
+ ##Misc Tooltips
+ tfx.indev.tooltip:0 "§YThis event chain / modifier is still under development, and currently only adds RP flavour. Few / no more events exist beyond this point§!"
+ tfx.indev2.tooltip2:0 "§RThis event chain / modifier is still confirmed to be broken, best to be avoided until its fixed§!"
+ tfx.op.tooltip:0 "§ROverpowered Difficulty Bonus§!"
+ tfx.overpowered.tooltip:0 "§ROverpowered Difficulty Bonus§!"
+
+ tfx.norm.tooltip:0 "§BNormal Difficulty Bonus§!" 
+ tfx.bal:0 "Taskforce Xeno - Balanced Difficulty"
+ tfx.bal.tooltip:0 "§GBalanced Difficulty Bonus§!"  
+
+ tfx_balanced:0 "Taskforce Xeno - Balanced Difficulty"
+ tfx_normal:0 "Taskforce Xeno - Normal Difficulty"
+ tfx_overpowered:0 "Taskforce Xeno - Overpowered Difficulty"
+ ##Technology
+ 
+ tech_tfx_alien_protocol:0 "Taskforce Xeno Protocols"
+ tech_tfx_alien_protocol_desc:0 "By formalizing our recruitment, training and tactical simulations of Taskforce Xeno we will be able to more quickly recruit combat ready units to defend our nation against invaders."
+ tech_galactic_tfx:0 "Galactic Taskforce Xeno "
+ tech_galactic_tfx_desc:0 "Taskforce Xeno has become little more than a ceremonial defence force for our capital. It is time to revitalize this illustrious organization into a special operations unit that fights Xeno's at home and abroad."
+ 
+ ##SETUP AND DIFFICULTY EVENT CHAIN
+ 
+ tfx.001_name:0 "TFX Advanced Empire Init"
+ tfx.001_desc:0 "This event has set your civilisation as the Taskforce Xeno Invaders, unless you're an AI you should not see or be aware of this event, move along."
+ tfx.002_name:0 "TFX Setup Event"
+ tfx.002_desc:0 "You probably shouldnt see this event, move along"
+ tfx.098_name:0 "Taskforce Xeno Difficulty Init"
+ tfx.098_desc:0 "You probably shouldnt see this event, move along"
+ tfx.099_name:0 "Taskforce Xeno Setup"
+ tfx.099_desc:0 "The §GBalanced Start§! will only give your nation minor bonuses, bringing it roughly in line with the power level of other vanilla origins(ish).\n \nThe §BNormal Start§! will give your nation several powerful bonuses and starting technologies during the Invsaion event chain.\n \nThe §ROverpowered Start§! will give you several powerful bonuses and many starting technologies during the Invasion event chain, making your empire extremely strong."
+ tfx.099.bal:0 "§GBalanced Start§!"
+ tfx.099.norm:0 "§BNormal Start§!"
+ tfx.099.op:0 "§ROverpowered Start§!"
+ 
+ tfx.100_name:0 "The [Root.Capital.GetName] Invasion"
+ tfx.100_desc:0 "The [Root.Capital.GetName] Invasion as it would come to be known occurred almost a generation ago. A then-unknown alien empire fell upon the unsuspecting [Root.GetSpeciesName] homeworld, their motives were at the time unknown but it became clear they did not come in peace. "
+ 
+ tfx.100.title.difficulty.norm:0 "Difficulty §GSet to Normal§!"
+ tfx.100.title.difficulty.bal:0 "Difficulty §ESet to Balanced§!"
+ tfx.100.title.difficulty.op:0 "Difficulty §MSet to Overpowered§!"
+ tfx.100.title.customstart:0 "§BThe Invasion Storyline§!"
+ tfx.100.customstart.tooltip:0 "The Invasion Storyline selected below will allow you to simulate the Invasion of an unknown, but clearly hostile alien civilisation. This is the definitive, and most well rounded Origin story arc.\n§RAvoid clicking this option, it may cause issues.§!Only select from options with white text below."
+ 
+ tfx.100.title.prebuiltstart:0 "§BCanon Invasion Stories§!"
+ tfx.100.prebuiltstart.tooltip:0 "Canon Invasion Stories will allow you to play in the backstories of several major science fiction properties, they offer less customisation on game start than the Invasion Storyline options but are great for those looking to roleplay in another worlds backstory. All right are reserved to there original creators.\n§RAvoid clicking this option, it may cause issues.§!Only select from options with white text below."
+ 
+ tfx.100.combine:0 "The Combine Invasion"
+ tfx.100.combine.tooltip:0 "§RVery Challenging Start\n§!Introduces a new §RCrisis§! from the §SHalf-Life§! series, ravages [Root.Capital.GetName] significantly but depending on difficulty setting rewards you with advanced technologies (you will need them).\n\n§YNOTE:§! This event chain is still early in development. Currently only the first startup event chain is integrated, with no crisis or other mechanics added and several bugs."
+ 
+ tfx.100.fallback:0 "Taskforce Xeno was activated"
+ tfx.100.generals:0 "The joint chiefs of the military assembled"
+ tfx.100.council:0 "A council of nations was assembled"
+ tfx.100.oligarchs:0 "The oligarchy was assembled"
+ tfx.100.imperialdiet:0 "An Imperial Diet was called"
+ tfx.100.shareholders:0 "A company Emergency General Meeting was called"
+ tfx.100.science:0 "The Academy assembled their best and brightest"
+ tfx.100.kurultai:0 "The great Kurultai of clan-nations was called"
+ tfx.100.holywarriors:0 "His Holiness called an ecclesiastical council"
+  
+ tfx.100.b:0 "Surrender is [Root.Capital.GetName]'s only choice"
+ tfx.100.b.tooltip:0 "Unable to organise an effective defence, the people of [Root.Capital.GetName] quickly surrendered to the Xenos.\n§RWarning! This event leads to your vassalisation or destruction§!"
+ 
+ tfx.101_name:0 "End of the War"
+ tfx.101_desc:0 "After years of war, the hostile alien invaders were repelled from [Root.System.GetName]. While our work managed to save billions of lives and we acquired many highly advanced technologies, this victory came at a cost, and many cities' infrastructures throughout the world are completely destroyed."
+ tfx.101.a:0 "Let us work to rebuild!"
+ 
+ tfx.102_name:0 "An Irresistible Force"
+ tfx.102_desc:0 "There was nothing the nations of [Root.Capital.GetName] could do against such power.\n\nOverwhelmed, devastated and outclassed on all fronts, our leaders quickly surrendered to the Xeno Invasion."
+ tfx.102.a:0 "Only Ashes Remain"
+ tfx.102.a.tooltip:0 "§RHardest Possible Start.§!\n\n[Root.Capital.GetName] will be devestated beyond repair, your population will be nearly wiped out and you will get no help. You have been warned"
+ tfx.102.b:0 "Now begins our darkest days"
+
+ ############# CUSTOM INVASION EVENT CHAIN
+ 
+ tfx.203.invadersoffline:0 "§RInvaders Offline§!"
+ tfx.203.invadersoffline.tooltip:0 "§RSomething has gone wrong during event setup, and no suitable Advanced Empires, Marauder Empire or Fallen Empire has been selected as the Invader§!. You can still play this game and access the origins features, but events around discovering the Invaders will not occur. This is likely caused by there being to few advanced start empires."
+
+ tfx.203.invaders_me_online:0 "§YInvaders - Dormant Mauraders§!"
+ tfx.203.invaders_me_online.tooltip:0 "No suitable Advanced Empire could be found to play the Invaders, so a Dormant Marauder Empire has been selected instead. This will increase difficulty. Try having more Advanced Empires or re-rolling if you wish to play the default setup."
+ 
+ tfx.203.invaders_fe_online:0 "§YInvaders - Fallen Empire§!"
+ tfx.203.invaders_fe_online.tooltip:0 "No suitable Advanced Empire OR Maurader Empire could be found to play the Invaders, and so a Fallen Empire has been selected instead. This will substantially increase difficulty. Try having more Advanced Empires or re-rolling if you wish to play the default setup."
+ 
+ tfx.203.invadersonline:0 "§GInvaders - Advanced Empire§!"
+ tfx.203.invadersonline.tooltip:0 "A random Advanced Empire has been selected as the Invader, the mod is working §Gcorrectly§!. Choose an option below to continue.\n§RDo NOT click this option, it may cause issues§!"
+ 
+ tfx.203_name:0 "Taskforce Xeno"
+ tfx.203_desc:0 "Historical Account TFX-001:\nSince first observing the nights sky, [Root.GetSpeciesName] have always wondered if we were alone in the universe, and while first contact had always been a speculated, few had truly considered that this would be the answer we were given.\n\nFirst detected by military satellites and then later civilian astronomical arrays, a fleet of unknown but unmistakably Alien ships entered the [Root.Capital.GetStarName] system and after several days reached [Root.Capital.GetName]. In the first few hours of the war Xeno ships unleashed devastating weaponry across the planet, leaving many cities in ruins. The nations of [Root.Capital.GetName] responded with a massive nuclear exchange directed at the Xeno fleet, forcing them to retreat from bombardment range.\n\nIt was then that Taskforce Xeno was activated, a multinational military force designed to coordinate and respond to the Xeno threat. In the early days the Taskforce was limited in its capabilities, and was forced to make hard decisions, as not all could be evacuated to safe zones."
+
+ tfx.203.a:0 "Priotise Air Supremacy and Operations"
+ tfx.203.b:0 "Priotise Army Training and Evacuations"
+ tfx.203.c:0 "Priotise VIP Search and Rescue"
+ tfx.203.quick:0 "Enact Plan: Xeno"
+ tfx.203.quick_tooltip:0 "An ounce of prevention is worth a pound of cure. Due to our §GQuick Learner§!/§BIntelligent§! trait our leaders had covertly prepared [Root.Capital.GetName] for just such as invasion"
+ tfx.203.industrious:0 "Rapid Economic Mobilisation"
+ tfx.203.industrious_tooltip:0 "While many will perish, their work will save us all. Due to our §GIndustrious§! trait the people of [Root.Capital.GetName] will work night and day to prepare while they can"
+ 
+ tfx.204_name:0 "Terror Bombing"
+ tfx.204_desc:0 "Having ceased full bombardment, smaller Xeno strikecraft and ground units began making planetfall, with the aim to sow chaos and destroy vital infrastructure. In what would come to be known as the Terror Bombing entire nations were consumed in fire, cities burnt, and the global economy was all but destroyed.\n\nSeeing the threat, several powerful states of [Root.Capital.GetName] threw their full support by Taskforce Xeno, bolstering the organisation and expanding its warfighting capabilities. While many criticised the Taskforces priorities, history has proven sacrifices had to be made for our very survival."
+ tfx.204.a:0 "Protect Key Infrastructure"
+ tfx.204.b:0 "Prioritise International Cooperation"
+ tfx.204.c:0 "Defend our Population Centres"
+ tfx.204.citizenservice:0 "Establish Citizen Service"
+ tfx.204.corvee:0 "Enforce Corvee Labour"
+ tfx.204.warriorculture:0 "Call to Arms"
+ tfx.204.nationalism:0 "Call to Arms"
+
+ tfx.205_name:0 "Reverse Engineering"
+ tfx.205_desc:0 "The Xenos found we were not conquered so easily, we built up our defences, learned to adapt and charged them in blood for every inch of [Root.Capital.GetName]. The tide began to turn once we captured and began reverse engineering the Xeno's technology. The greatest minds our civilization stood united in defence of all [Root.GetNamePlural]."
+ tfx.205.a:0 "Salvage Xeno Power Technology"
+ tfx.205.b:0 "Salvage Xeno Biotech"
+ tfx.205.c:0 "Salvage Xeno Engineering"
+ tfx.205.d:0 "Breakthrough in Xeno Power Systems"
+ tfx.205.e:0 "Breakthrough in Xeno Biology"
+ tfx.205.f:0 "Breakthrough in Xeno Engineering"
+ 
+ tfx.206_name:0 "Turning The Tide"
+ tfx.206_desc:0 "Desperate, and unnable to mount a resistance on their own, the many nations of [Root.Capital.GetName] ceeded their authority. Transforming the fragmented nations of [Root.Capital.GetName] into the [Root.Owner.GetName]. United under a single banner we finally stood a fighting chance, and the tide began to turn against the Xenos."
+ tfx.206.a:0 "Liberate Occupied Cities" 
+ tfx.206.b:0 "Raid Critical Blacksites"
+ tfx.206.c:0 "Strike their Satellite Network"
+ tfx.206.philospherking:0 "Personally Oversee Vital Operations"
+ tfx.206.admiralty:0 "Their Finest Hour"
+
+ tfx.207_name:0 "Once More into the Breach!"
+ tfx.207_desc:0 "The tides of war turned in our favour. Street by street, and day by day we began to push them back. Finally, overwhelmed and under supplied the bulk of the Xeno occupation forces began to withdraw. With the majority of [Root.Capital.GetName] liberated only small pockets of resistance remained. Captured Xeno technology allowed us to track their fleet in orbit around [Root.Capital.GetName], and it was decided that a final blow against the Xeno mothership would break the back of the invaders and ensure victory"
+ tfx.207.technocracy:0 "Forward, to Foundation!"
+ tfx.207.sharedburdens:0 "Down with the Xeno, Glory to Revolution!"
+ tfx.207.aristocratic:0 "Victory and Nobility"
+ tfx.207.sharedburden:0 "Glory to the Revolution!"
+ tfx.207.preisthood:0 "Hand in and skin the Sinners if you wish to skim divinity"
+ 
+ tfx.207.a:0 "They give an inch, we take a mile"
+ tfx.207.democracy:0 "A multinational strikeforce eliminated the xeno mothership"
+ tfx.207.imperial:0 "Imperial elite's smashed the xeno mothership"
+ tfx.207.corporate:0 "Corporate spies infiltrated & sabotaged the xeno mothership"
+ tfx.207.science:0 "An exploit in the xeno motherships systems caused a reactor meltdown"
+ tfx.207.clans:0 "United clansman overwhelmed the xeno mothership"
+ tfx.207.b:0 "Holy Warriors smashed the Xeno Mothership"
+
+ tfx.208_name:0 "End of The [Root.Capital.GetName] Invasion"
+ tfx.208_desc:0 "The destruction of the Xenos Mothership heralded the end of the war. Accross all [Root.Capital.GetName] the newly united people of [Root.GetAllianceName] celebrated the victory. However the Xeno's Invasion left [Root.Capital.GetName] devastated, with many years needed to fully recover. The impact of the The [Root.Capital.GetName] Invasion was not evident at in the early post war years, however over the next generation the following philosophy ascended to primary"
+ 
+ tfx.208.vengeance:0 "The Vengeance Pact" 
+ tfx.208.vengeance.tooltip:0 "Enshrine Vengeance in Law. Never Forgive, Never Forget."
+ tfx.208.defend:0 "The Fortress Doctrine"
+ tfx.208.defend.tooltip:0 "Never Again, Always Prepared"
+ tfx.208.peace:0 "Knowledge and Peace"
+ tfx.208.peace.tooltip:0 "Peace Among Worlds"
+ tfx.208.churchofxeno:0 "Church of the Divine Xeno"
+ tfx.208.churchofxeno.tooltip:0 "The Gods Among Us"
+ tfx.208.crusade:0 "The Xeno Crusade"
+ tfx.208.crusade.tooltip:0 "Strength, in Faith"
+ tfx.208.rebuild:0 "Pioneering Culture"
+ tfx.208.rebuild.tooltip:0 "Rebuild, and Expand"
+ tfx.208.science:0 "Focus on Xenostudies"
+ tfx.208.science.tooltip:0 "Knowledge. Is. Power"
+ tfx.208.torusaternal:0 "The Torus Project"
+ tfx.208.torusaternal.tooltip:0 "Put all our collective effort into building a great planetary megastructure!\n§MThis option is avaliable to use due to having the Torus Aeternal Corrected 2.6 mod enabaled.§!"
+ 
+ tfx.209_name:0 "The Vengeance Pact"
+ tfx.209_desc:0 "We can never forgive and never forget what was done to our people by the Xeno's. The government and people of [Root.Capital.GetName] have sworn never to rest in our fight against them. We will hunt the stars for their kind, and should we find them there will be no mercy, no forbearance, only total war and utter destruction upon their people. This our code, our law, our purpose."
+ tfx.209.a:0 "There can be only war" 
+ 
+ tfx.210_name:0 "Bastions & Fortresses"
+ tfx.210_desc:0 "The galaxy is dark and full of terrors. The [Root.Capital.GetName] Invasion has shown us the galaxy is a dangerous place.  We must build up mighty defences to outlast our enemies, for only behind great starbases and fortress worlds can we ensure no Xeno ever threatens our people again"
+ tfx.210.a:0 "Behind our walls we will be safe" 
+ 
+ tfx.211_name:0 "Knowledge & Peace"
+ tfx.211_desc:0 "We still know not why the Xeno's attacked, but there are many reports suggesting not all the Xenos were hostile. Perhaps there society is not a unified evil as we have imagined. We should focus on studying Xeno life and if we meet our former foes, attempt dialogue and communication"
+ tfx.211.a:0 "An eye for an eye makes the whole galaxy blind" 
+ 
+ tfx.212_name:0 "Church of the Xeno"
+ tfx.212_desc:0 "In every war there are collaborators, however while in control the Xeno's spent much time recruiting our populace into their armies, and deifying themselves in the eyes of our people with their advanced technologies. While initially we fought and killed them, a large part of our population has come to worship the Xeno's, and interprets the war as a sinful act. While not completely ascendant, The Church of the Xeno's growing influence will have major impacts on our nations policy. Should we find the Xeno Empire our society may find itself divided."
+ tfx.212.a:0 "I for one welcomed our Xeno overlords" 
+ 
+ tfx.213_name:0 "The Xeno Crusade"
+ tfx.213_desc:0 "More than just their simple attempt to conquer us, the Xeno's spat in the face of our faith by attempting to deify themselves in our eyes. Such heresy can never be forgiven. We must find launch a great crusade into the stars and bring the light of our faith to all we find. If we cannot convert those we find, they must be destroyed"
+ tfx.213.a:0 "Deus Vult!" 
+ 
+ tfx.214_name:0 "Foundation of Science"
+ tfx.214_desc:0 "With their technological advantage the Xeno's nearly wiped out our people. It was the reverse engineering of their technologies that gave us the fighting chance we needed to win the war. The engineers and scientists of Taskforce Xeno have become heroes to our people, and our culture now embraces knowledge as the foundation of our strength and survival"
+ tfx.214.a:0 "The chief characteristic of the religion of science is that it works" 
+ 
+ tfx.215_name:0 "Rebuild & Restore"
+ tfx.215_desc:0 "United beyond a common purpose, our people worked tirelessly to rebuild and renew [Root.Capital.GetName]. In time our desperate struggle to pick up the pieces and rebuild has moulded our culture into one built on unity, brotherhood and pioneering resolve"
+ tfx.215.a:0 "We Stand Together" 
+
+ tfx.216_name:0 "The Torus Aeternal"
+ tfx.216_desc:0 "The surface of our planet is littered with the destruction rought by the war. Ruined cities, toxic swamps and hostile lifeforms introuced during the Xeno Invasion make the task of reparing a planet a long and ardeous one. However we have always considered ourselves Natural Engineers, and our scientists suggest that with the matierals salvaged from the Xeno Mothership, and our new advances in space engineering we could build a new home in the sky!"
+ 
+ 
+ #Invaders Encountered (After many years, we have met the bogeyman from legends)
+ tfx.invader.encounter.initial_name:0 "Xeno Invaders Discovered!"
+ tfx.invader.encounter.initial_desc:0 "Military Intelligence has just confirmed our greatest hope, and fear. After all these years, we have found our greatest enemy, those who ravaged our planet in the [Root.Capital.GetName] Invasion has finally been located.\nWe have managed to keep this information secret for now, but it is only matter of time before the people of [Root.GetAllianceName] learn of this. How should be proceed?"
+ tfx.invader.encounter.initial.a:0 "Rattle our Sabres"
+ tfx.invader.encounter.initial.b:0 "Broadcast the news far and wide"
+ 
+ ### MISC Events
+ tfx.500_name:0 "Xeno Mothership Dissected"
+ tfx.500_desc:0 "Our military engineers have carefully disseccted the remains of the Xeno Mothership from the [Root.Capital.GetName] Invasion, clearing it from orbit and gaining valuable insights into the construction of larger spacecraft and strikecraft."
+ tfx.500.a:0 "Welcome News"
+ 
+ tfx.rememberance_name:0 "Rememberance Day"
+ tfx.rememberance_desc:0 "Remembrance Day is a memorial day observed by the [Root.Owner.GetName] that marks the end of the [Root.Capital.GetName] Invasion and our victory over the Xeno's.\n\nIt is a time to remember all that we have lost, and for our people to reflect on the course of the nation. It is customary for the [Root.GetRulerTitle] to open the memorial with a speech, reiterating foreign policy and our peoples attitude in regards to Invasion. Today [Root.GetLeaderName] has the honour of delivering the opening address that will be transmitted across our space. What will they discuss?"
+ tfx.rememberance.default:0 "Remember the Fallen"
+ tfx.rememberance.substance_abuser:0 "Rambling & Incoherent Speech"
+ tfx.rememberance.charismatic:0 "Inspiring Speech"
+ tfx.rememberance.technoexplorer:0 "Promote Exploration & Discovery"
+ tfx.rememberance.technoexplorer.tooltip:0 "§BCreate a new Science Ship and Scientist§!"
+ tfx.rememberance.fleetwar:0 "Promote the Admirality"
+ tfx.rememberance.fleetwar.tooltip:0 "§RCreate a small fleet of Corvette's§!"
+ tfx.rememberance.vengeance.default:0 "Reaffirm the Vengeance Pact"
+ tfx.rememberance.vengeance.default.tooltip:0 "We have unlocked this option due to having the §RVengeance Pact§!"
+ tfx.rememberance.vengeance.charismatic:0 "Praise our People & Nation"
+ tfx.rememberance.vengeance.warlike:0 "Inspire Jingoistic Ferver" 
+ tfx.rememberance.vengeance.reformer:0 "Look to the Future" 
+ tfx.rememberance.crusade.default:0 "Promise increased Crusading!"
+ tfx.rememberance.crusade.default.tooltip:0 "We Crusading"
+ 
+##Modifiers
+ remembrance_day:0 "Remembrance Day"
+ remembrance_day_desc:0 "We have recently celebrated Remembrance Day"
+ tfx_peace_among_worlds:0 "Peace Among Worlds"
+ tfx_peace_among_worlds_desc:0 "We have made peace with our once mortal enemies who invaded our homeworld all those years ago."
+ tfx_is_reconstructing:0 "Planetary Reconstruction"
+ tfx_is_reconstructing_desc:0 "Planetary Reconstruction"
+ tfx_interceptors:0 "Taskforce Xeno: Interceptor Auxillary"
+ tfx_elan:0 "Taskforce Xeno: Special Operations Divsion"
+ tfx_unity:0 "Taskforce Xeno: Executive Protection Details"
+ tfx_vengeance_pact:0 "The Vengeance Pact"
+ tfx_bastions:0 "Bastions & Fortresses"
+ tfx_peace:0 "Xeno Postwar Peace"
+ tfx_church_of_xeno:0 "Church of the Xeno"
+ tfx_crusade:0 "The Xeno Crusade"
+ tfx_foundation:0 "Scientific Foundation"
+ tfx_pioneers:0 "Pioneering Culture"
+ tfx_industry:0 "Wartime Industries"
+ 
+ opinion_tfx_invader_overlord:0 "Invader Overlord"
+ opinion_tfx_invader:0 "Xeno Invaders"
+ opinion_tfx_vengeance_pact:0 "Vengeance Pact"
+  
+ ##Buildings
+  
+ building_taskforce_headquarters:0 "Taskforce Xeno Headquarters"
+ building_taskforce_headquarters_desc:0 "§YCannot be rebuilt once destroyed§!\nThis was the original headquarters of Taskforce Xeno. Now it acts as a major planetary fortification and memorial for our triumphs and losses."
+ building_galactic_taskforce_headquarters:0 "Taskforce Xeno Galactic Headquarters"
+ building_galactic_taskforce_headquarters_desc:0 " §YCannot be rebuilt once destroyed§!\n The headquarters from which our modern Taskforce Xeno defends this planet, but also trains new special forces ready to face the Xeno threat wherever it may be."
+
+ ##Armys
+ 
+ job_tfx_soldier:0 "Taskforce Xeno Soldier"
+ job_tfx_soldier_plural:0 "Taskforce Xeno Soldiers"
+ job_tfx_soldier_desc:0 "Specialist member of Taskforce Xeno. Spawns special defense armies and produces a small amount of research"
+ mod_job_tfx_soldier_add:0 "Taskforce Xeno Soldiers"
+ tfx_defense_army:0 "Taskforce Xeno Defense Force"
+ tfx_defense_army_desc:0 "Specialist units of Taskforce Xeno trained in planetary defence. These units are stronger and more well trained than traditional defence armies"
+   
+ taskforcexeno_detatchment:0 "Taskforce Xeno Unit"
+ taskforcexeno_detatchment_plural:0 "Taskforce Xeno Units"
+ taskforcexeno_detatchment_desc:0 "A Unit of Taskforce Xeno personale ready to be deployed to conflict hotspots at home and abroad. Equipped with advanced planetary assault craft and weapons."
+ tfx.limit_tooltip:0 "We can only build three of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ taskforcexeno_army:0 "Taskforce Xeno Strikeforce"
+ taskforcexeno_army_plural:0 "Taskforce Xeno Strikeforces"
+ taskforcexeno_army_desc:0 "Taskforce Xeno units designed to be deployed with other assault forces. These strikefoces are experienced in xeno-psyops and shock-and-awe tactics, allowing them do massive amounts of morale damage while limiting their direct physical damage"
+ tfx.limit_army_tooltip:0 "We can only build three of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ taskforcexeno_specialforces:0 "Taskforce Xeno Special Forces"
+ taskforcexeno_specialforces_plural:0 "Taskforce Xeno Forces"
+ taskforcexeno_specialforces_desc:0 "The elite of the elite within Taskforce Xeno drawn from all area's of our military. This unit is designed to lead the spearhead in any planteary invasion and is equipped with the most advanced weapons, tactics known to us"
+ tfx.limit_specialforces_tooltip:0 "We can only build one of these units, afterwards we cannot build anymore (this is current bug, fixing inprogress)"
+ 
+ ##Developer Events
+ 
+ tfx.contact.1_name:0 "The Alien Invaders Discovered!"
+ tfx.contact.1_desc:0 "Military Intelligence and Diplomatic Core agree, we have found the Xenos!"
+ tfx.contact.1.normal:0 "Yes"
+
+
+ ###Combine Invasion / Half Life Event Chain
+ tfx.301_name:0 "The Black Mesa Incident"
+ tfx.301_desc:0 "The Black Mesa Incident, referred to once as the Lambda Incident, was a catastrophic event caused by an experiment carried out by the Anomalous Materials department at the Black Mesa Research Facility. The experiment triggered a Resonance Cascade, which allowed numerous extraterrestrial creatures to teleport into the facility and wreak havoc upon its personnel. The ensuing conflict between the responding military forces and the alien creatures resulted in the complete destruction of the facility and the death of almost all of its employees. The Black Mesa Incident would ultimately lead to the invasion of [Root.Capital.GetName] by the Combine and the beginning of the Seven Hour War."
+ tfx.301.a:0 "Probably not a problem, probably."
+ tfx.301.tooltip:0 "§RSome [Root.GetSpeciesName]'s Perish§!"
+ 
+ tfx.302_name:0 "The Seven Hour War"
+ tfx.302_desc:0 "The Seven Hour War was a brief, but decisive confrontation between the Combine and the governments of [Root.Capital.GetName], ultimately leading to a large [Root.GetSpeciesName] death toll and the Combine occupation of the entire planet. As the Portal Storms between Xen and the [Root.Capital.GetName] raged across the planet, spreading Xen life forms across [Root.Capital.GetName], this caused the planet's populace to move into cities for protection. The Combine launched a surprise offensive, defeating all armed forces of all the nations on Earth in only seven hours, taking advantage of the confusion and chaos caused by the Portal Storms. The Combine used the Portal Storms, which made a connection between the now conquered Xen - a crossroads of different dimensions - and [Root.Capital.GetName] possible, to invade this universe. It was after this war that the Black Mesa Administrator negotiated a surrender on behalf of the [Root.Capital.GetName] Nations, "saving" the survivors at the cost of their freedom. Breen was appointed ruler of [Root.Capital.GetName] but remains under the control of the Combine."
+ tfx.302.a:0 "You have chosen, or been chosen."
+ tfx.302.tooltip:0 "§RMany [Root.GetSpeciesName]'s Perish§!"
+ 
+ tfx.303_name:0 "The Occupation and Uprising"
+ tfx.303_desc:0 "[Root.Capital.GetName]'s new rulers governed with a calculated oppressiveness, restricting [Root.GetSpeciesName] liberties and assimilating [Root.Capital.GetName] natural resources into their empire. Dissenting [Root.GetSpeciesName] were captured and biomechanically transformed, or simply killed. A Suppression Field was activated to prevent [Root.GetSpeciesName] from breeding, another measure to control the population more effectively. Many [Root.GetSpeciesName] were assimilated into the occupational army on [Root.Capital.GetName], all of the Combine's infantry forces on [Root.Capital.GetName] consisting of trans-Human troops, augmented with Synth technology. The Uprising was a conflict fought between [Root.Capital.GetName]'s [Root.GetSpeciesName] and alien allied resistance network against the Combine Empire. Xenian aliens are also partaking as an undeclared third party, fighting against both sides. The war takes place about 20 years after the Black Mesa Incident and Seven Hour War, during the Combine's occupation of [Root.Capital.GetName].In response to the Combine's occupation, a number of escapees from the Combine's iron grip formed the Resistance, a highly decentralized, loose network of guerrillas, outlaws, spies, and citizens dedicated to overthrowing the Overwatch's rule. Unable to combat the Combine's powerful armies directly, the Resistance instead sought to undermine the Combine. The Uprising was instigated by the return of The Freeman, a [Root.GetSpeciesName] scientist who had been present at Black Mesa and become a cult like figure following their deeds at the base. Their sudden reappearance was cause for celebration amongst the citizens and the Resistance and they personally led the resistance in a massive uprising which ultimately led to the collapse of Combine rule on [Root.Capital.GetName] and destruction of their transdimensional portals. It appears for now the Combine have been unable to find a way to bridge the gap and access our universe again, but it is likely only a matter of time before they return."
+ tfx.303.a:0 "Prepare for unforeseen consequences."
+ tfx.303.b:0 "Prepare for unforeseen consequences, with the Freeman"
+ tfx.303.tooltip:0 "§RMore [Root.GetSpeciesName]'s Perish§!"
+ 
+ tfx.304_name:0 "The Aftermath"
+ tfx.304_desc:0 "With the victory over the combine the people of [Root.GetSpeciesName] were left to pick up the peices, and rebuild their shattered world. The Combine had inflicted massive ecological damage on the planet, and with the decimation of the population it would take several generations to begin approaching a workable society, but with the highly advanced technology salvaged from their benefactors, the people of [Root.Capital.GetName] were able to make massive leaps in technology and eventually reach the stars. Even today the work to restore [Root.Capital.GetName] is still ongoing, and the fear of the Combine returning is not far from any [Root.GetSpeciesName]'s mind."
+ tfx.304.bal:0 "This is a Red Letter Day"
+ tfx.304.bal.tooltip:0 "§GBalanced Difficulty Bonuses§!"
+ tfx.304.norm:0 "This is a Red Letter Day"
+ tfx.304.norm.tooltip:0 "§BNormal Difficulty Bonuses§!"
+ tfx.304.op:0 "This is a Red Letter Day"
+ tfx.304.op.tooltip:0 "§ROverpowered Difficulty Bonuses§!"
+ 
+ severe_portal_storms:0 "Portal Storms (Severe)"
+ severe_portal_storms_desc:0 "Portal Storms are a highly dangerous and destructive phenomena that consists of a blue 'wave' which resonates from a portal and moves across the landscape causing severe gravimetric distortions in space-time that damage structures and geography. They are typically caused by the creation of an uncontained Resonance Cascade or collapse of a Dark Energy reactor. Directly after such a disaster these storms are common, decreasing in frequency over time."
+ mild_portal_storms:0 "Portal Storms (Mild)"
+ mild_portal_storms_desc:0 "Portal Storms are a highly dangerous and destructive phenomena that consists of a blue 'wave' which resonates from a portal and moves across the landscape causing severe gravimetric distortions in space-time that damage structures and geography. They are typically caused by the creation of an uncontained Resonance Cascade or collapse of a Dark Energy reactor. Directly after such a disaster these storms are common, decreasing in frequency over time."
+ 
+ d_xeno_destroyed_blacksites:0 "Destroyed Xeno Blacksites"
+ d_xeno_destroyed_blacksites_desc:0 "Remanents of Xeno blacksites established during the invasion. These ruins are a blight on our land and continue to be a source of fear and enviromental contamination. If we were able to clean up and fully investigate these sites however they may provide use with unique discoveries and could be use for our own ends"
+ d_xeno_blacksites:0 "Taskforce Xeno Blacksites"
+ d_xeno_blacksites_desc:0 "Originally Xeno Blacksites from the invasion, these compounds have been excavated and rebuilt as a clandestine research wing of Taskforce Xeno"
+ d_xeno_ruined_mothership:0 "Ruined Mothership"
+ d_xeno_ruined_mothership_desc:0 "Ruins of the Xeno mothership still in orbit around the planet. Its prescence is a reminder to our people of the Xeno threat, and debris from the ship will continue to hamper our development and orbital defences"
+ d_xeno_deactivated_satellites:0 "Deactivated Satellite Network"
+ d_xeno_deactivated_satellites_desc:0 "Ruins of the Xeno Satellite Network. In its current state it leaves our planet open to orbital bombardment, but if reactivated and staffed with military personal it could aid in planetary defence"
+ d_xeno_satellites:0 "Satellite Defence Network"
+ d_xeno_satellites_desc:0 "Fully staffed and maintained Satellite Defence Network salavaged from the The [Root.Capital.GetName] Invasion. These orbital platforms provide increased defence to our planet during attack"
+ d_xeno_ruined_geneclinics:0 "Ruined Xeno Geneclinics"
+ d_xeno_ruined_geneclinics_desc:0 "Due to our quick thinking during the invasion we were able to prevent many Xeno Geneclinics from being totally destroyed. While the experiments done to our people inside them were abhorrent, their biotechnology far outstrips our own and we may be able to salvage much of the equipment given time and resources"
+ d_xeno_geneclinics:0 "Taskforce Xeno Geneclinics"
+ d_xeno_geneclinics_desc:0 "By salvaging Xeno biotechnology we are able to improve the healthcare of our own population, even if to begin with we are unable to replicate this technology"
+ 
+ d_tfx_ruined_blackmesa:0 "Ruins of Black Mesa"
+ d_tfx_ruined_blackmesa_desc:0 "The ruins of Black Mesa and the surrounding area remain a major source of contamination"
+ d_tfx_blackmesa:0 "Restored Black Mesa"
+ d_tfx_blackmesa_desc:0 "The Restored Black Mesa Facility."
+
+
+ ##### The Visitation / Roadside Picnic Localisation
+ # Events
+ tfx.100.roadsidepicnic:0 "The Visitation"
+ tfx.100.roadsidepicnic.tooltip:0 "Based on the acclaimed novel §MRoadside Picnic§! by Arkady and Boris Strugatsky and associated S.T.A.L.K.E.R games. This event chain simulates an extraterrestrial event in which hyperadvanced aliens visited [Root.Capital.GetName], leaving behind half a dozen regions on [Root.Capital.GetName] that exhibit strange and dangerous phenomena, and contain artifacts with inexplicable, seemingly supernatural properties.\n\nThe Zones do minimal damage to our planet on appearing, but over time become more and more dangerous. Containg the Zone's that appear on our homeworld should be a priority, lest you risk the consequences..."
+ tfx.400_name:0 "The Visitation"
+ tfx.400_desc:0 "Imagine a picnic. Picture a forest, a country road, a meadow. Cars drive off the country road into the meadow, a group of young people get out carrying bottles, baskets of food, transistor radios, and cameras. They light fires, pitch tents, turn on the music. In the morning they leave. The animals, birds, and insects that watched in horror through the long night creep out from their hiding places. And what do they see? Old spark plugs and old filters strewn around... Rags, burnt-out bulbs, and a monkey wrench left behind... And of course, the usual mess. Apple cores, candy wrappers, charred remains of the campfire, cans, bottles, somebody’s handkerchief, somebody’s penknife, torn newspapers, coins, faded flowers picked in another meadow. We are those animals,\n\nOne year ago this event, called the Visitation simultaneously took place across half a dozen separate locations around [Root.Capital.GetName] over a two-day period. Neither the Visitors themselves nor their means of arrival or departure were ever seen by the local populations who lived inside the relatively small areas, each a few square kilometres, of the six Visitation Zones. The zones exhibit strange and dangerous phenomena not understood by us, and contain artifacts with inexplicable, seemingly supernatural properties."
+ tfx.400.a:0 "Understood"
+ tfx.400.tooltip:0 "Six §YUncontained Zone's§! will appear on [Root.Capital.GetName]"
+ tfx.401_name:0 "The Zones"
+ tfx.401_desc:0 "After the Visitation the area's around where the Visitation occured have been left abandoned, their residences having perished or fled in terror during the event. Now the area's, collevtivly being called "The Zones" are unoccupied, but without any permanent barriers people are mostly free to enter the Zone's, and whatever may be contained within the Zone's to freely exit... "
+ tfx.401.tooltip:0 "We should act to contain the Zone's as soon as possible..."
+ tfx.401.a:0 "Understood" 
+ 
+ tfx.402_name:0 "Culture of Thieves"
+ tfx.402_desc:0 "In the weeks and months after the Visitation, information began to circulate around [Root.Capital.GetName] of the bizzare and deadly phenomena within the Zone's. Several reconaissance teams that were sent into the Zone's managed to retrieve a cache of unknown artifacts that appear have powerful but unpredicable properties. Our researchers say given time these artifacts could potentially usher in a new golden age of technological progress.\n\nHowever news of these artifacts has created a new subclass of smugglers, dubbed 'stalkers' who enter the Zone's illegally and smuggle out artifats to be sold on the open market to the highest bidder. Along with the loss of minor artifacts the government could use for research, and the increase in crime due to these stalkers, initial reports suggest some artifacts from the Zone may cause ecological, physical, psychological and space-time distrubances that could potentially cause serious disaster if not contained. There are two factors that will increase the danger of the Zone\n\n§SStalker Organisation§!: The measure of how organised and experienced the various stalker groups are, the higher this value the more raids they will conduct on the Zone's and the more artifacts they will smuggle out\n\n§MWild Artifacts§!: The real danger, Wild Artifacts track the amount of dangerous artifacts that are currently circulating throughout the planet. While most are harmless, some of these artifacts can cause adverse events, natural disasters and if not kept in check may cause the planet to become entirely uninhabitable.\n\nWe can protect against both the §SStalkers§! and §MWild Artifacts§! by containing the Zone's directly (§YPlanetary Deposits§!), establishing a special police force to hunt down Stalkers, reinforce the Zone boarders and breakup any smuggling rings that may appear (§TPlanetary Decision§!) and research Advanced Containment and Arcane Deciphering technologies (§BTechnology§!)."
+ tfx.402.a:0 "Understood"
+
+ tfx.403_name:0 "Zone Raided by Stalkers"
+ tfx.403_desc:0 "Stalkers are increasing their activity around the Zone's, if we dont act to stop them they will be able to smuggle out more WildArtifacts, increasing their organisation and the amount of Wild Artifacts loose on our world. The more organised the Stalkers, the stronger their smuggling operations will become. Having a well trained Anti-Stalker Police Force will give us better choices during these events, and allow us to go on the offensive via the Launch Raid decision."
+ tfx.403.a:0 "There is nothing we can do"
+ tfx.403.a.stalkersrare.tooltip:0 "Moderate Increase in §MWild Artifacts§! and §SStalker Organisation§! due to having Zone Stalkers (§BDisorganised§!)."
+ tfx.403.a.stalkerscommon.tooltip:0 "Large Increase in §MWild Artifacts§! and §SStalker Organisation§! due to having Zone Stalkers (§YOrganised§!)."
+ tfx.403.a.stalkersendemic.tooltip:0 "Massive Increase in §MWild Artifacts§! and §SStalker Organisation§! due to having Zone Stalkers (§REndemic§!)."
+ tfx.403.b:0 "Deploy Extra Units along the Zone boarders"
+ tfx.403.b.astf.smallxp.tooltip:0 "Gain a small amount of §EASTF Experience§!."
+ tfx.403.c:0 "Monitor Common Stalker Staging Zones"
+ tfx.403.c.astf.moderatexp.tooltip:0 "Gain a moderate amount of §EASTF Experience§!."
+ tfx.403.d:0 "Target Known Ringleaders"
+ tfx.403.d.astf.largeexp.tooltip:0 "Gain a large amount of §EASTF Experience§!."
+ tfx.403.d.stalkersendemic.vet.tooltip:0 "Small Increase in §MWild Artifacts§! and §SStalker Organisation§! due to having Zone Stalkers (§REndemic§!)."
+ tfx.403.a.noatsf.tooltip:0 "If this is our only option, we should consider creating an Anti-Stalker Task Force in the planetary decision menu to begin combating the Stalkers..."
+ tfx.403.fledgling.tooltip:0 "This option is avaliable to use because we have the Anti-Stalker Task Force (§GFledgling§!)"
+ tfx.403.experienced.tooltip:0 "This option is avaliable to use because we have an Anti-Stalker Task Force (§BExperienced§!)"
+ tfx.403.veteran.tooltip:0 "This option is avaliable to use because we have an Anti-Stalker Task Force (§MExperienced§!)"
+
+ tfx.404_name:0 "Zones Contained"
+ tfx.404_desc:0 "Nano-composite boarder walls, sophisticated ground monitoring devices and an army of military police now stand gaurd around all the Zone's on [Root.Capital.GetName]. While the Zone's themselves are still incredibly dangerous, we are now more effectively able to prevent unauthorized access to the Zones.\n\nWhile this will lower the chance of inexperienced Stalkers entering the Zone, the extreme but still unknown interferance that blocks local and space based video monitoring, as well as the increasing sophistication of stalker groups means we are still not safe from there intrusions."
+ tfx.404.a:0 "Okay"
+ tfx.405_name:0 "Anti-Stalker Task Force Levels Up"
+ tfx.405_desc:0 "The [Root.Capital.GetName] Anti-Stalker Task Force has now succesfully conudcted numerous operations against the stalkers and has levelled up, unlocking new buildings, taskforce specific operations and opening up more options during events."
+ tfx.405.a:0 "Excellent"
+
+ tfx.406_name:0 "Stalkers on the Rise"
+ tfx.406_desc:0 "With the successful smuggling of various artifacts out of the Zone's the amount of stalkers and the strength of their backers is increasing, if we dont act soon they will become even more powerful, leading to more and more artifacts being smuggled out of the Zone's."
+ tfx.406.a:0 "Not Good" 
+ tfx.407_name:0 "Wild Artifacts on the Rise"
+ tfx.407_desc:0 "The amount of Wild Artifacts on our world is increasing at an alarming rate. Each level increases the danger to our world."
+ tfx.407.a:0 "Concerning" 
+
+ tfx.408_name:0 "Anti-Stalker Task Force Raids"
+ tfx.408_desc:0 "The ASTF is prepared to conduct active operations against the stalkers, smugglers and other groups associated with Wild Artifact smuggling. Our analyst's have drawn up this list of potential operations; as we level up the ASTF we will be able to conduct more advanced raids."
+ tfx.408.a:0 "Raid Small Time Smugglers"
+ tfx.408.a.tooltip:0 "Slightly reduce §MWild Artifacts§! and §SStalker Organisation§!\nGain small amount of §EASTF Experience§!." 
+ tfx.408.b:0 "Embed Deep Cover Agents"
+ tfx.408.b.tooltip:0 "Gain a moderate amount of §EASTF Experience§!." 
+ tfx.408.c:0 "Destroy Smuggling Ring"
+ tfx.408.c.tooltip:0 "Remove's §RStalker Smuggling Ring§!\nGain small amount of §EASTF Experience§!." 
+ tfx.408.d:0 "Target Artifact Auction"
+ tfx.408.d.tooltip:0 "Modertly reduce §MWild Artifacts§! and slightly §SStalker Organisation§!\nGain small amount of §EASTF Experience§!." 
+ tfx.408.e:0 "Mass Stalker Arrests"
+ tfx.408.e.tooltip:0 "Slightly reduce §MWild Artifacts§! and greatly §SStalker Organisation§!\nGain a moderate amount of §EASTF Experience§!." 
+ tfx.408.f:0 "Raid Illicit R&D Labs"
+ tfx.408.f.tooltip:0 "Greatly reduce §MWild Artifacts§! and slightly §SStalker Organisation§!\nGain a large amount of §EASTF Experience§!." 
+ tfx.408.g:0 "Stand Down Units"
+ tfx.408.g.tooltip:0 "Cancel preperations for ASTF Raids and refund most of the cost of preperation." 
+ tfx.408.h:0 "Add 20XP - DEV CHEAT"
+ tfx.408.i:0 "Win the Game - DEV CHEAT"
+
+ tfx.409_name:0 "Stalkers on the Decline"
+ tfx.409_desc:0 "Due to our active policing efforts §SStalker Organisation§! is on the decline, leading to them being less effective at penetrating the Zone's and setting up smuggling rings."
+ tfx.409.a:0 "Fantastic"
+
+ tfx.410_name:0 "Wild Artifacts Captured"
+ tfx.410_desc:0 "Due to our active policing efforts many §MWild Artifacts§! have been confiscated from stalkers, collectors and the like. This will lower the danger a negative event or disaster will occur on our world."
+
+ tfx.411_name:0 "Victory over the Zone's!"
+ tfx.411_desc:0 "Our long struggle against the Stalkers, the Wild Artifacts and the very Zone's themselves have finally come to fruition.\n\nWith every Zone contained within highly secure Institutes, all extant Wild Artifacts contained, and the last of the Stalker groups having retired or been arrested we can finally reap the rewards of the Zone's without fear or interferance.\n\nOur researchers have made stunning breakthrough's on the nature of these artifacts, and with order fully restored we can begin utilizing these artifacts to their full potential!."
+ tfx.411.a:0 "Fantastic"
+
+ tfx.412_name:0 "Fate of the Taskforce"
+ tfx.412_desc:0 "With the Zone's fully contained and no more wild artifacts to capture or stalkers to fight the role of the Anti-Stalker Task Force has come into question. In service of protecting the world against the threat of the Zone's we have created a highly effective police fighting force, no that it is time to disband this unit what should we do with the infastructure and intellectual capital we have at our disposale?."
+ tfx.412.a:0 "Protect & Serve"
+
+ tfx.413_name:0 "Close the Anti-Stalker Task Force"
+ tfx.413_desc:0 "Whether due to cost savings or for some other reason the idea of closing down the Anti-Stalker Task Force has been considered. Our advisors warn that closing the taskforce will likely allow the Stalkers to operate unhindered, and over time will likely cause a large increase in Wild Artifacts accross the world..."
+ tfx.413.a:0 "We will do without (Shutter the Taskforce)"
+ tfx.413.b:0 "Perhaps not"
+
+ #Deposits
+ d_tfx_uncontained_zone:0 "Zone (Uncontained)"
+ d_tfx_uncontained_zone_desc:0 "The Zone's exhibit strange and dangerous phenomena not understood by us, and contain artifacts with inexplicable, seemingly supernatural properties.\nThis Zone is currently uncontained with only minimal security, allowing scavengers and curious civilians to enter the Zone at will. We should attempt to contain this Zone as soon as possible to prevent dangerous artifiacts from leaking out"
+ d_tfx_contained_zone:0 "Zone (Contained)" 
+ d_tfx_contained_zone_desc:0 "The Zone's exhibit strange and dangerous phenomena not understood by us, and contain artifacts with inexplicable, seemingly supernatural properties.\nElaborate physical barriers including walls, checkpoints and guard stations have been erected around this Zone, preventing most unauthorized personal from entering. Only experienced stalkers and research teams are able to enter this Zone, lowering the chance for dangerous artifacts to escape."
+ d_tfx_zone_institute:0 "Zone (Institute)" 
+ d_tfx_zone_institute_desc:0 "The Zone's exhibit strange and dangerous phenomena not understood by us, and contain artifacts with inexplicable, seemingly supernatural properties.\nHaving studied the Zone's for many years, our researcher's have been able to fully cordon off this Zone, isolateand build advanced labs around all anomalies. There is now no chance of dangerous artifacts escaping the Zone, and we are able to fully study and take advantage of the treasures found inside."
+ 
+
+ # Modifiers
+ tfx_recent_visitation:0 "Recent Visitation"
+ tfx_recent_visitation_desc:0 "The event know as the Visitation recently occured. Many people have fled their homes and there is a general sense of uncertainty and chaos"
+ uncontained_zones:0 "Uncontained Zone(s)"
+ uncontained_zones_desc:0 "There exist's at least one uncontained Zone on this planet, increasing the amount of §MWild Artifacts§! that are smuggled out during Stalker raids. We can counter this by securing all, or at least some of the uncontained Zone's currently on our world"
+ contained_zones:0 "Contained Zones"
+ contained_zones_desc:0 "All of the Zone's on our world have been contained behind elaborate physical barriers, and are patrolled by police and military units. Although still possible, it will now be much harder for unauthorized individuals such as those calling themselves "Stalkers" to enter the Zones. In addition to this our research teams will be able to extract a small amount of artifacts for our own use each month."
+ institute_zones:0 "Institute Zones"
+ institute_zones_desc:0 "Due to our advanced containment technologies, every Zone on our planet is contained within highly secure military research facilities, allowing us to fully contain, study and exploit the artifacts and space-time anomolies within. There is now zero chance any of these artifacts could escape our facilities, and our advanced detection and containment procedures me any Wild Artifacts can be quickly neutrailized."
+ artifact_world:0 "Artifact World"
+ artifact_world_desc:0 "This world contains half a dozen area's of extreme spacetime anomalies, which seem to contain and to some extent regenerate minor artifacts. The inhabitants of this world have fully contained these Zone's within advanced containment facilities. There is much to be learned from the Zone's and gained in the way of Minor Artifacts"
+ tfx_expert_police:0 "Expert Police"
+ tfx_expert_police_desc:0 "This world has a particularly experienced and dedicated police force"
+
+ stalkers_eliminated:0 "Zone Stalkers (§GEliminated§!)"
+ stalkers_eliminated_desc:0 "We have completly repressed all Stalker activity on this world. If we still have Zone's on our planet that are not contained within Institutes there is a chance there will be a resurrgence. Once all Zones are fully contained within Institutes and all Wild Artifacts have been confiscated we will have achieved full victory over the Stalkers and this modifier will be removed" 
+ stalkers_rare:0 "Zone Stalkers (§GDisorganised§!)"
+ stalkers_rare_desc:0 "Individuals calling themselves "Stalkers" are operating in and around the Zone's. While currently disorganised, they will attempt to smuggle dangerous artifacts out of the Zone's. The more successful they are at smuggling the more organised they will become, and the greater threat these uncontained artifacts will become to our world."
+ stalkers_common:0 "Zone Stalkers (§YOrganised§!)"
+ stalkers_common_desc:0 "Individuals calling themselves "Stalkers" are operating in and around the Zone's. They are currently Organised, and will more regularly attempt to smuggle dangerous artifacts out of the Zone's. The more successful they are at smuggling the more organised they will become, and the greater threat these uncontained artifacts will become to our world."
+ stalkers_endemic:0 "Zone Stalkers (§REndemic§!)"
+ stalkers_endemic_desc:0 "Individuals calling themselves "Stalkers" are operating in and around the Zone's. They are well funded and highly organise, and will often attempt to smuggle dangerous artifacts out of the Zone's. The more successful they are at smuggling the more organised they will become, and the greater threat these uncontained artifacts will become to our world."
+ stalker_smuggling_ring:0 "Artifact Smuggling Ring"
+ stalker_smuggling_ring_desc:0 "The black market for smuggled Artifacts out of the Zone's has become well organised, further increasing the likelyhood that the Zone's will be targeted for raids and creating the opportunity for §MWild Artifacts§! to spread to other worlds within our civilisation."
+ stalker_smuggling_ring_recently_destroyed:0 "Smuggling Ring Recently Destroyed"
+ stalker_smuggling_ring_recently_destroyed_desc:0 "An Artifacts smuggling ring was recently destroyed"
+
+ tfx_stalker_strength:0 "Stalker Organisaton"
+ tfx_wild_artifacts:0 "§MWild Artifacts§!"
+ wild_artifacts_eliminated:0 "§MWild Artifacts§! (§GEliminated§!)"
+ wild_artifacts_eliminated_desc:0 "We have completly eliminated the circulation of Wild Artifacts on this world, with all artifacts salvaged from the Zone now present within secure deep storage facilities and authorized research labs. Once all Zones are fully contained within Institutes and all Wild Artifacts have been confiscated we will have achieved full victory and neutralized any danger these artifacts may have posed to our world."
+ wild_artifacts_tiny:0 "§MWild Artifacts§! (§GTiny§!)"
+ wild_artifacts_tiny_desc:0 "There are a tiny amount of uncontained Wild Artifacts circulating throughtout this world, mostly in private collections and unauthorized research labs. The chance of negative events and catastophies occuring due to the prescence of these artifacts is minimal."
+ wild_artifacts_small:0 "§MWild Artifacts§! (§YSmall§!)"
+ wild_artifacts_small_desc:0 "There are a small amount of uncontained Wild Artifacts circulating throughtout this world, mostly in private collections, small caches and unauthorized research labs. The chance of negative events and catastophies occuring due to the prescence of these artifacts is unlikely."
+ wild_artifacts_common:0 "§MWild Artifacts§! (§YCommon§!)"
+ wild_artifacts_common_desc:0 "Wild Artifacts have become common throughtout this world, with many unauthorized groups and individuals possesing them. The chance of negative events and catastophies occuring due to the prescence of these artifacts is likely."
+ wild_artifacts_large:0 "§MWild Artifacts§! (§RLarge§!)"
+ wild_artifacts_large_desc:0 "Wild Artifacts have become very common throughtout this world, with many unauthorized groups and individuals possesing them. The chance of negative events and catastophies occuring due to the prescence of these artifacts is high."
+ wild_artifacts_omnipresent:0 "§MWild Artifacts§! (§ROmnipresent§!)"
+ wild_artifacts_omnipresent_desc:0 "Wild Artifacts are omnipresent throughout this world, with large caches and collections nearly ubiquotous. The chance one of these artifacts will cause a major catastrophy is nearly certain, and represents an existential threat the habatibility of this planet. We must act immediatly to lower the amount of Wild Artifacts or suffer the consequences!"
+ 
+ ###Anti Stalker Task Force Stuff
+ tfx_astf_xp:0 "Anti-Stalker Task Force Experience"
+ antistalker_police_force_fledgling:0 "Anti-Stalker Task Force (§GFledgling§!)"
+ antistalker_police_force_fledgling_desc:0 "Special units of the Anti-Stalker Task Force work to curtail artifact smuggling from the Zone's and give us more options to apprehend stalkers, breakup smuggling rings and track down caches of Wild Artifacts." 
+ antistalker_police_force_experienced:0 "Anti-Stalker Task Force (§BExperienced§!)"
+ antistalker_police_force_experienced_desc:0 "Special units of the Anti-Stalker Task Force work to curtail artifact smuggling from the Zone's and give us more options to apprehend stalkers, breakup smuggling rings and track down caches of Wild Artifacts.\n\n" 
+ antistalker_police_force_veteran:0 "Anti-Stalker Task Force (§MVeteran§!)"
+ antistalker_police_force_veteran_desc:0 "Special units of the Anti-Stalker Task Force work to curtail artifact smuggling from the Zone's and give us more options to apprehend stalkers, breakup smuggling rings and track down caches of Wild Artifacts." 
+ antistalker_police_force_raids:0 "Recent Anti-Stalker Task Force Raid"
+ antistalker_police_force_raids_desc:0 "The Anti-Stalker Task Force has recently conducted a raid and will need time to gather intel and prepare before conducting the next once"
+ antistalker_police_force_preparing_raid:0 "Anti-Stalker Task Force Preparing Raid"
+ antistalker_police_force_preparing_raid_desc:0 "The Anti-Stalker Task Force is currently preparing a raid, this option will be removed upon selecting a raid to conduct"
+
+ zone_doomed:0 "Artifact Doom"
+ zone_doomed_desc:0 "We have failed to contain the most dangerous Wild Artifacts from the Zone and as a result the one Stalkers have reffered to as the 'Infinite Void' has become active, plunging deep into the core of this world. Our research teams have detected bursts of exotic energy and massive technoic shifts on this world. In essence this world is now doomed, and must be evacuated before it succumbs"
+
+  #Decisions and Edicts
+ decision_launch_antistalker_force:0 "!Establish Anti-Stalker Task Force"
+ decision_launch_antistalker_force_desc:0 "Establish a special police task force to curtail smuggling from the Zone's. This police force will give us more options during smuggling events and allow us to launch raids via planetary decisions. The Task Force will start out inexperienced, but can be levelled up by performing raids, countering stalker activity and through events."
+ decision_end_antistalker_force:0 "!Terminate Anti-Stalker Task Force"
+ decision_end_antistalker_force_desc:0 "Shutter the Anti-Stalker Task Force and all active operations against the various stalker groups. If we decide to Re-Establish the Taskforce they will start at Fledgling experience again."
+ decision_launch_antistalker_force_raid:0 "!Launch ATSF Raids"
+ decision_launch_antistalker_force_raid_desc:0 "The Anti-Stalker Task Force (ASTF) is prepared to carry out active operations against the stalkers and artifacts smugglers on this world, this decision will allow you to choose from a selection of potential raids based on the ASTF's experience level."
+ 
+
+ #Technologies
+ tech_tfx_zone_theory:0 "Zone Theory"
+ tech_tfx_zone_theory_desc:0 "By carefully cataloging and studying the various phenomena of the Zone, we will be able to safetly send research teams into the Zone's. Over time this will allow us to extract Minor Artifacts from Contained Zone's and give us more options during Zone related events."
+ tech_tfx_zone_police_tactics:0 "Stalker Policing Tactics"
+ tech_tfx_zone_police_tactics_desc:0 "By formalizing our recruitment, training and tactical simulations of Stalker activity we will be able to more effectively counter the Stalkers who attempt to raid the Zone's for Wild Artifacts. This will decrease the cooldown on our Raids by 50% and give us more options during Stalker related events."
+ tech_tfx_zone_institutes:0 "Zone Institutes"
+ tech_tfx_zone_institutes_desc:0 "Having studied the Zone's extensively, mapping out all spacetime abnormalities and containment procedures our scientists are now able to fully contain the Zone's within specialized Institutes. This will make the Zone's immune to raids by Stalkers unless they are extremely organised, and will allow us to extract significantly more Minor Artifacts from each Zone."

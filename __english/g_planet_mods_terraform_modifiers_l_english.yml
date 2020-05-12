@@ -1,0 +1,20 @@
+﻿l_english:
+
+ ###################################################
+ # Terraform Modifiers
+ ###################################################
+ 
+ gpm_extinct_species:0 "Extinct Species"
+ gpm_extinct_species_desc:0 "Thanks to our scientists this Terraformed planet is now home to previously extinct species from our homeworld."
+ 
+ gpm_terraforming_world_engineering:0 "World Terraforming"
+ gpm_terraforming_world_engineering_desc:0 "This world has been terraformed to perfection."
+
+ gpm_terraforming_world_engineering_shaper:0 "Shaped Terraforming"
+ gpm_terraforming_world_engineering_shaper_desc:0 "Our knowledge of world shaping has contributed immensely to the terraforming process of this world."
+ 
+ gpm_terraforming_world_engineering_mastery:0 "Mastery Terraforming"
+ gpm_terraforming_world_engineering_mastery_desc:0 "Our mastery over nature has contributed substantially to the terraforming process of this world."
+
+ gpm_terraforming_world_engineering_shaper_mastery:0 "Shaped Mastery Terraforming"
+ gpm_terraforming_world_engineering_shaper_mastery_desc:0 "Our combined knowledge of shaping planets and our mastery over nature has produced a perfectly terraformed world."

@@ -1,0 +1,91 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###       Crystal Shard Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_1: "Crystal Shard Thrower"
+NHSC_CRYSTAL_CANNON_1_DESC: "A weapon modelled after organic defence and attack mechanism of crystalline entities."
+SMALL_NHSC_CRYSTAL_CANNON_1: "Small $NHSC_CRYSTAL_CANNON_1$"
+SMALL_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1: "Medium $NHSC_CRYSTAL_CANNON_1$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_1: "Large $NHSC_CRYSTAL_CANNON_1$"
+LARGE_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+
+########################################
+###  Improved Crystal Shard Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_2: "Improved Crystal Shard Thrower"
+NHSC_CRYSTAL_CANNON_2_DESC: "A few modification to a Crystalline Shard Thrower that increase the weapon's offensive capabilities."
+SMALL_NHSC_CRYSTAL_CANNON_2: "Small $NHSC_CRYSTAL_CANNON_2$"
+SMALL_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2: "Medium $NHSC_CRYSTAL_CANNON_2$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_2: "Large $NHSC_CRYSTAL_CANNON_2$"
+LARGE_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+
+########################################
+###       Crystal Spike Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_3: "Crystal Spike Thrower"
+NHSC_CRYSTAL_CANNON_3_DESC: "Our studies of materials let us significantly improve the quality of organic crystalls used as projectiles by this weapon, thus increasing its damage."
+SMALL_NHSC_CRYSTAL_CANNON_3: "Small $NHSC_CRYSTAL_CANNON_3$"
+SMALL_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3: "Medium $NHSC_CRYSTAL_CANNON_3$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_3: "Large $NHSC_CRYSTAL_CANNON_3$"
+LARGE_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+
+########################################
+###  Improved Crystal Spike Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_4: "Improved Crystal Spike Thrower"
+NHSC_CRYSTAL_CANNON_4_DESC: "Some further improvements to the crystalline weapons technology that further increases the power of this weapon."
+SMALL_NHSC_CRYSTAL_CANNON_4: "Small $NHSC_CRYSTAL_CANNON_4$"
+SMALL_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4: "Medium $NHSC_CRYSTAL_CANNON_4$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_4: "Large $NHSC_CRYSTAL_CANNON_4$"
+LARGE_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+
+########################################
+###       Crystal Spear Cannon       ###
+########################################
+
+NHSC_CRYSTAL_CANNON_5: "Crystal Spear Cannon"
+NHSC_CRYSTAL_CANNON_5_DESC: "The ultimate crystalline weapon for our warships."
+SMALL_NHSC_CRYSTAL_CANNON_5: "Small $NHSC_CRYSTAL_CANNON_5$"
+SMALL_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5: "Medium $NHSC_CRYSTAL_CANNON_5$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_5: "Large $NHSC_CRYSTAL_CANNON_5$"
+LARGE_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+
+########################################
+###      Crystal Javelin Cannon      ###
+########################################
+
+NHSC_CRYSTAL_LANCE_1: "Crystal Javelin Cannon"
+NHSC_CRYSTAL_LANCE_1_DESC: "A supersized version of the Crystalline Spear Cannon that can do tremendous amounts of damage with its every shot."
+
+########################################
+###       Crystal Lance Cannon       ###
+########################################
+
+NHSC_CRYSTAL_LANCE_2: "Crystal Lance Cannon"
+NHSC_CRYSTAL_LANCE_2_DESC: "A refined and ever more powerful version of the Crystal Javelin Cannon."
+
+########################################
+###       Crystalline Impaler        ###
+########################################
+
+NHSC_CRYSTAL_LANCE_TITANIC: "Crystalline Impaler"
+NHSC_CRYSTAL_LANCE_TITANIC_DESC: "A massive version of the Crystal Lance Cannon, designed for titanic-sized ships."
+NHSC_CRYSTAL_LANCE_JUGGERNAUT: "$NHSC_CRYSTAL_LANCE_TITANIC$"
+NHSC_CRYSTAL_LANCE_JUGGERNAUT_DESC: "$NHSC_CRYSTAL_LANCE_TITANIC_DESC$"

@@ -1,0 +1,76 @@
+﻿    l_english:
+
+    ####################################
+    # Planet Modifiers
+    ####################################
+    tremendous_ring:0 "Tremendous Ring System"
+    tremendous_ring_desc:0 "This gas giant has a gigantic ring system, with an estimated diameter of 3,78 million kilometers."
+
+    methane_oceans:0 "Methane Oceans"
+    methane_oceans_desc:0 "This cold barren world has small oceans of liquid methane within its largest asteroid craters."
+
+    nanite_deserts:0 "Nanite Deserts"
+    nanite_deserts_desc:0 "50% of this planet's deserts are composed of sand-imitating nano-machines."
+
+    coreless_planet:0 "Coreless Planet"
+    coreless_planet_desc:0 "This planet totally lacks an iron core, making it valuable for physics research."
+
+    core_facility:0 "Core Facility"
+    core_facility_desc:0 "This planet totally lacks an iron core, but contains a gigantic research facility beneath the surface, which could be used for advanced research."
+
+    cataclysmic_star:0 "Cataclysmic Variable Star"
+    cataclysmic_star_desc:0 "This star contains a white dwarf, which leads to extreme instabilities within the star itself."
+
+    oxygen_world:0 "Crystallized Oxygen World"
+    oxygen_world_desc:0 "The surface of this planet is composed of crystallized oxygen, making it extremely valuable scientifically."
+
+    natural_network:0 "Natural Global Network"
+    natural_network_desc:0 "A unique genus of plants is creating a vast network around the planet, making it really valuable scientifically."
+
+    fire_life:0 "Plasmatic Lifeforms"
+    fire_life_desc:0 "Unique plasmatic lifeforms dwell on this planet, making it extremely hostile for organic life."
+
+    red_toxic:0 "Red Toxic World"
+    red_toxic_desc:0 "A recently discovered toxic world, whose atmosphere is filled with an unknown red coloured and toxic substance."
+
+    scarlet_scourge:0 "Red Toxic World"
+    scarlet_scourge_desc:0 "An incredibly hostile world, with an atmosphere filled with red particles of an advanced synthetic toxin that appears to be out of control."
+
+    remnants_civ:0 "Civilization Remnants"
+    remnants_civ_desc:0 "The remnants of a once great civilization remains on this world, damaged by the effects of the Scarlet Scourge."
+
+    the_repository1:0 "The Repository"
+    the_repository1_desc:0 "The vast research facility of the Innovation Forge enables advanced research and development activities on this world"
+
+    the_repository2:0 "The Repository"
+    the_repository2_desc:0 "The vast research facility of the Innovation Forge enables advanced research and development activities on this world, even with the Scourge still present."
+
+    urmazin_utopia:0 "Urmazin Utopia"
+    urmazin_utopia_desc:0 "The Urmazin are isolated from the rest of the galaxy in paradise, what's to be unhappy about?"
+
+    ####################################
+    # Empire Modifiers
+    ####################################
+    negative_mass_buffs_1:0 "Quasi-Negative Mass Momentum"
+    negative_mass_buffs_2:0 "Quasi-Negative Mass Construction Acceleration"
+    negative_mass_buffs_3:0 "Quasi-Negative Mass Momentum Construction Acceleration"
+
+    ehof_ai_energy_30_month:0 "EHOF Initiation Expenses"
+    ehof_ai_energy_25_month:0 "EHOF Initiation Expenses"
+    ehof_ai_darkmatter_1_month:0 "EHOF Initiation Expenses"
+    ehof_ai_alloys_10_month:0 "EHOF Exploration Expenses"
+    ehof_ai_minerals_10_month:0 "EHOF Expansion Expenses"
+    ehof_ai_influence_1_month:0 "EHOF Settlement Expenses"
+
+    compound_invincible:0 "Shielded"
+    compound_invincible_desc:0 "$ehof_the_compound$ ships are shielded from all conventional weapons."
+
+    compound_vanilla:0 "Compound Vulnerability"
+    compound_vanilla_desc:0 "$ehof_the_compound$ are vulnerable to attacks"
+    compound_giga:0 "Compound Giga Attachments"
+    compound_giga_desc:0 "$ehof_the_compound$ are buffed with Gigastructure technologies"
+    compound_acot:0 "Compound ACOT Attachments"
+    compound_acot_desc:0 "$ehof_the_compound$ are buffed with the Ancient Cache of technologies"
+
+    repair_annihilator:0 "Repairing $ehof_the_stellar_annihilator$"
+    repair_annihilator2:0 "Repairing $ehof_the_stellar_annihilator$"

@@ -1,0 +1,85 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###        Missiles : normal         ###
+########################################
+
+NHSC_MISSILE_6: "Joker Missile"
+NHSC_MISSILE_6_DESC: "Powerful and tricky to shoot down missiles."
+
+NHSC_MISSILE_7: "Wraith Missile"
+NHSC_MISSILE_7_DESC: "Death comes unannounced."
+
+########################################
+###        Missiles : swarmer        ###
+########################################
+
+NHSC_SWARMER_MISSILES_3: "Typhoon Missiles"
+NHSC_SWARMER_MISSILES_3_DESC: "The next generation of swarmer missiles that overwhelm point defenses and enemies alike with their power and numbers."
+
+NHSC_SWARMER_MISSILES_4: "Hurricane Missiles"
+NHSC_SWARMER_MISSILES_4_DESC: "Macross Missile Massacre made real."
+
+########################################
+###        Missiles : torpedo        ###
+########################################
+
+NHSC_TORPEDO_4: "Desolator Torpedo"
+NHSC_TORPEDO_4_DESC: "A new generation of space torpedoes that are more destructive than any we've created before."
+
+NHSC_TORPEDO_5: "Eradicator Torpedo"
+NHSC_TORPEDO_5_DESC: "The most powerful conventional torpedo one can think of."
+
+NHSC_CORROSIVE_WARHEAD: "Corrosive Warhead Torpedo"
+NHSC_CORROSIVE_WARHEAD_DESC: "A terrifying weapon that tears the very time-space continuum apart."
+
+########################################
+###        Missiles : plasma         ###
+########################################
+
+NHSC_PLASMA_MISSILE_1: "Plasma Missile"
+NHSC_PLASMA_MISSILE_1_DESC: "A plasma projectile that seeks its target like a rocket."
+SMALL_NHSC_PLASMA_MISSILE_1: "Small $NHSC_PLASMA_MISSILE_1$"
+SMALL_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_1: "Medium $NHSC_PLASMA_MISSILE_1$"
+MEDIUM_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_1: "Large $NHSC_PLASMA_MISSILE_1$"
+LARGE_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+
+NHSC_PLASMA_MISSILE_2: "Improved Plasma Missile"
+NHSC_PLASMA_MISSILE_2_DESC: "An improved version of plasma missile that is faster, hotter and harder to destroy."
+SMALL_NHSC_PLASMA_MISSILE_2: "Small $NHSC_PLASMA_MISSILE_2$"
+SMALL_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_2: "Medium $NHSC_PLASMA_MISSILE_2$"
+MEDIUM_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_2: "Large $NHSC_PLASMA_MISSILE_2$"
+LARGE_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+
+NHSC_PLASMA_MISSILE_3: "Incinerator Missile"
+NHSC_PLASMA_MISSILE_3_DESC: "Will burn your enemies into ashes."
+SMALL_NHSC_PLASMA_MISSILE_3: "Small $NHSC_PLASMA_MISSILE_3$"
+SMALL_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_3: "Medium $NHSC_PLASMA_MISSILE_3$"
+MEDIUM_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_3: "Large $NHSC_PLASMA_MISSILE_3$"
+LARGE_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+
+########################################
+###        Missiles : x-slot         ###
+########################################
+
+NHSC_XMISSILE_1: "Exotic Matter Warhead"
+NHSC_XMISSILE_1_DESC: "Specialized warhead that delivers an explosive cocktail of exotic particles to the target that has to be blown up."
+
+NHSC_XMISSILE_2: "Strange Matter Warhead"
+NHSC_XMISSILE_2_DESC: "Impoved version of the Exotic Matter Warhead that has an even more devastating payload."
+
+NHSC_XMISSILE_3: "Reflex Warhead Launcher"
+NHSC_XMISSILE_3_DESC: "Even more powerful supersized rockets, capable of easily devastating even the toughest of warships."
+
+NHSC_XMISSILE_3_TITANIC: "$NHSC_XMISSILE_3$"
+NHSC_XMISSILE_3_TITANIC_DESC: "$NHSC_XMISSILE_3_DESC$"
+NHSC_XMISSILE_3_JUGGERNAUT: "$NHSC_XMISSILE_3$"
+NHSC_XMISSILE_3_JUGGERNAUT_DESC: "$NHSC_XMISSILE_3_DESC$"

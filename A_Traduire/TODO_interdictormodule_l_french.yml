@@ -1,0 +1,8 @@
+﻿l_french:
+
+ tech_interdictor_module: "Titan Interdictor Module"
+ tech_interdictor_module_desc: "The immense power requirements and the size of gavity well projectors traditionally prohibit their use on anything smaller than a starbase... but as one of our scientists has pointed out, is a Titan not larger than a Starbase?"
+ 
+ SHIP_AURA_INTERDICTOR:0 "Interdictor Module"
+ aura_interdictor_module:0 "Offensive Aura - Ship Interdictor Module"
+ 

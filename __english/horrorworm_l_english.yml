@@ -1,0 +1,21 @@
+﻿l_english:
+ HRWRM:0 "Eltryrad"
+ HRWRM_desc:0 "Eltryrads"
+ HRWRM_plural:0 "Eltryrads"
+ HRWRM_insult_01:0 "parasite"
+ HRWRM_insult_plural_01:0 "parasites"
+ HRWRM_compliment_01:0 "devourer"
+ HRWRM_compliment_plural_01:0 "devourers"
+ HRWRM_spawn:0 "wormling"
+ HRWRM_spawn_plural:0 "wormlings"
+ HRWRM_sound_01:0 "clicking"
+ HRWRM_sound_02:0 "rattling"
+ HRWRM_sound_03:0 "hissing"
+ HRWRM_sound_04:0 "howling"
+ HRWRM_sound_05:0 "screeching"
+ HRWRM_organ:0 "entrails"
+ HRWRM_mouth:0 "jaws"   
+ 
+ name_list_HRWRM1:0 "Eldritch 1" 
+ name_list_HRWRM1_desc:0 " "
+ 

@@ -1,0 +1,28 @@
+﻿l_english:
+ 
+ zofe_debug.1.name:0 "Ship Designs"
+ zofe_debug.1.desc:0 "Which design shall we choose?"
+ zofe_debug.1.a:0 "Beige/Brown/Cyan - Spiritualist"
+ zofe_debug.1.b:0 "Black/Silver/Viridian - Materialist"
+ zofe_debug.1.c:0 "Red/Gold/Sapphire - Xenophile"
+ zofe_debug.1.da:0 "Black/Brown/Red - Xenophobe"
+ zofe_debug.1.db:0 "Black/Silver/Purple - Purifier"
+ zofe_debug.1.e:0 "Black/Green/Yellow - Militarist"
+ zofe_debug.1.fa:0 "Beige/Brown/White - Pacifist"
+ zofe_debug.1.fb:0 "Pink/Red/Viridian - Inwards Perfection"
+ zofe_debug.1.g:0 "Black/Silver/White - Authoritarian"
+ zofe_debug.1.h:0 "Silver/Blue/White - Egalitarian"
+ zofe_debug.1.ia:0 "Green/Cyan/Yellow - Hive Mind"
+ zofe_debug.1.ib:0 "Purple/Green - Devourer"
+ zofe_debug.1.ja:0 "Brown/Orange - Machine"
+ zofe_debug.1.jb:0 "Brown/Red - Terminator"
+ zofe_debug.1.k:0 "Brown/Yellow/Orange - Megacorp"
+ zofe_debug.1.l:0 "Black/Silver/Blue - Neutral"
+ zofe_debug.1.m:0 "Silver/Gold - Original"
+
+ 
+ zofe_debug.2.name: "Forced Ascension (Cheat)"
+ zofe_debug.2.desc: "You're making a big mistake."
+ zofe_debug.2.a: "Furchtbar!"
+  
+ 

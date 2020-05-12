@@ -1,0 +1,315 @@
+﻿l_french:
+
+	reality_code:0 "§EThe Reality Code§!"
+	ehof_closed_modular:0 "Closed-Modular"
+	ehof_the_sphere:0 "§HThe Sphere§!"
+	ehof_the_sphere_named:0 "§EThe Everchanging§!"
+	ehof_ep:0 "§EEnigmatic Pattern§!"
+	ehof_eps:0 "$ehof_ep$§Es§!"
+	ehof_epcs:0 "$ehof_ep$ §ECode Sequence§!"
+
+	# Introduction to event chain
+	ehof_reality_code.1.name:0 "$ehof_ep$"
+	ehof_reality_code.1.desc:0 "We've received strange reports from our science vessel, the §H[ehof_code_fleet.GetName]§!.\n\nDuring routine investigations within §H[ehof_code_fleet.solar_system.GetName]§!, the ship was hit by an intense flash of energy. The ship's propulsion drive collapsed and it laid dormant for exactly 6 hours.\n\nThankfully, the secondary power core did not get damaged and activated shortly after the energy flash, securing the life support system of the §H[ehof_code_fleet.GetName]§!.\n\n6 hours after the initial flash, bizarre events began to take place onboard the vessel. The crew reports describe how all the systems began to reactivate, but remained uncontrollable. The monitors inside the ship began to display enigmatic but ordered patterns.\n\nIt was as if the ship was being possessed. Automatic doors closed and opened in a pattern, synchronous to the one on the monitors.\n\n6 more hours passed and the ship's systems collapsed again, but this time entirely, including the secondary power core. At first, this seemed to be the end of the §H[ehof_code_fleet.GetName]§!, but the blackout lasted only 10 seconds, after which the vessels systems began to reactivate.\n\nAfter the event, the §H[ehof_code_fleet.GetName]§! was back under control and the crew began to examine the vessel, only to find that it was entirely unharmed.\n\nThe $ehof_eps$ have not manifested since and the ships log has no record of this strange 12 hours period, as if nothing happened at all.\n\nThis phenomenon must be investigated further"
+
+	ehof_reality_code.002.name:0 "Code Sequence"
+	ehof_reality_code.002.desc:0 "We have made a breakthrough in the study of the $ehof_ep$.\n\nThe pattern is part of an advanced information and energy transmission sequence, sent from an unknown location. The code sequence is capable of infecting and possessing logical structures, like vessels.\n\nThe energy intensity of the code sequence leads to the revelation that the blackout on §H[ehof_code_fleet.GetName]§! was not the result of the vessel being hit by the energy flash, the ship simply could not handle the immense complexity of the information, leading to a full blackout.\n\nThe sequence was in fact responsible for the strange behavior on the ship, including the manifestation of the code sequence itself, as visual information on the monitors or mechanical information with the doors.\n\nThe initial use of the sequence and what it is even supposed to mean is unclear, but we were able to modify our science ships with $ehof_closed_modular$ and $ehof_ep$ scanners.\n\nThe $ehof_closed_modular$ are small, independently powered complexes, located in essential areas of our vessels and will function even after a full blackout of the main and secondary power cores. They are equipped with the ability to connect to specific sections of the ship and reactivate, while entirely cutting them from the main systems. With these complexes the ships will be able to operate again within an hour.\n\nThe $ehof_ep$ scanners, like the $ehof_closed_modular$ are also independently powered and are equipped with experimental information processing units, specifically designed for the $ehof_ep$. They will be able to retrieve the pattern and process it, without suffering from the blackout.\n\nWith this new technology, our science ships can now traverse the $ehof_cohesive$ systems safely and are ready for another transmission of the $ehof_ep$."
+
+	# Event chain (Situation Log)
+	ehof_p4_chain_title:0 "$reality_code$"
+	ehof_p4_chain_desc:0 "Equipped with the necessary technologies, our science ships are now capable of surviving the transmission of the $ehof_eps$ and processing it.\n\nIt is unknown if the $ehof_ep$ will be broadcasted in the same $ehof_cohesive$ system as last time, or in another. Only time will tell.\n\nOur science ships have to continue their studies within the $ehof_cohesive$ systems, in order to encounter another transmission of the $ehof_ep$."
+
+	# Point Of Interest For CPlanet system
+	ehof_mega_chain_1_poi:0 "The Origin"
+	ehof_mega_chain_1_poi_desc:0 "It appears that the $ehof_ep$ originates from this location.\n\nWe should investigate this system immediately."
+
+	# On surveying system with digsite, auto_build starbase
+	ehof_reality_code.003.name:0 "New outpost"
+	ehof_reality_code.003.desc:0 "§H[This.GetName]§! has finished surveying §H[From.GetName]§!\n\nSince the conception of the $ehof_ehof$, our engineers have been outfitting all science vessels in such a way that they are capable of deploying an outpost should they need to.\n\nAware of the scientific possibilities within the system, the crew aboard §H[This.GetName]§! deemed the §H[From.GetName]§! system of particular importance and have deployed the outpost."
+
+	###########################################################################
+	################# 3/6 reality code excavations completed ##################
+	###########################################################################
+
+	ehof_reality_code.004.name:0 "Reality Code - Activation"
+	ehof_reality_code.004.desc:0 "Thanks to the knowledge we were able to collect inside the amplifiers, we now know how to activate the $ehof_gateway_disableds$. Our researchers have already begun to develop the necessary technology to activate them. Facilities which will be able to transmit gravielectromagnetic waves and produce the necessary intensity for the energy content of the transmission, are getting developed. They will project the $ehof_epcs$ with the right frequency and amplitude, so the $ehof_gateway_disableds$ systems will react accordingly and activate it. It is entirely unknown what exactly happens when an $ehof_gateway_disabled$ gets activated. All we know is how to do it, and now we can actually begin to do it!"
+
+	############################################################################
+	################################# Anomalies ################################
+	############################################################################
+
+	################################# Toxic
+	############################################################################
+	# Anomaly
+	code_1_cat:0 "Reality Code - Toxic World"
+	code_01_category_desc:0 "§H[this.GetName]§! received a transmission of the $ehof_epcs$. It is the first transmission we've detected since the initial one years ago. §H[this.GetName]§! detected the transmission inside the §H[root.solar_system.GetName]§! system. Like the initial transmission, it disabled the ships main systems. The ships $ehof_closed_modular$ were able to restore the ships functionality, but the process still took about two hour, which is longer than anticipated. The systems may need additional modification to work more efficiently.\n\nThe $ehof_ep$ scanners were able to identify the source of the transmission inside the system, the toxic world §H[From.From.GetName]§!. The exact location on or inside the planet needs to be determined by an investigation.\n\nThe $ehof_ep$ scanners might be able to locate the source. Based on the fact that the transmission was only broadcasted for a short amount of time and has not been broadcasted since, it may take some time to locate the source."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.101.name:0 "Reality Code - Toxic World"
+	ehof_reality_code.101.desc:0 "§H[this.GetName]§! was able to locate the source of the $ehof_ep$ on the planet §H[From.From.GetName]§!.\n\nIt was able to determine the location, by comparing electromagnetic and gravimetric interferences on the surface of the planet and ultimately the deeper layers, with the $ehof_epcs$. The source appears to be located closely under the surface of the planet, at a depth of about 44.5 kilometers, at the southern hemisphere.\n\nAn excavation will be necessary to reach the location of the source. High temperatures and the toxic atmosphere will make the excavation more difficult, but with proper equipment it shouldn't be much of an issue.\n\nWe'll have to put the necessary time and resources into the project, to get the answers we've been looking for."
+
+	################################# Shattered
+	############################################################################
+	# Anomaly
+	code_2_cat:0 "Reality Code - Shattered World"
+	code_02_category_desc:0 "Another transmission of the $ehof_epcs$ has been received inside the §H[root.solar_system.GetName]§! system, by §H[this.GetName]§!. Just like the last two times, the ship was disabled by the transmission, but this time, its $ehof_closed_modular$ were able to restore the ships functionality within only a few minutes. Much faster than the last time.\n\nThe $ehof_ep$ scanners were able to identify the source of the transmission inside the system, the shattered planet §H[From.From.GetName]§!. The exact location on or inside the planet needs to be determined by an investigation.\n\nThe $ehof_ep$ scanners will be able to locate the source, but it'll take some time to do so."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.201.name:0 "Reality Code - Shattered World"
+	ehof_reality_code.201.desc:0 "The location the source of the $ehof_ep$, on the planet §H[From.From.GetName]§! has been determined.\n\nThe source appears to be located inside a large fragment of the planet, at a depth of about 223.7 kilometers.\n\nThis excavation will prove more challenging than the first one, not only due to source being located deeper than the last one, but because of the dangerous and unstable conditions. The fragment we'll have to work on could break apart or collide with other fragments.\n\nCaution is advised."
+
+	################################# Frozen
+	############################################################################
+	# Anomaly
+	code_3_cat:0 "Reality Code - Frozen World"
+	code_03_category_desc:0 "§H[this.GetName]§! received another transmission of the $ehof_epcs$, inside the §H[root.solar_system.GetName]§! system. The ships functionality has been restored and the location of the source determined. The frozen planet §H[From.From.GetName]§!\n\n. The exact location on or inside the planet needs to be determined by an investigation."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.301.name:0 "Reality Code - Frozen World"
+	ehof_reality_code.301.desc:0 "§H[root.GetName]§! determined the location of the amplifier object inside §H[From.From.GetName]§!.\n\nIt is located at a depth of about 470.8 kilometers under the northern hemisphere of the planet. An excavation will be necessary to reach the location. Specialized tools will be needed to effectively dig through the cold, frozen surface of the world.\n\nWe'll have to put the necessary time and resources into the project, to find out more about the $ehof_epcs$, the amplifier objects and the $ehof_gateway_disableds$."
+
+	################################# Molten
+	############################################################################
+	# Anomaly
+	code_4_cat:0 "Reality Code - Molten World"
+	code_04_category_desc:0 "Another transmission of the $ehof_epcs$ has been received inside the §H[root.solar_system.GetName]§! system, by §H[this.GetName]§!. The ships functionality has been restored and the location of the source determined. The molten world §H[From.From.GetName]§!.\n\The exact location on or inside the planet needs to be determined by an investigation.\n\nThe $ehof_ep$ scanners will be able to locate the source, but it'll take some time to do so."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.401.name:0 "Reality Code - Molten World"
+	ehof_reality_code.401.desc:0 "§H[root.GetName]§! determined the location of the amplifier object inside §H[From.From.GetName]§!.\n\nIt is located at a depth of about 727.3 kilometers under the southern hemisphere of the planet. An excavation will be necessary to reach the location. Due to the extremely hostile environment, with temperatures up to 1200 Degree Celsius, the digsite needs to be heavily secures.\n\nWe'll have to put the necessary time and resources into the project, to find out more about the $ehof_epcs$, the amplifier objects and the $ehof_gateway_disableds$."
+
+	################################# Gas Giant
+	############################################################################
+	# Anomaly
+	code_5_cat:0 "Reality Code - Gas Giant"
+	code_05_category_desc:0 "§H[this.GetName]§! received another transmission of the $ehof_epcs$, inside the §H[root.solar_system.GetName]§! system. The ships functionality has been restored and the location of the source determined. The gas giant §H[From.From.GetName]§!\n\n. The exact location on or inside the planet needs to be determined by an investigation."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.501.name:0 "Reality Code - Gas Giant"
+	ehof_reality_code.501.desc:0 "The location of the amplifier object on §H[From.From.GetName]§! has been determined.\n\nLike all the amplifier objects before, this one is located inside the planet, at a depth of about 6449.2 kilometers, under the north pole of the planet.\n\nThis excavation is going to be the hardest yet. Highly specialized and durable equipment will be necessary to reach the amplifier object. Extreme densities and high temperature will make this project really difficult. The necessary equipment needs to be manufactured first.\n\nThis project will be really expensive and time consuming, but finding out more about the $ehof_epcs$ and the $CREATORGATE_GALACTICSS$ will make it worth the effort."
+
+	################################# Star
+	############################################################################
+	# Anomaly
+	code_6_cat:0 "Reality Code - Star"
+	code_06_category_desc:0 "Another transmission of the $ehof_epcs$ has been received by §H[this.GetName]§!, inside the §H[root.solar_system.GetName]§! system. The ships functionality has been restored and the location of the source determined. The star §H[From.From.GetName]§!\n\n. The exact location on or inside the planet needs to be determined by an investigation."
+
+	# Anomaly Success (Creates Digsite)
+	ehof_reality_code.601.name:0 "Reality Code - Star"
+	ehof_reality_code.601.desc:0 "The location of the amplifier object on the §H[From.From.GetName]§! has been determined.\n\nReaching this amplifier object will be an extremely hard task, because it is located inside the star, 74650.7 kilometers under the surface of the star. Incredible densities and extreme temperatures will make this project extremely difficult. The necessary equipment needs to be manufactured first.\n\nThe costs and the time investment of this project are not foreseeable, but completing the enigmatic master-code sequence and reaching the origin of the $ehof_epcs$, might be worth any cost."
+
+	############################################################################
+	################################# Digsites #################################
+	############################################################################
+
+	ehof_science_salvage:0 "\n\nOur scientists have decided to live alongside the population in this system and have dismantled their vessel."
+
+	################################# Toxic
+	############################################################################
+	# Initial
+	code1_digsite:0 "Reality Code - Toxic Excavation"
+	code1_digsite_desc:0 "The equipment necessary for the excavation on §H[code_world_planet.GetName]§! is ready for deployment. Before we can start the excavation, the digsite needs to be secured and the equipment needs to be installed."
+
+	# Stage 1
+	ehof_reality_code.111.name:0 "Reality Code - Toxic Excavation I"
+	ehof_reality_code.111.desc:0 "To protect the digsite for the excavation from the hazardous atmosphere, a small isolated dome made out of corrosion- and heat-resistant material was built around the location of the digsite. The equipment was installed and is ready for deployment. Due to the location of the source being only a few dozens of kilometers under the surface, a conventional excavator can be used to drill a tunnel to its location. After the hole has been drilled, a specialized manned research unit will be sent down the hole to investigate the source. The excavation can now begin."
+
+	# Stage 2
+	ehof_reality_code.112.name:0 "Reality Code - Toxic Excavation II"
+	ehof_reality_code.112.desc:0 "The excavator has finished its work. The hole has been drilled and has a depth of about 43 kilometers. The source of the $ehof_ep$ may be more than one kilometer deeper, but because the exact size of the source could not be determined, precautions have been taken. When the manned unit has reached the end of the tunnel, it will use its own tools to reach the source. The unit can now be launched."
+
+	# Stage 3
+	ehof_reality_code.113.name:0 "Reality Code - Toxic Excavation III"
+	ehof_reality_code.113.desc:0 "The manned drilling unit reported that it has reached the location of the source. The location itself is already really strange.\n\nAfter reaching a proximity of about 300 meters to the location of the source, the crust material suddenly ended and they reached a hollow space inside the crust. Inside this space a construct that appears to be the source, is located. It is shaped in the form of an octahedron, with a diameter of exactly 2.5 kilometers at it's biggest extent.\n\nThe entire space around the object appears to be wobbling for unknown reasons, as if the object is projecting some sort of force field. This would also explain why there is such a big empty space around the source in the first place.\n\nBased on surface scans, the surface is composed of a material of unknown composition. Thermal scans reveal an astonishing property of the object. Its thermal temperature is at almost absolute zero, in the orders of zeptokelvin, colder than black holes. At such a low temperature, the state of an object can almost be seen as frozen in time. How the construct can reach this temperature and for what reason is unknown. The same can be said for the force field it appears to generate.\n\nScanners cannot penetrate the surface and detect no signs of emitting radiation, only average field excitations, and weak fluctuations of the $ehof_ep$. The only way we can find out more is by trying to somehow find a way into the object."
+
+	# Stage 4
+	ehof_reality_code.114.name:0 "Reality Code - Toxic Excavation IV"
+	ehof_reality_code.114.desc:0 "It took quite some time to get access to the object, but the wait paid off.\n\nAfter many different attempts to find a way into the object, the crew used a combination of gravitational waves, at a frequency and amplitude that mimics the $ehof_ep$, in hopes that the object would react to it. And it did.\n\nOn one of the surfaces of the object, an entrance manifested. The crew entered and found something inside that can only be described as a mechanism of incredible complexity.\n\nThey studied it for a long time, just to find out that this mechanism was an additional blockade for the real entrance, some kind of identification checkpoint. They needed advanced computational assistance to solve the mechanism, but were successful nonetheless and were granted access. Inside, they found a hyper-complex technological system.\n\nAfter an intense study of the system, they were still not entirely able to determine the initial function of the structure, but they've found out that it is not really the source of the $ehof_ep$, but serves as an amplifier and repeater for it. The sequence appears to get transmitted via gravielectromagnetic waves and at the edge of the solar system, through an unknown mechanism, enters some form of faster-than-light(ftl) travel.\n\nIt might be possible that the alien object, which is located at the edge of this solar system, the $ehof_gateway_disabled$, might have something to do with it. The most important discovery is a distinct code sequence fragment of the $ehof_ep$, that appears to be compatible with the original code sequence that was discovered long ago.\n\nThe crew is preparing themselves for the journey back to the surface."
+
+	# Stage 5
+	ehof_reality_code.115.name:0 "Reality Code - Toxic Excavation V"
+	ehof_reality_code.115.desc:0 "The manned research unit has returned to the surface, with the essential data they've collected inside the octahedron object.$ehof_science_salvage$"
+
+	################################# Shattered/Shattered
+	############################################################################
+	# Initial
+	code2_digsite:0 "Reality Code - Shattered Excavation"
+	code2_digsite_desc:0 "The equipment necessary for the excavation on §H[code_world_planet.GetName]§! is ready for deployment.\n\nBefore we can start the excavation, the digsite needs to be secured and the equipment needs to be installed."
+
+	# Stage 1
+	ehof_reality_code.211.name:0 "Reality Code - Shattered Excavation I"
+	ehof_reality_code.211.desc:0 "To protect the digsite for the excavation from asteroid impacts and earthquakes, multiple generators for energy barriers and large electromagnetic fields were installed, to create an isolated island of fragment material, which cannot be ripped apart by the effects of the surrounding material. The equipment was installed and is ready for deployment.\n\nDue to the instability of the fragments structure and the depth of the source, an excavation with a conventional excavator is not possible. Instead, a specialized manned drilling unit will be used for this excavation. It will enter the fragment by drilling through its layers, until it has reached the location of the source.\n\nThe unit is now ready for deployment."
+
+	# Stage 2
+	ehof_reality_code.212.name:0 "Reality Code - Shattered Excavation II"
+	ehof_reality_code.212.desc:0 "The drilling unit has been deployed and has already breached the first 100 kilometers of fragment material. Only 100 more until it reaches the location."
+
+	# Stage 3
+	ehof_reality_code.213.name:0 "Reality Code - Shattered Excavation III"
+	ehof_reality_code.213.desc:0 "The manned drilling unit reported that it has reached the location of the source. Just like inside the toxic world, where the first amplifier object was located, a void of space is surrounding the object. It is also shaped like an octahedron, like the first one was. This leads to the assumption that the octahedral shape fulfills an unknown purpose and is preferable compared to other shapes. It might also just be an architectural design choice by its creators.\n\nBased on scans and analysis of the amplifier object, it is identical to the first one, only being different due to it being located somewhere else.\n\nThe crew of the manned drilling unit is ready to undertake the necessary steps to enter the object."
+
+	# Stage 4
+	ehof_reality_code.214.name:0 "Reality Code - Shattered Excavation IV"
+	ehof_reality_code.214.desc:0 "Even though the steps necessary to enter the object were the same as for the first one, it took quite some time to get access.\n\nIt didn't react to the $ehof_epcs$ like the first one did. The crew had to experiment with intensity of the transmission in order to find the right one, which opened the object.\n\nThe entrance mechanism of the object was similar, but still distinct enough to prove a challenge for the crew. It is unknown if the intensity necessary to open the amplifier objects and the complexity of the entrance mechanism is different for every amplifier object, or if the objects communicate with each other somehow and change their properties. Regardless, the crew was able to extract another code sequence fragment of the $ehof_epcs$ sequence, while also finding out more about the sequence itself. The $ehof_gateway_disabled$ objects at the edges of the wormhole-cohesive systems appear to be, in fact, responsible for the transportation of the $ehof_epcs$ sequence over interstellar distances. The incredibly high energy content of the gravielectromagnetic waves, the pattern is getting transported through, seems to be necessary to activate the $ehof_gateway_disableds$. Due to the all known $ehof_gateway_disableds$ appearing to be dormant, it can be assumed that a specific energy intensity or something similar is needed in order to activate them. If this hypothesis is true or needs to be verified. Unfortunately, there is no other information to be gathered from the amplifier object. The crew is ready to travel back to the surface."
+
+	# Stage 5
+	ehof_reality_code.215.name:0 "Reality Code - Shattered Excavation V"
+	ehof_reality_code.215.desc:0 "The manned drilling unit has returned to the surface, with the essential data they've collected inside the amplifier object.$ehof_science_salvage$"
+
+	################################# Frozen/Barren Frozen
+	############################################################################
+	# Initial
+	code3_digsite:0 "Reality Code - Frozen Excavation"
+	code3_digsite_desc:0 "The equipment necessary for the excavation on §H[code_world_planet.GetName]§! is ready for deployment. Before we can start the excavation, the digsite needs to be secured and the equipment needs to be installed."
+
+	# Stage 1
+	ehof_reality_code.311.name:0 "Reality Code - Frozen Excavation I"
+	ehof_reality_code.311.desc:0 "To protect the digsite for the excavation from the low temperatures, a large dome out of weakly heat conductive, which will keep the heat inside the dome, was constructed. The equipment was installed and is ready for deployment. Due to the frozen surface, the frozen crust and the depth of the source, a specialized manned drilling unit will be used for this excavation. It will reach the source by drilling through the planets crust and outer mantle, until it has reached its location. The unit can now be deployed."
+
+	# Stage 2
+	ehof_reality_code.312.name:0 "Reality Code - Frozen Excavation II"
+	ehof_reality_code.312.desc:0 "The drilling unit has been deployed and recently entered the most outer layers of the outer mantle. 250 more kilometers until it reaches the location."
+
+	# Stage 3
+	ehof_reality_code.313.name:0 "Reality Code - Frozen Excavation III"
+	ehof_reality_code.313.desc:0 "The manned drilling unit reported that it has reached the location of the source. Everything is just like the last two times. A void of space, with the amplifier located inside of it.\n\nThe crew of the manned drilling unit is ready to undertake the necessary steps to enter the object."
+
+	# Stage 4
+	ehof_reality_code.314.name:0 "Reality Code - Frozen Excavation IV"
+	ehof_reality_code.314.desc:0 "The crew was able to get access to the amplifier and extract another fragment of the enigmatic code sequence.\n\nBesides the fragment, the crew was able to gather additional information about the transportation mechanism of the $ehof_epcs$. Based on the knowledge already gathered inside the other amplifier objects and the information found in the new one, the crew was able to determine how to activate the $ehof_gateway_disableds$! Three things are necessary for the $ehof_gateway_disableds$ to react to the transmission of the $ehof_epcs$ and activate, to transport it throughout interstellar space.\n\nFirst, the gravielectromagnetic waves, which transport the $ehof_epcs$ sequence, need to possess a specific energy content. If the energy content differs even slightly, regardless if it is less or higher, the $ehof_gateway_disableds$ will not react to the transmission and neutralize the gravielectromagnetic wave. Second, the kind of wave, which transports the $ehof_epcs$ sequence, needs to be gravielectromagnetic. The reason for this appears to be that the $ehof_gateway_disableds$ won't get activated by other forms of radiation, with the same energy content necessary to activate the $ehof_gateway_disableds$. Third, the enigmatic pattern code sequence needs to be tuned perfectly to activate the $ehof_gateway_disabled$. This serves as a way to ensure that the $ehof_gateway_disabled$ is only getting activated when truly needed and not accidentally.\n\nWith all this newly acquired knowledge in mind, the crew of the drilling unit is ready to head back to the surface of the planet."
+
+	# Stage 5
+	ehof_reality_code.315.name:0 "Reality Code - Frozen Excavation V"
+	ehof_reality_code.315.desc:0 "The manned drilling unit has returned. The excavation was a success.$ehof_science_salvage$"
+
+	################################# Molten
+	############################################################################
+	# Initial
+	code4_digsite:0 "Reality Code - Molten Excavation"
+	code4_digsite_desc:0 "The equipment necessary for the excavation on §H[code_world_planet.GetName]§! is ready for deployment. Before we can start the excavation, the digsite needs to be secured and the equipment needs to be installed."
+
+	# Stage 1
+	ehof_reality_code.411.name:0 "Reality Code - Molten Excavation I"
+	ehof_reality_code.411.desc:0 "To protect the digsite for the excavation from the intense heat and tectonic and volcanic activity, multiple generators for energy barriers and large electromagnetic fields were installed, to create an isolated island of crust material, which cannot be ripped apart by the tectonic effects, and is heat resistant. The equipment was installed and is ready for deployment.\n\nDue to the depth of the source and heat of the crust and mantle, a different approach than in last three excavations needs to be made. First, a heat-resistant excavator will drill a 350 kilometer deep tunnel. Then, a specialized, heat-resistant, manned drilling unit will be sent down the tunnel, travel safely and without any wear, until it has reached the end of the tunnel, where it will begin to use its own drilling capabilities to reach the amplifier object.\n\nThe excavator can now be deployed"
+
+	# Stage 2
+	ehof_reality_code.412.name:0 "Reality Code - Molten Excavation II"
+	ehof_reality_code.412.desc:0 "The excavator has completed its part of the excavation and drilled the tunnel. The drilling unit is now ready for deployment."
+
+	# Stage 3
+	ehof_reality_code.413.name:0 "Reality Code - Molten Excavation III"
+	ehof_reality_code.413.desc:0 "The drilling unit has been deployed and has reached the end of the tunnel. 400 more kilometers until it reaches the location."
+
+	# Stage 4
+	ehof_reality_code.414.name:0 "Reality Code - Molten Excavation IV"
+	ehof_reality_code.414.desc:0 "The manned drilling unit reported that it has reached the amplifier. The crew is preparing themselves to undertake the necessary steps to enter the object."
+
+	# Stage 5
+	ehof_reality_code.415.name:0 "Reality Code - Molten Excavation V"
+	ehof_reality_code.415.desc:0 "The crew was able to get access to the amplifier and extract another fragment of the enigmatic code sequence.\n\nThe fragments are beginning to make sense now. When using the fragments in unison, they align themselves autonomously into a specific order, frequency and amplitude. It appears that these fragments are part of a specific and unique manifestation of the $ehof_epcs$ sequence. It is distinct from all the others, which are used simply for activating the $ehof_gateway_disableds$, turning them into $CREATORGATE_GALACTICS$ and transporting the $ehof_epcs$ between $CREATORGATE_GALACTICS$. For now, this unique manifestation seems to be without use for us, cause it is not entirely whole yet. Based on computational analysis, at least one or two more specific fragments are needed, for the completion of the sequence. What it is there for, is currently unknown. Other than an additional fragment of the unique $ehof_epcs$, we've also found out even more about the $CREATORGATE_GALACTICSS$. We may be able to activate them and use them for travel between the wormhole-cohesive systems, but we actually still know almost nothing about how they work or who built them. The $CREATORGATE_GALACTICS$ structure is of astonishing complexity, just like the amplifier objects. Similar to them, they appear to be somehow sentient, alive, not only based on their behaviors, but also the way they are constructed and structured. They appear to be mechanical constructs with a biologically inspired design. It is astonishing and difficult to comprehend. Why they are constructed that way is unknown, but it is amazing nonetheless. The crew of the drilling unit is preparing themselves to head back to the surface."
+
+	# Stage 6
+	ehof_reality_code.416.name:0 "Reality Code - Molten Excavation VI"
+	ehof_reality_code.416.desc:0 "The manned drilling unit has returned. The excavation was a success.$ehof_science_salvage$"
+
+	################################# Gas Giant
+	############################################################################
+	# Initial
+	code5_digsite:0 "Reality Code - Gas Giant Excavation"
+	code5_digsite_desc:0 "The equipment necessary for the excavation on §H[code_world_planet.GetName]§! is ready for deployment. Due to the fact, that the amplifier object is located inside the deeper atmosphere of a gas giant, an unconventional way for reaching the object needs to be taken."
+
+	# Stage 1
+	ehof_reality_code.511.name:0 "Reality Code - Gas Giant Excavation I"
+	ehof_reality_code.511.desc:0 "In order to reach the location of the amplifier object, a specialized facility was constructed inside the atmosphere of §H[code_world_planet.GetName]§!, exactly above the location of the object.\n\nThe intense pressures of a gas giants atmosphere and the fact, that they are not solid but fluid, makes a conventional excavation impossible.\n\nThe facility will use a gigantic anchor, which will be dropped into the giants atmosphere. It will keep falling unrestrained until it has traveled half of the distance, where the facility will begin to slow the anchor down, so that it can be stopped in close proximity to the location, without taking any damage. There, electromagnetic field generators will keep the anchor in position.\n\nThe anchor's connection to the facility, will then be used as a line for a specialized, heat and pressure resistant elevator unit, which will follow the line until it has reached the source.\n\nThe anchor is now ready for deployment."
+
+	# Stage 2
+	ehof_reality_code.512.name:0 "Reality Code - Gas Giant Excavation II"
+	ehof_reality_code.512.desc:0 "The anchor has reached the location of the source. It was anchored and the connection to the facility stabilized.\n\nThe elevator unit can now be deployed."
+
+	# Stage 3
+	ehof_reality_code.513.name:0 "Reality Code - Gas Giant Excavation III"
+	ehof_reality_code.513.desc:0 "The elevator unit reported that it has reached the amplifier. Like inside the previous planets, a force field creates a void of space around the amplifier , but instead of keeping the crust material from crushing the amplifier object, it now prevents the atmosphere and the pressure of it from doing so. The crew is ready to undertake the necessary steps to enter the object."
+
+	# Stage 4
+	ehof_reality_code.514.name:0 "Reality Code - Gas Giant Excavation IV"
+	ehof_reality_code.514.desc:0 "The crew was able to get access to the amplifier and extract another fragment of the $ehof_epcs$ sequence.\n\nApparently, the unique $ehof_epcs$ sequence is almost complete. It seems that the combined fragments of the sequence can be used to get deeper access into the databases of the amplifier objects and can help to translate the information more easily. Through this, the crew was able to determine the initial purpose of the this unique sequence. This manifestation of the $ehof_epcs$ sequence, serves as a master code, which can be used to open a connection to the origin of the $ehof_epcs$ itself! Based on the information extracted from the databases of the amplifiers, in general, only the origin itself appears to be capable of creating a connection between itself and other $CREATORGATE_GALACTICS$. However, multiple amplifier objects, which work in unison, are also able to do it. At least six of them are needed for this, because only then can they create the entire master-code sequence. Where the origin is exactly located is still unknown, but an $CREATORGATE_GALACTIC$ will be able to connect to it, once we've got the whole sequence. Other than that, we've also found out more about the design of the $CREATORGATE_GALACTICSS$. Their pseudo-biological mechanical nature gives them incredible regenerative and adaptation abilities, which makes them almost impossible to damage for technology like ours. The materials they are made of are ethereal and appear to make usage of an unknown and strange form of energy, which allows them their seemingly, magical nature. This makes it extremely difficult for us to manufacture them ourselves, but it might be possible that further study of the $CREATORGATE_GALACTICSS$ and analysis of the amplifier object databases, may give us the knowledge to construct our own $CREATORGATE_GALACTICSS$ one day. With all this newly acquired knowledge in mind, the crew of the elevator unit is ready to head back to the surface of the planet."
+
+	# Stage 5
+	ehof_reality_code.515.name:0 "Reality Code - Gas Giant Excavation V"
+	ehof_reality_code.515.desc:0 "The elevator unit is on its way back to the surface. When it has returned, our researchers can analyze the essential data that they've collected inside the amplifier."
+
+	# Stage 6
+	ehof_reality_code.516.name:0 "Reality Code - Gas Giant Excavation VI"
+	ehof_reality_code.516.desc:0 "The elevator unit has returned. The excavation was a success.$ehof_science_salvage$"
+
+	################################# Star
+	############################################################################
+	# Initial
+	code6_digsite:0 "Reality Code - Stellar Excavation"
+	code6_digsite_desc:0 "The equipment necessary for the project on §H[code_world_planet.GetName]§! is ready for deployment. Due to the fact, that the amplifier is located inside the convective zone of a star, an unconventional way for reaching the object needs to be taken."
+
+	# Stage 1
+	ehof_reality_code.611.name:0 "Reality Code - Stellar Excavation I"
+	ehof_reality_code.611.desc:0 "In order to reach the location of the amplifier, a specialized facility was constructed above the photosphere of §H[code_world_planet.GetName]§!, exactly above the location of the object. The intense pressures and heat inside a star, makes a conventional excavation impossible.\n\nThe facility will use a gigantic, ultra-heat resistant anchor, which will be dropped into the stars photosphere. It will be pushed through the photospheres material until it has reached close proximity to the location, where electromagnetic field generators will keep the anchor in position.\n\nThe anchor's connection to the facility, will then be used as a line for a specialized elevator unit, which will follow the line until it has reached the source.\n\nThe anchor is now ready to be deployed."
+
+	# Stage 2
+	ehof_reality_code.612.name:0 "Reality Code - Stellar Excavation II"
+	ehof_reality_code.612.desc:0 "The anchor has reached the location of the source. It was anchored and the connection to the facility stabilized.\n\nThe elevator unit can now be deployed."
+
+	# Stage 3
+	ehof_reality_code.613.name:0 "Reality Code - Stellar Excavation III"
+	ehof_reality_code.613.desc:0 "The elevator unit reported that it has reached the amplifier object. Like inside the previous planets, a force field creates a void of space around the amplifier object, but instead of keeping the crust material from crushing the amplifier object, it now prevents the atmosphere and the pressure of it from doing so. The crew is ready to undertake the necessary steps to enter the object."
+
+	# Stage 4
+	ehof_reality_code.614.name:0 "Reality Code - Stellar Excavation IV"
+	ehof_reality_code.614.desc:0 "The crew was able to get access to the amplifier and extract another fragment of the $ehof_epcs$ master-code sequence.\n\nWith this final fragment in our possession, we will finally be able to fully assemble the $ehof_epcs$ master-code sequence! The complete sequence will allow us to travel to the origin of the $ehof_epcs$, where we might find out what the purpose of the $ehof_epcs$, the amplifier objects and the $CREATORGATE_GALACTICSS$ is.\n\nIn regards to the $CREATORGATE_GALACTICSS$. The complete master-code sequence allowed us full access to the database of this amplifier. The new information the crew was able to gather, revealed to us the true nature the fabric that the $ehof_gateway_disableds$ and the amplifiers are made from.\n\nThe pseudo-biological and regenerative nature of the mechanical fabric these structures are made of appears to arise due to the combination of two essential elements, The first element is a shape shifting, metal-like material, which is really similar, but still distinct, to the material we know as living metal. It seems to be made out of extremely advanced nano-machines, which are connected through a unique form of sentient and even self-aware, swarm intelligence.\n\nThe machines work in unison and are able to perfectly fuse with each other, to create any desired form of structure and physical property. The second element is the strange, alien energy, we already discovered before. It appears to both, fuel the structures to generate their extreme energy content and greatly enhance the already incredible abilities of this 'sentient metal'. From where this ethereal energy originates from is unknown, but the combination of this energy with the sentient metal, makes the structures almost completely indestructible. At least for our technology. Regardless, with this newly acquired knowledge, we might be able to develop technologies for the manufacture of the sentient metal, or at least something similar. We would then be able to create our own fabric for $CREATORGATE_GALACTICSS$ and potentially construct our own $CREATORGATE_GALACTICS$!\n\nThe crew of the elevator unit is preparing themselves for the journey back to the surface of the star." 
+
+	# Stage 5
+	ehof_reality_code.615.name:0 "Reality Code - Stellar Excavation V"
+	ehof_reality_code.615.desc:0 "The elevator unit is on its way back to the surface. When it has returned, our researchers can analyze the essential data that they've collected inside the amplifier object"
+
+	# Stage 6
+	ehof_reality_code.616.name:0 "Reality Code - Stellar Excavation VI"
+	ehof_reality_code.616.desc:0 "The elevator unit has returned. The excavation was a success.$ehof_science_salvage$"
+
+	################################# Final digsite (CPlanet)
+	############################################################################
+	# Notification that a new system spawned
+	ehof_reality_code.1000.name:0 "Reality Code - The Origin"
+	ehof_reality_code.1000.desc:0 "After years of searching for all the fragments of the $ehof_epcs$ master-code sequence, we were finally able to gather enough parts to fully assemble it.\n\nThe amplifiers and the $CREATORGATE_GALACTICSS$, that were found scattered throughout the $ehof_cohesive$ systems, are used to transfer the $ehof_epcs$ throughout the galaxy and beyond, for a purpose yet unknown. What we already know is the following. The amplifiers are capable of creating quasi-negative mass for an unknown purpose and are using the $CREATORGATE_GALACTICSS$ to communicate with each other. The signal through which they communicate, the $ehof_epcs$ code sequence, is transmitted via gravielectromagnetic waves until it reaches an $ehof_gateway_disabled$, which then either reacts to it or doesn't react to it. This depends on the frequency and amplitude of the $ehof_epcs$ and the intensity of the energy stored inside the gravielectromagnetic wave, which carries the $ehof_epcs$. If the $ehof_gateway_disabled$ does react, it transforms into an $CREATORGATE_GALACTIC$ and transmits the $ehof_epcs$ to the desired wormhole-cohesive system. The fundamental purpose for all this is still a mystery, but the investigation of the origin will hopefully reveal it to us. Thanks to the master-code sequence, we will now be able to create a connection between an $CREATORGATE_GALACTIC$ and the origin of the enigmatic pattern.\n\nOther than that, with the knowledge gathered inside the amplifiers and the study of the $CREATORGATE_GALACTICS$, we are now able to research the technology to manufacture sentient metal and create our own $CREATORGATE_GALACTICS$!"
+
+	# On entering the system
+	ehof_reality_code.10001.name:0 "Stellar Eradicator"
+	ehof_reality_code.10001.desc:0 "We've finally reached the origin system of the $ehof_epcs$, [Root.GetStarName]. The system consists of a massive black hole and one single celestial body orbiting it. A tremendous spherical structure with a diameter of approximately 5,000,000 kilometers. The structure is definitely not of natural origin and appears to be getting defended by a vessel we have not encountered before, the Stellar Eradicator.\n\nWe should proceed with caution, as it looks to be hostile and heavily armed! The defeat of this vessel might prove necessary, as it will probably prevent us from approaching the spherical object."
+	
+	# On killing the eradicator
+	ehof_reality_code.10002.name:0 "Eradicator eradicated"
+	ehof_reality_code.10002.desc:0 "Just as it appeared we were to win the battle against the Stellar Eradicator, it just vanished without a trace. There's no indication as to where it went or if it might return.\n\nRegardless, we can now resume our mission, the reason we came here to begin with. The spherical object which is probably the origin of the enigmatic pattern.\n\nVisual and thermal scans of the surface show that it's perpetually in motion and changing between many different states of matter. It is neither solid nor liquid nor gaseous nor a plasma. It is all of them at once! Even ultra high or ultra low energy states of matter appear to exist within the surface's composition, like Bose-Einstein-Condensates, degenerate matter and even photonic matter.\n\nThe surface is also glowing on its own from time to time, at different locations, probably because of the decay of photonic matter and the constant phase transitions. Based on our knowledge about the fabric of the amplifier objects and the $CREATORGATE_GALACTICSS$, the surface could be made out of the same material as they are composed of. Sentient metal. Attempts to verify this hypothesis unfortunately prove futile, as the composition of the surface is impossible to determine with scanners, due to the constant and extremely rapid phase transitions. What's noteworthy is that it appears to possess specific colour schemes, that are the same almost all over construct. A gold-silver and orange. How all of this works is absolutely unknown.\n\nTwo circular shaped areas, which can only be defined as the 'poles' of this sphere, because perfect spheres don't have poles, are distinct from the main surface structure. They have a diameter of approximately 2 million kilometers and appear to be made out of a solid, crystalline material with a bronze-like colour. Unlike the rest of the surface, the poles are static and don't change in the slightest way. In the centers of these poles, some kind of large sigil, shaped in a similar form as the amplifiers and the sigils on the $ehof_gateway_disableds$, is located. It may be some sort of representative symbol of the creators of this construct, the amplifiers and the $CREATORGATE_GALACTICSS$.\n\nJust like with the amplifier objects, the surface cannot be penetrated with scanners, but unlike them its temperature is not definable, due to the perpetually changing phases of the surface.\n\nAn entrance is not identifiable, if there is any, but it may be similar to the amplifier objects, whose entrances only 'manifest' under specific conditions.\n\nAn intense study of the structure will be necessary to determine its function and to find a way into it, which will probably be necessary to determine the function in the first place. Our researchers decided to name the construct $ehof_the_sphere_named$."
+
+	# Initial
+	code_final_digsite:0 "Reality Code - $ehof_the_sphere_named$"
+	code_final_digsite_desc:0 "Finding a way into $ehof_the_sphere$ seems like an impossible task. Stimulating or Penetrating the surface with radiation or mechanical force may be futile, just like with the amplifiers.\n\nThe surface may possess no defined temperature as a whole, but the separate components of the surface themselves do. Their temperatures probably range in the orders of extremely low and extremely high temperatures.\n\nEvery form of equipment that would be used to even only touch the surface, would probably be destroyed in an instant. Instead, our researchers want to go with the approach of using the $ehof_epcs$. It was the key to get access to the amplifiers and the $ehof_gateway_disableds$, so it may be the key for $ehof_the_sphere$ as well. However, they will not just use any enigmatic pattern code sequence, but the master-code sequence. It is likely that, if the $ehof_the_sphere$ even reacts to the $ehof_epcs$ at all, it will be to the master-code sequence.\n\nDue to the immense size of $ehof_the_sphere$, a single transmitter will probably not be enough for it, in case that it might truly react to the $ehof_ep$. However, only one facility will be constructed to begin with. It will be a directional transmitter for the $ehof_epcs$ and emit the $ehof_ep$ onto the surface via gravielectromagnetic waves.\n\nConstruction of the facility can begin now."
+
+	# Stage 1
+	ehof_reality_code.1001.name:0 "Reality Code - $ehof_the_sphere_named$ I"
+	ehof_reality_code.1001.desc:0 "The transmitter facility was partially successful at its task of opening an entrance to $ehof_the_sphere$.\n\nThe first few times it was utilized, it emitted the $ehof_epcs$ via gravitational waves, just like with the amplifiers, but these attempts remained without any reaction from $ehof_the_sphere$. After that, the researchers used gravielectromagnetic waves instead, as it was also necessary to use them for the $ehof_gateway_disableds$. This time, $ehof_the_sphere_named$ reacted, even if only for a short amount of time. At one of the poles, a relatively small notch with a diameter of 1 kilometer manifested, but vanished shortly afterwards. It appears that the stimulus was not enough.\n\nThe construction of additional facilities might be necessary to open a stable entrance to $ehof_the_sphere$."
+
+	# Stage 2
+	ehof_reality_code.1002.name:0 "Reality Code - $ehof_the_sphere_named$ II"
+	ehof_reality_code.1002.desc:0 "Our enormous project at $ehof_the_sphere$ has made essential progress.\n\nAfter installing and deploying multiple additional emitter facilities the number of the notches increased. It appears that the number of notches increases exponentially with the number of stimuli, applied to the surface. After installing 5 additional facilities, exactly 216 notches manifested at the surface. They aligned circularly from the center to the outside, forming a circle filled with evenly ordered notches.\n\nBased on the fact that 1 facility had 1 notch and 5 facilities have 216 notches, it can be determined that the number of notches increases with the power of three. The size of the notches themselves did not change.\n\nWith this rate of increase, it will take 126 facilities in total until the amount of notches and their alignment would cover the whole pole. Building an additional 110 of these expensive facilities would be an economical nightmare and our scientists are convinced that increasing the number until the whole pole is covered, would not lead to the manifestation of an entrance. They believe that the amount of signals emitted from the facilities alone is not enough, similar to how the $ehof_gateway_disableds$ do not react simply to the $ehof_epcs$, but only under specific conditions. Besides the quantity, the intensity, frequency and amplitude of the transmission is also important. The quantity and the quality of the transmission needs to be correct, to trigger the manifestation of an entrance.\n\nThe facilities will now begin to emit the $ehof_epcs$ master-code sequence with various intensities and configuration onto $ehof_the_sphere$, to verify this hypothesis."
+
+	# Stage 3
+	ehof_reality_code.1003.name:0 "Reality Code - $ehof_the_sphere_named$ III"
+	ehof_reality_code.1003.desc:0 "The hypothesis of our researchers at $ehof_the_sphere$ proved to be correct.\n\nThe transmitter facilities were emitting the $ehof_eps$ code sequence with various intensities and configuration onto $ehof_the_sphere$ and the notches not only manifested, but also changed their size.\n\nAfter a longer period of time, in which the facilities had to test numerous different variations, they were finally able to determine the right one. With the right intensity and configuration, the notches merged into one large hole, with a diameter of 240 kilometers, and $ehof_the_sphere$ finally opened.\n\nOur scientists were even able to find out, that by applying the right intensity with a different number of facilities, increases or decreases the size of the entrance. This mechanism probably allows a multitude of different sizes for the entrance of $ehof_the_sphere$, maybe for transporting larger or smaller cargos into $ehof_the_sphere$. Based on the size of $ehof_the_sphere$, it could have been entire planets or even stars! Whatever it was that the creators of $ehof_the_sphere$ transported through the entrance is not important right now, only that we unveil the secrets of $ehof_the_sphere$.\n\nUnfortunately, behind the entrance, another enormous mechanism, similar to the one inside the amplifier objects, is located. It appears that we first have to find a way to solve the mechanism, to finally get access to $ehof_the_sphere$.\n\nOur researchers guess that it will be necessary to deploy advanced computational assistance to solve the mechanism"
+
+	# Stage 4
+	ehof_reality_code.1004.name:0 "Reality Code - $ehof_the_sphere_named$ IV"
+	ehof_reality_code.1004.desc:0 "In order to find out how to solve the entrance mechanisms of $ehof_the_sphere$, our scientists deployed an ensemble of extremely advanced intelligence to discover how to solve it.\n\nAfter many days of calculation and analysis, the intelligences were indeed capable of solving the mechanism. The only problem is that in order to apply the solution for the mechanisms, mechanical force and radiation needs to be applied at tens of thousands of different locations on the mechanism.\n\nThe machinery for this task needs to be developed and constructed first. Then we will finally be able to open $ehof_the_sphere$!"
+
+	# Stage 5
+	ehof_reality_code.1005.name:0 "Reality Code - $ehof_the_sphere_named$ V"
+	ehof_reality_code.1005.desc:0 "We finally completed the construction of the machinery necessary to solve the entrance mechanism of $ehof_the_sphere$.\n\nThousands of different drones with different tools have been constructed, in order to interact with all the different locations.\n\nIt is unknown if all the stimuli need to be applied at once or in a specific order. The intelligences will observe the entire process, in order to determine how the stimuli need to be applied.\n\nThe deployment of the drones can now begin"
+
+	# Stage 6
+	ehof_reality_code.1006.name:0 "Reality Code - $ehof_the_sphere_named$ VI"
+	ehof_reality_code.1006.desc:0 "It worked, we were able to solve the entrance mechanism to open $ehof_the_sphere$!\n\nAfter countless attempts, the intelligences were able to determine that the order the drones needed to apply the different stimuli in, was coherent with the harmonic frequency of the gravitational waves, that the black hole $ehof_the_sphere$ is orbiting, is emitting.\n\nWhy the creators of $ehof_the_sphere$ would secure the mechanism in this way is absolutely unknown, but it doesn't really matter.\n\n$ehof_the_sphere$ is finally open. We can unveil all of its mysteries!"

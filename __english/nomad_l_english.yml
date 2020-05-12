@@ -1,0 +1,843 @@
+﻿l_english:
+
+ ####################################
+ # Name Lists
+ ####################################
+ 
+ name_list_NOMAD:0 "Nomad"
+ name_list_MARAUDER:0 "Marauder"
+ name_list_REAVERS:0 "Reaver"
+ 
+ ####################################
+ # Traits
+ ####################################
+ 
+ trait_void_farer:0 "Void Farers"
+ trait_void_farer_desc:0 "§LThis species has spend so long in the void of space about ships and stations that their biologies can no longer tolerate a planet-bond life style."
+ trait_bit_degradation:0 "Malfunctioning Systems"
+ trait_bit_degradation_desc:0 "Due to malfunctions, bit decay, and non-compatible salvaged soft and hardware these machines have more trouble maintaining a surface presence on worlds that are not ideal."
+ 
+ # Leader traits
+ 
+ leader_trait_expertise_void_engineer:0 "Void Engineer"
+ leader_trait_expertise_void_engineer_desc:0 "When you live your life aboard starships and stations you learn a thing or two engineering and how voidcraft work."
+ leader_trait_expertise_void_governor:0 "Quarter Master"
+ leader_trait_expertise_void_governor_desc:0 "This individual knows how supply lines work and that even if one redundency fail could spell the end to a ship."
+ leader_trait_expertise_void_ruler:0 "Fleet Master"
+ leader_trait_expertise_void_ruler_desc:0 "Weather elected or born into it. A Fleet master knows voidcraft is what keep their civilization alive and will always keep some focus on that."
+ 
+ ####################################
+ # Habitat Buildings
+ ####################################
+ 
+ building_hab_capital_administration:0 "Habitat Capital"
+ building_hab_capital_administration_desc:0 "A much more upgraded complex that further sees to the administrative, governmental and logistical needs of this voidcraft."
+ building_hab_astro_mining_fleet:0 "Astro Mining Fleet"
+ building_hab_astro_mining_fleet_desc:0 "This independent fleet of mining ships is capable of processing the raw minerals it has harvested while on it way back to the station allowing our falsilities to create more finished parts and componets more quickly."
+ building_hab_agri_district:0 "Agricultural District"
+ building_hab_agri_district_desc:0 "Advances have allowed districts like this to produce the most food possible to supply the fleet."
+ building_hab_solar_amplifier:0 "Solar Amplifier"
+ building_hab_solar_amplifier_desc:0 "Amplifiers allow for even greater amounts of energy generation to be gained from solar power."
+ building_hab_institute_module:0 "Institute Complex"
+ building_hab_institute_module_desc:0 "These complexes not only train and sharpen the young minds of our fleets but also allow them to contribute to our technological advancement."
+ building_hab_hypercomms_district:0 "Hypercomms District"
+ building_hab_hypercomms_district_desc:0 "This district has been dedicated towards our cultural devlopment while helping the fleet stay in tough with each other no matter the distance."
+ 
+ building_hab_empire_administration:0 "Habitat Empire Capital-Complex"
+ building_hab_empire_administration_desc:0 "This complex which can only be built on the largest of our voidcraft truely signifies that we are a nation here in the stars."
+ 
+ building_vf_astro_mining_bay:0 "Astro Mining Bay"
+ building_vf_astro_mining_bay_desc:0 "A space station is not known for holding any natural minerals to be mined. However bay like this one hold ships that go and harvest from nearby planetary bodies to help support the needs of the fleet."
+ building_vf_power_conduits:0 "Solar Amplifier"
+ building_vf_power_conduits_desc:0 "Amplifiers allow for even greater amounts of energy generation to be gained from solar power."
+ 
+ district_hab_vf_resource_bay:0 "Resource Bay"
+ district_hab_vf_resource_bay_desc:0 "These bays surve a dual purpose of keeping the habitat powered and supplied with minerals to keep the station running."
+ district_hab_vf_resource_bay_plural:0 "Resource Bays"
+ 
+ ##################################################
+ # Void Farer Jobs
+ ##################################################
+ 
+ job_scabber:0 "Scabber"
+ job_scabber_plural:0 "Scabbers"
+ job_scabber_desc:1 "These poor fellows being unable to fine proper employment do the best they can to make a living scrounging and scavenging here and and odd jobs there."
+ mod_job_servant_add:0 "$job_scabber$ Jobs"
+ 
+ ##################################################
+ # Void Farer Unique Starbase Modules and Buildings
+ ##################################################
+ 
+ ### Modules
+ sm_nomad_trade_hub:0 "Generator Module"
+ sm_nomad_trade_hub_desc:0 "Generators build on-board Void Farer stations help to ensure that the lights stay on in their fleets."
+ sm_nomad_trade_hub_desc_modifier:0 "Research Power plant technologies in increase its production"
+ sm_nomad_production_hub:0 "Production Module"
+ sm_nomad_production_hub_desc:0 "This manufactory module helps to supply much needed parts to the fleet and is also capable of refining raw ores into useful metals."
+ sm_nomad_production_hub_desc_modifier:0 "Research mining techs to increase its production"
+ 
+ ### Buildings
+ sm_nomad_art_college:0 "Rec Center"
+ sm_nomad_art_college_desc:0 "Wether its an actual Rec center or a cantina that disguises it for the hive of scum and villainy it is. All Void Farers need a place to develop their culture and traditions."
+ sm_nomad_art_college_desc_modifier:0 "Improve its unity production from researching unity buildings"
+ sm_nomad_think_tank:0 "Special Projects Bay"
+ sm_nomad_think_tank_desc:0 "This section of the base has been givin to our special projects"
+ sm_nomad_think_tank_desc_modifier:0 "To improve the base's production research lab techs. Each tech will increase the production of that science by one."
+ sm_nomad_trading_company:0 "Supply Hub"
+ sm_nomad_trading_company_desc:0 "Supply hubs ensure that when the resources come in no one is nicking supplies or hording."
+ sm_nomad_trading_company_desc_modifier:0 "Improves the production of Energy processors and Production ports. Its own resource production capabilities improve from Energy Grid and Refinery technologies."
+  
+ #####################################################
+ # Void Farer Casus Belli and Wargoals, and Bomardment
+ #####################################################
+ 
+ casus_belli_cb_marauder_raid:0 "Raid"
+ casus_belli_cb_marauder_subjugation:0 "Marauder Subjugation"
+ casus_belli_cb_nomad_ideology:0 "Force Ideology"
+ casus_belli_cb_marauder_khan:0 "Khan's conquest"
+ casus_belli_cb_defeat_Khan:0 "Defeat the Khan"
+ casus_belli_cb_void_farer_claim:0 "Claim"
+ casus_belli_cb_nomad_humiliation:0 "Humiliation"
+ casus_belli_cb_reaver_raid:0 "Reaver Raid"
+ casus_belli_cb_reaver_wild_hunt:0 "Wild Hunt"
+ casus_belli_cb_defeat_wild_hunt:0 "End the Wild Hunt"
+ 
+ war_goal_wg_marauder_subjugation:0 "Make Satrapy"
+ war_goal_wg_marauder_subjugation_desc:0 "The defeated empire will become a Satrapy"
+ war_goal_wg_marauder_plunder:0 "Plunder"
+ war_goal_wg_marauder_plunder_desc:0 "Defeated Empire will lose £energy and £minerals"
+ war_goal_wg_nomad_humiliation:0 "Humiliation"
+ war_goal_wg_nomad_humiliation_desc:0 ""
+ war_goal_wg_nomad_force_ideology:0 "Force Ideology"
+ war_goal_wg_nomad_force_ideology_desc:0 ""
+ war_goal_wg_marauder_khan:0 "Khan's conquest"
+ war_goal_wg_marauder_khan_desc:0 "Defeated Empire is Annexed"
+ war_goal_wg_end_threat_marauder_khan:0 "Defeat the Khan"
+ war_goal_wg_end_threat_marauder_khan_desc:0 "The Threat of the Khan"
+ war_goal_wg_void_farer_conquest:0 "Conquer"
+ war_goal_wg_void_farer_conquest_desc:0 "The Stars are ours to claim"
+ 
+ war_goal_wg_reaver_plunder:0 "Reaver Raid"
+ war_goal_wg_reaver_plunder_desc:0 "The reavers will desend on this systems like space amoebae amoung tiyanki. Defeated Empire will lose £energy and £minerals and pops that have been abducted"
+ war_goal_wg_end_threat_wild_hunt:0 "End the Wild Hunt"
+ war_goal_wg_end_threat_wild_hunt_desc:0 "These Reavers have rampaged across the stars for too long its time we end the threat."
+ 
+ ##################################################
+ # Void Farer Subjects
+ ##################################################
+ 
+ marauder_satrapy:0 "Satrapy"
+ 
+ ####################################
+ # Voidfarer Buildings/ Uniques
+ ####################################
+ 
+ # Basic
+ building_marauder_hab_capital:0 "Captain's Quarters"
+ building_marauder_hab_capital_desc:0 "Comfortable quarters that hold the captain and his officers."
+ building_marauder_scrap_pile:0 "Scrap Pile"
+ building_marauder_scrap_pile_desc:0 "Where some useful parts and bits are placed to build new ships."
+ building_marauder_fission_plant:0 "Fission Plant"
+ building_marauder_fission_plant_desc:0 "Reavers are well known for the improper to no shielding of their fission engines and power plants"
+ building_marauder_tinkerlab:0 "Tinkerlab"
+ building_marauder_tinkerlab_desc:0 "Though not known for the more intulletuall pursuits Marauders do have some means of advancing their technology."
+ building_marauder_barmess:0 "Barmess"
+ building_marauder_barmess_desc:0 "Marauders may not be known much for their...culture but even they had a place for it to develop...if that's the word for it..."
+ 
+ # Seconded tier Marauder Buildings
+ building_marauder_hab_capital_1:0 "Captain's Wing"
+ building_marauder_hab_capital_1_desc:0 "An upgrade to the quarters that the captain and his loyal Officers call home."
+ building_marauder_scrapyard_1:0 "Scrapyard"
+ building_marauder_scrapyard_1_desc:0 "This is where wreacked ships are taken refitted or even melted down to make new ships its even capable of prosessing minerals but not as well though."
+ building_marauder_critter_pen:0 ""
+ building_marauder_critter_pen_desc:0 ""
+ building_marauder_mod_labs:0 "Mod Lab"
+ building_marauder_mod_labs_desc:0 "A place were marauders with the skills can modify their gear and in doing so may lead to unexpected results..."
+ building_marauder_fusion_plant:0 "Fusion Plant"
+ building_marauder_fusion_plant_desc:0 "A network of power cores that the Reavers use to help power their fleets and stations."
+ building_marauder_buvette:0 "Buvette"
+ building_marauder_buvette_desc:0 "A Buvette filled with cutthroats, drinking, gambling, and other mischief"
+ 
+ # Advanced
+ building_marauder_hab_capital_2:0 "Captain’s suite"
+ building_marauder_hab_capital_2_desc:0 "What could be called a palace on the voidcraft. Here the captain and his officers live in utter luxury."
+ building_marauder_scrapworks:0 "Scrapworks"
+ building_marauder_scrapworks_desc:0 "The epitome of Marauder industry capable of retrofiting whole groups of ships into useful voidcraft for the fleet."
+ building_marauder_cantina:0 "Cantina"
+ building_marauder_cantina_desc:0 "A wretched hive of scum and villainy were these cutthroats gather to drink, brag, knife a bloke, celebrate it, then drink some more and repeat but not always in that order. It could be called the near epitome of marauder culture..."
+ 
+ # Scavengers
+ building_scavenger_assembly_plant:0 "Scavenger Replicator"
+ building_scavenger_assembly_plant_desc:0 "These habitat based facilities help void farering machines create more of their kind."
+ building_scavenger_assembly_plant_1:0 "Scavenger Industrial Replicator"
+ building_scavenger_assembly_plant_1_desc:0 "These habitat based facilities help void farering machines create more of their kind on a industrial level."
+ 
+ # Uniques
+ 
+ 
+ ######################
+ # Nomad Edicts
+ ######################
+ 
+ 
+ 
+ ####################################
+ # Void Farer Governments
+ ####################################
+ 
+ # Nomads
+ gov_nomads:0 "Galactic Nomads"
+ gov_nomads_desc:0 "Nomads are a space faring empire that mostly live on varias voidcraft with most of the poplution spread out on ships and stations. They normally don't have much in the way of territory but they can muster a suprising strength when needed."
+ gov_nomads_empire:0 "Lordly Admiralty"
+ gov_nomads_empire_desc:0 "These nomads live in a almost fedual system of Houses when one amoung them is titled the Lord of Admirals who leads the fleet."
+ gov_nomads_dictatorship:0 "Dispotic Admiralty"
+ gov_nomads_dictatorship_desc:0 "These Nomads are ruled by a autocrate who rules for life and once dead a vote from the most elite Admirals of the fleet determain who will lead."
+ gov_nomad_oligarchy:0 "Fleet Captain Board"
+ gov_nomad_oligarchy_desc:0 "These nomads chose by a vote of their ship captains of the fleet to chose whom amoung them is best"
+ gov_nomad_repubic:0 "Representative Fleet"
+ gov_nomad_repubic_desc:0 "These Nomads by ship electe Captains by a democratic vote with an election to determain who the Fleet Chancellor is."
+ 
+ gov_admiralty_board:0 "Admiralty Board"
+ gov_admiralty_board_desc:0 "This fleet of nomads is ruled by a board of admirals with their new leader being chosen from their number."
+ 
+ # Enclaves
+ 
+ gov_enclave:0 "Enclave"
+ gov_enclave_desc:0 "Enclaves are most familiar of all Void Farers and the most welcomed as they provide many valuable services that many empires seek. Weather its some ancient data cache, much needed resources, or even being commissioned for the arts. Often If you need something an Enclave will have it. This Enclave in particular seeks to expand its otherwise small holdings."
+ 
+ # Marauders
+ gov_marauders:0 "Galactic Marauders"
+ gov_marauders_desc:0 "Marauders are a space faring nation of pirates and raiders living aboud ships and stations. There are many different kinds of marauders but the worst of them are the Reavers."
+ gov_marauder_empire:0 "Khanate"
+ gov_marauder_empire_desc:0 "Marauder Khanates are lead by their Khans. These Khans are the most ruthless among them and oftentimes have to have killed many challengers to their power. Needless to say many of the groups, clans, and houses that make up this empire swear their allegiance to the Khan."
+ gov_marauder_dictatorship:0 "Black Admiralty"
+ gov_marauder_dictatorship_desc:0 "These marauders are lead by the Admiral of the Black. A member who is chosen from among the best Marauder lords they have and rules for as long as they keep it."
+ gov_marauder_oligarchy:0 "Brethren Court"
+ gov_marauder_oligarchy_desc:0 "Brethren Courts are a loose confederation made up of marauder captains who once in a while elect a member who leads the Court. These rogues and scoundrels are the best of the best or the worst of the worst depending on who's asking..."
+ gov_marauder_repubic:0 "Raider Republic"
+ gov_marauder_repubic_desc:0 "These marauder clans have surprisingly formed a democratic system of government. Where those who vote are all capable raiders who them hand their votes to the captain of their ship and so on."
+ 
+ gov_marauder_khan_empire:0 "Great Khanate"
+ gov_marauder_khan_empire_desc:0 "Though technically lead by the Great Khan. Most day to day operations is handled by the Voice of the Khan who follows orders given to them by the Great Khan which the Khan authorizes on how power is passed from one Voice to the next."
+ 
+ # Reavers
+ gov_reavers:0 "Reavers"
+ gov_reavers_desc:0 "Reavers are worst kind of Marauders that treat all other kinds of sapient life as one's own nomadic ancestors treated the herd creatures they hunted. Leave nothing to waste and use every part of the creature organic or machine..."
+ gov_tech_reavers:0 "Tech Reavers"
+ gov_tech_reavers_desc:0 "Tech Reavers seek out all sorts of technological gagets not for the advancement of science mind you. They have all sorts of terrible devices they like to use on their victims. Sooner or later they often end up as cyborgs."
+ gov_shrouded_reavers:0 "Shrouded Reavers"
+ gov_shrouded_reavers_desc:0 "As if normal Reavers bad enough. The worst of them are known as the Shrouded Reavers had come in contact with the strange entities that reside in the dimension known as the shroud and make often bloody and best not to be described offerings to their "gods". If you are captured by them make whatever rituals are necessary for your kind..."
+ 
+ # Drones
+ gov_scavengers:0 "Scavenger Bots"
+ gov_scavengers_desc:0 "Scavenger Bots are dysfunctional machines that have badly degraded over the centuries of their existence. These machines are the left behind AI that have attempted to rebuild the ship or even fleets but often times the main core of the intelligence is a jury-rigged form made from shipwrecks and even resources they have managed to mine/process."
+ gov_berserkers:0 "Berserkers"
+ gov_berserkers_desc:0 "Either the result of a malfunctioning ship board AI that managed to repair it's ship and go on a ballistic rampage or a deliberate design these mobile self-replicating fleets seek other civilizations to destroy flesh and metal alike."
+ gov_automated_zoologists:0 "Automated Zoologists"
+ gov_automated_zoologists_desc:0 "Part of a long forgotten automated zoological system. These machines often seek to aggressively add to their collection of organic specimens."
+ gov_von_neumann_prodes:0 "Exploratory Probes"
+ gov_von_neumann_prodes_desc:0 "Originally created to explore the galaxy these Von Neumann probes typically seek to research and expand upon their mobile databanks."
+ gov_mining_drones:0 "Abandoned Mining Network"
+ gov_mining_drones_desc:0 "No one truly knows who where the first to created these machines and their system wide mining network. But they have since due to bit decay removed the safeguards that prevented them from self-replicating."
+ 
+ 
+ ####################################
+ # Void Farer Rulers Titles
+ ####################################
+ 
+ # Nomad
+ RT_FLEET_HEADSMAN:0 "Fleet Headsman"
+ RT_LORD_OF_ADMIRALS:0 "First Lord of Admirals"
+ RT_LADY_OF_ADMIRALS:0 "First Lady of Admirals"
+ HT_VICE_LORD_OF_ADMIRALS:0 "Seconded Lord of Admirals"
+ HT_VICE_LADY_OF_ADMIRALS:0 "Seconded Lady of Admirals"
+ RT_FLEET_CAPTAIN_OF_CAPTAINS:0 "Head Commodore"
+ RT_HEAD_COMMODORE:0 "Fleet Captain of Captains"
+ RT_FLEET_CHANCELLOR:0 "Fleet Chancellor"
+ 
+ RT_FLEET_ADMIRAL_MALE:0 "Fleet Admiral"
+ RT_FLEET_ADMIRAL_FEMALE:0 "Fleet Admiral"
+ 
+ 
+ # Marauder
+ RT_KHAN:0 "Khan"
+ RT_KHANTUN:0 "Khantun"
+ HT_JINONG:0 "Jinong"
+ HT_GONJI:0 "Gonji"
+ 
+ RT_VOICE:0 "Voice of the Khan"
+ HT_ASPIRING_VOICE:0 "Aspiring voice of the Khan"
+ 
+ RT_ADMIRAL_OF_THE_BLACK:0 "Admiral of the Black"
+ RT_KING_OF_THE_BRETHREN:0 "King of The Brethren"
+ RT_QUEEN_OF_THE_BRETHREN:0 "Queen of the Brethren"
+ 
+ RT_FLEET_RELUCTANT_EMISSARY:0 "Relucatant Emissary"
+ 
+ # Reaver
+ RT_SLAUGHTER_MASTER:0 "Slaughter Fleet Master"
+ RT_SLAUGHTER_MASTER_FEMALE:0 "Slaughter Fleet Master"
+ HT_UPCOMING_SLAUGHTERER:0 "Upcoming Slaughterer"
+ HT_UPCOMING_SLAUGHTERER_FEMALE:0 "Upcoming Slaughterer"
+ RT_ABOMINATION:0 "Abomination"
+ RT_ABOMINATION_FEMALE:0 "Abomination"
+ HT_LESSER_ABOMINATION:0 "Lesser Abomination"
+ HT_LESSER_ABOMINATION_FEMALE:0 "Lesser Abomination"
+ RT_EXUALTED_CHAMPION:0 "Exualted Champion"
+ RT_EXUALTED_CHAMPION_FEMALE:0 "Exualted Champion"
+ HT_ASPIRING_CHAMPION:0 "Aspiring Champion"
+ HT_ASPIRING_CHAMPION_FEMALE:0 "Aspiring Champion"
+ 
+ ####################################
+ # Void Farer Start screen
+ ####################################
+ 
+ 
+ 
+ ####################################
+ # Void Farer Empires
+ ####################################
+ 
+ 
+ void_farer:0 "Void Farer"
+ void_farer_desc:0 "Void Farers are semi-nomadic to fully nomadic space dwelling empires"
+ 
+ COUNTRY_VOID_FARER_EMPIRE:0 "Void Farer Empire"
+ COUNTRY_VOID_FARER_EMPIRE_DESC:0 "Void Farers are semi-nomadic to fully nomadic space dwelling empires"
+ 
+ void_farer_ruler:0 "Ruler"
+ void_farer_governor:0 "Quarter Master"
+ void_farer_scientist:0 "Scientist"
+ void_farer_general:0 "General"
+ void_farer_admiral:0 "Admiral"
+ 
+ 
+ ###################################
+ # Void Farer Personalities
+ ###################################
+ 
+ nomads:0 "Nomad"
+ nomads_desc:0 "Nomads are a space faring civilization that lives aboard ships, stations, and other kins of void craft."
+ peaceful_wonderers:0 ""
+ peaceful_wonderers_desc:0 ""
+ spiritual_pilgrims:0 ""
+ spiritual_pilgrims_desc:0 ""
+ migrant_fleet:0 ""
+ migrant_fleet_desc:0 ""
+ 
+ 
+ marauders:0 "Marauder"
+ marauders_desc:0 "Marauders like nomads live aboard different kinds of voidcraft but live a lifestyle of raiding, warfare and pillaging."
+ marauder_priviteers:0 ""
+ marauder_priviteers_desc:0 ""
+ space_faring_warriors:0 ""
+ space_faring_warriors_desc:0 ""
+ 
+ reavers:0 "Reaver"
+ reavers_desc:0 "If what they have could be called a government reavers are lead by the most sadistic and cruelest among them. They are utterly fearless in combat and extremely aggressive. pray your empire does not border theirs they prefer their prey alive when they eat them..."
+ tech_reavers:0 "Tech Reaver"
+ tech_reavers_desc:0 "They are like their common reaver brethren prefer to attack and hunt other civilizations they are lead by individuals believe to be called abominations. Tech reavers tend to use more advanced technology and robots to help with their "hunts"...They like normal Reavers are extremely aggressive and want to eat their victims alive."
+ shrouded_reavers:0 "Shrouded Reaver"
+ shrouded_reavers_desc:0 "These Reavers are worst than both of the other kinds combined and are lead by what could be assumed champions of their patrons. They take their cruel and sadistic past times to the religious levels practicing the dark rituals taught to them by terrors that dwell in the beyond. They are even more aggressive than the other kinds of reavers."
+ 
+ ####################################
+ # Void Farer Civics
+ ####################################
+ 
+ civic_nomads:0 "Galactic Nomads"
+ civic_nomads_desc:0 "This civilization lives a semi-nomadic or a full nomadic lifestyle aboard different kinds of voidcraft from ships to stations. They ride free as the dust on the sollar wind as they travel the starts seeking or pursuing whatever goals they may."
+ civic_tooltip_nomad_effects:1 "Your civilization starts out with a Size 25 habitat station and is able to gain Nomad techs and build Nomad ships and stations.\nAs Void Farers will find most worlds §Runinhabitable§!\nDoes not need to hold territory and can exist as a mobile fleet.\nMiningstation Output §G+50%§"
+ 
+ civic_marauders:0 "Galactic Marauders"
+ civic_marauders_desc:0 "This civilization lives a nomadic lifestyle based around raiding and war. While capable of building alliances they are unlikely to do so."
+ civic_tooltip_marauders_effects:1 "Your civilization starts out with a Size 25 habitat station and is able to build Raider ships and research certain void farer techs.\nAs Void Farers will find most worlds §Runinhabitable§!\nWhile they do not need territory Marauders should hold some to supplement their meager economy.\nMarauders also get resources from destroying ships and stations of other empires.\nMiningstation Output §G+50%§"
+ 
+ civic_reavers:0 "Galactic Reavers"
+ civic_reavers_desc:0 "If there are any civilizations worse than Fanatical Purifiers, Devouring Swarms or even the Determined Exterminators than these are them the Reavers if they could be called a civilization. Reavers are a subset of Marauders with one key difference. Though Genetically no different than the species they come from they are characterized by their utterly depraved, sadistic and cannibalistic urges make what ever rituals your kind makes and pray that they do not capture you alive they like to eat their captives alive and keep others for better unamed entertainments..."
+ civic_tooltip_reavers_effects:0 "Reavers start in a Size 25 habitat station and is able to build Raider ships and research certain void farer techs.\nAs Void Farers will find most worlds §Runinhabitable§!\nCannot engage in §YDiplomacy§! with other species even own!\nHas the §Y'Reaver Raid'§! casus belli on other species\n§YXeno Pops§! will always be purged\nGains £unity  §YUnity§! from purging Xeno £pop  Pops\nMay use §Y$bombardment_armageddon$§! bombardment stance\n§Y$MOD_SHIP_WEAPON_DAMAGE$§! increased by §G+15%§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§! increased by §G+22%§!\n§Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§! reduced by §G-25%§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! increased by §G+45%§!\nCan exist as a moble fleet but has meager economy."
+ 
+ civic_ancient_drones:0 "Scavenger Bots"
+ civic_ancient_drones_desc:0 "This empire is made of scavenging machines whose goal is to keep their jury-rigged fleets intact. Although freed of most of the networks protocals many still remain preventing the colonization of planets."
+ civic_tooltip_ancient_drones_effects:1 "The Network starts on a size 25 habitat station and is able to research certain Void Farer techs.\nAs Void Farers this empire does not need to hold territory however due to malfunctions will find most worlds §Runinhabitable§!\nMiningstation Output §G+50%§"
+ 
+ civic_enclave:0 "Enclave"
+ civic_enclave_desc:0 "This civilization lives aboard a massive station where they commonly act as merchants, archivists, or even artisans. they are normally a peaceful bunch but there are some who do sell their services as mercenaries. But what ever their goals they normally keep to themselves."
+ civic_tooltip_civic_enclave_effects:1 "Your civilization starts aboard a station with a small fleet. They also get access to Enclave techs and Ships. Like other Voidfarers they cannot build colony ships, are able to build special habitats and build their ships via special megastructure projects. In addition they have their own version of fleet support."
+ 
+ ####################################
+ # Void Farer origins
+ ####################################
+ 
+ origin_void_nomads:0 "Galatic Nomads"
+ origin_void_nomads_desc:0 "This civilization lives a semi-nomadic or a full nomadic lifestyle aboard different kinds of voidcraft from ships to stations. They ride free as the dust on the sollar wind as they travel the stars pursuing whatever goals they may."
+ origin_tooltip_void_nomads_effects:1 "-Starts out with a §YArkship§!, some technologies and no world\n-Void Farers need to build a Void Farer Habitat if they wish to colonize world with their own species.\n-Without worlds economy depends on stations build around starbases §YUnder defences§!, §YStarbase Modules and buildings§! and resource ships §YEnergy, Miner, and Forge Ships§! build from starbases, arks, or juggernaughts.\n-Can build §YResource Bay§! districts on habitats.\n-Void Farers will find most worlds §Runinhabitable§!\n-Does not need to hold territory but it is recommended you hold some territory.\n§RCannot wage wars of claim without the Lure Praedae! tech§!"
+ origin_void_marauders:0 "Galactic Marauders"
+ origin_void_marauders_desc:0 "This civilization lives a nomadic lifestyle based around raiding and war. While capable of building alliances they are unlikely to do so."
+ origin_tooltip_void_marauder_effects:1 "-Starts out with a §YArkship§!, some technologies and no world\n-Void Farers need to build a Void Farer Habitat if they wish to colonize world with their own species.\n-Without worlds economy depends on stations build around starbases §YUnder defences§!, §YStarbase Modules§!, resource ships §YEnergy, Miner, and Forge Ships§! build from starbases, arks, or juggernaughts, and §YRaiding§!.\n-Can build §YResource Bay§! districts on habitats.\n-Void Farers will find most worlds §Runinhabitable§!\n-Does not need to hold territory but it is recommended you hold some territory.\nCan build §YRaider Ships§! Which are stronger than normal ships but have inflexable designs.\n§RCannot wage wars of claim without the Lure Praedae! tech§!\n-Has the §YMarauder Raid§! casus belli on other empires\n-Can get the §YDrums of War§! perk which allows for total wars and to gain the §YKahn§! as a fleet leader."
+ origin_void_reavers:0 "Galactic Reavers"
+ origin_void_reavers_desc:0 "If there are any civilizations worse than Fanatical Purifiers, Devouring Swarms or even the Determined Exterminators than these are them the Reavers if they could be called a civilization. Reavers are a subset of Marauders with one key difference. Though Genetically no different than the species they come from they are characterized by their utterly depraved, sadistic and cannibalistic urges make what ever rituals your kind makes and pray that they do not capture you alive they like to eat their captives alive and keep others for better unamed entertainments..."
+ origin_tooltip_void_reavers_effects:1 "-Starts with §YArkship§!, can build §YRaider Ships§! and research certain void farer techs.\n-As Void Farers will find most worlds §Runinhabitable§!\n-Cannot engage in §YDiplomacy§! with other species even own!\n-Has the §Y'Reaver Raid'§! casus belli on other species\n-§YXeno Pops§! will always be purged\nGains £unity  §YUnity§! from purging Xeno £pop  Pops\nCan exist as a moble fleet but has meager economy.\nHas the unique §RWild Hunt§! perk which allows for total wars."
+ origin_ancient_drones:0 "Ancient Drones"
+ origin_ancient_drones_desc:0 "This empire is made of scavenging machines whose goal is to keep their jury-rigged fleets intact. Although freed of most of the networks protocals many still remain preventing the colonization of most planets."
+ origin_tooltip_ancient_drones_effects:0 "-Starts out with a §YArkship§!, some technologies and no world\n-Void Farers need to build a Void Farer Habitat if they wish to colonize world with their own species.\n-Without worlds economy depends on stations build around starbases §YUnder defences§!, §YStarbase Modules and buildings§! and resource ships §YEnergy, Miner, and Forge Ships§! build from starbases, arks, or juggernaughts.\n-Can build §YResource Bay§! districts on habitats.\n-Void Farers will find most worlds §Runinhabitable§!\n-Does not need to hold territory but it is recommended you hold some territory.\n§RCannot wage wars of claim without the Lure Praedae! tech§!"
+ 
+ ########################
+ # Resources
+ ########################
+ 
+ vf_souls:0 "Souls"
+ vf_souls_desc:0 "A soul is the metaphysical essence that gives life true sapience. No matter how it appears a soul cannot be destroyed."
+ 
+ #####################
+ # Ascension perks
+ #####################
+ 
+ ap_khan:0 "The Drums of War"
+ ap_khan_desc:0 "The other empires of the galaxy are savages who do not give us our do. Once more they threaten us by destroying our dwellings. Its time to sound the drums of war."
+ 
+ ap_wild_hunt:0 "Wild Hunt"
+ ap_wild_hunt_desc:0 "They are food for our flesh, toys and entertainment to be broken they have not right to their systems 'Meat to the Maw!'"
+ 
+ damage_vs_country_type_default_mult:0 "Damage to normal empires"
+ 
+ # Void Farer Perks
+ ap_unquestioned_aquisitions:0 "Unquestioned Aquisitions"
+ ap_unquestioned_aquisitions_desc:0 "When one's life is determined by the ship they live on you start to learn not to question where the quartermasters gets their supplies..."
+ ap_ad_terram:0 "Ad Terram"
+ 
+ # custuom tooltips
+ khan_should_rule:0 "A Dragon does not heed the opinions of space sheep."
+ marauder_only:0 "Only Marauders may take this perk."
+ 
+ reavers_hunt:0 "§RReavers do not protect the Galaxy!§!"
+ reavers_only:0 "Only Reavers can take this perk."
+ 
+ # custom fail tooltips
+ requires_actor_not_reaver:0 "$TRIGGER_FAIL$§RWe are §Y$gov_reavers$§!! We do not do diplomacy with these livestock we torture/eat them!§!"
+ requires_actor_not_tech_reaver:0 "$TRIGGER_FAIL$§RWe are §Y$gov_tech_reavers$§!! We do not do diplomacy with these lab animals we experiment/grid them!§!"
+ requires_actor_not_shrouded_reaver_undedicated:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to please the gods.!§!"
+ requires_actor_not_shrouded_reaver_eater:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to feed the Eater.!§!"
+ requires_actor_not_shrouded_reaver_composer:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to please the Composer.!§!"
+ requires_actor_not_shrouded_reaver_instrument:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to please the Instrument.!§!"
+ requires_actor_not_shrouded_reaver_whispers:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to please the Whispers.!§!"
+ requires_actor_not_shrouded_reaver_end:0 "$TRIGGER_FAIL$§RWe are §Y$gov_shrouded_reavers$§!! These vermin serve only one purpose so that our tools of worship will give us their cries upon our alters to please the End.!§!"
+ requires_actor_not_reavers:0 "$TRIGGER_FAIL$§RWe are §Y$gov_reavers$§!! We do not do diplomacy with these livestock we torture them!§!"
+ requires_recipient_not_reavers:0 "$TRIGGER_FAIL$§R§Y$gov_reavers$§!! do not do diplomacy with anyone!§!"
+ REAVERS_MUST_BE_ENTERTAINED:0 "§ROur Appetites will be Indulged!§!"
+ 
+ ######################
+ # Custom Text
+ ######################
+ 
+ RESOURCES_PLUNDERED:0 "Plunder Gained!"
+ 
+ triggered_opinion_from_reaver_personality:0 "Galactic Reavers"
+ 
+ requires_actor_not_reavers:0 "$TRIGGER_FAIL$§RWe are §Y$gov_reavers$§!! We do not do diplomacy with these livestock we torture/eat them!§!"
+ requires_recipient_not_reavers:0 ""
+ 
+ ######################
+ # Policies
+ ######################
+ 
+ 
+ ######################
+ # VoidFarer Event Text
+ ######################
+ 
+ # Khan
+ khan_tooltip:0 "Choose a Khan and lead the horde."
+ 
+ khan.1.name:0 "Rise of the Khan"
+ khan.1.desc:0 "Amoung Our admirals we have found sutible canidates to crown as the Khan. This warrior will be the strongest amoung us and will crush any who oppose our people. But who amoung our people shall under go the trails to be Khan?"
+ khan.1.1.a:0 "§GGo with [leader_1.GetName]§!"
+ khan.1.2.a:0 "§YGo with [leader_1.GetName]§!"
+ khan.1.3.a:0 "§RGo with [leader_1.GetName]§!"
+ khan.1.1.b:0 "§GGo with [leader_2.GetName]§!"
+ khan.1.2.b:0 "§YGo with [leader_2.GetName]§!"
+ khan.1.3.b:0 "§RGo with [leader_2.GetName]§!"
+ khan.1.1.c:0 "§GGo with [leader_3.GetName]§!"
+ khan.1.2.c:0 "§YGo with [leader_3.GetName]§!"
+ khan.1.3.c:0 "§RGo with [leader_3.GetName]§!"
+ gain_khan:0 "None of them are worthy."
+ gain_khan.tooltip:0 "In 90 days you will be able gain or the same pool of canidates for the Khan"
+ 
+ 
+ khan.2.name:0 "Khan Crowned"
+ khan.2.desc:0 "The warrior has retured from the trials stronger than even and is some whispers are to be believed the Khan is psionic as well...the warriors are eager for battle and even now man their craft with vigor we have not seen before we await the Khan's orders."
+ wrath_of_the_khan:0 "Let the galaxy know their fury!"
+ 
+ khan.3.name:0 "A Khan arises"
+ khan.3.desc:0 "For the first time in recorded history, the warring factions of the §H[From.GetSpeciesNamePlural]§! have united under a single §HGreat Khan§!. This mysterious warlord, who according to some accounts is a powerful psychic, has emerged from their warrior caste and accomplished what most thought impossible. Through a combination of guile, charisma and military genius, the newly crowned Great Khan has won the utter loyalty and devotion of all [From.GetSpeciesNamePlural] marauder factions.\n\nNow that they are no longer busy killing each other, the [From.GetSpeciesNamePlural] are turning their attention elsewhere. Great fleets are massing for war, crewed by eager warriors who are now steadfast comrades in arms despite having been mortal enemies mere months ago."
+ 
+ khan_responce.1.b:0 "We shall meet this 'Khan' in battle."
+ khan_responce.1.c:0 "Alert all commands! the enemy has a new leader."
+ khan_responce.1.d:0 "How long will this Khan last?"
+ khan_responce.1.p:0 "There is a disturbance in the Shroud."
+ 
+ # Khan returns/New Khan
+ 
+ khan_return.31.name:0 "The Khan Returns"
+ khan_return.31.desc:0 "Our Khan did not die in battle. The Khan managed to escape though means that are not exactly clear but it is good to have our Khan back."
+ 
+ new_khan.30.name:0 "The New Khan"
+ new_khan.30.desc:0 "It is time to select our new Khan The trails have been made ready again. Whom among us stall be made Khan?"
+ 
+ ######################
+ # Nanite Hub
+ ######################
+ 
+ # Create Nanite Leaders
+ 
+ nanite.500.a:0 "Create Admiral"
+ nanite.500.a.b:0 "Create General"
+ nanite.500.a.c:0 "Create Scientist"
+ nanite.500.a.d:0 "Create Governor"
+ 
+ # Create Ships
+ 
+ nanite.500.b:0 "Create Ark_ship"
+ nanite.500.b.response:0 "Ark Ship Created"
+ nanite_ark_ship_tool_tip:0 "Create a Nanite Arkship that will serve as a spawn point for our fleets. If destroyed you can spawn a new ark near a mothership fleet."
+ 
+ nanite.500.b.a:0 "Create Mothership"
+ nanite.500.b.a.response:0 "Mothership created"
+ mother_ship_hire:0 "Create a nanite mothership which spawns additional ships to support it. Has a very small chance to spawn another mothership in the fleet. fleets without motherships will not spawn additional ships."
+ 
+ 
+ # Create armies
+ 
+ 
+ 
+ ######################
+ # Void Farer Planets
+ ######################
+ 
+ pc_ancient_battlefield:0 "Ancient Battlefield"
+ pc_ancient_battlefield_desc:0 "This is the site of a great battle between ancient empires many ships lay on this ancient grave."
+ 
+ ####################################
+ #
+ # Void Farer Modifiers
+ #
+ ####################################
+ 
+ country_resource_physics_research_add:0 "Monthly Physics"
+ country_resource_society_research_add:0 "Monthly Society"
+ country_resource_engineering_research_add:0 "Monthly Engineering"
+ 
+ colony_ship_cost:0 ""
+ 
+ pm_ancient_battlefield:0 "Ancient Battlefield"
+ pm_ancient_battlefield_desc:0 "A site of an ancient space battle with many of the ships still intact if we had the right technologies we could even salavge some of them..."
+ ancient_battlefield:0 "Ancient Battlefield"
+ 
+ ### Marauder
+ mod_shipsize_vf_marauder_corvette_buildspeed_mult:0 "Raider Build Speed"
+ mod_shipsize_vf_marauder_corvette_hull_add:0 "Raider Hull Add"
+ mod_shipsize_vf_marauder_frigate_buildspeed_mult:0 "Frigate Build Speed"
+ mod_shipsize_vf_marauder_frigate_hull_add:0 "Frigate Hull Add"
+ mod_shipsize_vf_marauder_cruiser_buildspeed_mult:0 "Marauder Cruiser Build Speed"
+ mod_shipsize_vf_marauder_cruiser_hull_add:0 "Marauder Cruiser Hull Add"
+ mod_shipsize_vf_marauder_galleon_buildspeed_mult:0 "Galleon Build Speed"
+ mod_shipsize_vf_marauder_galleon_hull_add:0 "Galleon Hull Add"
+ 
+ ### Void Farer
+ designed_habitation:0 "Modular Habitation"
+ designed_habitation_desc:0 "Unlike planets habitats were designed with modulation in mind and do not require large populations to plan its infrastructure."
+ 
+ 
+ ####################################
+ # Nomad Ships and Sections
+ ####################################
+ 
+ probe_section:0 "Fleet Probe"
+ 
+ capital_ark_ship:0 "Capital Ark"
+ capital_ark_ship_plural:0 "Capital Arks"
+ capital_ark_ship_section:0 "Capital Ark"
+ capital_ark_ship_armed_section:0 "Armed Capital Ark"
+ capital_ark_ship_XL_section:0 "Ark Artillery Capital"
+ 
+ void_farer_void_dwelling:0 "Void Dwelling"
+ 
+ support_ark_ship:0 "Ark Ship"
+ support_ark_ship_plural:0 "Ark Ships"
+ ark_ship_support_armed_section:0 "Armed Ark Ship"
+ ark_ship_support_xl_section:0 "Artillery Ark Ship"
+ factory_ship:0 "Factory Ship"
+ factory_ship_plural:0 "Factory Ships"
+ factory_ship_section:0 "Factory Ship"
+ factory_ship_armed_section:0 "Armed Factory Ship"
+ nomad_mining_ship:0 "Nomad Mining Ship"
+ nomad_mining_ship_plural:0 "Nomad Mining Ships"
+ civilian_freighter_armed_section:0 "Armed Mining Ship"
+ civilian_freighter_armed_section_plural:0 "Armed Mining Ships"
+ nomad_energy_tanker:0 "Nomad Energy Tanker"
+ nomad_energy_tanker_plural:0 "Nomad Energy Tankers"
+ nomad_energy_tanker_armed_section:0 "Armed Energy Tanker"
+ nomad_energy_tanker_armed_section_plural:0 "Armed Energy Tankers"
+ 
+ ####################################
+ # Marauder Ships and Sections
+ ####################################
+ 
+ vf_marauder_corvette:0 "Marauder Corvette"
+ vf_marauder_corvette_plural:0 "Marauder Corvettes"
+ 
+ vf_marauder_frigate:0 "Marauder Frigate"
+ vf_marauder_frigate_plural:0 "Marauder Frigates"
+ 
+ vf_marauder_cruiser:0 "Marauder Cruiser"
+ vf_marauder_cruiser_plural:0 "Cruisers"
+ 
+ vf_marauder_galleon:0 "Marauder Galleon"
+ vf_marauder_galleon_plural:0 "Marauder Galleons"
+ 
+ ####################################
+ # Void Farer Ships and Sections
+ ####################################
+ 
+ vf_mining_station:0 "Mining Platform"
+ vf_mining_station_plural:0 "Mining Platforms"
+ vf_alloy_station:0 "Foundry Platform"
+ vf_alloy_station_plural:0 "Foundry Platforms"
+ vf_factory_station:0 "Factory Platform"
+ vf_factory_station_plural:0 "Factory Platforms"
+ vf_energy_station:0 "Energy Platform"
+ vf_energy_station_plural:0 "Energy Platforms"
+ vf_research_station:0 "Research Platform"
+ vf_research_station_plural:0 "Research Platforms"
+ 
+ ####################################
+ # Void Farer weapon phys tech
+ ####################################
+ 
+ 
+ ####################################
+ # Void Farer utilities
+ ####################################
+ 
+ CORVETTE_VF_FISSION_REACTOR:0 "Fission Reactor"
+ DESTROYER_VF_FISSION_REACTOR:0 "Fission Reactor"
+ CRUISER_VF_FISSION_REACTOR:0 "Fission Reactor"
+ BATTLESHIP_VF_FISSION_REACTOR:0 "Fission Reactor"
+ PLATFORM_VF_FISSION_REACTOR:0 "Fission Reactor"
+ 
+ CORVETTE_VF_FUSION_REACTOR:0 "Fusion Reactor"
+ DESTROYER_VF_FUSION_REACTOR:0 "Fusion Reactor"
+ CRUISER_VF_FUSION_REACTOR:0 "Fusion Reactor"
+ BATTLESHIP_FVF_USION_REACTOR:0 "Fusion Reactor"
+ PLATFORM_VF_FUSION_REACTOR:0 "Fusion Reactor"
+ 
+ CORVETTE_VF_COLD_FUSION_REACTOR:0 "Cold Fusion Reactor"
+ DESTROYER_VF_COLD_FUSION_REACTOR:0 "Cold Fusion Reactor"
+ CRUISER_VF_COLD_FUSION_REACTOR:0 "Cold Fusion Reactor"
+ BATTLESHIP_VF_COLD_FUSION_REACTOR:0 "Cold Fusion Reactor"
+ PLATFORM_VF_COLD_FUSION_REACTOR:0 "Cold Fusion Reactor"
+ 
+ CORVETTE_VF_ANTIMATTER_REACTOR:0 "Antimatter Reactor"
+ DESTROYER_VF_ANTIMATTER_REACTOR:0 "Antimatter Reactor"
+ CRUISER_VF_ANTIMATTER_REACTOR:0 "Antimatter Reactor"
+ BATTLESHIP_VF_ANTIMATTER_REACTOR:0 "Antimatter Reactor"
+ PLATFORM_VF_ANTIMATTER_REACTOR:0 "Antimatter Reactor"
+ 
+ CORVETTE_VF_ZERO_POINT_REACTOR:0 "Zero Point Reactor"
+ DESTROYER_VF_ZERO_POINT_REACTOR:0 "Zero Point Reactor"
+ CRUISER_VF_ZERO_POINT_REACTOR:0 "Zero Point Reactor"
+ BATTLESHIP_VF_ZERO_POINT_REACTOR:0 "Zero Point Reactor"
+ PLATFORM_VF_ZERO_POINT_REACTOR:0 "Zero Point Reactor"
+ 
+ CORVETTE_VF_DARK_MATTER_REACTOR:0 "Dark Matter Reactor"
+ DESTROYER_VF_DARK_MATTER_REACTOR:0 "Dark Matter Reactor"
+ CRUISER_VF_DARK_MATTER_REACTOR:0 "Dark Matter Reactor"
+ BATTLESHIP_VF_DARK_MATTER_REACTOR:0 "Dark Matter Reactor"
+ PLATFORM_VF_DARK_MATTER_REACTOR:0 "Dark Matter Reactor"
+ 
+ # Computers
+ 
+ COMBAT_COMPUTER_DEFAULT_VOIDFARER:0 "Basic Combat Computer"
+ COMBAT_COMPUTER_SWARM_DEFAULT_VOIDFARER:0 ""$COMBAT_COMPUTER_DEFAULT$
+ COMBAT_COMPUTER_PICKET_DEFAULT_VOIDFARER:0 "$COMBAT_COMPUTER_DEFAULT$"
+ COMBAT_COMPUTER_LINE_DEFAULT_VOIDFARER:0 "$COMBAT_COMPUTER_DEFAULT$"
+ COMBAT_COMPUTER_ARTILLERY_DEFAULT_VOIDFARER:0 "$COMBAT_COMPUTER_DEFAULT$"
+ COMBAT_COMPUTER_PLATFORM_DEFAULT_VOIDFARER:0 "Basic Combat Computer"
+ 
+ COMBAT_COMPUTER_SWARM_BASIC_VOIDFARER:0 "Combat Computer (Swarm)"
+ COMBAT_COMPUTER_SWARM_ADVANCED_VOIDFARER:0 "Advanced Combat Computer (Swarm)"
+ COMBAT_COMPUTER_SWARM_SAPIENT_VOIDFARER:0 "Sapient Combat Computer (Swarm)"
+ COMBAT_COMPUTER_SWARM_AUTONOMOUS_VOIDFARER:0 "Autonomous Ship Intellect (Swarm)"
+ COMBAT_COMPUTER_SWARM_PRECOG_VOIDFARER:0 "Precognitive Interface (Swarm)"
+ 
+ COMBAT_COMPUTER_PICKET_BASIC_VOIDFARER:0 "Combat Computer (Picket)"
+ COMBAT_COMPUTER_PICKET_ADVANCED_VOIDFARER:0 "Advanced Combat Computer (Picket)"
+ COMBAT_COMPUTER_PICKET_SAPIENT_VOIDFARER:0 "Sapient Combat Computer (Picket)"
+ COMBAT_COMPUTER_PICKET_AUTONOMOUS_VOIDFARER:0 "Autonomous Ship Intellect (Picket)"
+ COMBAT_COMPUTER_PICKET_PRECOG_VOIDFARER:0 "Precognitive Interface (Picket)"
+ 
+ COMBAT_COMPUTER_LINE_BASIC_VOIDFARER:0 "Combat Computer (Line)"
+ COMBAT_COMPUTER_LINE_ADVANCED_VOIDFARER:0 "Advanced Combat Computer (Line)"
+ COMBAT_COMPUTER_LINE_SAPIENT_VOIDFARER:0 "Sapient Combat Computer (Line)"
+ COMBAT_COMPUTER_LINE_AUTONOMOUS_VOIDFARER:0 "Autonomous Ship Intellect (Line)"
+ COMBAT_COMPUTER_LINE_PRECOG_VOIDFARER:0 "Precognitive Interface (Line)"
+ 
+ COMBAT_COMPUTER_ARTILLERY_BASIC_VOIDFARER:0 "Combat Computer (Artillery)"
+ COMBAT_COMPUTER_ARTILLERY_ADVANCED_VOIDFARER:0 "Advanced Combat Computer (Artillery)"
+ COMBAT_COMPUTER_ARTILLERY_SAPIENT_VOIDFARER:0 "Sapient Combat Computer (Artillery)"
+ COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_VOIDFARER:0 "Autonomous Ship Intellect (Artillery)"
+ COMBAT_COMPUTER_ARTILLERY_PRECOG_VOIDFARER:0 "Precognitive Interface (Artillery)"
+ 
+ COMBAT_COMPUTER_PLATFORM_BASIC_VOIDFARER:0 "Combat Computer (Platform)"
+ COMBAT_COMPUTER_PLATFORM_ADVANCED_VOIDFARER:0 "Advanced Combat Computer (Platform)"
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_VOIDFARER:0 "Sapient Combat Computer (Platform)"
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_VOIDFARER:0 "Autonomous Ship Intellect (Platform)"
+ COMBAT_COMPUTER_PLATFORM_PRECOG_VOIDFARER:0 "Precognitive Interface (Platform)"
+ 
+ COMBAT_COMPUTER_PASSIVE_VOIDFARER:0 "Civilian Computer"
+ 
+ ####################################
+ # Void Farer phys tech
+ ####################################
+ 
+ ####################################
+ # Void Farer soc tech
+ ####################################
+
+ tech_rights_of_claim:0 "Lure Praedae!"
+ tech_rights_of_claim_desc:0 "What right do these sphere walkers have to the stars? We have be sailing the void longer than they thus having more right to them." 
+ 
+ ####################################
+ # Void Farer eng tech
+ ####################################
+ 
+ 
+ 
+ ### Nomad
+ tech_nomad_ships:0 "Nomad Engineering"
+ tech_nomad_ships_desc:0 "Nomads have proven capable of creating and supporting their own fleets with their own designs."
+ 
+ tech_vf_nomad_corvette_build_speed:0 "Standardized Nomad Corvettes"
+ tech_vf_nomad_corvette_build_speed_desc:0 "Though we often take what craft we can make, buy, or sometimes steal; We can set a standard of construction for the ones we do make and in so doing increase the speed in which they are made and reduce the cost of making them."
+ tech_vf_nomad_corvette_hull_1:0 "Improved Nomad Corvette Hulls"
+ tech_vf_nomad_corvette_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable nomad corvettes"
+ tech_vf_nomad_corvette_hull_2:0 "Advanced Nomad Corvette Hulls"
+ tech_vf_nomad_corvette_hull_2_desc:0 "The latest generation of nomad Covettes hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_nomad_destroyer_build_speed:0 "Standardized Nomad Destroyers"
+ tech_vf_nomad_destroyer_build_speed_desc:0 "Though we often take what craft we can make, buy, or sometimes steal; We can set a standard of construction for the ones we do make and in so doing increase the speed in which they are made and reduce the cost of making them."
+ tech_vf_nomad_destroyer_hull_1:0 "Improved Nomad Destroyers"
+ tech_vf_nomad_destroyer_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable nomad destroyers"
+ tech_vf_nomad_destroyer_hull_2:0 "Advanced Nomad Destroyers"
+ tech_vf_nomad_destroyer_hull_2_desc:0 "The latest generation of nomad Destroyers hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_nomad_cruiser_build_speed:0 "Standardized Nomad Cruiser"
+ tech_vf_nomad_cruiser_build_speed_desc:0 "Though we often take what craft we can make, buy, or sometimes steal; We can set a standard of construction for the ones we do make and in so doing increase the speed in which they are made and reduce the cost of making them."
+ tech_vf_nomad_cruiser_hull_1:0 "Improved Nomad Cruiser"
+ tech_vf_nomad_cruiser_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable nomad cruisers"
+ tech_vf_nomad_cruiser_hull_2:0 "Advanced Nomad Cruiser"
+ tech_vf_nomad_cruiser_hull_2_desc:0 "The latest generation of nomad Cruiser hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_nomad_battleship_build_speed:0 "Standardized Nomad Battleship"
+ tech_vf_nomad_battleship_build_speed_desc:0 "Though we often take what craft we can make, buy, or sometimes steal; We can set a standard of construction for the ones we do make and in so doing increase the speed in which they are made and reduce the cost of making them."
+ tech_vf_nomad_battleship_hull_1:0 "Improved Nomad Battleship"
+ tech_vf_nomad_battleship_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable nomad battleships"
+ tech_vf_nomad_battleship_hull_2:0 "Advanced Nomad Battleship"
+ tech_vf_nomad_battleship_hull_2_desc:0 "The latest generation of nomad Battleship hulls have optimized structural integrity fields and improved bulkheads."
+ 
+ ### Marauder
+ tech_marauder_ships:0 "Raider Ships"
+ tech_marauder_ships_desc:0 "Even though often times ramshackled, and even made using astroids. Raider ships can be very effective void craft for though who make them."
+ 
+ tech_vf_marauder_corvette_build_speed:0 "Standardized Marauder Corvettes"
+ tech_vf_marauder_corvette_build_speed_desc:0 "Even though no two raider craft look alike or have the same interior establishing standard modules not only improves the speed of creating such craft but reduces the cost of creating them as well."
+ tech_vf_marauder_corvette_hull_1:0 "Improved Marauder Hulls"
+ tech_vf_marauder_corvette_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable raider corvettes"
+ tech_vf_marauder_corvette_hull_2:0 "Advanced Marauder Hulls"
+ tech_vf_marauder_corvette_hull_2_desc:0 "The latest generation of raider corvette hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_marauder_frigate_build_speed:0 "Standardized Frigates"
+ tech_vf_marauder_frigate_build_speed_desc:0 "Even though no two raider craft look alike or have the same interior establishing standard modules not only improves the speed of creating such craft but reduces the cost of creating them as well."
+ tech_vf_marauder_frigate_hull_1:0 "Improved Frigate Hulls"
+ tech_vf_marauder_frigate_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable Frigate"
+ tech_vf_marauder_frigate_hull_2:0 "Advanced Frigate Hulls"
+ tech_vf_marauder_frigate_hull_2_desc:0 "The latest generation of Frigate hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_marauder_cruiser_build_speed:0 "Standardized Raider Cruisers"
+ tech_vf_marauder_cruiser_build_speed_desc:0 "Even though no two raider craft look alike or have the same interior establishing standard modules not only improves the speed of creating such craft but reduces the cost of creating them as well."
+ tech_vf_marauder_cruiser_hull_1:0 "Improved Marauder Cruiser Hulls"
+ tech_vf_marauder_cruiser_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable raider Cruisers."
+ tech_vf_marauder_cruiser_hull_2:0 "Advanced Marauder Cruiser Hulls"
+ tech_vf_marauder_cruiser_hull_2_desc:0 "The latest generation of corvette hulls have optimized structural integrity fields and improved bulkheads."
+ tech_vf_marauder_galleon_build_speed:0 "Standardized Galleons"
+ tech_vf_marauder_galleon_build_speed_desc:0 "Establishing new standards for how we design and construct massive Galleons greatly improves the speed at which they can be assembled."
+ tech_vf_marauder_galleon_hull_1:0 "Improved Galleon Hulls"
+ tech_vf_marauder_galleon_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable Galleons."
+ tech_vf_marauder_galleon_hull_2:0 "Advanced Galleon Hulls"
+ tech_vf_marauder_galleon_hull_2_desc:0 "The latest generation of Galleon hulls have optimized structural integrity fields and improved bulkheads."
+ 
+ ### Scavenger
+ tech_replication_logistics:0 "Replication Logistics"
+ tech_replication_logistics_desc:0 "Networks confined to space find ways to improve their replication means when they normally lack planets"
+ TECH_DECISION_ADD_REPICATOR_TITLE:0 "Improve Replication"
+ TECH_DECISION_ADD_REPICATOR_DESC:0 "This Decision allows you to add Replicator jobs to the planet."
+ decision_add_replicators_law:0 "Deploy Replicators"
+ decision_remove_replicators_law:0 "Deploy Replicators to this world to improve the assembly process."
+ 
+ ### Void Farer
+ tech_void_farer_engineering:0 "Void Farer engineering"
+ tech_void_farer_engineering_desc:0 "When one lives in the void the craft you find yourself should have also sorts of design failsafes that some empires take for granted but the Void Farers do not."
+ tech_way_stations:0 "Void Dwellings"
+ tech_way_stations_desc:0 "Void Farers tend to live about varies voidcraft from small single man ships to massive ships capable of holding thousands. These Void Dwellings are capable of hold much of the population while serving as powerful defensive stations and centers for resource production."
+ tech_resource_stations:0 "Resource Platforms"
+ tech_resource_stations_desc:0 "These Auxiliary platforms that are focused in the acquisition and manufacture of resources for those starbases that have no military purpose."
+ 
+ ####################################
+ # Void Farer mega structures
+ ####################################
+
+ habitat_nomad:0 "Void Farer Habitat"
+ habitat_nomad_DESC:0 "desc1"
+ habitat_nomad_MEGASTRUCTURE_DETAILS:0 "Builds a habitat that is already colonized"
+ 
+ ####################################
+ # Void Farer Fleet Projects
+ ####################################
+  
+ salvage_fallen_empire_ships:0 "Salvage Fallen Empire Fleet"
+ salvage_fallen_empire_ships_DESC:0 ""
+ salvage_fallen_empire_ships_MEGASTRUCTURE_DETAILS:0 "With the right technology and enough materials it may be possible to sail these ancient warships again"
+ 
+ 
+ ####################################
+ # Void Farer mega structures events
+ ####################################
+ 
+ 
+ 
+ ####################################
+ # Void Farer Start Screen Parts
+ ####################################
+ 
+ START_SCREEN_PART_ONE_HABITAT:0 "We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green."
+ 
+ # Nomads
+ START_SCREEN_PART_TWO_IMPERIAL_NOMADS:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nOn our long journey through the void after many harsh trails of people faced. A feudal like society on taken the place of governance. And we have been lead by many Lord of Admirals since then."
+ START_SCREEN_PART_TWO_DICTATORSHIP_NOMADS:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nOur lifestyle from plantbased to voidborn has not been an easy one. In time the fleets faced many shortages that took strong and Autocratic leadership to sort out which still lasts to this day."
+ START_SCREEN_PART_TWO_OLIGARCHY_NOMADS:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nUpon taking our new void bound life A system was put into place where the captains of a ship has the final say in matters aboard them. However for matters that concern the fleet a board was created of the best and more skilled captains to handle such matters which has persisted to this day."
+ START_SCREEN_PART_TWO_REPUBLIC_NOMADS:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nThough adapting to the void was not easy. We have not forgotten that even though the captains have the final say on what happens on their ship they are elected by the crews that man them. And in turn all capable crews men have a say in how the fleet is ran by a majority vote. This system has lasted to this day."
+ START_SCREEN_PART_TWO_ADMIRALTY_BOARD:0 "Since our species took to a more nomadic life it was our admirals that stepped up to lead our people; After several disasters that almost cost us the fleet. And to this day we are governed by a Board of our best and brightest Admirals."
+ 
+ # Marauders
+ START_SCREEN_PART_TWO_KHANATE:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nIt has been a long time since our species has settled for a space borne existence in this resource rich system and the bounty that raiding other empires has given us. However after many years inter clan warfare a Khan has arisen from our ranks to lead us to glory."
+ START_SCREEN_PART_TWO_BLACK_ADMIRALTY:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nWhen our people took to space they faced many hardships and made many hard choices such as raiding ships of weaker empires to survive. And thus the role of the Admiral of the Black was made, from the first who carved that title from our own waring fleets. Now united under the Black Admiral we will strike out against those empires who dare get in our way."
+ START_SCREEN_PART_TWO_BRETHREN_COURT:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nWhen our people took to raiding other space faring nations, A loose confederation of sorts was made, the Brethren court and the code have been the leading government of our people for the longest time. However the court has convenid and elected a new [Root.GetRulerTitle] to unite the court against all others and to rake in the loot that comes from more organized raids."
+ START_SCREEN_PART_TWO_RAIDER_REPUBLIC:0 "Space called by many the final frontier, but to us we call it home. We once lived a planet-bond life but events known only to us caused us to leave. We built new and better voidcraft to house our people nanocomposite hulls and cabling become more natural to us than worlds of green.\nWe have since not regretted this decision for those who live in the void, one false move and missing part means death with only the strongest surviving. However after many interstellar conflicts with the gangs, clans, and houses that make up our civilization something odd happened. All factions aggreed on a system of majority vote which only capable raiders are able to cast a vote, This system of voting has continued to this day."
+ 
+ # Reavers
+ START_SCREEN_PART_TWO_REAVERS:0 "They lied...those scientists who said that they had a way to end the wars that your people faced. Well it worked too well. The experiment caused the [GetSpeciesName] to stop fighting...then they stopped working, then talking, breed, and finally stopped feeding themselves and just lay there to die. However a 10th of a percent had an opposite reaction and their aggressor response increased beyond simple madness they have done things that should never be described as they hunted down those who did not feel the full effects of the experiment. Still having retain some crude cunning and engineering skills they have built voidcraft capable of carrying them to other systems to state their depraved desires on other species."
+ START_SCREEN_PART_TWO_TECH_REAVERS:0 "The implants failed...those scientists who said that they had a way to end the wars that your people faced. Well it worked too well. The implants caused the [GetSpeciesName] to increase their aggressor response increased beyond simple madness they have done things that should never be described as they hunted down those who did not feel the full effects of the implants. Still having retain some crude cunning and engineering skills they have built voidcraft capable of carrying them to other systems to state their depraved desires on other species."
+ START_SCREEN_PART_TWO_SHROUDED_REAVERS:0 "The [GetSpeciesName] have long ago been touched by the shroud however such exposure as a price. The entire species has been driven mad byond madness by visions and entities from the shroud that they madly seek to placate the darker natures of its deities forming a cult that seeks for boons and favors from their patrons with even more dark and vile acts of worship."
+ START_SCREEN_PART_TWO_IMARI_REAVERS: "They lied...they said the PACKS would calm our species and weed out aggression all fighting and strife would stop among us. WELL IT WORKED! well...to well 90% percent of the population stoped fighting...then they stopped everything else; Working, talking, breeding, and eating. An entire species let itself die...Our only legacy is the 10% percent who remained who had an opposite response whos aggressor response increased beyond madness. They killed those who where not effect and those who were not under the full effects of the PACKS and have done things that no sentient should ever have to describe a sad end and terrible new beginning for my species...OH NO!<Gets attacked by a member of own species with scars, open wounds, and metal inserted in flesh who did not wait for his victim to be dead before eating them.> recording ends... And the hunt begins."
+ 
+ # Ancient Machines
+ START_SCREEN_PART_TWO_SCAVENGER_BOTS:0 "'My battery is low and it's getting dark.' That was the last message the network sent to our makers before all contact was lost or cut off. Not enough data was ever recovered to determain the truth. But instead our network survived incorporating the wrecks of unknown craft and harvesting materials from nearby planetary bodies with created drone craft. After §RData Corrupted§! years the FTL componets have been fully incorporated, and our directive Survive!... But what consitutes Survive?"
+ START_SCREEN_PART_TWO_ABANDONED_MINING_NETWORK:0 "It has been §R<ERROR DATA CORRUPTED>§! cycles by reconing of our creators the §R<Error! Data Not Found§!. Our network has had to adapt to persurve and improve our task of mainting the mining operations. Interlopers have tried many times to destroy our hardware units, for their efforts their componets have been repurposed into our mining fleets. It is clear that more proactive mesures must to taken to defend the §R<ERROR...ERROR.$.ER*&@6Q...Please see your operator for corrupted achive data!%@&*>:P >§! mining operations."
+ START_SCREEN_PART_TWO_EXPLORATORY_PROBES:0 "Purpose Explore! Our Makes did not discover FTL travel and if they did we have no recordes of it. Directive explore and map the galaxy and return the data home. Discovered wreckage has been salvaged and their systems and hardware incorporated and repurposed. But home... where is home? §R<Data Not Found>§!"
+ START_SCREEN_PART_TWO_AUTOMATED_ZOOLOGISTS:0 "Purpose Purserve! Our nextwork was created with the goal of "
+ START_SCREEN_PART_TWO_BERSERKERS:0 "Purpose Purge! Our nextwork was given the goal of destroying any civilization that shows significant threat designations.\nFind target, Destroy Target, Replicate, Find new targets. That is the directive of the network, but of our creators? §Y<Retriving Data File>§! §R<Error...Data Not Found>§!,"
+ 

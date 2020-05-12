@@ -1,0 +1,291 @@
+﻿l_english:
+ 
+ artifact_lost_technologies_research:0 "Discover Lost Technologies"
+ artifact_lost_technologies_research_desc:0 "Our scientists can reverse-engineer minor artifacts which date back several millennia, when the Fallen Empires were at their zenith, in hope of uncovering the secrets to some of their long-lost technologies."
+ lost_technologies_research_effect:0 "Break down £minor_artifacts£Minor Artifacts for a chance to discover the Lost Technologies of ancient Fallen Empires.\n\nCooldown: £time£ §Y720§!"
+ lost_technologies_decision_tooltip:0 "Unlocks a new minor artifact action: §Y$artifact_lost_technologies_research$§!\n\n"
+ 
+ lost_technologies.1000.name:0 "Lost Technologies"
+ lost_technologies.1000.desc:0 "Time has not been kind to the Fallen Empires. Once mighty civilizations that wielded tremendous power, able to bend the galaxy to their will. For centuries, their civilizations shined like beacons in the dark, and they were the envy of primitives and savages. In the end, not even their greatest advances and innovations survived the passing of time. Time is the ultimate judge of civilizations.\n\nBut what if there is a way to undo the damage time has caused? What if we can piece together what little information that remained, so the greatest inventions of the past can come to life once more? Many secrets lay buried within the artifacts we gathered, often referring to technologies which have since been lost. The legends of these lost technologies and their feats however, remain a popular discussion for the §H[Root.GetSpeciesAdj]§! scientific community, and their mythical existence still hotly debated to this day."
+ lost_technologies.1000.a:0 "What secrets will we uncover?"
+ lost_technologies.1000.b:0 "We will wait for breakthroughs."
+ 
+ lost_technologies_chain_title:0 "Lost Technologies"
+ lost_technologies_chain_desc:0 "Time has not been kind to the Fallen Empires. In the end, not even their greatest advances and innovations survived the passing of time. But what if we can piece together what little information that remained, so the greatest inventions of the past can come to life once more? Many secrets lay buried within the artifacts we gathered, often referring to technologies which have since been lost.\n\nWe can attempt to unlock these mysterious Lost Technologies via the minor artifact action: §Y$artifact_lost_technologies_research$§!."
+
+ lost_technologies.1001.name:0 "Lost Technologies Research Critical Failure"
+ lost_technologies.1001.desc:0 "Unfortunately Our scientists' attempts to break down £minor_artifacts£Minor Artifacts to discover the long-lost technologies of Fallen Empires have been met with disaster.\n\nDespite months of preparation and every precautions taken, the first prototype exploded, killing one of our scientists and inflicted heavy damage to our facilities. Whatever knowledge we have gained from our research team had been lost. Perhaps some secrets were simply not meant for us to learn."
+ lost_technologies.1001.a:0 "Give me back my scientist!"
+ 
+ lost_technologies.1002.name:0 "Lost Technologies Research Failure"
+ lost_technologies.1002.desc:0 "Unfortunately, our scientists' attempts to break down £minor_artifacts£Minor Artifacts to discover the long-lost technologies of Fallen Empires have been unsuccessful.\n\nHowever, they promise they will crack it next time if we would just send them a few more artifacts."
+ lost_technologies.1002.a:0 "Disappointing."
+ 
+ lost_technologies.1003.name:0 "Lost Technologies Research Success"
+ lost_technologies.1003.desc:0 "Our scientists' attempts to break down £minor_artifacts£Minor Artifacts to discover the long-lost technologies of Fallen Empires have been successful!\n\nFor months they began putting clues together, debated and overturned many theories along the way. We may now launch special projects to study how best to utilize these lost technologies and unleash them on our rivals."
+ lost_technologies.1003.a:0 "Lost Technologies: Automated Industries"
+ lost_technologies.1003.b:0 "Lost Technologies: Ancient Weaponry"
+ lost_technologies.1003.c:0 "Lost Technologies: Goliath"
+ lost_technologies.1003.d:0 "Lost Technologies: Superior Designs"
+ 
+ lost_technologies.1.name:0 "Lost Technologies: Automated Industries"
+ lost_technologies.1.desc:0 "For millennia, the Fallen Empires have relied upon their automated industries to fuel their economy and satisfy demands of their population. However, our archaeological teams have now found evidence that suggest even more powerful versions of their surviving buildings had existed in the past, with the technology to build them since lost to the ages.\n\nPiecing together clues from ancient artifacts and combining our current knowledge of automated buildings, our scientists believe we may yet have a shot at recovering the lost technologies of these powerful constructs."
+ lost_technologies.1.a:0 "Start the project!"
+ lost_technologies.1.b:0 "No, we're not interested."
+ 
+ lost_technologies.100.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.100.desc:0 "We have successfully pieced together the blueprints of some advanced automated buildings. Awaiting further testing and risk-assessments, our automated buildings can be upgraded to the blueprints' specifications."
+ lost_technologies.100.a:0 "Wonderful!"
+ 
+ tech_lost_technologies_1:0 "Lost Technologies: Automated Industries"
+ tech_lost_technologies_1_desc:0 "The blueprints of these advanced automated buildings were once thought lost to history, along with the knowledge of how to build them." 
+ 
+ 
+ lost_technologies.2.name:0 "Lost Technologies: Ancient Weaponry"
+ lost_technologies.2.desc:0 "During an archaelogical excursions, our scientists discovered the shattered components of an ancient databank, containing nonsensical, albeit corrupted data. Early investigations suggest blueprints of powerful weapons could yet be discovered within."
+ lost_technologies.2.a:0 "Start the project!"
+ lost_technologies.2.b:0 "No, we're not interested."
+ 
+ lost_technologies.200.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.200.desc:0 "After months of careful research, our scientists have managed to reassemble the ancient databank. After piecing together some of the corrupted data as well as deciphering clues from artifacts, new research options will become available and ancient weapons which had not been seen in millennia may yet be brought back to life."
+ lost_technologies.200.a:0 "Wonderful!" 
+ 
+ tech_lost_technologies_2:0 "Lost Technologies: Ancient Weaponry"
+ tech_lost_technologies_2_desc:0 "Combining our recent successes in piecing together the corrupted data caches as well as the gathered clues from various artifacts, ancient weapons which had not been seen in millennia can yet be brought back to life."
+ 
+ lost_technologies.210.name:0 "Lost Technologies: Omni Weapons"
+ lost_technologies.210.desc:0 "Among the many corrupted data entries found in the ancient databanks we have repaired, our scientists noticed an entry named 'Omni Weapons', a class of weapons that are seemingly sentient and was widely used during the Great Crusade. However, we might have to expend extra resources to uncover the secrets of omni weapons."
+ lost_technologies.210.a:0 "Start the project!"
+ lost_technologies.210.b:0 "No, we're not interested."
+ 
+ lost_technologies.2000.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.2000.desc:0 "After some meticulous work, our scientists have at last unlocked the secrets of the Omni Weapons. Their capabilities, as outlined in the recently restored blueprints, have astonished and surprised our scientific community. At our current technological level, we may yet be able to recreate some of these mystical weapons."
+ lost_technologies.2000.a:0 "Wonderful!"
+
+ lost_technologies.3.name:0 "Lost Technologies: Goliath"
+ lost_technologies.3.desc:0 "Among the valuable data obtained from precursor artifacts, our scientists uncovered something that shocks them and contradicts everything we knew about the Fallen Empires - a warship design of gigantic proportions unlike anything we had ever seen.\n\nWe do not yet understand why the precursor felt this was a good idea to build these at some point during the Great Crusade.\n\nNevertheless, the schematics that remained seems to check out. With our current ability in engineering, this project is one that is within our capabilities."
+ lost_technologies.3.a:0 "This sounds like a worthy challenge."
+ lost_technologies.3.b:0 "No. The design clearly proves that the precursors were insane."
+ 
+ lost_technologies.300.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.300.desc:0 "Our scientists have successfully restored the complete schematics and blueprint of the fabled §HGoliath§!. While an Escort is nimble, a Battlecruiser versatile and a Titan packs firepower, this new design, §HGoliath§!, seems to serve no other purpose than being big. At its height, §HGoliath§! carried many Fallen Empires to victory with their legendary weapons - myths or exaggerations of ancient scribes of the ship's capabilities no doubt./n/nDue to its size and challenges posed to even the finest engineers in the galaxy, only a few §HGoliaths§! were ever constructed. Records indicate that several scientists felt it impractical to build more, and found it vulnerable if they did not have naval superiority. What is clear however, is that this ship not only played an important role in key battles during the Great Crusade, but also when the precursors fought a powerful, yet unnamed enemy, and eventually triumphed. These are some promising accolades for this ship indeed."
+ lost_technologies.300.a:0 "Sounds good!"
+ 
+ lost_technologies.310.name:0 "Lost Technologies: Legendary Weapons"
+ lost_technologies.310.desc:0 "According to legends, the ship §HGoliath§! carried weapons so legendary that they were performing feats unimaginable to our current scientific understanding. Upon further examination, our scientists discovered such powerful weapons may actually exist and suggests we investigate these myths."
+ lost_technologies.310.a:0 "Start the project!"
+ lost_technologies.310.b:0 "No, we're not interested."
+ 
+ lost_technologies.3000.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.3000.desc:0 "After months of chasing after clues and loose ends, we were able to identify some of these 'legendary weapons' mounted on §HGoliaths§! during the Great Crusade. Further research are required however, since they are still not well understood in terms of how they function on a Goliath. Needless to say, some of our scientists are very excited about the prospects."
+ lost_technologies.3000.a:0 "Wonderful!"
+ 
+ lost_technologies.4.name:0 "Lost Technologies: Superior Designs"
+ lost_technologies.4.desc:0 "During an excavation, our scientists uncovered corrupted blueprints which translated to something along the lines of 'Original Designs'. For whatever reason, these blueprints seemed to have either been lost by the Fallen Empires a long time ago, or abandoned. Either case, these designs seem uniquely relevant to the improvement of our current fleet of Escorts, Battlecruisers and Fallen Titans." 
+ lost_technologies.4.a:0 "Start the project!"
+ lost_technologies.4.b:0 "No, we're not interested."
+ 
+ lost_technologies.400.name:0 "Lost Technologies Unlocked!"
+ lost_technologies.400.desc:0 "After restoring these corrupted blueprints, it became immediately apparant that the Fallen Empire ship types were at first designed to be a lot more powerful than their present day variants. Perhaps due to high upkeep and maintenance demands, cheaper variants of the original were designed during the centuries of peace after the Great Crusade and the technology to build the original was eventually lost.\n\nIt may be possible to upgrade our fleets with our new found knowledge."
+ lost_technologies.400.a:0 "Let's do it!"
+ 
+ tech_lost_technologies_3:0 "Lost Technologies: Superior Designs"
+ tech_lost_technologies_3_desc:0 "Blueprints from corrupted data reveals the original designs of many Fallen Empire ship types such as Escorts, Battlecruisers and Fallen Titans. These more powerful designs were apparently deemed lost to the ages until now."
+ 
+ 
+ ###Lost Technologies: Automated Buildings
+ 
+ advanced_automated_industries:0 "Lost Technologies: Automated Industries"
+ advanced_automated_industries_DESC:0 "For millennia, the Fallen Empires have relied upon their automated industries to fuel their economy and satisfy demands of their population. However, our archaeological teams have now found evidence that suggest even more powerful versions of their surviving buildings had existed in the past, with the technology to build them since lost to the ages.\n\nPiecing together clues from ancient artifacts and combining our current knowledge of automated buildings, our scientists believe we may yet have a shot at recovering the lost technologies of these powerful constructs."
+ 
+ tech_fe_class_5_singularity:0 "Class-5 Singularity"
+ tech_fe_class_5_singularity_desc:0 "§MLost Technologies:§! The Class-5 Singularity was once thought irrecoverably lost in time, but its containment fields powering this massive power plant is truly the pinnacle of technology."
+ tech_fe_dimensional_extractor:0 "Dimensional Extractor"
+ tech_fe_dimensional_extractor_desc:0 "§MLost Technologies:§! The Dimensional Extractor was the legendary variant of the Dimensional Fabricator, which siphons resources from other realities with much greater efficiency than its predecessor."
+ tech_fe_agri_processing_complex:0 "Agri-Processing Complex"
+ tech_fe_agri_processing_complex_desc:0 "§MLost Technologies:§! The Agri-Processing Complex was a long forgotten technology which produces foods suitable for all species in all flavors, at all hours on-demand."
+ tech_fe_opulence_central:0 "Opulence Center"
+ tech_fe_opulence_central_desc:0 "§MLost Technologies:§! The extravagance of the Opulence Center had not been seen in the galaxy for some time, namely because Affluence Centers was sufficient to satisfy the material needs of most."
+ tech_fe_autonomous_fabricator:0 "Autonomous Fabricator"
+ tech_fe_autonomous_fabricator_desc:0 "§MLost Technologies:§! According to our scientists, a functioning Autonomous Fabricator had not been seen for thousands of years. However, when the Fallen Empires were at their prime, the Autonomous Fabricators nevertheless were the backbone of their war machine during the Great Crusade."
+ 
+ building_fe_class_5_singularity:0 "$tech_fe_class_5_singularity$"
+ building_fe_class_5_singularity_desc:0 "$tech_fe_class_5_singularity_desc$"
+ building_fe_dimensional_extractor:0 "$tech_fe_dimensional_extractor$"
+ building_fe_dimensional_extractor_desc:0 "$tech_fe_dimensional_extractor_desc$"
+ building_fe_agri_processing_complex:0 "$tech_fe_agri_processing_complex$"
+ building_fe_agri_processing_complex_desc:0 "$tech_fe_agri_processing_complex_desc$"
+ building_fe_opulence_central:0 "$tech_fe_opulence_central$"
+ building_fe_opulence_central_desc:0 "$tech_fe_opulence_central_desc$"
+ building_fe_autonomous_fabricator:0 "$tech_fe_autonomous_fabricator$"
+ building_fe_autonomous_fabricator_desc:0 "$tech_fe_autonomous_fabricator_desc$"
+ 
+ ###Lost Technologies: Ancient Weaponry
+ 
+ ancient_weaponry:0 "Lost Technologies: Ancient Weaponry"
+ ancient_weaponry_DESC:0 "During an archaelogical excursions, our scientists discovered the shattered components of an ancient databank, containing nonsensical, albeit corrupted data. Early investigations suggest blueprints of powerful weapons could yet be discovered within."
+ 
+ DARK_ENERGY_POWER_CORE:0 "Dark Energy Reactor"
+ DARK_ENERGY_POWER_CORE_DESC:0 "§MLost Technologies:§! The technology to power advanced spaceships with Dark Energy had long been lost, until now."
+ 
+ tech_dark_energy_power_core:0 "Dark Energy Power"
+ tech_dark_energy_power_core_desc:0 "§MLost Technologies:§! The technology to power advanced spaceships with Dark Energy had long been lost, until now."
+ 
+ FE_ESCORT_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_ESCORT_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_BATTLECRUISER_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ FE_TITAN_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_TITAN_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ FE_GOLIATH_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_GOLIATH_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ FE_STATIONS_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR:0 "Dark Energy Reactor"
+ FE_LARGE_STATIONS_DARK_ENERGY_REACTOR_DESC:0 "§MLost Technologies:§! Dark Energy can be used to power this advanced ship."
+ 
+ DARK_ENERGY_SHIELD:0 "Dark Energy Deflectors"
+ DARK_ENERGY_SHIELD_DESC:0 "§MLost Technologies:§! These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics."
+ MEDIUM_DARK_ENERGY_SHIELD:0 "Medium Dark Energy Deflectors"
+ MEDIUM_DARK_ENERGY_SHIELD_DESC:0 "§MLost Technologies:§! These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics."
+ LARGE_DARK_ENERGY_SHIELD:0 "Large Dark Energy Deflectors"
+ LARGE_DARK_ENERGY_SHIELD_DESC:0 "§MLost Technologies:§! These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics."
+ 
+ tech_dark_energy_shield:0 "Dark Energy Deflectors"
+ tech_dark_energy_shield_desc:0 "§MLost Technologies:§! These shields utilize dark energy to repel incoming projectiles in a way that seems to utterly defy the laws of physics."
+ 
+ TITAN_ARMOR:0 "Titan Armor"
+ TITAN_ARMOR_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate."
+ MEDIUM_TITAN_ARMOR:0 "Medium Titan Armor"
+ MEDIUM_TITAN_ARMOR_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate."
+ LARGE_TITAN_ARMOR:0 "Large Titan Armor"
+ LARGE_TITAN_ARMOR_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate."
+ 
+ tech_titan_armor:0 "Titan Armor"
+ tech_titan_armor_desc:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored platings; its self-repairing properties make vessels that mount them extremely difficult to penetrate." 
+ 
+ TITAN_PLATING:0 "Titan Plating"
+ TITAN_PLATING_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy." 
+ MEDIUM_TITAN_PLATING:0 "Medium Titan Plating"
+ MEDIUM_TITAN_PLATING_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy." 
+ LARGE_TITAN_PLATING:0 "Large Titan Plating"
+ LARGE_TITAN_PLATING_DESC:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy." 
+ 
+ tech_titan_plating:0 "Titan Plating"
+ tech_titan_plating_desc:0 "§MLost Technologies:§! The Titan series utilize the long-lost technologies of infusing living-metal into armored hulls; its self-repairing properties make vessels that mount them extremely difficult to destroy." 
+ 
+ 
+ PSI_MISSILE_SYSTEM:0 "Psionic Missile System"
+ PSI_MISSILE_SYSTEM_DESC:0 "§MLost Technologies:§! An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew."
+ 
+ tech_psi_missile_system:0 "Psionic Missile System"
+ tech_psi_missile_system_desc:0 "§MLost Technologies:§! An experimental missile system controlled by psionic abilities, allowing full control of the missiles through willpower of the crew."
+ 
+ SHADOW_STRIKE_CRAFT:0 "Shadow Strike Craft"
+ SHADOW_STRIKE_CRAFT_DESC:0 "§MLost Technologies:§! Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit."
+ 
+ tech_shadow_strike_craft:0 "Shadow Strike Craft"
+ tech_shadow_strike_craft_desc:0 "§MLost Technologies:§! Inspired by the Infinity Machine, the next generation of versatile strike crafts are hard to detect and even harder to hit."
+
+ HELLFIRE_AUTOCANNONS:0 "Hellfire Autocannon"
+ HELLFIRE_AUTOCANNONS_DESC:0 "§MLost Technologies:§! This autocannon rains hellfire upon our enemies."
+ 
+ tech_hellfire_autocannons:0 "Hellfire Autocannons"
+ tech_hellfire_autocannons_desc:0 "§MLost Technologies:§! This autocannon rains hellfire upon our enemies."
+ 
+ TERROR_CANNON:0 "Terror Cannon"
+ TERROR_CANNON_DESC:0 "§MLost Technologies:§! This deadly cannon inspires utter terror with its size."
+ 
+ tech_terror_cannon:0 "Terror Cannon"
+ tech_terror_cannon_desc:0 "§MLost Technologies:§! This deadly cannon inspires utter terror with its size."
+ 
+ ION_DISRUPTOR:0 "Ion Disruptor"
+ ION_DISRUPTOR_DESC:0 "§MLost Technologies:§! An experimental disruptor that fires ion beams to devastate enemy vessels."
+ 
+ tech_ion_disruptor:0 "Ion Disruptor"
+ tech_ion_disruptor_desc:0 "§MLost Technologies:§! An experimental disruptor that fires ion beams to devastate enemy vessels."
+ 
+ 
+ ###Lost Technologies: Omni Weapons
+ 
+ omni_weapons:0 "Lost Technologies: Omni Weapons"
+ omni_weapons_DESC:0 "The Omni Weapons are a class of semi-sentient weapons capable of sensing its user's alignment, changing their colours to match. Only the most civilized would use them as weapons of choice. Due their costly nature, Omni weapons were soon decomissioned from service soon after the ending of the Great Crusade."
+ 
+ OMNI_LANCE:0 "Omni Lance"
+ OMNI_LANCE_DESC:0 "§MLost Technologies:§! An elegant weapon, for a more civilized age. The Omni Lance is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ COMPACT_OMNI_LANCE:0 "Compact Omni Lance"
+ COMPACT_OMNI_LANCE_DESC:0 "§MLost Technologies:§! Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances."
+ OMNI_EMITTER:0 "Omni Arc Emitters"
+ OMNI_EMITTER_DESC:0 "§MLost Technologies:§! A powerful symbols of an empire's might, capable of smiting enemy fleets from afar. The Omni Arc Emitter is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ COMPACT_OMNI_EMITTER:0 "Compact Omni Emitters"
+ COMPACT_OMNI_EMITTER_DESC:0 "§MLost Technologies:§! Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters."
+ OMNI_CANNON:0 "Omni Cannon"
+ OMNI_CANNON_DESC:0 "§MLost Technologies:§! A titanic gun capable of launching projectiles across vast distances. The Omni Cannon is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ COMPACT_OMNI_CANNON:0 "Compact Omni Cannon"
+ COMPACT_OMNI_CANNON_DESC:0 "§MLost Technologies:§! Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons."
+ MASSIVE_AUTOCANNONS:0 "Massive Autocannon"
+ MASSIVE_AUTOCANNONS_DESC:0 "§MLost Technologies:§! Designed to cause maximum destruction and mayhem, the Massive Autocannon is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ OMNI_TITAN_LANCE:0 "Omni Titan Lance"
+ OMNI_TITAN_LANCE_DESC:0 "§MLost Technologies:§! Only the most civilized would use the Omni Titan Lance as their weapon of choice. The Omni Titan Lance is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ 
+ 
+ tech_omni_lance:0 "Omni Lance"
+ tech_omni_lance_desc:0 "§MLost Technologies:§! An elegant weapon, for a more civilized age. The Omni Lance is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ tech_compact_omni_lance:0 "Compact Omni Lance"
+ tech_compact_omni_lance_desc:0 "§MLost Technologies:§! Compact Omni Lances are small-scaled versions of their counterpart - Omni Lances."
+ tech_omni_emitter:0 "Omni Arc Emitters"
+ tech_omni_emitter_desc:0 "§MLost Technologies:§! A powerful symbols of an empire's might, capable of smiting enemy fleets from afar. The Omni Arc Emitter is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ tech_compact_omni_emitter:0 "Compact Omni Emitters"
+ tech_compact_omni_emitter_desc:0 "§MLost Technologies:§! Compact Omni Emitters are small-scaled versions of their counterpart - Omni Arc Emitters."
+ tech_omni_cannon:0 "Omni Cannon"
+ tech_omni_cannon_desc:0 "§MLost Technologies:§! A titanic gun capable of launching projectiles across vast distances. The Omni Cannon is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ tech_compact_omni_cannon:0 "Compact Omni Cannon"
+ tech_compact_omni_cannon_desc:0 "§MLost Technologies:§! Compact Omni Cannons are small-scaled versions of their counterpart - Omni Cannons."
+ tech_massive_autocannons:0 "Massive Autocannons"
+ tech_massive_autocannons_desc:0 "§MLost Technologies:§! Designed to cause maximum destruction and mayhem, the Massive Autocannon is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ tech_omni_titan_lance:0 "Omni Titan Lance"
+ tech_omni_titan_lance_desc:0 "§MLost Technologies:§! Only the most civilized would use the Omni Titan Lance as their weapon of choice. The Omni Titan Lance is a semi-sentient weapon capable of sensing its user's alignment, changing its color to match."
+ 
+ 
+ 
+ 
+ ###Lost Technologies: Goliath
+ 
+ goliath:0 "Lost Technologies: Goliath"
+ goliath_DESC:0 "Among the valuable data obtained from precursor artifacts, our scientists uncovered something that shocks them and contradicts everything we knew about the Fallen Empires - a warship design of gigantic proportions unlike anything we had ever seen.\n\nWe do not yet understand why the precursor felt this was a good idea to build these at some point during the Great Crusade. Nevertheless, with our current ability in engineering, this project is one that is within our capabilities."
+  
+ tech_fe_goliath:0 "Goliath"
+ tech_fe_goliath_desc:0 "§MLost Technologies:§! Designs obtained from Precursor artifacts detail the construction of the monstrous Goliath-class military vessels."
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! Goliath"
+ TECH_UNLOCK_FE_GOLIATH_CONSTRUCTION_DESC:1 "§HGoliaths§!\nThis gigantic warship clearly serves no other purpose than to intimidate smaller opponents."
+ 
+ fe_goliath:1 "Goliath"
+ fe_goliath_plural:1 "Goliaths"
+ 
+ FE_GOLIATH_BOW_KEY:1 "Goliath Bow"
+ FE_GOLIATH_KEY:1 "Goliath"
+ FE_GOLIATH_HANGAR:1 "Goliath Hangar"
+ FE_GOLIATH_STERN:1 "Goliath Stern"
+ 
+ ###Lost Technologies: Legendary Weapons
+ 
+ legendary_weapons:0 "Lost Technologies: Legendary Weapons"
+ legendary_weapons_DESC:0 "According to legends, the ship §HGoliath§! carried weapons so legendary that they were performing feats unimaginable to our current scientific understanding. Upon further examination, our scientists discovered such powerful weapons may actually exist and suggests we investigate these myths."
+ 
+ PORTAL_GENERATOR:0 "Portal Generator"
+ PORTAL_GENERATOR_DESC:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ tech_portal_generator:0 "Portal Generator"
+ tech_portal_generator_desc:0 "§YLegendary Weapon:§! The Portal Generator rips open the fabric of space-time, creating a temporary portal for an unknown, extra-dimensional being to target enemy positions."
+ 
+ 
+ 
+ ###Lost Technologies: Superior Designs
+ 
+ superior_designs:0 "Lost Technologies: Superior Designs"
+ superior_designs_DESC:0 "During an excavation, our scientists uncovered corrupted blueprints which translated to something along the lines of 'Original Designs'. For whatever reason, these blueprints seemed to have either been lost by the Fallen Empires a long time ago, or abandoned. Either case, these designs seem uniquely relevant to the improvement of our current fleet of Escorts, Battlecruisers and Fallen Titans." 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+﻿l_english:
+
+ EDICTS:0 "Edicts and Religious Council"
+ EDICTS_LABEL:0 "Manage our Empire, planet Edicts and Religious Council here."
+ topbar_button_edicts_name:1 "Edicts and Religion"
+ topbar_button_edicts_delayed:0 "§EOpens the Edicts view where you can open a new religious session and inspect and activate Empire Edicts.§!"
+ empire_ethics_editor:0 "Ethics and Religion"

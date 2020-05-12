@@ -1,0 +1,34 @@
+﻿  l_english:
+   
+    FLAG_CATEGORY_gommunism:0 "Space Communism"
+    RT_SELECT:0 "Select" 
+    RT_SELECT_FEMALE:0 "Select"
+    
+    gov_radical_default:0 "Proletarian Democracy"
+    gov_anarchist:0 "Horizontalist Society"
+    gov_soc_republic:0 "Socialist Republic"
+    gov_falc:0 "Fully Automated Luxury Communism"
+    gov_communist:0 "Communist Polity"
+    gov_syn_republic:0 "Syndicalist Republic"
+     
+    ####################################
+    # Civics
+    ####################################
+ 
+    civic_fully_automated:0 "Fully Automated"
+    civic_fully_automated_desc:0 "Industry in our society is fully automated and controlled by the local municipalities."
+    civic_luxury_communism:0 "Luxury Communism"
+    civic_luxury_communism_desc:0 "Our society has achieved post-scarcity, the people live well and are able to focus their attention on the persuits that drive them to greatness."
+    civic_workers_councils:0 "Worker's Councils"
+    civic_workers_councils_desc:0 "Our people have organized at the ground levels to take control of production (and the surplus) for themselves. As a result, our people practice democracy in all aspects of their lives, allowing for decisions to be made beyond the enhancement of profit."
+    civic_syndicalist_unions:0 "Syndicalist Unions"
+    civic_syndicalist_unions_desc:0 "Militant Labor Unions have taken full control of our industry and government, using the decision making framework already existing within their organizations they've completed the link between people, workplace and government."
+    civic_worker_direction:0 "Worker Self-Direction"
+    civic_worker_direction_desc:0 "Through Cooperatives and Chartered Democratic Workplaces, the people have 100% ownership of the corporation and thus their surplus and labor. By propagation of this dynamic, people are able to take control of their lives in the place where they spend them the most, at work."
+    #civic_abolished_value:0 "Abolished Value Form"
+    #civic_abolished_value_desc: 0 ""
+    civic_abolished_property:0 "Abolished Private Property"
+    civic_abolished_property_desc:0 "People are no longer allowed to profit from land or property they own but do not use. Property must be used to be owned."
+    civic_horizontal_society:0 "Horizontal Society"
+    civic_horizontal_society_desc:0 "Hierarchy has been completely abolished. Using advanced communication technology and regular meeting schedules, our society makes all policy decisions at the ground level."
+    

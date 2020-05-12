@@ -1,0 +1,11 @@
+﻿l_french:
+  
+  origin_visitors: "Exode"
+  origin_visitors_desc: "Forcés à quitter leurs maisons, cette civilisation est en qête d'une nouvelle et meilleure vie. L'origine de ce départ n'est pas claire et seulement une poignées d'entre eux ont réussi à se rassembler.\nBrisée et non préparée, cette civilisation parviendra-t-elle à retrouver la prospérité ?"
+  origin_tooltip_visitors_effects: "§RDémarre sans monde d'origine !§!\nCommence avec §Y3 Vaisseaux coloniaux§! et leur §YEscorte§! répartis dans la galaxie.\n§YResources§! supplémentaires lorsque la §YPremiere colonie§! est fondée."
+  
+
+  START_SCREEN_VISITORS:0 "Attention ! Votre attention s'il vous plaît !\nNous sommes arrivés à destination.\n\nEstimation du temps de trajet total : §R-DONNÉES CORROMPUES-§! years, 3 months, 22 days.\nEstimation du nombre de vaisseaux coloniaux arrivés à destination : 3 sur §R-ERREUR DE RECUPERATION DES FICHIERS-§!\nLes systèmes de survie essentiels fonctionnent comme prévus.\n\nLes scanners indiquent la présence §R-CHEMIN INTROUVABLE-§! dans nos systèmes locaux.\nRappelez vous de §Y...bruits incompréhensibles...§! avant de partir. Il est primordial de le faire !\nSi vous ne pouvez trouver votre §Y...bruit blanc...§! alors dirigez vous vers §RDÉCHIFFRAGE IMPOSSIBLE§!.\n\nNous espérons que vous avez apprécié le vol que vous avez eu un cryo-sommeil onirique.\n\nMerci d'avoir voyagé avec le complexe Aéro-Spatial de §R-DONNÉES EFFACÉES-§!"  
+
+  visitors_home_NAME: "Random Systems"
+  visitors_home_DESC: "Votre civilisation n'a plus de planète d'origine, mais quelques vaisseau coloniaux ont survécus et sont répartis dans la galaxie."

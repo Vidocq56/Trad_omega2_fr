@@ -1,0 +1,175 @@
+﻿l_english:
+ ####################################
+ # Misc
+ ####################################
+ 
+
+ 
+ job_larva_queen:0 "Brood Queen"
+ job_larva_queen_plural:0 "Brood Queens"
+ job_larva_queen_desc:0 "A mature Queen seasonally produces winged virgin queens and males, called alates. Unfertilized eggs develop into males. Fertilized eggs usually develop into wingless, sterile workers, but may develop into virgin queens if the larvae receive special attention." 
+ 
+ origin_hive_organic:0 "Organic Structures"
+ origin_hive_organic_desc: "This hive creates living structures and space ships by metamorphosing their larva at will."
+ civic_tooltip_organic_effects:0 "Start the game with §YOrganic§! Ship set (Will override any shipset you select).\n\n§YShips§!, §YBuildings§! and §YOutposts§! cost £food£ §Y$food$§! and £larva£ §YLarvae§! to build in return of reduced £alloys£ §YAlloys§! and £minerals£ §YMinerals§!.\n\nA £job_larva_queen£ §Y$job_larva_queen$§! job added in every colony and every 50 pops.\n\n§YBrood Focus§! policy added to focus §Y$job_larva_queen$§! production between £larva£ §YLarvae§! and §YPop Growth§!\n\n§YDaily Hull regen§! increased by §G+1%§!\nFarmer output: §G+2§!\nMiner output: §R-1§!"
+ START_SCREEN_ORGANIC_STRUCTURES:0 "While individual organisms usually show little phenotypic variations, our species evolved in such a way that our phenotypic plasticity allow our larvae to radically change their morphology and aglomerate.\n\nAt first, this evolutionary trait created disarray between our species, but, as we gained conciousness, we embraced our differences.\n\nOur phenotypic plasticity proved to be advantageous when it came to overcoming the odds life presents. The Queen phenotype evolved as a means to grow new larvae, an efficient way to grow the Hive, while others where aglomerated into buildings, ships, complex drones or working force.\n\nNow we look at the stars pondering what to do next.\n\nWe are the collective, we are all."
+ 
+ 
+ civic_organic_lithoid:0 "Living Structures"
+ civic_organic_lithoid_desc: "This rocky hive creates living structures and space ships by fusing their bodies with solid mass or aggregate of minerals or mineraloid matter."
+ civic_tooltip_organic_lithoid_effects:0 "Start the game with §YLithoid§! Ship set (Will override any shipset you select).\n\n§YShips§!, §YBuildings§! and §YOutposts§! cost £minerals£ §Y$minerals$§! as upkeep in return of reduced £energy£ §YEnergy§!.\n§YDaily Hull regen§! increased by §G+1%§!\nMiner output: §G+2§!\nTechnician output: §R-1§!"
+
+
+ organic_structures_alates_name:0 "Nuptial Flights" 
+ organic_structures_normal_name:0 "Balanced Brood" 
+ organic_structures_workers_name:0 "Sterile Workers"
+ policy_organic_structures_policy:0 "Brood Focus"
+ policy_organic_structures_policy_desc:0 "The Brood can choose to have their queens to either lay eggs that will turn into alates larvae or workers."
+ organic_structures_normal:0 "Balanced Brood"
+ organic_structures_normal_desc:0 "A balanced colony is a healthy colony.\nBrood Queens: Pop Growth Speed: §G+2.5%§!"
+ organic_structures_alates:0 "Nuptial Flights"
+ organic_structures_alates_desc:0 "The lack of larvae is a problem, regular nuptial flights help Brood Queens lay more alate larvae which will help the colony expand and grow."
+ organic_structures_workers:0 "Sterile Workers"
+ organic_structures_workers_desc:0 "If the Brood seems to have enough alate larvae, it can opt to produce more workforce by reducing the amount of nuptial flights to zero, which will leave the larvae sterile and never be able to morph into any building or ship.\nBrood Queens: Pop Growth Speed: §G+5%§!"
+ mod_planet_larva_queens_larva_produces_add: "Brood Queen Larvae"
+ planet_larva_queens: "Brood Queens"
+
+ ####################################
+ # Planetary Buildings
+ ####################################
+ 
+ building_bioresource_silo:0 "Resource Silos"
+ building_bioresource_silo_desc:0 "Massive resource silos and storage facilities where large quantities of resources can be safely kept."
+ 
+ building_biobetharian_power_plant:0 "Betharian Power Plant"
+ building_biobetharian_power_plant_desc:1 "Betharian Power Plants consume Betharian Stone to produce vast amounts of Energy Credits."
+
+ building_bioenergy_grid:0 "Energy Grid"
+ building_bioenergy_grid_desc:0 "A carefully calibrated grid network maximizes the output of power generators."
+ building_bioenergy_nexus:0 "Energy Nexus"
+ building_bioenergy_nexus_desc:0 "This colossal facility centralizes all energy grids on the planet, improving their efficiency."
+ building_biomineral_purification_plant:2 "Mineral Purification Plants"
+ building_biomineral_purification_plant_desc:2 "Minerals that have passed through these purifiers are of the highest quality."
+ building_biomineral_purification_hub:2 "Mineral Purification Hubs"
+ building_biomineral_purification_hub_desc:2 "Massive hubs where minerals are received and then shuttled to arrays of purifiers."
+ 
+ building_bioplanetary_shield_generator:0 "Planetary Shield Generator"
+ building_bioplanetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+ 
+ building_biostronghold:0 "Stronghold"
+ building_biostronghold_desc:0 "A planetary stronghold housing a substantial garrison force to protect the world from invasion and rebellion."
+ building_biofortress:0 "Fortress"
+ building_biofortress_desc:2 "A massive fortress complex with an expanded garrison and training facilities for soldiers."
+
+ 
+
+ ####################################
+ # Wonders
+ ####################################
+ 
+ building_superbrain:1 "Planetary Supercomputer"
+ building_superbrain_desc:1 "A single colossal supercomputer which can carry out incredibly complex calculations, improving the research output of the whole planet."
+ 
+ building_biomilitary_academy:0 "Military Academy"
+ building_biomilitary_academy_desc:1 "Military Academies improve local recruitment rates and offer a higher standard of training."
+
+ 
+ ## BUILDINGS ##
+ building_biohydroponics_farm:0 "Hydroponics Farms"
+ building_biohydroponics_farm_desc:0 "Hydroponics Farms produce nutrient-rich vegetable matter tailored for consumption by local Pops."
+
+ building_biocrystal_mines:0 "Crystal Mines"
+ building_biocrystal_mines_desc:1 "Great care must be taken when excavating these mines to avoid damaging the crystals."
+ building_bioalloy_1:0 "Alloy Foundries"
+ building_bioalloy_1_desc:0 "The Metallurgists working in these foundries produce high-quality alloys."
+ building_bioalloy_2:0 "Alloy Mega-Forges"
+ building_bioalloy_2_desc:0 "Production on a massive scale, these forges can manufacture alloys in great quantities."
+ building_bioalloy_3:0 "Alloy Nano-Plants"
+ building_bioalloy_3_desc:0 "Advanced manufacturing centers where the alloy production process is aided by nanomachines."
+
+
+ building_bio_lab_1:0 "Research Labs"
+ building_bio_lab_1_desc:0 "Research Labs provide the basic facilities for general research."
+ building_bio_lab_2:0 "Research Complexes"
+ building_bio_lab_2_desc:0 "Upgraded research facilities with a very large staff capacity."
+ building_bio_lab_3:0 "Advanced Research Complexes"
+ building_bio_lab_3_desc:0 "These advanced research facilities have the very latest science equipment along with an extremely large staff capacity."
+
+ building_biofood_processing_facility:0 "Food Processing Facilities"
+ building_biofood_processing_facility_desc:0 "Food that is processed at these facilities has its nutritional value greatly increased."
+ building_biofood_processing_center:0 "Food Processing Centers"
+ building_biofood_processing_center_desc:0 "Streamlined facilities where large amounts of food can be processed."
+
+ building_biorefinery:0 "Exotic Gas Refineries"
+ building_biorefinery_desc:0 "These advanced refineries work day and night to produce exotic gases."
+ building_biocrystal_plant:0 "Synthetic Crystal Plants"
+ building_biocrystal_plant_desc:0 "Nearly identical to the real thing, the crystals produced here are of the highest quality."
+ building_biochemical_plant:0 "Chemical Plants"
+ building_biochemical_plant_desc:0 "The unpredictable and sometimes unstable Volatile Motes are produced here artificially. No open flames are permitted within a five kilometer radius of the plants."
+ building_biomote_harvesters:0 "Mote Harvesting Traps"
+ building_biomote_harvesters_desc:0 "These intricate facilities trap Volatile Motes within energy fields, funneling them into special containment zones below ground where they can be stabilized and harvested."
+ building_biogas_extractors:0 "Gas Extraction Wells"
+ building_biogas_extractors_desc:0 "These hulking wells reach deep into the planet's mantle to access pockets of Exotic Gas."
+
+ 
+ 
+ mod_starbase_buildings_alloys_cost_mult:0 "Starbase Buildings Alloy Cost"
+ mod_starbase_buildings_food_cost_add:0 "Starbase Building Food Cost"
+ mod_starbase_modules_alloys_cost_mult:0 "Starbase Module Alloy Cost"
+ mod_starbase_modules_food_cost_add:0 "Starbase Module Food Cost"
+  
+ mod_planet_districts_minerals_cost_mult:0 "District Mineral Cost"
+ mod_planet_districts_food_cost_add:0 "District Food Cost"
+ mod_planet_buildings_minerals_cost_mult:0 "Planet Buildings Alloy Cost"
+ mod_planet_buildings_food_cost_add:0 "Planet Buildings Food Cost"
+ 
+ mod_stations_minerals_cost_mult:0 "Space Station Mineral Cost"
+ mod_stations_food_cost_add:0 "Space Station Food Cost"
+ 
+ mod_station_gatherers_minerals_cost_mult:0 "Mining Station Mineral Cost"
+ mod_station_gatherers_food_cost_add:0 "Mining Station Food Cost"
+ mod_station_gatherers_energy_upkeep_mult:0 "Mining Station Energy Upkeep"
+ mod_station_gatherers_food_upkeep_add:0 "Mining Station Food Upkeep"
+ mod_station_researchers_minerals_cost_mult:0 "Research Station Mineral Cost"
+ mod_station_researchers_food_cost_add:0 "Research Station Food Cost"
+ mod_station_researchers_energy_upkeep_mult:0 "Research Station Energy Upkeep"
+ mod_station_researchers_food_upkeep_add:0 "Research Station Food Upkeep"
+ mod_station_observers_minerals_cost_mult:0 "Observation Station Mineral Cost"
+ mod_station_observers_food_cost_add:0 "Observation Station Food Cost"
+ mod_station_observers_energy_upkeep_mult:0 "Observation Station Energy Upkeep"
+ mod_station_observers_food_upkeep_add:0 "Observation Station Food Upkeep"
+ 
+ mod_ship_science_alloys_cost_mult:0 "Science Ship Alloy Cost"
+ mod_ship_science_food_cost_add:0 "Science Ship Food Cost"
+ mod_ship_science_alloys_upkeep_mult:0 "Science Ship Alloy Upkeep"
+ mod_ship_science_food_upkeep_add:0 "Science Ship Food Upkeep"
+ mod_ship_colonizer_alloys_cost_mult:0 "Colony Ship Alloy Cost"
+ mod_ship_colonizer_food_cost_add:0 "Colony Ship Food Cost"
+ mod_ship_colonizer_alloys_upkeep_mult:0 "Colony Ship Alloy Upkeep"
+ mod_ship_colonizer_food_upkeep_add:0 "Colony Ship Food Upkeep"
+ mod_ship_constructor_alloys_cost_mult:0 "Construction Ship Alloy Cost"
+ mod_ship_constructor_food_cost_add:0 "Construction Ship Food Cost"
+ mod_ship_constructor_alloys_upkeep_mult:0 "Construction Ship Alloy Upkeep"
+ mod_ship_constructor_food_upkeep_add:0 "Construction Ship Food Upkeep"
+ mod_ship_corvette_alloys_cost_mult:0 "Corvette Alloy Cost"
+ mod_ship_corvette_food_cost_add:0 "Corvette Food Cost"
+ mod_ship_destroyer_alloys_cost_mult:0 "Destroyer Alloy Cost"
+ mod_ship_destroyer_food_cost_add:0 "Destroyer Food Cost"
+ mod_ship_cruiser_alloys_cost_mult:0 "Cruiser Alloy Cost"
+ mod_ship_cruiser_food_cost_add:0 "Cruiser Food Cost"
+ mod_ship_battleship_alloys_cost_mult:0 "Battleship Alloy Cost"
+ mod_ship_battleship_food_cost_add:0 "Battleship Food Cost"
+ mod_ship_titan_alloys_cost_mult:0 "Titan Alloy Cost"
+ mod_ship_titan_food_cost_add:0 "Titan Food Cost"
+ mod_ship_military_station_small_alloys_cost_mult:0 "Defense Platform Alloy Cost"
+ mod_ship_military_station_small_food_cost_add:0 "Defense Platform Food Cost"
+ mod_ship_corvette_alloys_upkeep_mult:0 "Corvette Alloy Upkeep"
+ mod_ship_corvette_food_upkeep_add:0 "Corvette Food Upkeep"
+ mod_ship_destroyer_alloys_upkeep_mult:0 "Destroyer Alloy Upkeep"
+ mod_ship_destroyer_food_upkeep_add:0 "Destroyer Food Upkeep"
+ mod_ship_cruiser_alloys_upkeep_mult:0 "Cruiser Alloy Upkeep"
+ mod_ship_cruiser_food_upkeep_add:0 "Cruiser Food Upkeep"
+ mod_ship_battleship_alloys_upkeep_mult:0 "Battleship Alloy Upkeep"
+ mod_ship_battleship_food_upkeep_add:0 "Battleship Food Upkeep"
+ mod_ship_titan_alloys_upkeep_mult:0 "Titan Alloy Upkeep"
+ mod_ship_titan_food_upkeep_add:0 "Titan Food Upkeep"

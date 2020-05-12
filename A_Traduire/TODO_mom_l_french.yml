@@ -1,0 +1,357 @@
+﻿l_french:
+
+ # House Divided Localisation
+ origin_mom_house_divided:0 "A House Divided"
+ origin_mom_house_divided_desc:0 "This society went through a major crisis during its early expansion. With its first colonies settled and developed, and its vision outward bound for the next step into the endless void, treachery hit them unprepared as one colony declared its independence. With their weakness and inability to react now laid bare for all to see, their other colony soon seized upon the opportunity to revolt as well."
+ origin_tooltip_mom_house_divided_effects:0 "Start out neighbouring two other empires of your own species."
+ origin_mom_house_divided_splinter_colony:0 "Splinter Colony"
+ origin_mom_house_divided_splinter_colony_desc:0 "This society started out as colonists under their mother nation. Whether it was perceived oppression, political opportunism or simply a strong will to forge its own destiny, this former colony renounced its homeworld's administration and declared independence."
+ START_SCREEN_MOM_HOUSE_DIVIDED:0 "Since the earliest times, our people reached for ever greater goals. We fought wild beasts, tamed the lands, built great cities and spread across our world.\nEventually with the invention of hyperdrive technology we went on to reach for the stars. During our early expansion, small colonies grew to become new homes for our people and a foundation for what was to come. Yet as our eyes lay on the endless sea of the void with worlds just waiting to be claimed, we were betrayed. With our military unprepared for such an event, we could only watch as our colonies declared themselves independent, shattering our plans. We have been in a state of cold war with them ever since. But this madness will end now.\n\nA house divided cannot stand. Unity must be achieved, be it by diplomacy or military force. We will not be denied our destiny!"
+ mom_house_divided_system_NAME:0 "A House Divided"
+ mom_house_divided_system_DESC:0 "An ordinary start in a unary solar system."
+ mom_house_divided_sol_system_NAME:0 "A House Divided - SOL"
+ mom_house_divided_sol_system_DESC:0 "A Sol clone to work with A House Divided."
+
+ # Severance Localisation
+ origin_mom_severance:0 "Severance"
+ origin_mom_severance_desc:0 "Prior to discovering the hyperlane network, this civilization found a wormhole within its home system and managed to establish an outpost on the other side. Unfortunately, it turned unstable shortly after and manned travel through it became too dangerous, separating homeworld and colony."
+ origin_tooltip_mom_severance_effects:0 "Begin with a wormhole in your home system and a colony on the other side, but no means to safely travel through it."
+ START_SCREEN_MOM_SEVERANCE:0 "Our civilization prospered on [GetHomeWorldName] for a long time, but our people always felt that our destiny lay out there in the void. Early space exploration limited to our home system by primitive STL-drives yielded an extraordinary discovery. A wormhole connected our system to another further away than we could ever hope to reach by conventional means. Scouts where sent, followed by a colony ship heading for a planet now known as [event_target:mom_severance_colony.GetName]. It was a dream come true, though as any dream it didn't last.\n\nThe wormhole became unstable shortly after our colony's founding. Experts still debate whether it was ever stable to begin with, or whether we'd just been lucky. Many lives were lost when another wave of colonists failed to reach the other side and further manned travel through it was deemed too dangerous. However, communication is still possible, but supplies sent through it have only a 30% expectancy to reach their destination. This separation left us in a precarious situation.\n\nBut now, after the discovery of the hyperlane network, the finest minds of the [GetName] have finished the development of the first hyperdrives. We are finally able to reach other stars and hopefully our colony as well."
+ 
+ # Breakaway Civilization Localisation (currently unused)
+ origin_mom_breakaway_civ:0 "Breakaway Civilization"
+ origin_mom_breakaway_civ_desc:0 "Still fractured into various nation states, this civilization made its first steps on the way to become spacefaring after the discovery of an ancient alien wreckage. Unbeknownst by its rivals or even its own population, one of the worlds superpowers began reverse engineering the alien technology in secrecy."
+ origin_tooltip_mom_breakaway_civ_effects:0 "Begin with fewer pops but the potential of planetary unification, which if achieved provides access to the workforce and natural resources of the other nation states.\nBeware the looming threat of nuclear war and try to ease the tensions...\nOr face the consequences of your mistakes..."
+ START_SCREEN_MOM_BREAKAWAY_CIV:0 "[GetHomeWorldName] is a fractured world, divided between various superpowers. Wars dominated our history, but the splitting of the atom and its derived weapons of mass destruction changed everything.\n\nThough major conflicts have ceased under the threat of mutually assured destruction, we are living in a state of cold war and tensions are higher than ever before.\n\nBut even in these trying times, we have been blessed with good fortune. A discovery has been made in a desolate and sparsely populated area under our dominion - a strange vessel which must have crashed there eons ago. Scientists believe it to be of alien origin and posit that it was once capable of interstellar travel. Thanks to the remote location of this finding, we were able to keep it a secret not only from the broad public but also from our rivals.\n\nToday we will reap the fruits of years of development and research and clandestine operations to establish outposts in our solar system. The [GetName] might not know it yet, but future history books will speak of this day as the beginning of a new age, as we send out our first explorational vessel to another star."
+
+ # Divine Guidance Localisation
+ origin_mom_god_emperor:0 "Divine Guidance"
+ origin_mom_god_emperor_desc:0 "In the distant past, a soul blessed by the divine with unnatural longevity and intellect rose to power. Regarded as a god among their people for their psionic gift and charismatic nature, this heavenly ruler guided this civilization through the ages."
+ origin_tooltip_mom_god_emperor_effects:0 "Start with an average homeworld and an immortal ruler, chosen by the divine and blessed with unnatural charisma and intellect."
+ START_SCREEN_MOM_GOD_EMPEROR:0 "In the distant past, our people fought amongst themselves in a never-ending cycle of violence and retribution. We would still be caught in this madness today, had it not been for [Root.GetRulerTitle] [Root.GetRulerName].\n\nWhen [ruler.GetSheHe] first revealed [ruler.GetHerselfHimself] to our ancestors, they were nothing more than savages. Yet [ruler.GetHerHis] charisma made them loyal followers of [ruler.GetHerHis] cause. Within a few decades, all [root.GetSpeciesNamePlural] had been united behind the [Root.GetRulerTitle], entering a new age of prosperity and progress under [ruler.GetHerHis] benevolent rule.\n\nToday, on the 2200th anniversary of [Root.GetRulerTitle] [Root.GetRulerName]'s coronation, our civilization will also enter a new age of exploration as our first hyperspace-capable prototype starts its journey to discover distant worlds."
+
+ # Exiles Localisation
+ origin_mom_exiles:0 "Exiles"
+ origin_mom_exiles_desc:0 "This civilization was founded by the survivors of a war long past, who were forced to flee with a ragtag fleet when their original homeworld was overrun by a mysterious foe."
+ origin_tooltip_mom_exiles_effects:0 "Start with an average homeworld and a quest to recover your ancient heritage."
+ START_SCREEN_MOM_EXILES:0 "Since ancient times our legends tell the story of a doomed world - ravaged by a merciless foe - and our ancestors, who narrowly escaped their brethren's fate. A long flight from their homeworld in a ragtag fleet of freighters eventually led them to [GetHomeWorldName]. Ill equipped with what little they had left, a colony was founded. Much knowledge and technology was lost in the struggle and hardship of making this planet their new home.\n\nNow, over two millennia later, our civilization has recovered. Great cities have been built, the wilderness tamed, and we are finally ready to return to the stars."
+
+ # Overcrowded Localisation
+ origin_mom_crowded:0 "Overcrowded"
+ origin_mom_crowded_desc:0 "This civilization faced with impending collapse due to overpopulation took its first steps into space not out of scientific curiosity or a perceived manifest destiny but out of sheer necessity to support its ever increasing number of citizens."
+ origin_tooltip_mom_crowded_effects:0 "Start with §Y65§! £pop£ Pops and multiple additional districts and buildings on your homeworld but also a negative modifier that can only be removed by turning the planet into an ecumenopolis. (Or when the colony is destroyed or owned by any gestalt consciousness empire)\nYou get both city district improvement technologies."
+ START_SCREEN_MOM_CROWDED:0 "Our civilization has come a long way from fighting off the hazards of our environment and wresting the resources needed to expand from the very ground upon which we stand today. In the ancient times our ancestors could not have imagined that one day [GetHomeWorldName] would cease to satiate the [root.GetSpeciesAdj] hunger for resources and even space to live.\n\nDuring the past decades the problems became ever more obvious to all [root.GetSpeciesNamePlural]. Cities turned into monstrous travesties of their former self in a failing effort to accommodate the ever increasing number of citizens. With our research focused on finding ways of coping with this situation there appear to be fewer and fewer solutions to be found on [GetHomeWorldName].\n\nEven the supplies provided by various outposts established throughout the solar system won't stall the inevitable collapse for long. The start of our first FTL-capable exploration vessel on its journey to a neighboring star does not happen out of scientific curiostiy or an ill perceived manifest destiny. It is a sheer necessity."
+
+ # Climate Change Localisation (currently unused)
+ origin_mom_change_starting_planet_class:0 "Changed Climate"
+ origin_mom_change_starting_planet_class_desc:0 "Before the invention of the Hyperdrive, disaster struck the homeworld of this species. Weather it be through a meteorite, pollution or natural causes, the climate of this planet has been altered to something the biology of the natives is not equipped to deal with."
+ origin_tooltip_mom_change_starting_planet_class_effects:0 "Homeworld is changed to a different habitable planet class in the same group as the one chosen."
+
+ # Climate Catastrophe Localisation
+ origin_mom_climate_destroyed:0 "Climate Catastrophe"
+ origin_mom_climate_destroyed_desc:0 "Before the invention of the Hyperdrive, a great disaster struck this civilization's homeworld. While the exact nature of the disaster is unknown, it caused significant alteration to the climate of the planet, causing the climate to change into something that can be deadly for native life."
+ origin_tooltip_mom_destroyed_climate_effects:0 "Homeworld is changed to a planet outside the chosen group. Start with no city districts and a §YClimate Protection Habitat§! building that increases habitability and housing, and the ability to build more on any colony."
+ START_SCREEN_MOM_DESTROYED_CLIMATE:0 "Sometime in our past, [GetHomeWorldName] was altered far outside [ROOT.GetSpeciesName] tolerances. Whether by accident, natural causes, or intentional action has been lost in the years following the disaster. Regardless, the event killed billions of our people, those who could not find shelter or endure [GetHomeWorldName]'s changed climate, the countless who died from starvation as crop yields fell, or those slaughtered in the brutal wars over what remained.\n\nIn time, we built domed cities and subterranean catacombs to live in, and eventually we unified beneath a new flag. Now we are ready to reach distant stars, and we will take our knowledge of survival with us."
+ START_SCREEN_MOM_DESTROYED_CLIMATE_HIVE:0 "Sometime in our past, [GetHomeWorldName] was altered far outside [ROOT.GetSpeciesName] tolerances. Whether by accident, natural causes, or intentional action has been lost in the years following the disaster. Regardless, the event killed billions of hive drones, those who could not find shelter or endure [GetHomeWorldName]'s changed climate, the countless who died from starvation as food production fell, or those who slaughtered each other as the wounded hive fought to heal and regain control..\n\nIn time, we built domed cities and subterranean catacombs to live in, and the hive healed until once more we covered [GetHomeWorldName]. Now we are ready to reach the stars, and we will take our knowledge of survival with us."
+
+ # Wormhole Junction Localisation
+ origin_mom_wormhole_junction:0 "Wormhole Junction"
+ origin_mom_wormhole_junction_desc:0 "Abnormal gravitic forces in this civilization's home system has caused a wormhole junction to appear. Its termini are in a constant state of flux, appearing and disappearing as the gravitic forces shift. The civilization developed the means to travel through wormhole junctions and managed to stabilized two termini even before they discovered conventional FTL travel."
+ origin_tooltip_mom_wormhole_junction_effects:0 "Start with a wormhole junction with two termini in your home system and the ability to discover more."
+ 
+ ####################
+ # Overcrowded      #
+ ####################
+
+ mom_crowded_stripmining:0 "Stripmining Operation"
+ mom_crowded_stripmining_desc:0 "Minerals are being extracted on an industrial scale here."
+ mom_crowded_world:0 "Problematic Overpopulation"
+ mom_crowded_world_desc:0 "Overcrowded cities, struggling to accomodate the ever increasing number of citizens, criminal networks on the rise and unhealthy living conditions decrease most working outputs here."
+
+ mod_planet_jobs_consumer_goods_upkeep_mult:0 "Consumer Goods Upkeep"
+ 
+ ####################
+ # Divine Guidance  #
+ ####################
+
+ #Modifier when emperor is alive
+ mom_god_emperor_alive:0 "Divine Rule"
+ #Modifier when emperor is dead
+ mom_god_emperor_dead:0 "Our people are shaken by the loss of their leader"
+
+ #Special Project to resurrect the emperor
+ MOM_GOD_EMPEROR_RESSURECTION:0 "Resurrection Project"
+ MOM_GOD_EMPEROR_RESSURECTION_DESC:0 "Cloning a mere animal - or normal person for that matter - is not that big a deal anymore considering our technological progress. Doing so with a being whose abilities rival that of a god, however, should be carried out with the utmost caution to minimize any possible risks. This project will form the foundation to achieve this goal."
+
+ #Decision to resurrect the emperor
+ decision_mem_god_emperor_ressurection:0 "Resurrection"
+ decision_mem_god_emperor_ressurection_desc:0 "This process will transfer the stored mental imprint of our deceased leader into a clone body of his."
+
+ #Still placeholder event for when there is an age trigger
+ mom_god_emperor.3.name:0 "REPLACE_ME"
+ mom_god_emperor.3.desc:0 "REPLACE_ME"
+ mom_god_emperor.3.a:0 "REPLACE_ME"
+ #Notification about the aftermath of the emperor's death
+ mom_god_emperor.5.name:0 "Societal Collapse"
+ mom_god_emperor.5.desc:0 "Following the news about the death of our beloved [root.GetRulerTitle], riots broke out. People are blaming the government for having failed to protect their leader. Violence rules the streets. The unity we once had is no more."
+ mom_god_emperor.5.a:0 "Maybe we can bring him back"
+ mom_god_emperor.5.b:0 "What shall we do now?"
+ mom_god_emperor.5.c:0 "We brought the [root.GetRulerTitle] back before. We will do so again!"
+ #Empire has gotten cloning technology for resurrecting the emperor
+ mom_god_emperor.6.name:0 "A Glimpse of Hope"
+ mom_god_emperor.6.desc:0 "With our research in cloning technology having achieved a major breakthrough, a group of scientists have come forward to propose a possible way to resurrect our lost [root.GetRulerTitle].\n\nAccording to their explanation, it will need additional funds and research capacity, as cloning such a divine being hardly compares to that of a mere [root.GetSpeciesName]."
+ mom_god_emperor.6.a:0 "We do not have time to waste"
+ #Special project finished
+ mom_god_emperor.7.name:0 "Preparations Finished"
+ mom_god_emperor.7.desc:0 "The scientists assigned to the resurrection project have reported their preparations to be completed. We can now begin the process of creating a clone vessel and imprinting the last recorded brainscans acquired before the [root.GetRulerTitle]'s demise. This endeavor will however strain our economy, considering the needed resources."
+ mom_god_emperor.7.a:0 "A small price to pay..." 
+ mom_god_emperor.7.a.tooltip:0 "A new planetary edict becomes available on the capital world"
+ #Decision effect finished Emperor resurrected
+ mom_god_emperor.8.name:0 "The [root.GetRulerTitle] Lives"
+ mom_god_emperor.8.desc:0 "[root.GetRulerTitle] [Root.GetRulerName] has awoken. After a brief catching up with the developments since [ruler.GetHerHis] latest memories, [ruler.GetSheHe] proceeded to give a nationwide speech in an effort to heal the emotional wounds [ruler.GetHerHis] passing left behind within our society. Citizens all over the empire joined together to celebrate their new-born ruler. The unity we lost with [ruler.GetHerHis] death already seems to return in this very moment."
+ mom_god_emperor.8.a:0 "Long may he reign!"
+
+ ####################
+ # Exiles Questline #
+ ####################
+
+ #New Blocker 
+ d_mom_city_ruins:0 "$d_city_ruins$"
+ d_mom_city_ruins_desc:0 "$d_city_ruins_desc$"
+  
+ mom_exiles.2.name:0 "Ancestral Legacy"
+ mom_exiles.2.desc:0 "We have made the first steps to reclaiming our place among the stars. Our first science ship is on its way to explore the unknown systems surrounding [capital_scope.solar_system.GetName], and voices calling for an expedition in search for our ancestors' homeworld and the truth of what happened there are becoming louder."
+ mom_exiles.2.a:0 "Then this is what we will do."
+
+ #Finding the system Event Chain
+ mom_exiles_title:0 "What was Lost"
+ mom_exiles_desc:0 "For a long time our people have wondered what became of the homeworld our ancestors once fled from. If their ancient foes are still there, they may pose a threat to our very existence. We have to find out either way."
+ 
+ # Point of interest Astrum System
+ mom_exiles_system.1.name:0 "Find our Ancestral Home"
+ mom_exiles_system.1.desc:0 "Explore the legendary home system of our ancestors."
+ 
+ #Astrum system is visited, starts survey Domum
+ mom_exiles.3.name:0 "Our Ancestors' Home?"
+ mom_exiles.3.desc:0 "We have reached the Astrum system. Our worst fears have been proven unfounded as no signs of activity can be found. Our scientists did not know what to expect to find here, but when the first system scans reached them they were struck speechless. There is one planet orbiting its sun inside the habitable zone which must be our ancestors' homeworld.\n\nAnd there is more! It seems to be orbited by some kind of megastructure. We should investigate it as soon as possible."
+ mom_exiles.3.a:0 "Make it so."
+ 
+ #Domum Mystery
+ mom_exiles_planet_title:0 "A Mysterious Place"
+ mom_exiles_planet_desc:0 "We have found a place more mysterious than we would have ever expected. We should investigate it further."
+ 
+ #Point of interest Domum
+ mom_exiles_system.2.name:0 "Survey [mom_exiles_planet.GetName]"
+ mom_exiles_system.2.desc:0 "What happened here?"
+ 
+ #Domum has been surveyed, starts surface expedition research project.
+ mom_exiles.4.name:0 "[root.owner.species.GetAdj] Origins"
+ mom_exiles.4.desc:0 "A heavily damaged gigantic ring orbits a planet covered in dense clouds. High radiation values are measured by our probes.\n\nSo the legends were true indeed. What we already believed became a certainty when our scientists found a small object orbiting the planet. It was identified as an ancient lifepod - in it the remains of its unfortunate passenger, apparently [root.owner.species.GetAdj].\n\nWhatever happened here happened long ago. There is no sign of intelligent life on the planet or in the system at large. Whoever our ancestors' foes were, they seem long gone as well."
+ mom_exiles.4.a:0 "We need to find out more."
+
+ #Domum Surface Expedition Research
+ MOM_EXILES_PLANET_EXPEDITION_PROJECT:0 "Heritage of the Ancients"
+ MOM_EXILES_PLANET_EXPEDITION_PROJECT_DESC:0 "In order to find out more about our distant past, we have to find a way to establish a stable outpost on [mom_exiles_planet.GetName]. We will have to overcome many obstacles to make this possible. The harsh environment and dangerous levels of radiation are just two of them."
+
+ #Expedition Research is completed now colonize this planet
+ mom_exiles.5.name:0 "Reclaim what is Ours"
+ mom_exiles.5.desc:0 "Our scientists came up with plans how to counter the threats our expedition will be faced with.\n\nThough it will not be very pleasant, our personnel will have to wear heavy protective gear at all time when outside their shielded habitat modules. All these protection measures will also increase production times and costs for any building constructed. A suitable landing place, where radiation levels are within acceptable limits, has been found as well.\n\nIt is time to establish an expeditionary outpost on [mom_exiles_planet.GetName]. We still do not know what happened to our ancestors. Who or what has destroyed their world, laid their cities to ruins and brought their civilisation to collapse?"
+ mom_exiles.5.a:0 "Prepare a long-term expedition."
+
+ #Point of interest for colonizing Domum
+ mom_exiles_system.3.name:0 "Colonize [mom_exiles_planet.GetName]"
+ mom_exiles_system.3.desc:0 "Build an outpost on [mom_exiles_planet.GetName] to find out more about our ancestors."
+ 
+ #Clear the planet of all tile blockers (ruins)
+ mom_exiles.7.name:0 "Outpost Established"
+ mom_exiles.7.desc:0 "With our outpost established, it is time to begin the planned expeditions into the old ruins. We'll also have to clear any obstacles that prevent our teams' movement along the way."
+ mom_exiles.7.a:0 "Proceed with the expedition."
+ 
+ #Point of interest on Domum for clearing tile blockers
+ mom_exiles_system.4.name:0 "Clear Ruins on [mom_exiles_planet.GetName]"
+ mom_exiles_system.4.desc:0 "We have to clear any obstacles that prevent our teams' movement."
+ 
+ #All blockers have been cleared.
+ mom_exiles.8.name:0 "The Great Gateway"
+ mom_exiles.8.desc:0 "The last excavation area held an extraordinary secret. Our team has found an enormous gateway to an underground network. At the moment we can only guess how far it stretches."
+ mom_exiles.8.a:0 "Prepare an expedition into the deeps."
+
+ #Modifiers
+ mom_expedition_preparation:0 "Expedition Preparations"
+ mom_expedition_preparation_desc:0 "In order to protect our personnel from the hostile environment, protective gear is mandatory at all times when leaving the shielded habitat modules."
+ mom_ringworld_restored:0 "Planetary Ring"
+ mom_ringworld_restored_desc:0 "A restored relic of a long-forgotten time orbits the planet providing living space."
+ mom_underground_secured:0 "Secured Underground Network"
+ mom_underground_secured_desc:0 "The reclamation of the extensive underground network provides much space for further expansion."
+ 
+ #Underground Network Planetary Feature
+ d_mom_exiles_mines:0 "Underground Network"
+ d_mom_exiles_mines_desc:0 "A vast and ancient network of underground mines, vaults and production facilities stretching across the entire planet."
+ 
+ #Starts Domum' Depths expedition
+ MOM_EXILES_DEEPS_EXPEDITION_PROJECT:0 "The Underground Network"
+ MOM_EXILES_DEEPS_EXPEDITION_PROJECT_DESC:0 "In our efforts we have discovered what appears to be an ancient mine. We should see what lies inside."
+
+ #Discovers underground horrors who attack
+ mom_exiles.9.name:0 "The Horrors Below"
+ mom_exiles.9.desc:0 "Our expedition into the mine has gone horribly awry. A horde of indescribable horrors seems to have awakened and slaughtered our expedition team. They have now begun pouring out of the gateway and are launching a full-scale assault on our outpost."
+ mom_exiles.9.a:0 "Send our forces to save them!"
+ 
+ #Ancient Robot Armies
+ mom_ancient_horrors:0 "Ancient Robotic Warmachines"
+
+ #We lost the battle against the horrors
+ mom_exiles.10.name:0 "Tragedy"
+ mom_exiles.10.desc:0 "Our numbers were too few to withstand the onslaught. Our forces are scattered and in full retreat."
+ mom_exiles.10.a:0 "We have to retake the planet!"
+
+ #The horrors have begun rampaging throughout the planet killing off our population there.
+ mom_exiles.11.name:0 "Rampaging"
+ mom_exiles.11.desc:0 "With the loss of control, we are unable to defend our citizens. They are helpless against the hordes."
+ mom_exiles.11.a:0 "We have to send reinforcements immediately!"
+
+ #We succesfully defended the planet against the horrors initial attack.
+ mom_exiles.12.name:0 "Victory"
+ mom_exiles.12.desc:0 "These abominations did not foresee our might. The ones that are still alive have scurried back to the depths from which they came."
+ mom_exiles.12.a:0 "For [root.Capital.GetName]!"
+
+ # We have successfully reconquered the planet.
+ mom_exiles.13.name:0 "Reconquest"
+ mom_exiles.13.desc:0 "We have successfully reclaimed our rightful heritage from these abominations, the surviving colonists are back under our protection once again."
+ mom_exiles.13.a:0 "For [root.Capital.GetName]!"
+
+ #A small group of citizens have barricaded themselves.
+ mom_exiles.15.name:0 "Isolated"
+ mom_exiles.15.desc:0 "The siege has claimed many lives. Only a small group of citizens were able to barricade themselves in an area where they are safe for the time being."
+ mom_exiles.15.a:0 "We have to save them!"
+ 
+ MOM_EXILES_DEEPS_RETALIATION_PROJECT:0 "Reconquest of the Depths"
+ MOM_EXILES_DEEPS_RETALIATION_PROJECT_DESC:0 "We have to ensure the threat of these ancient machines is dealt with once and for all. A grand scale campaign into the underground system will require us to throw in every ground force we have. We should only attempt this with a full army at our disposal."
+ 
+ # The Attack on the underground starts
+ mom_exiles.16.name:0 "The Hour has Come"
+ mom_exiles.16.desc:0 "Our preparations are complete, our troops are in place. The time has come to fully reclaim our world."
+ mom_exiles.16.a:0 "We will reclaim our world!"
+ 
+ # We have successfully conquered the underground.
+ mom_exiles.17.name:0 "Reconquest"
+ mom_exiles.17.desc:0 "We have successfully reclaimed our rightful heritage from these abominations.\n\nPeace has finally come to this war torn world -- our world. Our scientists are eager to explore what lies beneath the ruined surface of [FromFrom.GetName]."
+ mom_exiles.17.a:0 "For [root.Capital.GetName]!"
+ 
+ #Restoration part starts
+ mom_exiles.181.name:0 "Deep Underground"
+ mom_exiles.181.desc:0 "In the vast underground network of [mom_exiles_planet.GetName] our scientists found a technological complex that they deem to be an atmospheric cleaning system. With this facility repaired, we might be able to restore this planet's atmosphere end return it to its native state. They have already laid out a plan to get it into working order again."
+ mom_exiles.181.a:0 "Good work."
+ 
+ #Domum restoration
+ mom_exiles_planet_rebuilding_title:0 "Restoration of our Homeworld"
+ mom_exiles_planet_rebuilding_desc:0 "With our original homeworld under our control again, we should begin to restore it to its ancient glory."
+ 
+ # Planetary Restoration Project
+ MOM_EXILES_RESTORATION_PROJECT:0 "Planetary Restoration"
+ MOM_EXILES_RESTORATION_PROJECT_DESC:0 "Our scientists and engineers are optimistic they will be able to repair and maintain this advanced machinery complex if given enough time to study it first."
+ 
+ # Restoration Project complete Machinery begins to work
+ mom_exiles.19.name:0 "Atmospheric Renewer Repaired"
+ mom_exiles.19.desc:0 "The atmospheric renewer has finally been activated. Our experts estimate the stabilization of [mom_exiles_planet.GetName]'s atmosphere will take approximately five years."
+ mom_exiles.19.a:0 "Congratulations to the team."
+ 
+ # Restoration of Atmosphere complete
+ mom_exiles.20.name:0 "Restoration Complete"
+ mom_exiles.20.desc:0 "[mom_exiles_planet.GetName] is once again a habitable world and worthy home to our people."
+ mom_exiles.20.a:0 "A worthy home for the [root.owner.GetSpeciesNamePlural], indeed."
+ 
+ # Plans for Planetary Ring Reconstruction Found
+ mom_exiles.21.name:0 "A Strange Finding"
+ mom_exiles.21.desc:0 "In the depths of the underground network of [mom_exiles_planet.GetName], we have found a storage of extraordinary material. At first it seemed to be some sort of metal alloy, but it possesses properties none of our scientists can explain. It somehow repairs damage to its structure by itself.\n\n Having access to such a material may open up possibilities we did not dare to think about before. With it we might even be able to reconstruct the destroyed planetary ring structure that orbits [root.GetName]. In fact, it must have been a prerequisite for its construction in the first place."
+ mom_exiles.21.a:0 "A strange material."
+ 
+ # Ring Reconstruction Project
+ MOM_EXILES_RING_RECONSTRUCTION_PROJECT:0 "Ring Reconstruction"
+ MOM_EXILES_RING_RECONSTRUCTION_PROJECT_DESC:0 "With this "living metal" at our disposal and an enormous amount of minerals and energy, the reconstruction of [mom_exiles_planet.GetName]'s orbital ring should be possible.\n\nThough it will take several years and reduce [mom_exiles_planet.GetName]'s production output by 50% while the reconstruction is underway. Our experts estimate this process will take about 10 years."
+ 
+ # Project for Planetary Ring Reconstruction complete work starts
+ mom_exiles.22.name:0 "Preparations Complete"
+ mom_exiles.22.desc:0 "Our scientists have finished their study on the remains of the ringworld and the "Living Metal", as they call it. Work on its restoration can now start."
+ mom_exiles.22.a:0 "We all eagerly await its finish."
+ 
+ #Ringworld restored
+ mom_exiles.23.name:0 "Ringworld Restored"
+ mom_exiles.23.desc:0 "The work is completed and [mom_exiles_planet.GetName] is now fully restored to its former glory. It is a great day for the [root.GetSpeciesNamePlural]. Citizens are celebrating all over the empire. May we never lose [mom_exiles_planet.GetName] again."
+ mom_exiles.23.a:0 "It is ours now and forever!"
+ 
+ #modifiers
+ mom_scared_population:0 "Panic Among the Population"
+ mom_scared_population_desc:0 "Our people live in fear of the horrible automatons that came from the underground."
+ 
+ mom_ringworld_reconstruction:0 "Ringworld Restoration in Progress"
+ mom_ringworld_reconstruction_desc:0 "The whole populace is determined to restore the ancient planetary ring world, leading to a doubled unity output. On the other hand, most of the planet's resources go into this project and cannot be used elsewhere."
+ 
+ mom_ringworld_reconstructed:0 "Restored our Ancestors' Homeworld"
+ 
+ #################
+ #Changed Climate#  
+ #################
+ 
+ trait_mom_changed_class_hab:0 "Survivor"
+ trait_mom_changed_class_hab_desc:0 "This species survived a environmental change on their homeworld, and have become adept at surviving foreign environments."
+ 
+ #####################
+ #Climate Catastrophe#
+ #####################
+ 
+ building_mom_habitat:0 "Climate Protection Habitat"
+ building_mom_habitat_desc:0 "A massive complex of subterranean tunnels and partially domed cities, offering protection from the harsh environment outside."
+ job_mom_destroyed_climate:0 "Habitat Producer"
+ job_mom_destroyed_climate_plural:0 "Habitat Producers"
+ job_mom_destroyed_climate_desc:0 "Habitats offer a plentitude of opportunities to mine, generate, and farm."
+ job_mom_destroyed_climate_drone:0 "Habitat Drone"
+ job_mom_destroyed_climate_drone_plural:0 "Habitat Drones"
+ job_mom_destroyed_climate_drone_desc:0 "abitats offer a plentitude of opportunities to mine, generate, and farm."
+ mod_job_mom_destroyed_climate_add:0 "Habitat Producer Jobs"
+ 
+ ###################
+ #Wormhole Junction#
+ ###################
+ 
+ #Junction Cannot Be Used
+ MOM_JUNCTION_COUNTRY_CANNOT_USE:0 "$TRIGGER_FAIL$ The §Y[From.GetName]§! has closed their borders to us"
+ 
+ #Junction Nam/Desc
+ MOM_JUNCTION:0 "Wormhole Junction"
+ MOM_JUNCTION_GALACTIC:0 "Wormhole Junction"
+ MOM_JUNCTION_GALACTIC_DESC:0 "This System Contains a §YWormhole Junction§!"
+ mom_junction_master:0 "Wormhole Junction"
+ mom_junction_master_DESC:0 "Junctions connects to all termini."
+ mom_junction_termini:0 "Wormhole Terminus"
+ mom_junction_termini_DESC:0 "Wormhole Termini can only connect to their master junction."
+ 
+ #Generate Special Project
+ MOM_DISCOVER_TERMINI_PROJECT:0 "Stabilize Terminus"
+ MOM_DISCOVER_TERMINI_PROJECT_DESC:0 "We must first stabilize a wormhole termini before we can use it. "
+ 
+ #Generate Events
+ mom_junction.3.name:0 "Possible Wormhole Terminus"
+ mom_junction.3.desc:0 "Our scientists have recently brought us a proposal concerning our wormhole junction in the [mom_junction_master_system.GetName] system. They claim that they might be able to locate another terminus and ask for the approval to go ahead. If we do then we must act quickly otherwise the shifting gravitic forces will remove the terminus before it can be stabilized."
+ mom_junction.3.a:0 "Lets Get To Work"
+ mom_junction.3.b:0 "A Goose Chase We Cannot Afford"
+ 
+ mom_junction.4.name:0 "Terminus Lost"
+ mom_junction.4.desc:0 "We have run out of time to stabilize a new terminus of the [mom_junction_master_system.GetName] junction. The gravitic forces have shifted, and the terminus has been destroyed."
+ mom_junction.4.a:0 "Unfortunate"
+ 
+ mom_junction.6.name:0 "Wormhole Stabilized"
+ mom_junction.6.desc:0 "The [mom_junction_new_system_master.GetName] have stabilized a wormhole terminus that connects to the [mom_junction_new_system.GetName] system. As this wormhole connects directly to their capital, we now have an invasion or trade route right into the heart of [mom_junction_new_system_master.GetName] space."
+ mom_junction.6.a:0 "Interesting"
+ 
+ mom_junction.7.name:0 "Wormhole Terminus Stabilized"
+ mom_junction.7.desc:0 "We have successfully stabilized another terminus of [mom_junction_master_system.GetName] wormhole junction. This one will transfer ships into the [mom_junction_new_system.GetName] system."
+ mom_junction.7.a:0 "Wonderful"
+ 
+ mom_junction.8.name:0 "Last Wormhole Terminus Stabilized"
+ mom_junction.8.desc:0 "We have successfully stabilized another terminus of [mom_junction_master_system.GetName] wormhole junction. This one will transfer ships into the [mom_junction_new_system.GetName] system. Unfortunately, [mom_junction_new_system_master.GetName] scientist have concluded that this is the last terminus of the junction we will be able to use. The gravitic forces have become to unstable to allow for any more wormholes. Still, seven wormholes in one system is pretty good."
+ mom_junction.8.a:0 "So They Are. Compliments to All Involved."
+
+ #Generate Modifier
+ mom_wormhole_junction_modifier:0 "Stabilizing Wormhole"
+ mom_wormhole_junction_modifier_desc:0 "Our physicists are working to stabilize a wormhole."

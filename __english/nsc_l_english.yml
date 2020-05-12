@@ -1,0 +1,1616 @@
+﻿l_english:
+
+################################################################################################################################################
+# HULL SIZES & STARBASE MODULES/BUILDINGS
+################################################################################################################################################
+
+STRIKECRUISER: "Strike Cruiser"
+BATTLECRUISER: "Battlecruiser"
+CARRIER: "Carrier"
+DREADNOUGHT: "Dreadnought"
+FLAGSHIP: "Flagship"
+SUPPORTSHIP: "Fleet Support Ship"
+EXPLORATIONSHIP: "Exploration Cruiser"
+
+StrikeCruiser: "Strike Cruiser"
+StrikeCruiser_plural: "Strike Cruisers"
+Battlecruiser: "Battlecruiser"
+Battlecruiser_plural: "Battlecruisers" 
+Carrier: "Carrier"
+Carrier_plural: "Carriers"
+Dreadnought: "Dreadnought"
+Dreadnought_plural: "Dreadnoughts"
+Flagship: "Flagship"
+Flagship_plural: "Flagships"
+supportship: "Fleet Support Ship"
+supportship_plural: "Fleet Support Ships"
+explorationship: "Exploration Cruiser"
+explorationship_plural: "Exploration Cruisers"
+escortcarrier: "Escort Carrier"
+escortcarrier_plural: "Escort Carriers"
+
+starbase_stronghold: "Grand Citadel"
+starbase_stronghold_plural: "Grand Citadels"
+
+starbase_headquarters: "Solar Stronghold"
+starbase_headquarters_plural: "Solar Strongholds"
+
+headquarters: "Headquarters"
+headquarters_plural: "Headquarters"
+
+xl_cannon: "Annihilator Cannon"
+xl_cannon_plural: "Annihilator Cannons"
+
+stb_shipyard: "Shipyard"
+stb_shipyard_desc: "A starbase focused on ship construction."
+
+sm_drydock: "Drydock"
+sm_drydock_desc: "This specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair warships."
+
+sm_sensor_station: "Sensor Station"
+sm_sensor_station_desc: "The starbase sensor station uses advanced sensor arrays to extend our intelligence gathering capabilities across several star systems, giving us advanced warning of any possible threats near our borders."
+
+sm_solar_panel_01: "Solar Panel Network"
+sm_solar_panel_01_desc: "This small network of solar panels provides energy to the starbase, helping to counteract the costs of running the installation and generating surplus energy."
+sm_solar_panel_02: "Medium Solar Panel Network"
+sm_solar_panel_02_desc: "This mid-sized network of solar panels provides energy to the starbase, helping to counteract the costs of running the installation and generating surplus energy."
+sm_solar_panel_03: "Large Solar Panel Network"
+sm_solar_panel_03_desc: "This large network of solar panels provides energy to the starbase, helping to counteract the costs of running the installation and generating surplus energy."
+sm_solar_panel_04: "Huge Solar Panel Network"
+sm_solar_panel_04_desc: "This massive network of solar panels provides energy to the starbase, helping to counteract the costs of running the installation and generating surplus energy."
+
+sm_hq_annex: "Naval Command Center"
+sm_hq_annex_desc: "An advanced command center that provides significant bonuses to our empire."
+
+sm_starbase_management: "Starbase Administration Office"
+sm_starbase_management_desc: "Some systems are absolutely critical to the maintenance of our empire's trade networks. A Starbase Administration Office is the seat of a very important official of our Empire, tasked with the protection of local trade routes and the defense of this critical starbase."
+
+sm_customs_office: "Starbase Customs Office"
+sm_customs_office_desc: "Central location for all immigration for the system."
+
+mod_pop_category_bio_trophy_unity_produces_mult: "Bio-Trophy Unity"
+
+sm_starbase_management_machine: "Starbase Network Hub"
+sm_starbase_management_machine_desc: "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010"
+
+sm_starbase_management_hive: "Starbase Lair"
+sm_starbase_management_hive_desc: "We are one."
+
+sm_mining_base: "System Mineral Refinery"
+sm_mining_base_desc: "Some systems are specialized for the extraction of mineral resources to fuel our economy. A System Mineral Refinery gives a starbase the capacity to increase the efficiency of mineral extraction operations on all planets within the system."
+
+sm_farming_base: "System Agriculture Terminal"
+sm_farming_base_desc: "Some systems are specialized towards producing vast quantities of food to sustain our ever-growing population. A System Agriculture Terminal coordinates the efforts of all agricultural enterprises in the star system, increasing crop yields on all affected planets."
+
+sm_power_station: "System Energy Grid"
+sm_power_station_desc: "Some systems are specialized towards producing the raw energy all civilizations need to function. A System Energy Grid oversees all power-generating efforts across the system, increasing the efficiency of our technicians on all planets within the star system."
+
+sm_orbital_housing: "Orbital Housing"
+sm_orbital_housing_desc: "Some staircases become more than purely military or administrative installations. By housing civilians on our starbase, we can turn this facility into a little slice of home for all who live there - and provide housing for our ever-growing population at the same time."
+
+
+################################################################################################################################################
+# MEGASTRUCTURES
+################################################################################################################################################
+
+hyperlane_creator_emisor_0: "Hyperlane Generator (Emitter) Construction Site"
+hyperlane_creator_emisor_0_DESC: "The initial site will serve as the base for the construction of a future Hyperlane Generator (Emitter)."
+hyperlane_creator_emisor_0_MEGASTRUCTURE_DETAILS: "A station that allows the creation of a new Hyperlane by emitting a tachyonic beam to another station on the receiving system.\n\n§GHow To Use:§! §BTo create a hyperlane, first build a §HHyperlane Generator (Emitter)§! §Bstructure in the origin system. Next, build a §HHyperlane Generator (Receptor)§! §Bin the destination system. Once both are built, upgrade the §HHyperlane Generator (Emitter)§! §Bto activate it and create a new hyperlane between the two systems.§!"
+
+hyperlane_creator_emisor_1: "Hyperlane Generator (Emitter)"
+hyperlane_creator_emisor_1_DESC: "A station that allows the creation of a new Hyperlane by emitting a tachyonic beam to another station on the receiving system.\n\n§GHow To Use:§! §BTo create a hyperlane, first build a §HHyperlane Generator (Emitter)§! §Bstructure in the origin system. Next, build a §HHyperlane Generator (Receptor)§! §Bin the destination system. Once both are built, upgrade the §HHyperlane Generator (Emitter)§! §Bto activate it and create a new hyperlane between the two systems.§!"
+
+hyperlane_creator_emisor_2: "Hyperlane Generator (Emitter) - Activation"
+hyperlane_creator_emisor_2_DESC: "Initiate the activation sequence of the tachyonic beam to fire it towards the receiving station to generate the new Hyperlane."
+
+
+
+hyperlane_creator_receptor_0: "Hyperlane Generator (Receptor) Construction Site"
+hyperlane_creator_receptor_0_DESC: "The initial site will serve as the base for the construction of a future Hyperlane Generator (Receptor)."
+hyperlane_creator_receptor_0_MEGASTRUCTURE_DETAILS: "A station that allows the creation of a new Hyperlane by receiving a tachyonic beam from another station on the emitting system."
+
+hyperlane_creator_receptor_1: "Hyperlane Generator (Receptor)"
+hyperlane_creator_receptor_1_DESC: "A station that allows the creation of a new Hyperlane by receiving a tachyonic beam to another station on the emitting system."
+
+
+
+hyperlane_remover_emisor_0: "Hyperlane Remover (Emitter) Construction Site"
+hyperlane_remover_emisor_0_DESC: "The initial site will serve as the base for the construction of a future Hyperlane Remover (Emitter)."
+hyperlane_remover_emisor_0_MEGASTRUCTURE_DETAILS: "A station that allows the removal of an existing Hyperlane by emitting a tachyonic beam to another station on the receiving system.\n\n§GHow To Use:§! §BTo remove a hyperlane, first build a §HHyperlane Remover (Emitter)§! §Bstructure in the origin system. Next, build a §HHyperlane Remover (Receptor)§! §Bin the destination system. Once both are built, upgrade the §HHyperlane Remover (Emitter)§! §Bto activate it and remove the existing hyperlane between the two systems.§!"
+
+hyperlane_remover_emisor_1: "Hyperlane Remover (Emitter)"
+hyperlane_remover_emisor_1_DESC: "A station that allows the removal of an existing Hyperlane by emitting a tachyonic beam to another station on the receiving system.\n\n§GHow To Use:§! §BTo remove a hyperlane, first build a §HHyperlane Remover (Emitter)§! §Bstructure in the origin system. Next, build a §HHyperlane Remover (Receptor)§! §Bin the destination system. Once both are built, upgrade the §HHyperlane Remover (Emitter)§! §Bto activate it and remove the existing hyperlane between the two systems.§!"
+
+hyperlane_remover_emisor_2: "Hyperlane Remover (Emitter) - Activation"
+hyperlane_remover_emisor_2_DESC: "Initiate the activation sequence of the tachyonic beam to fire it towards the receiving station to remove the existing Hyperlane."
+
+
+
+hyperlane_remover_receptor_0: "Hyperlane Remover (Receptor) Construction Site"
+hyperlane_remover_receptor_0_DESC: "The initial site will serve as the base for the construction of a future Hyperlane Remover (Receptor)."
+hyperlane_remover_receptor_0_MEGASTRUCTURE_DETAILS: "A station that allows the removal of an existing Hyperlane by receiving a tachyonic beam from another station on the emitting system."
+
+hyperlane_remover_receptor_1: "Hyperlane Remover (Receptor)"
+hyperlane_remover_receptor_1_DESC: "A station that allows the removal of an existing Hyperlane by receiving a tachyonic beam from another station on the emitting system."
+
+
+
+nsc_strategic_resource_factory_0_MEGASTRUCTURE_DETAILS: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+nsc_strategic_resource_factory_0: "Strategic Resource Factory Construction Site"
+nsc_strategic_resource_factory_0_DESC: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+nsc_strategic_resource_factory_0_CONSTRUCTION_INFO_DELAYED: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+
+nsc_strategic_resource_factory_1: "Strategic Resource Factory"
+nsc_strategic_resource_factory_1_DESC: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+nsc_strategic_resource_factory_1_CONSTRUCTION_INFO_DELAYED: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+nsc_strategic_resource_factory_1_MEGASTRUCTURE_DETAILS: "A massive industrial complex that can produce most of the galaxy's strategic resources, at the cost of consuming vast quantities of minerals and energy."
+
+requires_no_existing_nsc_factory: "You can only build one Strategic Resource Factory."
+
+
+
+nsc_galactic_mall_0_MEGASTRUCTURE_DETAILS: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+
+nsc_galactic_mall_0: "Galactic Mall Construction Site"
+nsc_galactic_mall_0_DESC: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+nsc_galactic_mall_0_CONSTRUCTION_INFO_DELAYED: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+
+nsc_galactic_mall_1: "Galactic Mall"
+nsc_galactic_mall_1_DESC: "The galaxy's largest consumer mall and shopping center, capable of producing §G500§! £consumer_goods §YConsumer Goods§! and §G50§! £unity£ §YUnity§!"
+nsc_galactic_mall_1_CONSTRUCTION_INFO_DELAYED: "The galaxy's largest consumer mall and shopping center, capable of producing an impressive amount of £consumer_goods at the cost of £energy and £minerals"
+nsc_galactic_mall_1_MEGASTRUCTURE_DETAILS: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+
+requires_no_existing_mall: "You can only build one Galactic Mall."
+
+
+
+nsc_hospital_0_MEGASTRUCTURE_DETAILS: "A massive hospital dedicated to the study of the various xenoraces in the galaxy and the analysis and treatment of the various diseases that affect these species."
+
+nsc_hospital_0: "Galactic General Hospital Construction Site"
+nsc_hospital_0_DESC: "A massive hospital dedicated to the study of the various xenoraces in the galaxy and the analysis and treatment of the various diseases that affect these species."
+nsc_hospital_0_CONSTRUCTION_INFO_DELAYED: "A massive hospital dedicated to the study of the various xenoraces in the galaxy and the analysis and treatment of the various diseases that affect these species."
+
+nsc_hospital_1: "Galactic Clinic"
+nsc_hospital_1_DESC: "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_1_CONSTRUCTION_INFO_DELAYED: "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_1_MEGASTRUCTURE_DETAILS: "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+
+nsc_hospital_2: "Galactic Medical Center"
+nsc_hospital_2_DESC: "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_2_CONSTRUCTION_INFO_DELAYED: "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_2_MEGASTRUCTURE_DETAILS: "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+
+nsc_hospital_3: "Galactic General Hospital"
+nsc_hospital_3_DESC: "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_3_CONSTRUCTION_INFO_DELAYED: "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+nsc_hospital_3_MEGASTRUCTURE_DETAILS: "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+
+triggered_opinion_of_nsc_hopsital_1: "Galactic Hospital"
+triggered_opinion_of_nsc_hopsital_2: "$triggered_opinion_of_nsc_hopsital_1$"
+triggered_opinion_of_nsc_hopsital_3: "$triggered_opinion_of_nsc_hopsital_1$"
+
+requires_no_existing_hospital: "You can only build one Galactic General Hospital."
+
+
+################################################################################################################################################
+# ASCENSION PERKS
+################################################################################################################################################
+
+ap_nsc2_matterenergy: "Matter-Energy Manipulation"
+ap_nsc2_matterenergy_desc: "Our scientists have discovered how to manipulate matter-energy patterns, allowing us to create the resources we need by converting other resources we already have."
+
+allow_resource_factory: "§HUnlocks Megastructure:§! Strategic Resource Factory"
+
+
+################################################################################################################################################
+# TECH STUFF
+################################################################################################################################################
+
+tech_pd_destroyer_1: "PD Destroyer Upgrade"
+tech_pd_destroyer_1_desc: "Missiles, torpedoes, and strike craft all pose a grave threat to our fleets. Our naval engineers suggest re-designing our Destroyers to mount an array of numerous point-defense weapons to shoot down these targets before they can reach our ships."
+
+tech_StrikeCruiser_1: "Strike Cruiser"
+tech_StrikeCruiser_1_desc: "Battle experience and extensive wargaming exercises show that fleet combat often ends without a decisive outcome, because the losing side makes an immediate, emergency jump to FTL. Our best scientists have miniaturized the Subspace Snare used on starbases for deployment onto a ship. These vessels will be blisteringly fast, to catch enemy fleets in their Snares, maneuverable enough to keep enemy ships from disengaging from combat, and tough enough to withstand significant punishment to ensure the enemy is pinned down for as long as possible."
+
+tech_Battlecruiser_1: "Battlecruiser"
+tech_Battlecruiser_1_desc: "As larger and larger vessels become more common, combat is taking place at longer ranges, and offensive firepower is becoming an ever-more-decisive factor in battle. Our naval theorists suggest building a long, powerful vessel capable of mounting large, medium, and most notably, guided weapon emplacements, to specialize in hurling as much weaponry at the enemy as possible, in either mid- or long-range combat."
+
+tech_escortcarrier_1: "Escort Carrier"
+tech_escortcarrier_1_desc: "Planetary combat has long included an aerial component, with fighter and bomber planes proving absolutely essential to any armed conflict. Using section models based on the highly successful Cruiser design, we can now build warships large enough to launch a space-based variant of these powerful war machines."
+
+tech_Carrier_1: "Carrier"
+tech_Carrier_1_desc: "Strike Craft have proven to be highly successful weapons in naval combat. It is time to design a specialized warship for the express purpose of carrying these weapons into battle, and housing the large support staff and maintenance bays that they require. Doing so will allow these new Carrier vessels to carry far more strike craft than their more improvised predecessors."
+
+tech_heavycarrier_1: "Heavy Carrier Upgrade"
+tech_heavycarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. Combined with new advancements in miniaturizing many of the support facilities required for the maintenance of strike craft, we believe that we can alter our existing Carrier designs into Heavy Carriers, with the ability to support more hangar bays."
+
+tech_supercarrier_1: "Supercarrier Upgrade"
+tech_supercarrier_1_desc: "Further efforts in both ship construction and miniaturization of strike craft support facilities will allow us to squeeze an absolutely incredible number of hangar bays into our Carriers. These Supercarriers will be able to support swarms of strike craft, the better to defend our fleets from attack, and to overwhelm the foe with our best pilots."
+
+tech_spitfire_1: "Spitfire Battleship Specialization"
+tech_spitfire_1_desc: "While capital ships are far more powerful than any vessels that have come before them, they are also far more expensive, and pose juicy targets for swarms of smaller, cheaper vessels that can overwhelm the capital ships with sheer numbers. To counter this, our engineers are working on a few blueprints that could adapt the Battleship into an anti-Corvette-and-Destroyer powerhouse, along with weapons specifically designed for that purpose. These new designs will cause these 'Spitfire Battleships' to have an even higher production cost, but such sacrifices are worth it, if it means protecting our vulnerable capital ships."
+
+tech_Dreadnought_1: "Dreadnought"
+tech_Dreadnought_1_desc: "The Battleship heralded a new era of ship design and naval combat. The ability to both deliver and take massive damage at long range, and the advent of devastating XL weaponry, have completely changed the nature of warfare. Our naval engineers believe that we should develop an even better version of these powerful ships. Their proposed 'Dreadnoughts' would be capable of mounting heavier defenses, more guns, and even two of the incredible XL weapons that have been so successful on the battlefield."
+
+tech_Flagship_1: "The Flagship"
+tech_Flagship_1_desc: "The naval arms race has seen the production of larger and larger warships with no end in sight. Our naval engineers have suggested jumping to the logical conclusion of this serial escalation by constructing a ship so massive and powerful, that no empire will be able to support more than one of them at a time. This proposed Flagship will be the ultimate warship. Designed for maximum versatility, each section will have many possible configurations, allowing us to design our Flagship to suit our purposes. Mounting far more thrusters per ton than any other ship, the Flagship will be able to take any position in the fleet, from a long-range battery in the rear, to a massive brawler at the tip of a fleet's spear.\n\nThis power and versatility will come at a heavy cost, however. Merely building the Flagship will be an enormous endeavor, requiring a colossal stockpile of resources and a significant investment of time and manpower. Upon completion, it will take the entire GDP of a small star nation to maintain; as a result, it will require a massive amount of political influence to obtain approval for the project."
+
+tech_supportcruiser_1: "Support Cruiser Upgrade"
+tech_supportcruiser_1_desc: "As our fleets grow in size, and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long-range supply lines. The Support Cruiser is the answer to this problem, adding new support capabilities to our Cruisers through the addition of advanced modules." 
+
+tech_explorationship_1: "Exploration Cruiser (Level 1)"
+tech_explorationship_1_desc: "Our intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers suggest the development of a large, combat-capable Science Ship dedicated to exploring new worlds, seeking out new life and new civilizations, and boldly going where no one has gone before."
+
+tech_explorationship_2: "Exploration Cruiser (Level 2)"
+tech_explorationship_2_desc: "Our intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Exploration Cruiser, suggest developing a more powerful variant to further increase the protection available to our best and brightest Science Officers."
+
+tech_explorationship_3: "Exploration Cruiser (Level 3)"
+tech_explorationship_3_desc: "Our intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Exploration Cruiser's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers."
+
+tech_drydock_1: "Starbase Drydock"
+tech_drydock_1_desc: "This specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair many warships at once."
+
+tech_sensorstation_1: "Sensor Station"
+tech_sensorstation_1_desc: "The starbase sensor station uses advanced sensor arrays to extend our intelligence gathering capabilities across several star systems, giving us advanced warning of any possible threats near our borders."
+
+tech_starbase_6: "Grand Citadel Starbase"
+tech_starbase_6_desc: "As fleets grow larger and more powerful, it becomes necessary for our starbases and defensive installations to grow in strength, as well. The Grand Citadel is a powerful and highly advanced system defense station, a massive upgrade to existing Citadel-class starbases. These valuable and highly developed starbases are important installations to our empire, and can support a wide range of facilities."
+
+tech_starbase_7: "Solar Stronghold Starbase"
+tech_starbase_7_desc: "The final upgrade in the starbase chain, the Solar Stronghold is the ultimate command and defense station, the largest class of starbase that it is possible to build. Enemy fleets will break upon these massive bulwarks, and each one is a vital asset to our empire, defending the most critical locations on the galactic map."
+
+tech_space_defense_station_2: "Deep Space Defenses 2"
+tech_space_defense_station_2_desc: "As fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Defense Stations, an upgrade to the basic Defense Platforms we currently use, will allow us to better defend our territory from enemy attack."
+
+tech_space_defense_station_3: "Deep Space Defenses 3"
+tech_space_defense_station_3_desc: "As fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Fortress-level defensive installations, an upgrade to the Defense Stations currently in use, will allow us to better defend our territory from enemy attack."
+
+tech_specialcomponents_1: "Advanced Warship Components"
+tech_specialcomponents_1_desc: "Our scientists have come up with a wide range of powerful new modules allowing for the enhancement and further specialization of our warships. Now we only have to miniaturize them, to make them small enough to carry aboard our vessels."
+
+tech_ship_upkeep_1: "Efficient Fleet Supply Lines"
+tech_ship_upkeep_1_desc: "Advancements in technology and logistics allow us to operate much more efficient supply lines to our fleets, thereby significantly reducing our ship upkeep costs."
+
+tech_starbase_upkeep_1: "Efficient Starbase Maintenance"
+tech_starbase_upkeep_1_desc: "Advancements in technology and training allow us to teach our starbase support staff much  more efficient maintenance methods, thereby significantly reducing our starbase upkeep costs."
+
+tech_singularity_power: "Singularity Power"
+tech_singularity_power_desc: "Reactor powered by a quantum singularity."
+
+tech_bh_power_3: "Advanced Flagship Reactors"
+tech_bh_power_3_desc: "Reactor powered by an artificial black hole."
+
+tech_bh_power_2: "Improved Flagship Reactors"
+tech_bh_power_2_desc: "Reactor powered by an artificial black hole."
+
+tech_optimized_enigmatic_power: "Optimized Dark Matter Reactor"
+tech_optimized_enigmatic_power_desc: "Enhanced Dark Matter Reactor"
+
+tech_graviton_power: "Graviton Reactor"
+tech_graviton_power_desc: "Adding gravitational and graviton based based particles to reinforce an antimatter reaction greatly increases the energy production of our reactors."
+
+tech_multidimensional_power: "Multidimensional Reactor"
+tech_multidimensional_power_desc: "Creating a matter bridge between different dimensions and alternative realities allows for a steady, if somewhat limited, stream of vacuum energy to power our next generation of reactors."
+
+tech_naquadria_power: "Naquadria Reactor"
+tech_naquadria_power_desc: "Specialized Reactor powered by ancient and rare crystals."
+
+nsc_sec_power_core: "Secondary Reactor"
+nsc_sec_power_core_desc: "Secondary Reactor slot for Stations and Fortresses"
+
+tech_nsc_reactor_boosters_1: "Graviton Boosters"
+tech_nsc_reactor_boosters_1_desc: "The discovery of Graviton power allows for better reactor boosters to be fitted onto our ships."
+tech_nsc_reactor_boosters_2: "Naquadria Boosters"
+tech_nsc_reactor_boosters_2_desc: "The discovery of Naquadria power allows for better reactor boosters to be fitted onto our ships."
+tech_nsc_reactor_boosters_3: "Singularity Boosters"
+tech_nsc_reactor_boosters_3_desc: "The discovery of Singularity power allows for better reactor boosters to be fitted onto our ships."
+
+tech_nsc_dlc_check: "Apocalypse Now?"
+tech_nsc_dlc_check_desc: "This is an automatic starting tech to check for the Apocalypse DLC."
+
+tech_strikecruiser_build_speed: "Standardized Strike Cruiser Patterns"
+tech_strikecruiser_build_speed_desc: "Establishing new standards for the modeling and construction of Strike Cruisers greatly improves the efficiency of the production pipeline."
+tech_strikecruiser_hull_1: "Improved Strike Cruiser Hulls"
+tech_strikecruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Strike Cruisers."
+tech_strikecruiser_hull_2: "Advanced Strike Cruiser Hulls"
+tech_strikecruiser_hull_2_desc: "The latest generation of Strike Cruiser hulls have optimized structural integrity fields and improved bulkheads."
+
+tech_battlecruiser_build_speed: "Standardized Battlecruiser Patterns"
+tech_battlecruiser_build_speed_desc: "Establishing new standards for the modeling and construction of Battlecruisers greatly improves the efficiency of the production pipeline."
+tech_battlecruiser_hull_1: "Improved Battlecruiser Hulls"
+tech_battlecruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Battlecruisers."
+tech_battlecruiser_hull_2: "Advanced Battlecruiser Hulls"
+tech_battlecruiser_hull_2_desc: "The latest generation of Battlecruiser hulls have optimized structural integrity fields and improved bulkheads."
+
+tech_carrier_build_speed: "Standardized Carrier Patterns"
+tech_carrier_build_speed_desc: "Establishing new standards for the modeling and construction of Carriers greatly improves the efficiency of the production pipeline."
+tech_carrier_hull_1: "Improved Carrier Hulls"
+tech_carrier_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Carriers."
+tech_carrier_hull_2: "Advanced Carrier Hulls"
+tech_carrier_hull_2_desc: "The latest generation of Carrier hulls have optimized structural integrity fields and improved bulkheads."
+
+tech_dreadnought_build_speed: "Standardized Dreadnought Patterns"
+tech_dreadnought_build_speed_desc: "Establishing new standards for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline."
+tech_dreadnought_hull_1: "Improved Dreadnought Hulls"
+tech_dreadnought_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Dreadnoughts."
+tech_dreadnought_hull_2: "Advanced Dreadnought Hulls"
+tech_dreadnought_hull_2_desc: "The latest generation of Dreadnought hulls have optimized structural integrity fields and improved bulkheads."
+
+tech_flagship_build_speed: "Standardized Flagship Patterns"
+tech_flagship_build_speed_desc: "Establishing new standards for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline."
+tech_flagship_hull_1: "Improved Flagship Hulls"
+tech_flagship_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Flagships."
+tech_flagship_hull_2: "Advanced Flagship Hulls"
+tech_flagship_hull_2_desc: "The latest generation of Flagship hulls have optimized structural integrity fields and improved bulkheads."
+
+tech_stronghold_upgrades: "Improved Starbases"
+tech_stronghold_upgrades_desc: "Establishing new standards for the modeling and construction of all starbases greatly improves the efficiency of the production pipeline."
+
+tech_mining_base: "System Mineral Refinery"
+tech_mining_base_desc: "As we expand among the stars, we require ever more resources to support our civilization. Creating specialized, space-based mineral refineries could help centralize production and increase efficiency, leading to higher mineral yields."
+
+tech_power_station: "System Energy Grid"
+tech_power_station_desc: "An expanding star empire requires ever-greater Energy production to sustain it. Creating specialized, space-based Energy-creation facilities will allow us to centralize our Energy production in key systems to better supply our nation's Energy needs."
+
+tech_defense_platforms_1: "Defense Platform Increase - Level 1"
+tech_defense_platforms_1_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
+
+tech_defense_platforms_2: "Defense Platform Increase - Level 2"
+tech_defense_platforms_2_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
+
+tech_defense_platforms_3: "Defense Platform Increase - Level 3"
+tech_defense_platforms_3_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
+
+tech_defense_platforms_4: "Defense Platform Increase - Level 4"
+tech_defense_platforms_4_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
+
+tech_nsc_ai_computer_1: "Artifical Intellgience Combat System"
+tech_nsc_ai_computer_1_desc: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the Flagship."
+
+tech_tomahawk_cruise_missile_1: "Tomahawk Advanced Cruise Missile"
+tech_tomahawk_cruise_missile_1_desc: "With the advent of Battlecruisers, which are designed to be capable of fielding large numbers of missile launchers, and the development of combat at longer and longer ranges, as well as the appearance of massive capital ships and defensive installations, there is a clear need for a super-long range, incredibly powerful missile capable of taking on these new threats, and being launched from our Battlecruisers. These Advanced Cruise Missiles are the answer to this emerging need."
+
+tech_nsc_disabled_sections: "Disabled NSC Ship Sections"
+tech_nsc_disabled_sections_desc: "If you are seeing this tech, something is wrong or you used the console."
+
+tech_hospital: "Galactic General Hospital"
+tech_hospital_desc: "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+
+tech_galactic_mall: "Galactic Mall"
+tech_galactic_mall_desc: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+
+tech_hyperlane_generation: "Hyperlane Generation"
+tech_hyperlane_generation_desc: "Recent developments in both the design of hyperdrives and the activation of derelict Gateways can enable us to develop the way of creating new hyperlanes and removing existing ones, finally allowing us to reshape galactic geography for our needs and purposes."
+
+TECH_UNLOCK_HYPERLANE_GENERATION_TITLE: "§HUnlocks Feature:§! Hyperlane Generation"
+TECH_UNLOCK_HYPERLANE_GENERATION_DESC: "§HHyperlane Generation§!\nAllows the creation and removal of hyperlanes."
+
+TECH_UNLOCK_GRAVITON_POWER_TITLE: "§HUnlocks Component:§! $GRAVITON_REACTOR$"
+TECH_UNLOCK_GRAVITON_POWER_DESC: "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$"
+ 
+TECH_UNLOCK_NAQUADRIA_POWER_TITLE: "§HUnlocks Component:§! $NAQUADRIA_REACTOR$"
+TECH_UNLOCK_NAQUADRIA_POWER_DESC: "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$"
+
+TECH_UNLOCK_SINGULARITY_POWER_TITLE: "§HUnlocks Component:§! $SINGULARITY_REACTOR$"
+TECH_UNLOCK_SINGULARITY_POWER_DESC: "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$"
+
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_TITLE: "§HUnlocks Component:§! $MULTIDIMENSIONAL_REACTOR$"
+TECH_UNLOCK_MULTIDIMENSIONAL_POWER_DESC: "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE: "§HUnlocks Component:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC: "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE: "§HUnlocks Component:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
+TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC: "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
+
+TECH_UNLOCK_BH_POWER_TITLE: "§HUnlocks Component:§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$"
+TECH_UNLOCK_BH_POWER_DESC: "§H$FLAGSHIP_BLACK_HOLE_REACTOR_1$§!\n$FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC$"
+
+TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! PD Destroyer"
+TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_DESC: "§HPD Destroyer§!\nMissiles, torpedoes, and strike craft all pose a grave threat to our fleets. Our naval engineers suggest re-designing our Destroyers to mount an array of numerous point-defense weapons to shoot down these targets before they can reach our ships."
+
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Strike Cruiser"
+TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_DESC: "§HStrike Cruiser§!\nBattle experience and extensive wargaming exercises show that fleet combat often ends without a decisive outcome, because the losing side makes an immediate, emergency jump to FTL. Our best scientists have miniaturized the Subspace Snare used on starbases for deployment onto a ship. These vessels will be blisteringly fast, to catch enemy fleets in their Snares, maneuverable enough to keep enemy ships from disengaging from combat, and tough enough to withstand significant punishment to ensure the enemy is pinned down for as long as possible."
+
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Battlecruiser"
+TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC: "§HBattlecruiser§!\nAs larger and larger vessels become more common, combat is taking place at longer ranges, and offensive firepower is becoming an ever-more-decisive factor in battle. Our naval theorists suggest building a long, powerful vessel capable of mounting large, medium, and most notably, guided weapon emplacements, to specialize in hurling as much weaponry at the enemy as possible, in either mid- or long-range combat."
+
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Escort Carrier"
+TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_DESC: "§HEscort Carrier§!\nPlanetary combat has long included an aerial component, with fighter and bomber planes proving absolutely essential to any armed conflict. Using section models based on the highly successful Cruiser design, we can now build warships large enough to launch a space-based variant of these powerful war machines."
+
+TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Carrier"
+TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC: "§HCarrier§!\nStrike Craft have proven to be highly successful weapons in naval combat. It is time to design a specialized warship for the express purpose of carrying these weapons into battle, and housing the large support staff and maintenance bays that they require. Doing so will allow these new Carrier vessels to carry far more strike craft than their more improvised predecessors."
+
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Heavy Carrier"
+TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC: "§HHeavy Carrier§!\nAs our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. Combined with new advancements in miniaturizing many of the support facilities required for the maintenance of strike craft, we believe that we can alter our existing Carrier designs into Heavy Carriers, with the ability to support more hangar bays."
+
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Supercarrier"
+TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_DESC: "§HSupercarrier§!\nFurther efforts in both ship construction and miniaturization of strike craft support facilities will allow us to squeeze an absolutely incredible number of hangar bays into our Carriers. These Supercarriers will be able to support swarms of strike craft, the better to defend our fleets from attack, and to overwhelm the foe with our best pilots."
+
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE: "§HSpitfire Battleship Upgrade§!"
+TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC: "While capital ships are far more powerful than any vessels that have come before them, they are also far more expensive, and pose juicy targets for swarms of smaller, cheaper vessels that can overwhelm the capital ships with sheer numbers. To counter this, our engineers are working on a few blueprints that could adapt the Battleship into an anti-Corvette-and-Destroyer powerhouse, along with weapons specifically designed for that purpose. These new designs will cause these 'Spitfire Battleships' to have an even higher production cost, but such sacrifices are worth it, if it means protecting our vulnerable capital ships."
+
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Dreadnought"
+TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC: "§HDreadnought§!\nThe Battleship heralded a new era of ship design and naval combat. The ability to both deliver and take massive damage at long range, and the advent of devastating XL weaponry, have completely changed the nature of warfare. Our naval engineers believe that we should develop an even better version of these powerful ships. Their proposed "Dreadnoughts" would be capable of mounting heavier defenses, more guns, and even two of the incredible XL weapons that have been so successful on the battlefield."
+
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Flagship"
+TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC: "§HFlagship§!\nThe naval arms race has seen the production of larger and larger warships with no end in sight. Our naval engineers have suggested jumping to the logical conclusion of this serial escalation by constructing a ship so massive and powerful, that no empire will be able to support more than one of them at a time. This proposed Flagship will be the ultimate warship. Designed for maximum versatility, each section will have many possible configurations, allowing us to design our Flagship to suit our purposes. Mounting far more thrusters per ton than any other ship, the Flagship will be able to take any position in the fleet, from a long-range battery in the rear, to a massive brawler at the tip of a fleet's spear.\n\nThis power and versatility will come at a heavy cost, however. Merely building the Flagship will be an enormous endeavor, requiring a colossal stockpile of resources and a significant investment of time and manpower. Upon completion, it will take the entire GDP of a small star nation to maintain; as a result, it will require a massive amount of political influence to obtain approval for the project."
+
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Upgrade:§! Support Cruiser"
+TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC: "§HFleet Support Ship§!\nAs our fleets grow in size, and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long-range supply lines. The Support Cruiser is the answer to this problem, adding new support capabilities to our Cruisers through the addition of advanced modules." 
+
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Exploration Cruiser"
+TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_DESC: "§HExploration Cruiser§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers suggest the development of a large, combat-capable Science Ship dedicated to exploring new worlds, seeking out new life and new civilizations, and boldly going where no one has gone before."
+
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_TITLE: "§HUnlocks Ship Upgrade:§! Exploration Cruiser - Level 2"
+TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_DESC: "§HExploration Cruiser - Level 2§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Exploration Cruiser, suggest developing a more powerful variant to further increase the protection available to our best and brightest Science Officers."
+
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_TITLE: "§HUnlocks Ship Upgrade:§! Exploration Cruiser - Level 3"
+TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_DESC: "§HExploration Cruiser - Level 3§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Exploration Cruiser's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers."
+
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_TITLE: "§HUnlocks Starbase Building:§! Drydock"
+TECH_UNLOCK_DRYDOCK_CONSTRUCTION_DESC: "§HDrydock§!\nThis specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair many warships at once."
+
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_TITLE: "§HUnlocks Starbase Building:§! Sensor Station"
+TECH_UNLOCK_SENSORSTATION_CONSTRUCTION_DESC: "§HSensor Station§!\nThe starbase sensor station uses advanced sensor arrays to extend our intelligence gathering capabilities across several star systems, giving us advanced warning of any possible threats near our borders."
+
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_TITLE: "§HUnlocks Starbase Upgrade:§! Grand Citadel"
+TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC: "§HStronghold§!\nAs fleets grow larger and more powerful, it becomes necessary for our starbases and defensive installations to grow in strength, as well. The Grand Citadel is a powerful and highly advanced system defense station, a massive upgrade to existing Citadel-class starbases. These valuable and highly developed starbases are important installations to our empire, and can support a wide range of facilities."
+
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_TITLE: "§HUnlocks Starbase Upgrade:§! Solar Stronghold"
+TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC: "§HSolar Stronghold§!\nThe final upgrade in the starbase chain, the Solar Stronghold is the ultimate command and defense station, the largest class of starbase that it is possible to build. Enemy fleets will break upon these massive bulwarks, and each one is a vital asset to our empire, defending the most critical locations on the galactic map."
+
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_TITLE: "§HUnlocks Station:§! Starbase Defense Station"
+TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_DESC: "§HStarbase Defense Station§!\nAs fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Defense Stations, an upgrade to the basic Defense Platforms we currently use, will allow us to better defend our territory from enemy attack."
+
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_TITLE: "§HUnlocks Station:§! Starbase Defense Fortress"
+TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_DESC: "§HStarbase Defense Fortress§!\nAs fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Fortress-level defensive installations, an upgrade to the Defense Stations currently in use, will allow us to better defend our territory from enemy attack."
+
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_TITLE: "§HUnlocks Component Set:§! Advanced Warship Components"
+TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_DESC: "§HAdvanced Warship Components§!\nOur scientists have come up with a wide range of powerful new modules allowing for the enhancement and further specialization of our warships. Now we only have to miniaturize them, to make them small enough to carry aboard our vessels."
+
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_TITLE: "This is an automatic starting tech to check for the Apocalypse DLC."
+TECH_UNLOCK_NSC_DLC_CONSTRUCTION_DESC: "This is an automatic starting tech to check for the Apocalypse DLC."
+
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_TITLE: "§HUnlocks Starbase Building:§! System Mineral Refinery"
+TECH_UNLOCK_MINING_BASE_CONSTRUCTION_DESC: "§HMining Base§!\nSystem wide mineral processing hub that enhances mineral production for the entire system."
+
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_TITLE: "§HUnlocks Starbase Building:§! System Energy Grid"
+TECH_UNLOCK_POWER_STATON_CONSTRUCTION_DESC: "§HPower Station§!\nSystem wide energy grid that enhances energy production for the entire system."
+
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE: "§HUnlocks Combat Computer:§! Artificial Intelligence Combat System"
+TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the Flagship."
+
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE: "§HUnlocks Weapon:§! Tomahawk Advanced Cruise Missile"
+TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC: "§HTomahawk Advanced Cruise Missile§!\nWith the advent of Battlecruisers, which are designed to be capable of fielding large numbers of missile launchers, and the development of combat at longer and longer ranges, as well as the appearance of massive capital ships and defensive installations, there is a clear need for a super-long range, incredibly powerful missile capable of taking on these new threats, and being launched from our Battlecruisers. These Advanced Cruise Missiles are the answer to this emerging need."
+
+TECH_UNLOCK_GALACTIC_MALL_TITLE: "§HUnlocks Megastructure:§! Galactic Mall"
+TECH_UNLOCK_GALACTIC_MALL_DESC: "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics."
+
+TECH_UNLOCK_HOPSITAL_TITLE: "§HUnlocks Megastructure:§! Galactic General Hospital"
+TECH_UNLOCK_HOSPITAL_DESC: "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them."
+
+
+################################################################################################################################################
+# COMPONENTS
+################################################################################################################################################
+
+NSC_STRIKE_CRUISER_AURA_EMPTY: "Empty Slot"
+NSC_TITAN_AURA_EMPTY: "Empty Slot"
+NSC_FLAGSHIP_AURA_EMPTY: "Empty Slot"
+SPECIAL_SLOT_EMPTY: "Empty Slot"
+EXPLORATION_SLOT_EMPTY: "Empty Slot"
+SPECIAL_NO_SEC_REACTOR: "Empty Slot"
+NSC_SUPPORTSHIP_AURA_EMPTY: "Empty Slot"
+
+nsc_supportship_aura: "Support Cruiser Auras"
+nsc_supportship_aura_DESC: "Various advanced auras designed for the Support Cruiser."
+nsc_supportship_hull_aura: "Support Cruiser Aura - Hull"
+NSC_SUPPORTSHIP_HULL_AURA: "Support Cruiser Aura - Hull"
+nsc_supportship_upkeep_aura: "Support Cruiser Aura - Upkeep"
+NSC_SUPPORTSHIP_UPKEEP_AURA: "Support Cruiser Aura - Upkeep"
+nsc_supportship_ftl_aura: "Support Cruiser Aura - FTL"
+NSC_SUPPORTSHIP_FTL_AURA: "Support Cruiser Aura - FTL"
+nsc_supportship_armor_aura: "Support Cruiser Aura - Armor"
+NSC_SUPPORTSHIP_ARMOR_AURA: "Support Cruiser Aura - Armor"
+nsc_supportship_shield_aura: "Support Cruiser Aura - Shield"
+NSC_SUPPORTSHIP_SHIELD_AURA: "Support Cruiser Aura - Shield"
+nsc_supportship_invasion_aura: "Support Cruiser Aura - Invasion"
+NSC_SUPPORTSHIP_INVASION_AURA: "Support Cruiser Aura - Invasion"
+
+NSC_AI_COMBAT_COMPUTER: "Artificial Intelligence Combat System"
+nsc_ai: "Artificial Intelligence Combat System"
+NSC_AI_BEHAVIOR_DESC: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat.\n\n§GHow To Use:§! §BThis computer is available only on certain ship classes. It will allow the player to directly control the movement of these ships while in combat.\n\nShips equipped with this computer§! §HMUST§! §Bbe in a fleet by themselves or only with other ships that have the same computer - the movement control will not work in fleets mixed with other ships that have different combat computers.\n\nOnce equipped, the fleet will move to the position you designate and will continue firing as long as they have a target within weapons range.§! §HThe fleet will not move again until you tell them to do so.§!"
+
+nsc_strike_cruiser_aura: "Advanced Combat Interdiction System"
+nsc_strike_cruiser_aura_DESC: "The Advanced Combat Systems function as an Interdictor, locking down all hostile ships within range and preventing them from fleeing or disengaging from combat. A must-have for any Admiral chasing an inferior or more evasive force."
+nsc_strike_cruiser_aura_2: "Advanced Combat Interdiction System II"
+NSC_STRIKE_CRUISER_AURA_2_DESC: "This updated Advanced Combat Systems module is an even more effective Interdictor than its predecessor. All hostile forces within range will be forced to stand and fight for quite some time before they can attempt an escape."
+nsc_titan_aura: "Fleet Command Network"
+nsc_flagship_aura: "Advanced Fleet Command Network"
+
+NSC_STRIKE_CRUISER_AURA: "Advanced Combat Interdiction System"
+NSC_STRIKE_CRUISER_AURA_2: "Advanced Combat Interdiction System II"
+NSC_TITAN_AURA: "Fleet Command Network"
+NSC_FLAGSHIP_AURA: "Advanced Fleet Command Network"
+
+special_ship_slot: "Special Component"
+special_ship_slot_DESC: "A special component slot."
+
+exploration_ship_slot: "Exploration Component"
+exploration_ship_slot_DESC: "A special Exploration component slot."
+
+SPECIAL_SLOT_MULTIPHASIC_SENSORS: "Multiphasic Sensors"
+SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC: "These advanced sensors increase sensor range using multiphase generators, updating and adding to our map of the galaxy by conducting preliminary scans of wide swathes of space from afar."
+SPECIAL_SLOT_DAMAGE_CONTROL: "Damage Control Teams"
+SPECIAL_SLOT_DAMAGE_CONTROL_DESC: "These specialized crew members are trained in rapid ship repair under battlefield conditions to keep the ship running longer, and to reduce the need to head home for repairs after combat engagements."
+SPECIAL_SLOT_READY_ROOM: "Captain's Ready Room"
+SPECIAL_SLOT_READY_ROOM_DESC: "Commanding a warship is a heavy burden, and even the most able Captains are likely to feel the strain. Setting aside a private space for the Captain of the vessel to relax, while still being available in case of emergencies, will improve the Captain's mental health, and improve their ability to command the vessel when the time comes to engage in combat."
+SPECIAL_SLOT_CREW_LOUNGE: "Crew Lounge"
+SPECIAL_SLOT_CREW_LOUNGE_DESC: "Long deployments aboard spacefaring warships can take their toll on a ship's crew. Having designated Crew Lounge areas will provide the crew with a place to relieve excess stress, improve mental health, and, in the end, improve combat performance as a result."
+SPECIAL_SLOT_FIRE_CONTROL: "Fire Control System"
+SPECIAL_SLOT_FIRE_CONTROL_DESC: "This advanced targeting system allows the ship to acquire targeting solutions faster and more precisely, inflicting greater damage on enemy vessels in combat."
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY: "Structural Integrity Field"
+SPECIAL_SLOT_STRUCTURAL_INTEGRITY_DESC: "This advanced system of forcefields strengthens the ship's hull structure from within, helping the vessel resist enemy fire for longer periods before failing."
+SPECIAL_SLOT_AUXILIARY_SHIELDS: "Auxiliary Shield System"
+SPECIAL_SLOT_AUXILIARY_SHIELDS_DESC: "This secondary series of backup shield generators reinforces the ship's shields during combat, making the shields more resilient against enemy fire."
+SPECIAL_SLOT_QUANTUM_THRUSTERS: "Quantum Thrusters"
+SPECIAL_SLOT_QUANTUM_THRUSTERS_DESC: "Even the most powerful fleets are useless if they are not where they need to be, when they need to be there. While very expensive to maintain, and causing increased wear and tear on the ship as a whole, these Quantum Thrusters will provide a significant boost to sublight speed, allowing our fleets to travel faster to respond to any situations that may arise."
+SPECIAL_SLOT_DEFLECTOR_ARRAY: "Deflector Array"
+SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC: "These deflector arrays relieve strain on the shield generators, allowing the ship's shields to regenerate faster after combat, to get ready for the next engagement. In campaigns where multiple battles may be fought in the same system in quick succession, this can mean the difference between victory and defeat."
+SPECIAL_SLOT_KITCHEN_SINK: "Kitchen Sink"
+SPECIAL_SLOT_KITCHEN_SINK_DESC: "A clean crew is a happy crew. A happy crew blows stuff up. And no, we still don't know why it uses power."
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY: "Stellar Cartography"
+SPECIAL_SLOT_STELLAR_CARTOGRAPHY_DESC: "This large system is used for mapping the surrounding space, allowing the ship's computers to calculate and recover from FTL jumps with increased speed."
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY: "Navigational Array"
+SPECIAL_SLOT_NAVIGATIONAL_ARRAY_DESC: "This advanced 3D navigational system serves two functions: First, increasing the ability of the ship's weapons to track enemy vessels in combat, and second, to increase the range of the ship's Jump Drives, if such drives are equipped."
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM: "MARS Weapon System"
+SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC: "This advanced point-defense weapon system is specifically designed to track tiny, highly evasive targets - missiles, torpedoes, and strike craft - and provide extremely precise targeting solutions at blistering speeds, increasing the fire rate and damage potential of ship-borne point-defense weapons."
+
+EXPLORATION_SLOT_ANOMALY_LAB: "Anomaly Research Laboratory"
+EXPLORATION_SLOT_ANOMALY_LAB_DESC: "This laboratory is dedicated to the study of anomalies, those strange and wonderful things in the galaxy that don't seem to follow the same rules as everything else. Each one deserves a full, comprehensive analysis, but there is so much to discover, and so little time. By optimizing the laboratory for the study of these delightful oddities, we can insure that every anomaly gets the attention it deserves, while also dramatically speeding up research time."
+EXPLORATION_SLOT_SURVEY_LAB: "Survey Laboratory"
+EXPLORATION_SLOT_SURVEY_LAB_DESC: "There are so many planets and systems out there, waiting, begging to be discovered, and each one might hold the key to new discoveries. There's no time to waste, and this specialized laboratory will allow us to conduct our surveys much, much faster--which means we'll be able to survey more and more space in the same amount of time. More surveys means more discovery, more adventure, and more knowledge about the galaxy."
+EXPLORATION_SLOT_ANALYSIS_LAB: "Advanced Analysis Laboratory"
+EXPLORATION_SLOT_ANALYSIS_LAB_DESC: "Every anomaly, by its very nature, forces us to ask questions, to challenge previously-held assumptions. There is nothing more valuable than this, when it comes to the advancement of science. We cannot risk missing any potential anomalies, and the secrets they hold. This specialized laboratory will ensure that we find every last anomaly the galaxy has to offer."
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY: "Stellar Cartography"
+EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_DESC: "This large system is used for mapping the surrounding space, allowing the ship's computers to calculate and recover from FTL jumps with greatly increased speed. Far more effective than the model used on regular warships, these Stellar Cartography modules are also far more finicky, and require the steady hand of a highly-trained Science Officer to maintain."
+EXPLORATION_SLOT_QUANTUM_THRUSTERS: "Quantum Thrusters"
+EXPLORATION_SLOT_QUANTUM_THRUSTERS_DESC: "With so much to explore, every moment spent traveling between survey sites is a moment wasted. These Quantum Thrusters are designed to push our ship through space at blistering speeds, always rushing towards the next planet, the next star, the next great mystery waiting to be solved." 
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY: "Navigational Array"
+EXPLORATION_SLOT_NAVIGATIONAL_ARRAY_DESC: "These advanced 3D navigational systems are specially designed to extend our sensor range as far out into the galaxy as possible, rapidly updating and adding to our map of the galaxy by conducting preliminary scans of wide swathes of space from afar."
+EXPLORATION_SLOT_PHYSICS_LAB: "Advanced Physics Laboratory"
+EXPLORATION_SLOT_PHYSICS_LAB_DESC: "§HProduces:§! 10 Physics Research\nThis advanced laboratory is dedicated to producing ground-breaking Physics research--exploration into the secrets of matter and energy, computers and field manipulation."
+EXPLORATION_SLOT_SOCIETY_LAB: "Advanced Society Laboratory"
+EXPLORATION_SLOT_SOCIETY_LAB_DESC: "§HProduces:§! 10 Society Research\nThis advanced laboratory is dedicated to producing ground-breaking Society research--exploration into the secrets of sociology, biology, philosophy, and military theory, the sciences of life and culture."
+EXPLORATION_SLOT_ENGINEERING_LAB: "Advanced Engineering Laboratory"
+EXPLORATION_SLOT_ENGINEERING_LAB_DESC: "§HProduces:§! 10 Engineering Research\nThis advanced laboratory is dedicated to producing ground-breaking Engineering research--exploration into the secrets of materials, industry, spacecraft, propulsion, and robotics."
+
+NSC_REACTOR_BOOSTER_1: "Graviton Boosters"
+NSC_REACTOR_BOOSTER_1_DESC: "Reactor boosters augmented by Graviton Power Technology"
+NSC_REACTOR_BOOSTER_2: "Naquadria Boosters"
+NSC_REACTOR_BOOSTER_2_DESC: "Reactor boosters augmented by Nasquadria Power Technology"
+NSC_REACTOR_BOOSTER_3: "Singularity Boosters"
+NSC_REACTOR_BOOSTER_3_DESC: "Reactor boosters augmented by Singularity Power Technology"
+
+CORVETTE_SENSOR: "Corvette Scouting Sensor"
+CORVETTE_SENSOR_DESC: "This special sensor package will allow a Corvette class ship to scout systems for threats before sending in your valuable science teams."
+
+NSC_BOMBARDMENT_1: "Improved Bombardment"
+NSC_BOMBARDMENT_1_DESC: "We can now equip our military ships with an improved weapons package that will increase the damage done when we bombard planets."
+NSC_BOMBARDMENT_2: "Enhanced Bombardment"
+NSC_BOMBARDMENT_2_DESC: "We can now equip our military ships with an enhanced weapons package that will increase the damage done when we bombard planets."
+NSC_BOMBARDMENT_3: "Advanced Bombardment"
+NSC_BOMBARDMENT_3_DESC: "We can now equip our military ships with an advanced weapons package that will increase the damage done when we bombard planets."
+
+NSC_NANITE_FIELD: "Nanite Dispensary"
+nsc_nanite_aura: "Nanite Dispensary"
+nsc_starbase_nanite_aura: "Nanite Dispensary"
+nsc_starbase_nanite_aura_DESC: "Advanced nanites that eat away at the armor of hostile ships by disrupting molecular bonds."
+sm_nsc_nanite_field: "Nanite Dispensary Field"
+sm_nsc_nanite_field_desc: "This facility builds, houses, and deploys advanced nanites that eat away at the armor of hostile ships by disrupting molecular bonds."
+
+
+################################################################################################################################################
+# REACTORS
+################################################################################################################################################
+
+## Fission Reactors ##
+
+STRIKECRUISER_FISSION_REACTOR: "$FISSION_REACTOR$"
+BATTLECRUISER_FISSION_REACTOR: "$FISSION_REACTOR$"
+CARRIER_FISSION_REACTOR: "$FISSION_REACTOR$"
+DREADNOUGHT_FISSION_REACTOR: "$FISSION_REACTOR$"
+
+## Fusion Reactors ##
+
+STRIKECRUISER_FUSION_REACTOR: "$FUSION_REACTOR$"
+BATTLECRUISER_FUSION_REACTOR: "$FUSION_REACTOR$"
+CARRIER_FUSION_REACTOR: "$FUSION_REACTOR$"
+DREADNOUGHT_FUSION_REACTOR: "$FUSION_REACTOR$"
+
+## Cold Fusion Reactors ##
+
+STRIKECRUISER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+BATTLECRUISER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+CARRIER_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+DREADNOUGHT_COLD_FUSION_REACTOR: "$COLD_FUSION_REACTOR$"
+
+## Antimatter Reactors ##
+
+STRIKECRUISER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+BATTLECRUISER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+CARRIER_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+DREADNOUGHT_ANTIMATTER_REACTOR: "$ANTIMATTER_REACTOR$"
+
+## Zero Point Reactor ##
+
+STRIKECRUISER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+BATTLECRUISER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+CARRIER_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+DREADNOUGHT_ZERO_POINT_REACTOR: "$ZERO_POINT_REACTOR$"
+
+## Dark Matter Reactor ##
+
+STRIKECRUISER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+BATTLECRUISER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+CARRIER_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+DREADNOUGHT_DARK_MATTER_REACTOR: "$DARK_MATTER_REACTOR$"
+
+## Graviton Reactors ##
+
+CORVETTE_GRAVITON_REACTOR: "Graviton Reactor"
+DESTROYER_GRAVITON_REACTOR: "Graviton Reactor"
+CRUISER_GRAVITON_REACTOR: "Graviton Reactor"
+STRIKECRUISER_GRAVITON_REACTOR: "Graviton Reactor"
+BATTLECRUISER_GRAVITON_REACTOR: "Graviton Reactor"
+BATTLESHIP_GRAVITON_REACTOR: "Graviton Reactor"
+DREADNOUGHT_GRAVITON_REACTOR: "Graviton Reactor"
+TITAN_GRAVITON_REACTOR: "Graviton Reactor"
+PLATFORM_GRAVITON_REACTOR: "Graviton Reactor"
+STATION_GRAVITON_REACTOR: "Graviton Reactor"
+FORTRESS_GRAVITON_REACTOR: "Graviton Reactor"
+
+GRAVITON_REACTOR: "Graviton Reactor"
+GRAVITON_REACTOR_DESC: "Adding gravitational and graviton based based particles to reinforce an antimatter reaction greatly increases the energy production of our reactors."
+
+## Naquadria Reactors ##
+
+CORVETTE_NAQUADRIA_REACTOR: "Naquadria Reactor"
+DESTROYER_NAQUADRIA_REACTOR: "Naquadria Reactor"
+CRUISER_NAQUADRIA_REACTOR: "Naquadria Reactor"
+STRIKECRUISER_NAQUADRIA_REACTOR: "Naquadria Reactor"
+BATTLECRUISER_NAQUADRIA_REACTOR: "Naquadria Reactor"
+BATTLESHIP_NAQUADRIA_REACTOR: "Naquadria Reactor"
+DREADNOUGHT_NAQUADRIA_REACTOR: "Naquadria Reactor"
+TITAN_NAQUADRIA_REACTOR: "Naquadria Reactor"
+PLATFORM_NAQUADRIA_REACTOR: "Naquadria Reactor"
+STATION_NAQUADRIA_REACTOR: "Naquadria Reactor"
+FORTRESS_NAQUADRIA_REACTOR: "Naquadria Reactor"
+
+NAQUADRIA_REACTOR: "Naquadria Reactor"
+NAQUADRIA_REACTOR_DESC: "Special reactor powered by high energy crystals."
+
+## Singularity Reactors ##
+
+CORVETTE_SINGULARITY_REACTOR: "Singularity Reactor"
+DESTROYER_SINGULARITY_REACTOR: "Singularity Reactor"
+CRUISER_SINGULARITY_REACTOR: "Singularity Reactor"
+STRIKECRUISER_SINGULARITY_REACTOR: "Singularity Reactor"
+BATTLECRUISER_SINGULARITY_REACTOR: "Singularity Reactor"
+BATTLESHIP_SINGULARITY_REACTOR: "Singularity Reactor"
+DREADNOUGHT_SINGULARITY_REACTOR: "Singularity Reactor"
+TITAN_SINGULARITY_REACTOR: "Singularity Reactor"
+PLATFORM_SINGULARITY_REACTOR: "Singularity Reactor"
+STATION_SINGULARITY_REACTOR: "Singularity Reactor"
+FORTRESS_SINGULARITY_REACTOR: "Singularity Reactor"
+
+SINGULARITY_REACTOR: "Singularity Reactor"
+SINGULARITY_REACTOR_DESC: "Specialized reactor powered by an artificial black hole"
+
+## Multi Dimensional Reactors ##
+
+CORVETTE_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+DESTROYER_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+CRUISER_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+STRIKECRUISER_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+BATTLECRUISER_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+BATTLESHIP_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+DREADNOUGHT_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+TITAN_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+PLATFORM_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+STATION_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+FORTRESS_MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+
+MULTIDIMENSIONAL_REACTOR: "Multidimensional Reactor"
+MULTIDIMENSIONAL_REACTOR_DESC: "Creating a matter bridge between different dimensions and alternative realities allows for a steady, if somewhat limited, stream of vacuum energy to power our next generation of reactors."
+
+## Optimized Dark Matter Reactors ##
+
+CORVETTE_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+DESTROYER_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+CRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+STRIKECRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+DREADNOUGHT_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+TITAN_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+PLATFORM_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+STATION_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+FORTRESS_OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+
+OPTIMIZED_ENIGMATIC_REACTOR: "Optimized Dark Matter Reactor"
+OPTIMIZED_ENIGMATIC_REACTOR_DESC: "Taking advantage of the knowledge discovered from the Enigmatic Fortress along with our own discoveries, we can now take zero point energy directly from the subspace of our own universe without the risk of creating unstable exotic particles, allowing continuous energy limited only by our ability to control the flow of energy."
+ 
+## Special Reactors ##
+FLAGSHIP_BLACK_HOLE_REACTOR_1: "Black Hole Reactor"
+FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC: "Reactor powered by an artificial black hole."
+FLAGSHIP_BLACK_HOLE_REACTOR_2: "Black Hole Reactor II"
+FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC: "Reactor powered by an artificial black hole."
+FLAGSHIP_BLACK_HOLE_REACTOR_3: "Black Hole Reactor III"
+FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC: "Reactor powered by an artificial black hole."
+CITADEL_DARK_MATTER_REACTOR: "Dark Matter Reactor"
+
+## Defense Station Secondary Reactors ##
+STATION_FISSION_REACTOR: "Secondary Fission Reactor"
+STATION_FUSION_REACTOR: "Secondary Fusion Reactor"
+STATION_COLD_FUSION_REACTOR: "Secondary Cold Fusion Reactor"
+STATION_ANTIMATTER_REACTOR: "Secondary Anti-Matter Reactor"
+STATION_ZERO_POINT_REACTOR: "Secondary Zero-Point Reactor"
+
+## Defense Fortress Secondary Reactors ##
+FORTRESS_FISSION_REACTOR: "Secondary Fission Reactor"
+FORTRESS_FUSION_REACTOR: "Secondary Fusion Reactor"
+FORTRESS_COLD_FUSION_REACTOR: "Secondary Cold Fusion Reactor"
+FORTRESS_ANTIMATTER_REACTOR: "Secondary Anti-Matter Reactor"
+FORTRESS_ZERO_POINT_REACTOR: "Secondary Zero-Point Reactor"
+
+XL_CANNON_ZERO_POINT_REACTOR: "Annihilator Cannon Zero Point Reactor"
+XL_CANNON_DARK_MATTER_REACTOR: "Annihilator Cannon Dark Matter Reactor"
+
+T_CANNON_DARK_MATTER_REACTOR: "Obliterator Cannon Dark Matter Reactor"
+
+
+################################################################################################################################################
+# THRUSTERS
+################################################################################################################################################
+
+## Level 1 Thrusters ##
+
+STRIKECRUISER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+STRIKECRUISE_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+BATTLECRUISER_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+CARRIER_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+CARRIER_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+DREADNOUGHT_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+FLAGSHIP_SHIP_THRUSTER_1: "$SHIP_THRUSTER_1$"
+FLAGSHIP_SHIP_THRUSTER_1_DESC: "$SHIP_THRUSTER_1_DESC$"
+
+## Level 2 Thrusters ##
+
+STRIKECRUISER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+STRIKECRUISERSHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+BATTLECRUISER_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+CARRIER_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+CARRIER_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+DREADNOUGHT_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+FLAGSHIP_SHIP_THRUSTER_2: "$SHIP_THRUSTER_2$"
+FLAGSHIP_SHIP_THRUSTER_2_DESC: "$SHIP_THRUSTER_2_DESC$"
+
+## Level 3 Thrusters ##
+
+STRIKECRUISER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+STRIKECRUISER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+BATTLECRUISER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+CARRIER_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+CARRIER_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+DREADNOUGHT_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+FLAGSHIP_SHIP_THRUSTER_3: "$SHIP_THRUSTER_3$"
+FLAGSHIP_SHIP_THRUSTER_3_DESC: "$SHIP_THRUSTER_3_DESC$"
+
+## Level 4 Thrusters ##
+
+STRIKECRUISER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+STRIKECRUISER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+BATTLECRUISER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+CARRIER_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+CARRIER_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+DREADNOUGHT_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+FLAGSHIP_SHIP_THRUSTER_4: "$SHIP_THRUSTER_4$"
+FLAGSHIP_SHIP_THRUSTER_4_DESC: "$SHIP_THRUSTER_4_DESC$"
+
+## Level 5 Thrusters ##
+
+STRIKECRUISER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+STRIKECRUISER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+BATTLECRUISER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+BATTLECRUISER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+CARRIER_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+CARRIER_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+DREADNOUGHT_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+DREADNOUGHT_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+FLAGSHIP_SHIP_THRUSTER_5: "$SHIP_THRUSTER_5$"
+FLAGSHIP_SHIP_THRUSTER_5_DESC: "$SHIP_THRUSTER_5_DESC$"
+
+## Flagship Jump Drive ##
+
+FLAGSHIP_JUMP_DRIVE: "Flagship Jump Drive"
+FLAGSHIP_JUMP_DRIVE_DESC: "The Flagship Jump Drive tears ship-sized holes in the very fabric of reality, allowing for near-instantaneous movement between systems. The nature of the space the ship passes through on this journey is still poorly understood."
+
+
+################################################################################################################################################
+# WEAPONS
+################################################################################################################################################
+
+PERDITION_BEAM_FLAGSHIP: "The Ambassador of Justice"
+PERDITION_BEAM_FLAGSHIP_DESC: "The biggest laser in existence, for the biggest ship in existence, to overcompensate for a not-so-big Leader."
+
+PERDITION_BEAM_STARBASE: "Atomic Phase Disintegrator"
+PERDITION_BEAM_STARBASE_DESC: "DakkaDakkaDakkaDakka."
+
+XL_BEAM_STARBASE: "Polarized Electron Modulator"
+XL_BEAM_STARBASE_DESC: "Twice the Dakka, Half the Size."
+
+BASIC_XL_BEAM: "Early Prototype Lance"
+BASIC_XL_BEAM_DESC: "A basic prototype from the early days of Lance weapon development. It's weak in comparison to its successors, but requires no strategic resources to function."
+
+BASIC_T_BEAM: "Prototype Perdition Beam"
+BASIC_T_BEAM_DESC: "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function."
+
+TOMAHAWK_CRUISE_MISSILE: "Tomahawk Advanced Cruise Missile"
+TOMAHAWK_CRUISE_MISSILE_DESC: "An extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships."
+
+TOMAHAWK_CRUISE_MISSILE_2: "Tomahawk Advanced Cruise Missile II"
+TOMAHAWK_CRUISE_MISSILE_2_DESC: "An upgraded and more powerful version of the original Tomahawk designed specifically for Battlecruiser class vessels."
+
+BATTLESHIP_SNIPER_GUN_1: "Electro-Magnetic Flux Cannon"
+BATTLESHIP_SNIPER_GUN_1_DESC: "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships."
+
+NSC_BB_SNIPER: "Electro-Magnetic Flux Cannon"
+NSC_BB_SNIPER_DESC: "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships."
+
+
+################################################################################################################################################
+# SECTION NAMES
+################################################################################################################################################
+
+#######################################
+CORVETTE_MID_T1PD1: "Missile Boat 2"
+CORVETTE_MID_S3: "Interceptor"
+CORVETTE_MID_S2PD1: "Picket Ship"
+#######################################
+DESTROYER_BOW_M1S2: "Gunship Bow"
+DESTROYER_BOW_S3: "Picket Bow"
+DESTROYER_BOW_PD4_U: "PD Destroyer Bow"
+
+DESTROYER_STERN_S2: "Interceptor Stern"
+DESTROYER_STERN_M1: "Gunship Stern"
+DESTROYER_STERN_PD2_U: "PD Destroyer Stern"
+#######################################
+CRUISER_BOW_L1: "Artillery Bow"
+CRUISER_BOW_M1S2: "Missile Bow"
+CRUISER_BOW_M2: "Broadside Bow"
+CRUISER_BOW_M1PD2: "Pinpoint Bow"
+
+CRUISER_MID_L1M1: "Artillery Core"
+CRUISER_MID_M3: "Broadside Core"
+CRUISER_MID_M2S2: "Missile Core"
+CRUISER_MID_M2PD2: "Pinpoint Core"
+
+CRUISER_STERN_M1: "Broadside Stern"
+CRUISER_STERN_S2: "Spitfire Stern"
+CRUISER_STERN_PD2: "Pinpoint Stern"
+#######################################
+EXPLORATIONSHIP_BOW_L1: "Artillery Bow (L1)"
+EXPLORATIONSHIP_BOW_G1S2: "Fusillade Bow (L1)"
+EXPLORATIONSHIP_BOW_M2: "Broadside Bow (L1)"
+EXPLORATIONSHIP_BOW_L2: "Artillery Bow (L2)"
+EXPLORATIONSHIP_BOW_G2S2: "Fusillade Bow (L2)"
+EXPLORATIONSHIP_BOW_M3: "Broadside Bow (L2)"
+EXPLORATIONSHIP_BOW_L4: "Artillery Bow (L3)"
+EXPLORATIONSHIP_BOW_G4S4: "Fusillade Bow (L3)"
+EXPLORATIONSHIP_BOW_M6: "Broadside Bow (L3)"
+
+EXPLORATIONSHIP_MID1_L1G1: "Barrage Core 1 (L1)"
+EXPLORATIONSHIP_MID1_L1M1: "Artillery Core 1 (L1)"
+EXPLORATIONSHIP_MID1_M2S2: "Volley Core 1 (L1)"
+EXPLORATIONSHIP_MID1_G3: "Missile Core 1 (L1)"
+EXPLORATIONSHIP_MID1_M3: "Broadside Core 1 (L1)"
+EXPLORATIONSHIP_MID1_L1G2: "Barrage Core 1 (L2)"
+EXPLORATIONSHIP_MID1_L2M1: "Artillery Core 1 (L2)"
+EXPLORATIONSHIP_MID1_M3S3: "Volley Core 1 (L2)"
+EXPLORATIONSHIP_MID1_G4: "Missile Core 1 (L2)"
+EXPLORATIONSHIP_MID1_M4: "Broadside Core 1 (L2)"
+EXPLORATIONSHIP_MID1_L2G4: "Barrage Core 1 (L3)"
+EXPLORATIONSHIP_MID1_L4M2: "Artillery Core 1 (L3)"
+EXPLORATIONSHIP_MID1_M6S6: "Volley Core 1 (L3)"
+EXPLORATIONSHIP_MID1_G8: "Missile Core 1 (L3)"
+EXPLORATIONSHIP_MID1_M8: "Broadside Core 1 (L3)"
+
+EXPLORATIONSHIP_MID2_L1G1: "Barrage Core 2 (L1)"
+EXPLORATIONSHIP_MID2_L1M1: "Artillery Core 2 (L1)"
+EXPLORATIONSHIP_MID2_M2S2: "Volley Core 2 (L1)"
+EXPLORATIONSHIP_MID2_G3: "Missile Core 2 (L1)"
+EXPLORATIONSHIP_MID2_M3: "Broadside Core 2 (L1)"
+EXPLORATIONSHIP_MID2_L1G2: "Barrage Core 2 (L2)"
+EXPLORATIONSHIP_MID2_L2M1: "Artillery Core 2 (L2)"
+EXPLORATIONSHIP_MID2_M3S3: "Volley Core 2 (L2)"
+EXPLORATIONSHIP_MID2_G4: "Missile Core 2 (L2)"
+EXPLORATIONSHIP_MID2_M4: "Broadside Core 2 (L2)"
+EXPLORATIONSHIP_MID2_L2G4: "Barrage Core 2 (L3)"
+EXPLORATIONSHIP_MID2_L4M2: "Artillery Core 2 (L3)"
+EXPLORATIONSHIP_MID2_M6S6: "Volley Core 2 (L3)"
+EXPLORATIONSHIP_MID2_G8: "Missile Core 2 (L3)"
+EXPLORATIONSHIP_MID2_M8: "Broadside Core 2 (L3)"
+
+EXPLORATIONSHIP_STERN_M1: "Broadside Stern (L1)"
+EXPLORATIONSHIP_STERN_L1: "Artillery Stern (L1)"
+EXPLORATIONSHIP_STERN_S3: "Spitfire Stern (L1)"
+EXPLORATIONSHIP_STERN_PD3: "PD Stern (L1)"
+EXPLORATIONSHIP_STERN_M4: "Broadside Stern (L2)"
+EXPLORATIONSHIP_STERN_L2: "Artillery Stern (L2)"
+EXPLORATIONSHIP_STERN_S6: "Spitfire Stern (L2)"
+EXPLORATIONSHIP_STERN_PD6: "PD Stern (L2)"
+EXPLORATIONSHIP_STERN_M8: "Broadside Stern (L3)"
+EXPLORATIONSHIP_STERN_L4: "Artillery Stern (L3)"
+EXPLORATIONSHIP_STERN_S12: "Spitfire Stern (L3)"
+EXPLORATIONSHIP_STERN_PD12: "PD Stern (L3)"
+#######################################
+ESCORTCARRIER_BOW_L1: "Artillery Bow"
+ESCORTCARRIER_BOW_M1S2: "Broadside Bow"
+ESCORTCARRIER_BOW_G2: "Missile Bow"
+
+ESCORTCARRIER_MID1_CARRIER: "Carrier Core"
+
+ESCORTCARRIER_MID2_CARRIER: "Carrier Core"
+ESCORTCARRIER_MID2_INVASION: "Invasion Core"
+
+ESCORTCARRIER_STERN_M1: "Broadside Stern"
+ESCORTCARRIER_STERN_G1: "Missile Stern"
+ESCORTCARRIER_STERN_S2: "Spitfire Stern"
+ESCORTCARRIER_STERN_PD2: "Point Defense Stern"
+#######################################
+STRIKECRUISER_BOW_M2S2: "Volley Bow"
+STRIKECRUISER_BOW_M2PD2: "Pinpoint Bow"
+STRIKECRUISER_BOW_G1S4: "Fusillade Bow"
+STRIKECRUISER_BOW_G2: "Missile Bow"
+STRIKECRUISER_BOW_L1: "Artillery Bow"
+STRIKECRUISER_BOW_M3: "Broadside Bow"
+
+STRIKECRUISER_MID_M2S2: "Volley Core"
+STRIKECRUISER_MID_S6: "Spitfire Core"
+STRIKECRUISER_MID_M3: "Broadside Core"
+
+STRIKECRUISER_STERN_M2: "Broadside Stern"
+STRIKECRUISER_STERN_S2PD2: "Pinpoint Stern"
+STRIKECRUISER_STERN_S4: "Spitfire Stern"
+#######################################
+BATTLECRUISER_BOW_L2: "Artillery Bow"
+BATTLECRUISER_BOW_G2S2: "Fusillade Bow"
+BATTLECRUISER_BOW_M3: "Broadside Bow"
+
+BATTLECRUISER_MID1_L1G2: "Barrage Core 1"
+BATTLECRUISER_MID1_L2M1: "Artillery Core 1"
+BATTLECRUISER_MID1_M2S2: "Volley Core 1"
+BATTLECRUISER_MID1_G4: "Missile Core 1"
+BATTLECRUISER_MID1_M4: "Broadside Core 1"
+
+BATTLECRUISER_MID2_L1G2: "Barrage Core 2"
+BATTLECRUISER_MID2_L2M1: "Artillery Core 2"
+BATTLECRUISER_MID2_M2S2: "Volley Core 2"
+BATTLECRUISER_MID2_G4: "Missile Core 2"
+BATTLECRUISER_MID2_M4: "Broadside Core 2"
+
+BATTLECRUISER_MID3_L1G2: "Barrage Core 3"
+BATTLECRUISER_MID3_L2M1: "Artillery Core 3"
+BATTLECRUISER_MID3_M2S2: "Volley Core 3"
+BATTLECRUISER_MID3_G4: "Missile Core 3"
+BATTLECRUISER_MID3_M4: "Broadside Core 3"
+
+BATTLECRUISER_STERN_M2: "Broadside Stern"
+BATTLECRUISER_STERN_L1: "Artillery Stern"
+BATTLECRUISER_STERN_S3: "Spitfire Stern"
+BATTLECRUISER_STERN_PD3: "Point Defense Stern"
+#######################################
+BATTLESHIP_BOW_L3M3S3: "Coverage Bow"
+BATTLESHIP_BOW_L4: "Artillery Bow"
+BATTLESHIP_BOW_L3S4: "Carronade Bow"
+BATTLESHIP_BOW_M6S6: "Volley Bow"
+BATTLESHIP_BOW_SFU: "Spitfire Bow"
+
+BATTLESHIP_MID_L3M3: "Bombardment Core"
+BATTLESHIP_MID_L4: "Artillery Core"
+BATTLESHIP_MID_L2M6: "Broadside Core"
+BATTLESHIP_MID_L3S5: "Carronade Core"
+BATTLESHIP_MID_SFU: "Spitfire Core"
+
+BATTLESHIP_STERN_L4: "Artillery Stern"
+BATTLESHIP_STERN_M8: "Broadside Stern"
+BATTLESHIP_STERN_M6S6: "Volley Stern"
+BATTLESHIP_STERN_M6PD4: "Pinpoint Stern"
+BATTLESHIP_STERN_SFU: "Spitfire Stern"
+#######################################
+CARRIER_BOW_M1S2PD2: "Salvo Bow"
+CARRIER_BOW_M1G2PD4: "Point Defense Bow"
+CARRIER_BOW_G3PD2: "Barrage Bow"
+CARRIER_BOW_G2S4PD2: "Carronade Bow"
+
+CARRIER_MID1_G2HB: "Missile Core 1"
+CARRIER_MID1_S2PD2HB: "Pinpoint Core 1"
+CARRIER_MID1_PD4HB: "Point Defense Core 1"
+CARRIER_MID1_INVASION: "Invasion Core 1"
+
+CARRIER_MID1_G4HB_HU: "HC Missile Core 1"
+CARRIER_MID1_S2PD2HB_HU: "HC Pinpoint Core 1"
+CARRIER_MID1_PD4HB_HU: "HC PD Core 1"
+
+CARRIER_MID1_G4HB_SU: "SC Missile Core 1"
+CARRIER_MID1_S2PD2HB_SU: "SC Pinpoint Core 1"
+CARRIER_MID1_PD4HB_SU: "SC Point Defense Core 1"
+
+
+CARRIER_MID2_G2HB: "Missile Core 2"
+CARRIER_MID2_S2PD2HB: "Pinpoint Core 2"
+CARRIER_MID2_PD4HB: "Point Defense Core 2"
+
+CARRIER_MID2_G4HB_HU: "HC Missile Core 2"
+CARRIER_MID2_S2PD2HB_HU: "HC Pinpoint Core 2"
+CARRIER_MID2_PD4HB_HU: "HC Point Defense Core 2"
+
+CARRIER_MID2_G4HB_SU: "SC Missile Core 2"
+CARRIER_MID2_S2PD2HB_SU: "SC Pinpoint Core 2"
+CARRIER_MID2_PD4HB_SU: "SC Point Defense Core 2"
+
+CARRIER_STERN_G2: "Missile Stern"
+CARRIER_STERN_M1PD2: "Coverage Stern"
+CARRIER_STERN_S2PD2: "Pinpoint Stern"
+#######################################
+DREADNOUGHT_BOW_L2M4S4: "Coverage Bow"
+DREADNOUGHT_BOW_L4: "Artillery Bow"
+DREADNOUGHT_BOW_L2S2PD6: "Carronade Bow"
+DREADNOUGHT_BOW_X2: "Devastator Bow"
+
+DREADNOUGHT_MID1_L2G5: "Barrage Core 1"
+DREADNOUGHT_MID1_L6: "Artillery Core 1"
+DREADNOUGHT_MID1_L2M7: "Bombardment Core 1"
+DREADNOUGHT_MID1_L2PD9: "Pinpoint Core 1"
+
+DREADNOUGHT_MID2_L2G5: "Barrage Core 2"
+DREADNOUGHT_MID2_L6: "Artillery Core 2"
+DREADNOUGHT_MID2_L2M7: "Bombardment Core 2"
+DREADNOUGHT_MID2_L2PD9: "Pinpoint Core 2"
+
+DREADNOUGHT_MID3_L2G5: "Barrage Core 3"
+DREADNOUGHT_MID3_L6: "Artillery Core 3"
+DREADNOUGHT_MID3_L2M7: "Bombardment Core 3"
+DREADNOUGHT_MID3_L2PD9: "Pinpoint Core 3"
+
+DREADNOUGHT_STERN_L2: "Artillery Stern"
+DREADNOUGHT_STERN_M6: "Broadside Stern"
+DREADNOUGHT_STERN_M4S4PD2: "Volley Stern"
+DREADNOUGHT_STERN_G4: "Missile Stern"
+#######################################
+TITAN_BOW_T2: "Nova Bow"
+TITAN_BOW_XL3: "Annihilator Bow"
+
+TITAN_MID1_G16: "Missile Core"
+TITAN_MID1_L4G10PD2: "Barrage Core"
+TITAN_MID1_L12PD4: "Artillery Core"
+
+TITAN_STERN_G16: "Missile Stern"
+TITAN_STERN_L4G10PD2: "Barrage Stern"
+TITAN_STERN_L10PD4: "Artillery Stern"
+#######################################
+FLAGSHIP_BOW_T4H6_1: "Siegebreaker Bow 1"
+FLAGSHIP_BOW_T4H6_2: "Siegebreaker Bow 2"
+FLAGSHIP_BOW_T4H6_3: "Siegebreaker Bow 3"
+FLAGSHIP_BOW_T1XL8H6_1: "Basilisk Bow 1"
+FLAGSHIP_BOW_T1XL8H6_2: "Basilisk Bow 2"
+FLAGSHIP_BOW_T1XL8H6_3: "Basilisk Bow 3"
+FLAGSHIP_BOW_XL12H6_1: "Stormbringer Bow 1"
+FLAGSHIP_BOW_XL12H6_2: "Stormbringer Bow 2"
+FLAGSHIP_BOW_XL12H6_3: "Stormbringer Bow 3"
+FLAGSHIP_BOW_G6S4H6: "Hailfire Bow"
+FLAGSHIP_BOW_M7S2H6: "Broadside Bow"
+
+FLAGSHIP_MID1_L16: "Artillery Core 1"
+FLAGSHIP_MID1_L8M8: "Bombardment Core 1"
+FLAGSHIP_MID1_L6S6PD4: "Carronade Core 1"
+FLAGSHIP_MID1_L8G8: "Barrage Core 1"
+FLAGSHIP_MID1_G16: "Missile Core 1"
+FLAGSHIP_MID1_M16: "Broadside Core 1"
+FLAGSHIP_MID1_G8M8: "Salvo Core 1"
+FLAGSHIP_MID1_H12PD4: "Carrier Core 1"
+
+FLAGSHIP_MID2_L16: "Artillery Core 2"
+FLAGSHIP_MID2_L8M8: "Bombardment Core 2"
+FLAGSHIP_MID2_L6S6PD4: "Carronade Core 2"
+FLAGSHIP_MID2_L8G8: "Barrage Core 2"
+FLAGSHIP_MID2_G16: "Missile Core 2"
+FLAGSHIP_MID2_M16: "Broadside Core 2"
+FLAGSHIP_MID2_G8M8: "Salvo Core 2"
+FLAGSHIP_MID2_H12PD4: "Carrier Core 2"
+
+FLAGSHIP_MID3_L16: "Artillery Core 3"
+FLAGSHIP_MID3_L8M8: "Bombardment Core 3"
+FLAGSHIP_MID3_L6S6PD4: "Carronade Core 3"
+FLAGSHIP_MID3_L8G8: "Barrage Core 3"
+FLAGSHIP_MID3_G16: "Missile Core 3"
+FLAGSHIP_MID3_M16: "Broadside Core 3"
+FLAGSHIP_MID3_G8M8: "Salvo Core 3"
+FLAGSHIP_MID3_H12PD4: "Carrier Core 3"
+
+FLAGSHIP_MID4_L16: "Artillery Core 4"
+FLAGSHIP_MID4_L8M8: "Bombardment Core 4"
+FLAGSHIP_MID4_L6S6PD4: "Carronade Core 4"
+FLAGSHIP_MID4_L8G8: "Barrage Core 4"
+FLAGSHIP_MID4_G16: "Missile Core 4"
+FLAGSHIP_MID4_M16: "Broadside Core 4"
+FLAGSHIP_MID4_G8M8: "Salvo Core 4"
+FLAGSHIP_MID4_H12PD4: "Carrier Core 4"
+
+FLAGSHIP_STERN_L16: "Artillery Stern"
+FLAGSHIP_STERN_M16: "Broadside Stern"
+FLAGSHIP_STERN_G16: "Missile Stern"
+FLAGSHIP_STERN_M8PD8: "Torrent Stern"
+FLAGSHIP_STERN_G8PD8: "Salvo Stern"
+FLAGSHIP_STERN_H6PD10: "PD Stern"
+#######################################
+STRONGHOLD_STARBASE_SECTION_T: "Grand Citadel Section"
+STRONGHOLD_STARBASE_SECTION_XL: "Grand Citadel Section"
+#######################################
+HEADQUARTERS_STARBASE_SECTION_T: "Stronghold Section"
+HEADQUARTERS_STARBASE_SECTION_XL: "Stronghold Section"
+#######################################
+HEAVY_MISSILE_MILITARY_STATION_SECTION: "Missile Station Section"
+PDSMALL_MILITARY_STATION_SECTION: "Light/PD Station Section"
+#######################################
+XL_CANNON_CORE: "Annihilator Cannon Core"
+T_CANNON_CORE: "Obliterator Cannon Core"
+T_CANNON_CORE: "Obliterator Core"
+#######################################
+MISSILE_JUGGERNAUT_SECTION: "Missile Juggernaut"
+ARTILLERY_JUGGERNAUT_SECTION: "Artillery Juggernaut"
+STRIKECRAFT_JUGGERNAUT_SECTION: "Strike Craft Juggernaut"
+#######################################
+CORE1_HEADQUARTERS_SECTION: "Headquarters Core 1"
+CORE2_HEADQUARTERS_SECTION: "Headquarters Core 2"
+CORE3_HEADQUARTERS_SECTION: "Headquarters Core 3"
+CORE4_HEADQUARTERS_SECTION: "Headquarters Core 4"
+
+
+
+################################################################################################################################################
+# MISCELLANEOUS
+################################################################################################################################################
+
+hq_limit: "§ROnly one §Y$sm_hq_annex$§! may exist per empire.§!"
+drydock_limit: "§ROnly one §Y$sm_drydock$§! may exist per empire.§!"
+starbase_management_limit: "§ROnly five §Y$sm_starbase_management$§! may exist per empire.§!"
+starbase_management_machine_limit: "§ROnly five §Y$sm_starbase_management_machine$§! may exist per empire.§!"
+starbase_management_hive_limit: "§ROnly five §Y$sm_starbase_management_hive$§! may exist per empire.§!"
+requires_colony: "Requires Colonized planet"
+requires_stronghold: "Requires Grand Citadel Starbase"
+nsc_headquarters_bonus: "Headquarters Modifier"
+
+requires_tech_hyperlane_generation: "$TRIGGER_FAIL$Requires technology £physics  §Y$tech_hyperlane_generation$§!."
+
+requires_no_existing_generator_emisor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Generator (Emitter)§! in the Empire."
+requires_existing_generator_receptor: "$TRIGGER_FAIL$Requires existing §YHyperlane Generator (Receptor)§! in the Empire."
+requires_existing_generator_emisor: "$TRIGGER_FAIL$Requires existing §YHyperlane Generator (Emitter)§! in the Empire in a system not connected by an hyperlane to §Y[Root.GetName]§!."
+requires_no_existing_system_generator_emisor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Generator (Emitter)§! in the system."
+requires_no_existing_generator_receptor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Generator (Receptor)§! in the Empire."
+
+requires_no_existing_remover_emisor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Remover (Emitter)§! in the Empire."
+requires_existing_remover_receptor: "$TRIGGER_FAIL$Requires existing §YHyperlane Remover (Receptor)§! in the Empire."
+requires_existing_remover_emisor: "$TRIGGER_FAIL$Requires existing §YHyperlane Remover (Emitter)§! in the Empire in a system connected by an hyperlane to §Y[Root.GetName]§!."
+requires_no_existing_system_remover_emisor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Remover (Emitter)§! in the system."
+requires_no_existing_remover_receptor: "$TRIGGER_FAIL$Cannot build due to existing §YHyperlane Remover (Receptor)§! in the Empire."
+
+
+################################################################################################################################################
+# NAME LISTS
+################################################################################################################################################
+
+name_list_1-NSC-Arthopoid: "NSC2 Arthopoid"
+name_list_1-NSC-Avian: "NSC2 Avian"
+name_list_1-NSC-Fungoid: "NSC2 Fungoid"
+name_list_1-NSC-Hive: "NSC2 Hive"
+name_list_1-NSC-Human: "NSC2 Human"
+name_list_1-NSC-Humanoid: "NSC2 Humanoid"
+name_list_1-NSC-Machine: "NSC2 Machine"
+name_list_1-NSC-Mammalian: "NSC2 Mammalian"
+name_list_1-NSC-Molluscoid: "NSC2 Molluscoid"
+name_list_1-NSC-Plantoid: "NSC2 Plantoid"
+name_list_1-NSC-Reptilian: "NSC2 Reptilian"
+
+
+################################################################################################################################################
+# DOCTRINES
+################################################################################################################################################
+
+policy_armament_doctrine: "Armament Doctrine"
+policy_armament_doctrine_desc: "This Fleet Doctrine determines what armaments our ship designs should emphasize, at the expense of reduced efficiency with other weapons."
+
+balanced_focus_name: "Standard Armament"
+balanced_focus: "Standard Armament"
+balanced_focus_desc: "We will spread our focus evenly across the weapon types; there is no need to specialize in one to the detriment of the others."
+
+kinetic_focus_name: "Kinetic Focus"
+kinetic_focus: "Kinetic Focus"
+kinetic_focus_desc: "Kinetic weapons have a long and storied history. Our Kinetic weapons will tear through enemy shields and hulls and bring glory to our nation."
+
+energy_focus_name: "Energy Focus"
+energy_focus: "Energy Focus"
+energy_focus_desc: "There is a certain majesty to the manipulation of direct energy to destroy one's foes. Our Energy weapons will burn through enemy ships and melt away their fleets."
+
+guided_munitions_focus_name: "Explosive / Strike Craft Focus"
+guided_munitions_focus: "Explosive / Strike Craft Focus"
+guided_munitions_focus_desc: "Explosive weapons and Strike Craft go hand-in-hand. Our powerful missiles and valiant pilots will secure victory for our people."
+
+policy_defense_doctrine: "Defense Doctrine"
+policy_defense_doctrine_desc: "TThis Fleet Doctrine determines which type of ship defenses our ships should emphasize, at the cost of reduced efficiency with the other defensive option."
+
+uniform_focus_name: "Standard Defenses"
+uniform_focus: "Standard Defenses"
+uniform_focus_desc: "We will focus on armor and shields in equal measure; there is no need to favor one over the other. They are strongest together."
+
+armor_focus_name: "Armor Focus"
+armor_focus: "Armor Focus"
+armor_focus_desc: "Trust in the strength of our Armor. Thick and impenetrable, it surrounds our hulls in its protective embrace, and cannot be ignored by missiles or torpedoes."
+
+shield_focus_name: "Shield Focus"
+shield_focus: "Shield Focus"
+shield_focus_desc: "Shimmering shields are the superior defensive option. Unlike armor, they recharge without the need for repairs, allowing for extended campaigns without the need to halt our pace of operations."
+
+policy_composition_doctrine: "Fleet Composition Doctrine"
+policy_composition_doctrine_desc: "This Fleet Doctrine determines which types of ships should make up the bulk of our naval forces, allowing us to construct our favored vessels more quickly at a lower cost, at the expense of taking longer and costing more to build ships that we are not emphasizing."
+
+standard_composition_name: "Standard Composition"
+standard_composition: "Standard Composition"
+standard_composition_desc: "Every ship has its place; we should not retool our shipyards to favor one type of construction over another. A wide-ranging fleet is the best option."
+
+light_ship_focus_name: "Light Ship Focus"
+light_ship_focus: "Light Ship Focus"
+light_ship_focus_desc: "Light ships are cheap and speedy, both in construction and in space. They're perfect for quashing pirates, protecting trade, defending wide swathes of space, screening larger vessels, and defending our nation on a budget. We need to prioritize the construction of these valuable vessels."
+
+versatility_focus_name: "Cruiser Focus"
+versatility_focus: "Cruiser Focus"
+versatility_focus_desc: "Cruisers, and their larger cousins, Strike Cruisers and Battlecruisers, are the most versatile ships we can build. They excel at all ranges, with a wide range of weapons, and are tough enough to withstand a hit, but don't take nearly as long to build, or cost nearly as much to produce and maintain, as capital ships. For a versatile fleet, we should focus on Cruisers to fill out our Navy."
+
+capital_focus_name: "Capital Ship Focus"
+capital_focus: "Capital Ship Focus"
+capital_focus_desc: "Capital Ships are the pride of our fleets. With heavy armaments to obliterate the enemy, and heavy defenses to shrug off any attack, these mighty warships are the greatest weapon in our arsenal. They are nothing less than the future of galactic warfare, and we should build our fleets around them, and focus our efforts on their construction."
+
+carrier_focus_name: "Carrier Focus"
+carrier_focus: "Carrier Focus"
+carrier_focus_desc: "Our Strike Craft are our greatest weapons. Our pilots are the best and brightest of our people, and our Carriers are the vessels that deploy our valiant warriors into battle. And when the time comes to invade enemy words, our Carriers can even carry ground troops with them to capture entire planets. We must focus our efforts on producing as many of these powerful vessels as possible."
+
+policy_operations_doctrine: "Fleet Operations Doctrine"
+policy_operations_doctrine_desc: "A Navy has many duties: Power projection, defense of core territory, and the protection of internal trade. Our Fleet Operations Doctrine determines which of these tasks to emphasize."
+
+standard_operations_name: "Standard Operations"
+standard_operations: "Standard Operations"
+standard_operations_desc: "We shouldn't over-specialize our Fleet Operations. We must be ready for any and all duties at all times, and never neglect one aspect of naval planning."
+
+blue_sky: "Blue Sky Operations"
+blue_sky_name: "Blue Sky Operations"
+blue_sky_desc: "Nothing is more important than the defense of our planets and our people. Our Navy exists purely to defend our nation, and we should plan to keep our campaigns limited to space we control, and fight primarily with our mighty Starbases in support of our fleets."
+
+black_sky: "Black Sky Operations"
+black_sky_name: "Black Sky Operations"
+black_sky_desc: "Our Navy must be able to project power far away from home--to protect our allies, punish our enemies, and respond to crises wherever they may arise. We cannot rely on Starbases to support our fleet; we must be able to fight anywhere, even across the galaxy. A Black Sky fleet is a tool of diplomacy, just like any other."
+
+privateer_operation: "Anti-Piracy Operations"
+privateer_operation_name: "Anti-Piracy Operations"
+privateer_operation_desc: "Our fleets are more than sufficient to defend us and our way of life, but they are also instrumental in protecting our internal trade. Trade is the lifeblood of our Empire, and we must do everything we can to protect it."
+
+policy_crew_doctrine: "Crew Training Doctrine"
+policy_crew_doctrine_desc: "The training of a Navy's crews and officers is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our crews and officers."
+
+standard_crew: "Standard Training"
+standard_crew_name: "Standard Training"
+standard_crew_desc: "A standard level of training, without any specialized focus, will allow us to best maintain operational readiness."
+
+excellent_crew: "Naval Academy Training"
+excellent_crew_name: "Naval Academy Training"
+excellent_crew_desc: "We must implement a full Naval Academy training program. Crews are to be trained for years, with potential officers given additional specialized training. However, many will fail to meet the high standards we set, reducing the pool of acceptable crews for our ships."
+
+militia_crew: "Rapid Training"
+militia_crew_name: "Rapid Training"
+militia_crew_desc: "We must implement a rapid training program, focused on getting ship crews ready as soon as possible, without any advanced training. This will allow us to swell our ranks with many recruits to fill our ships, but will result in reduced combat performance."
+
+ai_crew: "Artificial Intelligence Crews"
+ai_crew_name: "Artificial Intelligence Crews"
+ai_crew_desc: "We will crew our ships mostly with AI units. This has the advantage of producing ship crews at an impressive rate. However, AI units optimized for crew roles have difficulties adapting to rapidly altering situations, which will increase the number of casualties we take in battle."
+
+edict_nsc_doctrine_ai: "AI Doctrine Replacement"
+edict_nsc_doctrine_ai_desc: "For AI Only"
+
+policy_crew_doctrine_gestalt: "Drone Crew Doctrine"
+policy_crew_doctrine_gestalt_desc: "The training of a Navy's drones is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our drones."
+
+standard_drones: "Standard Drones"
+standard_drones_name: "Standard Drones"
+standard_drones_desc: "Our drones are sufficient at the moment; we do not require either higher quality drones, independent drones, or a swarm of naval drones."
+
+quality_protocol: "Quality Protocol"
+quality_protocol_name: "Quality Protocol"
+quality_protocol_desc: "Our drones must be of the highest quality, to make our ships fight at peak efficiency. We will be unable to fill as many ships as we might have with more lax standards, but this is the price we pay for excellence."
+
+adaptive_protocol: "Adaptive Protocol"
+adaptive_protocol_name: "Adaptive Protocol"
+adaptive_protocol_desc: "Our officer drones have been designed with more independent thought in order to adapt in different situations. This means that we can field more ships, with our officer drones able to manage their crews with more autonomy, but overall combat performance will suffer slightly from the lack of unified action."
+
+swarm_protocol: "Swarm Protocol"
+swarm_protocol_name: "Swarm Protocol"
+swarm_protocol_desc: "Our drones require only minimal training. Our ships must be fast, and blot out the stars with their numbers; it does not take much training to do this. Each ship is a negligible loss; there are two more to take its place. The Swarm will overwhelm with sheer numbers."
+
+################################################################################################################################################
+# MODIFIERS
+################################################################################################################################################
+
+mod_shipsize_StrikeCruiser_upkeep_mult: "Strike Cruiser Upkeep"
+mod_shipsize_StrikeCruiser_construction_speed_mult: "Strike Cruiser Construction Speed"
+mod_shipsize_StrikeCruiser_hull_add: "Strike Cruiser Hull Points"
+mod_shipsize_StrikeCruiser_build_speed_mult: "Strike Cruiser Build Speed"
+mod_ship_StrikeCruiser_cost_mult: "Strike Cruiser Build Cost"
+
+mod_shipsize_escortcarrier_upkeep_mult: "Escort Carrier Upkeep"
+mod_shipsize_escortcarrier_construction_speed_mult: "Escort Carrier Construction Speed"
+mod_shipsize_escortcarrier_hull_add: "Escort Carrier Hull Points"
+mod_shipsize_escortcarrier_build_speed_mult: "Escort Carrier Build Speed"
+mod_ship_escortcarrier_cost_mult: "Escort Carrier Build Cost"
+
+mod_shipsize_Battlecruiser_upkeep_mult: "Battlecruiser Upkeep"
+mod_shipsize_Battlecruiser_construction_speed_mult: "Battlecruiser Construction Speed"
+mod_shipsize_Battlecruiser_hull_add: "Battlecruiser Hull Points"
+mod_shipsize_Battlecruiser_build_speed_mult: "Battlecruiser Build Speed"
+mod_ship_Battlecruiser_cost_mult: "Battlecruiser Build Cost"
+
+mod_shipsize_Carrier_upkeep_mult: "Carrier Upkeep"
+mod_shipsize_Carrier_construction_speed_mult: "Carrier Construction Speed"
+mod_shipsize_Carrier_hull_add: "Carrier Hull Points"
+mod_shipsize_Carrier_build_speed_mult: "Carrier Build Speed"
+mod_ship_Carrier_cost_mult: "Carrier Build Cost"
+
+mod_shipsize_Dreadnought_upkeep_mult: "Dreadnought Upkeep"
+mod_shipsize_Dreadnought_construction_speed_mult: "Dreadnought Construction Speed"
+mod_shipsize_Dreadnought_hull_add: "Dreadnought Hull Points"
+mod_shipsize_Dreadnought_build_speed_mult: "Dreadnought Build Speed"
+mod_ship_Dreadnought_cost_mult: "Dreadnought Build Cost"
+
+mod_shipsize_titan_upkeep_mult: "Titan Upkeep"
+mod_shipsize_titan_construction_speed_mult: "Titan Construction Speed"
+mod_shipsize_titan_hull_add: "Titan Hull Points"
+mod_shipsize_titan_build_speed_mult: "Titan Build Speed"
+mod_ship_titan_cost_mult: "Titan Build Cost"
+
+mod_shipsize_Flagship_upkeep_mult: "Flagship Upkeep"
+mod_shipsize_Flagship_construction_speed_mult: "Flagship Construction Speed"
+mod_shipsize_Flagship_hull_add: "Flagship Hull Points"
+mod_shipsize_Flagship_build_speed_mult: "Flagship Build Speed"
+mod_ship_Flagship_cost_mult: "Flagship Build Cost"
+
+mod_country_resource_max_minerals_add: "Max Minerals"
+mod_country_resource_max_energy_add: "Max Energy"
+
+mod_leader_admirals_upkeep_mult: "Admiral Upkeep"
+
+mod_weapon_type_point_defense_weapon_damage_mult: "Point Defense Weapon Damage"
+
+mod_planet_livestock_produces_mult: "Livestock Output"
+mod_pop_category_purge_produces_mult: "Purge Pops Output"
+
+
+################################################################################################################################################
+# JOBS
+################################################################################################################################################
+
+job_diagnostician: "Diagnostician"
+job_diagnostician_plural: "Diagnosticians"
+job_diagnostician_desc: "These specialized workers in the Galactic Hospital are experts in manufacturing robots or increasing reproduction of organic life"
+
+mod_job_diagnostician_add: "$job_diagnostician$ Jobs"
+
+
+################################################################################################################################################
+# EVENTS
+################################################################################################################################################
+
+hyperlane_generation.1.name: "Hyperlane Generated"
+hyperlane_generation.1.desc: "Our efforts in creating a new hyperlane between §Y[hyperlane_creator_emisor.GetName]§! and §Y[hyperlane_creator_receptor.GetName]§! have proved successful."
+
+hyperlane_generation.3.name: "Hyperlane Removed"
+hyperlane_generation.3.desc: "Our efforts in removing the existing hyperlane between §Y[hyperlane_remover_emisor.GetName]§! and §Y[hyperlane_remover_receptor.GetName]§! have proved successful."
+
+hyperlane_generation.5.name: "Hyperlane Generator (Emitter) Construction"
+hyperlane_generation.5.desc: "We have finished the first stages of construction of our Hyperlane Generator (Emitter) in §Y[hyperlane_generator_1.GetName]§!."
+
+hyperlane_generation.7.name: "Hyperlane Generator (Receptor) Construction"
+hyperlane_generation.7.desc: "We have finished the first stages of construction of our Hyperlane Generator (Receptor) in §Y[hyperlane_generator_2.GetName]§!."
+
+hyperlane_generation.9.name: "Hyperlane Remover (Emitter) Construction"
+hyperlane_generation.9.desc: "We have finished the first stages of construction of our Hyperlane Remover (Emitter) in §Y[hyperlane_generator_3.GetName]§!."
+
+hyperlane_generation.11.name: "Hyperlane Remover (Receptor) Construction"
+hyperlane_generation.11.desc: "We have finished the first stages of construction of our Hyperlane Remover (Receptor) in §Y[hyperlane_generator_4.GetName]§!."
+
+hyperlane_generation.6.name: "Hyperlane Generator (Emitter) Completed"
+hyperlane_generation.6.desc: "We have finally finished the last stages of construction of our Hyperlane Generator (Emitter) in §Y[From.From.GetName]§!."
+
+hyperlane_generation.8.name: "Hyperlane Generator (Receptor) Completed"
+hyperlane_generation.8.desc: "We have finally finished the last stages of construction of our Hyperlane Generator (Receptor) in §Y[From.From.GetName]§!."
+
+hyperlane_generation.10.name: "Hyperlane Remover (Emitter) Completed"
+hyperlane_generation.10.desc: "We have finally finished the last stages of construction of our Hyperlane Remover (Emitter) in §Y[From.From.GetName]§!."
+
+hyperlane_generation.12.name: "Hyperlane Remover (Receptor) Completed"
+hyperlane_generation.12.desc: "We have finally finished the last stages of construction of our Hyperlane Remover (Receptor) in §Y[From.From.GetName]§!."
+
+
+################################################################################################################################################
+# ADVANCED BEHAVIORS
+################################################################################################################################################
+
+ai_behaviour: "AI Tactic"
+ai_behaviour_DESC: "AI Tactic slot."
+
+ai_behaviour_default: "Default Behavior"
+ai_behaviour_default_DESC: "Uses the tactical behaviour set in the original computer. For use with the vanilla combat computers.\n\n§GHow To Use:§! §BChoose this computer if you would like to use a vanilla behavior in the slot above and NOT use an Advanced Tactic. If you want to use an Advanced Tactic for this ship class, choose a vanilla computer in the slot above first, and then choose a Tactic for this slot.§!\n\n"
+
+ai_behaviour_follow: "Escort Tactic"
+ai_behaviour_follow_DESC: "Ships will follow rest of the fleet. Balanced default behaviour."
+
+ai_behaviour_charge: "Charge Tactic"
+ai_behaviour_charge_DESC: "Ships will try to close the distance to the enemy fleet as directly as possible and engage in point blank range."
+
+ai_behaviour_stationary_40: "Artillery Tactic (Range: 40)"
+ai_behaviour_stationary_40_DESC: "Ships will move up to the shown distance (40) and then hold position while firing at the enemy."
+ai_behaviour_stationary_50: "Artillery Tactic (Range: 50)"
+ai_behaviour_stationary_50_DESC: "Ships will move up to the shown distance (50) and then hold position while firing at the enemy."
+ai_behaviour_stationary_60: "Artillery Tactic (Range: 60)"
+ai_behaviour_stationary_60_DESC: "Ships will move up to the shown distance (60) and then hold position while firing at the enemy."
+ai_behaviour_stationary_70: "Artillery Tactic (Range: 70)"
+ai_behaviour_stationary_70_DESC: "Ships will move up to the shown distance (70) and then hold position while firing at the enemy."
+ai_behaviour_stationary_80: "Artillery Tactic (Range: 80)"
+ai_behaviour_stationary_80_DESC: "Ships will move up to the shown distance (80) and then hold position while firing at the enemy."
+ai_behaviour_stationary_90: "Artillery Tactic (Range: 90)"
+ai_behaviour_stationary_90_DESC: "Ships will move up to the shown distance (90) and then hold position while firing at the enemy."
+ai_behaviour_stationary_100: "Artillery Tactic (Range: 100)"
+ai_behaviour_stationary_100_DESC: "Ships will move up to the shown distance (100) and then hold position while firing at the enemy."
+ai_behaviour_stationary_110: "Artillery Tactic (Range: 110)"
+ai_behaviour_stationary_110_DESC: "Ships will move up to the shown distance (110) and then hold position while firing at the enemy."
+ai_behaviour_stationary_120: "Artillery Tactic (Range: 120)"
+ai_behaviour_stationary_120_DESC: "Ships will move up to the shown distance (120) and then hold position while firing at the enemy."
+
+ai_behaviour_stationary_200: "Standoff Tactic (Range: 200)"
+ai_behaviour_stationary_200_DESC: "Ships will move up to the shown distance (200) and then hold position. NOTE: This setting will cause the ship to stand off outside of normal weapon range, protecting them from most enemy fire but also preventing them from firing at the enemy themselves. Ideal for ships that you want to remain out of combat as much as possible."
+
+ai_behaviour_flank_40: "Flanking Tactic (40)"
+ai_behaviour_flank_40_DESC: "Ships will circle the enemy fleet at a set distance (40) while firing their weapons."
+ai_behaviour_flank_60: "Flanking Tactic (60)"
+ai_behaviour_flank_60_DESC: "Ships will circle the enemy fleet at a set distance (60) while firing their weapons."
+ai_behaviour_flank_80: "Flanking Tactic (80)"
+ai_behaviour_flank_80_DESC: "Ships will circle the enemy fleet at a set distance (80) while firing their weapons."
+ai_behaviour_flank_100: "Flanking Tactic (100)"
+ai_behaviour_flank_100_DESC: "Ships will circle the enemy fleet at a set distance (100) while firing their weapons."
+
+ai_behaviour_hitnrun_40: "Hit and Run Tactic (40)"
+ai_behaviour_hitnrun_40_DESC: "Ships will move up to the shown distance (40) and then fall back before their next attack run."
+ai_behaviour_hitnrun_60: "Hit and Run Tactic (60)"
+ai_behaviour_hitnrun_60_DESC: "Ships will move up to the shown distance (60) and then fall back before their next attack run."
+ai_behaviour_hitnrun_80: "Hit and Run Tactic (80)"
+ai_behaviour_hitnrun_80_DESC: "Ships will move up to the shown distance (80) and then fall back before their next attack run."
+ai_behaviour_hitnrun_100: "Hit and Run Tactic (100)"
+ai_behaviour_hitnrun_100_DESC: "Ships will move up to the shown distance (100) and then fall back before their next attack run."
+
+FIGHTERS_HANGAR_PD_1: "Basic Fighter Wing (PD)"
+FIGHTERS_HANGAR_PD_1_DESC: "Basic Fighter-class strike craft will deploy to engage nearby hostiles when the mothership enters battle. Will stay close to its carrier to intercept bombers and missiles."
+FIGHTERS_HANGAR_PD_2: "Improved Fighter Wing (PD)"
+FIGHTERS_HANGAR_PD_2_DESC: "Improved Fighters target smaller enemy vessels as well as bombers and strike craft in coordinated maneuvers. Will stay close to its carrier to intercept bombers and missiles."
+FIGHTERS_HANGAR_PD_3: "Advanced Fighter Wing (PD)"
+FIGHTERS_HANGAR_PD_3_DESC: "An Advanced Fighter Wing is capable of doing significant damage to smaller enemy vessels and hold its own against hostile strike craft. Will stay close to its carrier to intercept bombers and missiles."
+
+LARGE_FIGHTERS_HANGAR_PD_1: "Basic Fighter Wing (PD)"
+LARGE_FIGHTERS_HANGAR_PD_2: "Improved Fighter Wing (PD)"
+LARGE_FIGHTERS_HANGAR_PD_3: "Advanced Fighter Wing (PD)"
+
+NOAI_COMBAT_COMPUTER_1: "Basic Combat Computer (No AI)"
+NOAI_COMBAT_COMPUTER_2: "Standard Combat Computer (No AI)"
+NOAI_COMBAT_COMPUTER_3: "Advanced Combat Computer (No AI)"
+NOAI_COMBAT_COMPUTER_4: "Sapient Combat Computer (No AI)"
+NOAI_COMBAT_COMPUTER_5: "Precognitive Interface (No AI)"
+
+NOAI_COMBAT_COMPUTER_1_DESC: "Basic combat computer, allowing for a variety of tactical maneuvers. Select a combat behaviour in the slot below."
+NOAI_COMBAT_COMPUTER_2_DESC: "Optimised combat computer, allowing for a variety of tactical maneuvers. Select a combat behaviour in the slot below."
+NOAI_COMBAT_COMPUTER_3_DESC: "Advanced combat computer, allowing for a variety of tactical maneuvers. Select a combat behaviour in the slot below."
+NOAI_COMBAT_COMPUTER_4_DESC: "Sapient combat computer, allowing for a variety of tactical maneuvers. Select a combat behaviour in the slot below."
+NOAI_COMBAT_COMPUTER_5_DESC: "Precognitive combat computer, allowing for a variety of tactical maneuvers. Select a combat behaviour in the slot below."
+
+################################################################################################################################################
+# DROP PODS
+################################################################################################################################################
+
+ ### 디시인사이드 스텔라리스 갤러리 '어ㅅㅂ' 제작 ###
+
+ ### ship sets / components ###
+
+ #tier I
+ pasmod_orbital_drop_pod_default:0 "Small Orbital Drop Pod"
+ pasmod_orbital_drop_pod_default_DESC:0 "§HArmy Type: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_clone:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_clone_DESC:0 "§HArmy Type: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_gene:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_gene_DESC:0 "§HArmy Type: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+
+ pasmod_orbital_drop_pod_psionic_force:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_psionic_force_DESC:0 "§HArmy Type: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_slave_army:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_slave_army_DESC:0 "§HArmy Type: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_droid_army:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_droid_army_DESC:0 "§HArmy Type: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YSmall§! Drop Pod will drop §Y5§! army units to the ground at one time."
+
+ #tier II
+ pasmod_orbital_drop_pod_default_2:0 "Medium Orbital Drop Pod"
+ pasmod_orbital_drop_pod_default_2_DESC:0 "§HArmy Type: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_clone_2:0 "$pasmod_orbital_drop_pod_default_2$"
+ pasmod_orbital_drop_pod_clone_2_DESC:0 "§HArmy Type: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_gene_2:0 "$pasmod_orbital_drop_pod_default_2$"
+ pasmod_orbital_drop_pod_gene_2_DESC:0 "§HArmy Type: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+
+ pasmod_orbital_drop_pod_psionic_force_2:0 "$pasmod_orbital_drop_pod_default_2$"
+ pasmod_orbital_drop_pod_psionic_force_2_DESC:0 "§HArmy Type: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_slave_army_2:0 "$pasmod_orbital_drop_pod_default_2$"
+ pasmod_orbital_drop_pod_slave_army_2_DESC:0 "§HArmy Type: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_droid_army_2:0 "$pasmod_orbital_drop_pod_default_2$"
+ pasmod_orbital_drop_pod_droid_army_2_DESC:0 "§HArmy Type: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YMedium§! Drop Pod will drop §Y10§! army units to the ground at one time."
+
+ #tier III
+ pasmod_orbital_drop_pod_default_3:0 "Large Orbital Drop Pod"
+ pasmod_orbital_drop_pod_default_3_DESC:0 "§HArmy Type: $pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_clone_3:0 "$pasmod_orbital_drop_pod_default_3$"
+ pasmod_orbital_drop_pod_clone_3_DESC:0 "§HArmy Type: $pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_gene_3:0 "$pasmod_orbital_drop_pod_default_3$"
+ pasmod_orbital_drop_pod_gene_3_DESC:0 "§HArmy Type: $pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+
+ pasmod_orbital_drop_pod_psionic_force_3:0 "$pasmod_orbital_drop_pod_default_3$"
+ pasmod_orbital_drop_pod_psionic_force_3_DESC:0 "§HArmy Type: $pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_slave_army_3:0 "$pasmod_orbital_drop_pod_default_3$"
+ pasmod_orbital_drop_pod_slave_army_3_DESC:0 "§HArmy Type: $pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+ pasmod_orbital_drop_pod_droid_army_3:0 "$pasmod_orbital_drop_pod_default_3$"
+ pasmod_orbital_drop_pod_droid_army_3_DESC:0 "§HArmy Type: $pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$\n\n§YLarge§! Drop Pod will drop §Y20§! army units to the ground at one time."
+
+ ### armies ###
+
+ pasmod_assault_army_default: "Planetary Assault Army"
+ pasmod_assault_army_default_plural: "Planetary Assault Armies"
+ pasmod_assault_army_default_DESC: "Basic planetary assault army which is capable of using orbital drop pod."
+ pasmod_assault_army_clone: "Clone Assault Unit"
+ pasmod_assault_army_clone_plural: "Clone Assault army units"
+ pasmod_assault_army_clone_DESC: "An army of manufactured clones, which have designed to become cost effective and immune to morale damages."
+ pasmod_assault_army_gene: "Orbital Drop Assault Division"
+ pasmod_assault_army_gene_plural: "Orbital Drop Assault Divisions"
+ pasmod_assault_army_gene_DESC: "Massive assault division including genetically engineered special forces."
+
+ pasmod_assault_army_psionic_force:0 "Psionic Special Forces"
+ pasmod_assault_army_psionic_force_DESC:0 "They usually crumble hostile entity's mind as well as its morale with their own extraordinary willpower."
+ pasmod_assault_army_slave_army:0 "Slave Troops"
+ pasmod_assault_army_slave_army_DESC:0 "An army unit full of personnel who is recruited against their will. They will serve their own duty even at the moment they die."
+ pasmod_assault_army_droid_army:0 "Droid Army"
+ pasmod_assault_army_droid_army_DESC:0 "These brainless tin-cans always follow orders given to them without hesitation. \n§L"Roger, Roger" - A Droid unit, right before killed in action§!"
+
+ ### technologies ###
+ tech_pasmod_basic_drop_pod: "New Orbital Drop Pod"
+ tech_pasmod_basic_drop_pod_desc: "This new drop pod can 'shoot' our troopers from ship to surfaces. It just like orbital bombardment, but without cannon shells."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_TITLE: "§HUnlocks Component:§! $pasmod_orbital_drop_pod_default$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_DESC: "§H$pasmod_orbital_drop_pod_default$§!\nThis small sized pod is means to send troops to planetary surfaces with high velocity.\n\nThis transportation module will drop total §Y10§! unit to ground."

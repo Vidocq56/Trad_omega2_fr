@@ -1,0 +1,67 @@
+﻿l_english:
+
+ decision_gpm_seasonal_flooding:0 "Build Flood Protection"
+ decision_gpm_seasonal_flooding_desc:0 "Our colony will attempt to find a solution to help contain the frequent seasonal flooding that happens on this world. This will take several months. "
+
+ decision_gpm_locust_plagues:0 "Exterminate The Bugs"
+ decision_gpm_locust_plagues_desc:0 "Our colony will attempt to find a solution to stop the locust plagues from interfering with its development."
+ 
+ decision_gpm_acidic_seas:0 "Deacidify The Oceans"
+ decision_gpm_acidic_seas_desc:0 "Our colony will attempt to find a solution to remove some of the acidity of this world's oceans."
+ 
+ decision_gpm_carnivorous_flies:0 "Distribute Flytraps"
+ decision_gpm_carnivorous_flies_desc:0 "Our colony will attempt to find a solution to the carnivorous flies 'problem'."
+ 
+ decision_gpm_lingering_pollution:0 "Clean Up Pollution"
+ decision_gpm_lingering_pollution_desc:0 "Our colony will attempt to clean the lingering pollution from the air on this world."
+
+ decision_gpm_resilent_parasites:0 "Parasitic Warfare"
+ decision_gpm_resilent_parasites_desc:0 "Our colony will attempt to find a cure for the resilient parasites that infest its residents."
+ 
+ decision_gpm_hostile_flora:0 "Invasive Species"
+ decision_gpm_hostile_flora_desc:0 "By planting a few very invasive species of plants we can smother the native plant life and have a much more friendly biotope."
+ 
+ decision_gpm_Unstable_Tectonics:0 "Fault Stabilisation"
+ decision_gpm_Unstable_Tectonics_desc:0 "Artificial vents drilled deep into the fault-lines of this planet periodically release pressure by allowing molten rock and gas to spew out." 
+ 
+ decision_gpm_unusual_seasons:0 "Cloud Seeding"
+ decision_gpm_unusual_seasons_desc:0 "Careful creation of artificial cloud coverage on key locations will stabilise the planet's atmospheric streams."
+ 
+ decision_gpm_Floating_Island_Housing:0 "Construct Floating Islands"
+ decision_gpm_Floating_Island_Housing_desc:0 "Construct huge artificial floating islands on this world."
+ decision_gpm_Floating_Island_Housing_effects:0 "Planet Max Districts: §G+1§!\nPlanet Housing: §G+10§!"
+
+
+ gpm_decision_limit:0 "\nDecisions Limit: §YDeposit§!\n§LOnly one deposit descison can be added per planet§!"
+ gpm_decision_need_colony:0 "£trigger_no£ Requires A §YColony§! In This System."
+
+ gpm_decision_space_resources_colony:244 "Analyse System Resources"
+ gpm_decision_space_resources_colony_desc:244 "The colony will analyse all unique features found on the planets in this system and create optimal strategies to exploit the resources found. (TO DO)"
+
+ gpm_decision_precursor_shield_on:0 "Power Up Precursor Shield"
+ gpm_decision_precursor_shield_on_desc:0 "Powers up the precursor planetary shield."
+
+ gpm_decision_precursor_shield_off:0 "Power Down Precursor Shield"
+ gpm_decision_precursor_shield_off_desc:0 "Powers down the precursor planetary shield."
+
+ gpm_decision_dig_for_precursor_artifacts:0 "Search For §YPrecursor Artifacts§!"
+ gpm_decision_dig_for_precursor_artifacts_desc:0 "Order a new science expedition to this world to search for precursor artifacts."
+ gpm_recent_archeological_expedition:0 "Exhaustive Expeditions"
+ gpm_recent_archeological_expedition_desc:0 "Exhaustive expeditions have found all that can be found on this world. It would be a waste of resources to look for more artifacts here."
+ gpm_recent_archeological_expeditionTT:0 "§YNo more artifacts can be found on this world§!"
+
+
+
+ gpm_decision_thunderstorms_research:0 "Find Thunderstorm Research Deposit"
+ gpm_decision_thunderstorms_research_desc:0 "The colony in this system will mark a suitable location on this planet in order to optimally study the planetary thunderstorms. (TO DO)"
+
+ gpm_decision_thunderstorms_energy:0 "Find Thunderstorm Energy Deposit"
+ gpm_decision_thunderstorms_energy_desc:0 "The colony in this system will find an optimal location on this planet for the extraction of energy from the planetary thunderstorms. (TO DO)"
+
+ gpm_decision_Asteroid_Showers_Minerals:0 "Asteroid Retreival Drones"
+ gpm_decision_Asteroid_Showers_Minerals_desc:0 "The colony in this system will designate an optimal and safe location where can build a drone asteroid retrieval station."
+
+ # message event letting player know they have to look at planets
+ gpm_decisions.3.name:244 "§YIncomming Message§!: Potential Resources Found"
+ gpm_decisions.3.desc:244 "After analyzing the survey reports on the planets in this system we have found several locations worthy of investigation. We should check out all the uninhabitale planets in this system and decide if we want to invest resources to exploit them. It is possible we may need to research some new methods before we can gain access to these resources."
+ gpm_decisions.2.OK:244 "Message Received"

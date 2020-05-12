@@ -1,0 +1,112 @@
+﻿l_english:
+
+
+  # Anomaly categories
+  tremendous_ring_system_category:0 "Anomalous Gas Giant"
+  methane_oceans_category:0 "'Not-so-barren' World"
+  nanite_deserts_category:0 "Strange Deserts"
+  coreless_planet_category:0 "Coreless Planet"
+  cataclysmic_star_category:0 "Intense Star"
+  oxygen_world_category:0 "Anomalous Frozen Planet"
+  abandoned_seat_category:0 "Devastated World"
+  natural_network_category:0 "Thinking Planet?"
+  connected_asteroid_category:0 "Asteroid Station"
+  hot_society_category:0 "Inhabited Molten Planet"
+  intoxicated_world_category:0 "Red Planet"
+  scarred_planet_category:0 "The Scar"
+
+
+  # Anomaly introduction texts
+  tremendous_ring_system_category_desc:0 "The gas giant §H[From.GetName]§! in the §H[Root.Solar_System.GetName]§! system displays uncommon mass distributions and scale properties.\n\nOur scientists would like to investigate the planet in order to find out more about this planetary anomaly."
+
+  methane_oceans_category_desc:0 "The scanners of our science ship detected anomalous properties on the surface of the barren planet §H[From.GetName]§! in the §H[Root.Solar_System.GetName]§! system.\n\nOur scientists want to investigate the planet in order to find out more about this planetary anomaly."
+
+  nanite_deserts_category_desc:0 "The surface of the desert planet §H[From.GetName]§! in the §H[Root.Solar_System.GetName]§! system displays strange properties.\n\nBased on our science ship's scans, our scientists want to send an exploration team in order to find out more about this planetary anomaly."
+
+  coreless_planet_category_desc:0 "The barren planet §H[From.GetName]§! in the §H[Root.Solar_System.GetName]§! system displays strange properties in regards to its inner composition and structure.\n\nFurther investigation is required in order to find out more about this planetary anomaly."
+
+  cataclysmic_star_category_desc:0 "The star §H[From.GetName]§! is emitting intense, irregular energy signatures and is displaying an anomalous mass distribution.\n\nFurther investigation is required in order to find out more about this stellar anomaly."
+
+  oxygen_world_category_desc:0 "Our science ship has detected anomalous properties in the surface ice of §H[From.GetName]§!, in the §H[Root.Solar_System.GetName]§! system.\n\nOur scientists would like to send an exploration team to the planet, in order to find out more about this planetary anomaly."
+
+  abandoned_seat_category_desc:0 "A devastated planet, a tomb world called §H[From.GetName]§! has been discovered by one of our science ships.\n\nIt is located in the §H[Root.Solar_System.GetName]§! and possesses a small ring composed of space debris, which appears to be the remnants of former satellites and space stations.\n\nOur scientists believe that the same event that devastated §H[From.GetName]§!, is also responsible for the destruction of the satellites and space stations.\n\nThey would like to explore the ring of debris and the planet itself in order to find out more about what happened to the world."
+
+  natural_network_category_desc:0 "We are detecting strange signals from all over the habitable world §H[From.GetName]§! in the §H[Root.Solar_System.GetName]§! system.\n\nThe detected signals are similar to the brain wave patterns of animal life and our scientists are already really confused, wether the planet is living or if it's something completely different.\n\nFurther investigation is needed in order to discover more about this planetary anomaly."
+
+  connected_asteroid_category_desc:0 "In the §H[Root.Solar_System.GetName]§! system, an unnatural formation with an anomalous mass distribution and composition has been detected within the asteroid field.\n\nOur scientists want to investigate the anomaly to find out more about it."
+
+  hot_society_category_desc:0 "On the surface of the molten planet §H[From.GetName]§!, signs of life-like activity have been detected.\n\nOrganic lifeforms can not usually survive within such an incredibly hostile environment and certainly not naturally develop.\n\nFurther investigation is required in order to discover more about the anomalous activity on this molten world."
+
+  intoxicated_world_category_desc:0 "In the §H[Root.Solar_System.GetName]§! system, an until now unseen type of world has been located.\n\nBased on remote observation and scans, it is probably a toxic world, but direct investigation is necessary to safely determine the planet type."
+
+  scarred_planet_category_desc:0 "A barren planet within the §H[Root.Solar_System.GetName]§! system is showing anomalous properties.\n\nOur sensors alerted us to a gigantic canyon on the planets surface, but further investigation is necessary in order to determine what is wrong with it."
+
+
+  # Anomaly titles
+  ehof_anomaly.01.name:0 "Tremendous Ring System"
+  ehof_anomaly.02.name:0 "Methane Oceans"
+  ehof_anomaly.03.name:0 "Nanite Deserts"
+  ehof_anomaly.04.name:0 "Core Anomaly"
+  ehof_anomaly.05.name:0 "Cataclysmic Variable Star"
+  ehof_anomaly.06.name:0 "Crystallized Oxygen World"
+  ehof_anomaly.07.name:0 "Damaged Space Station"
+  ehof_anomaly.08.name:0 "Natural Global Network"
+  ehof_anomaly.09.name:0 "Connected Asteroid Station"
+  ehof_anomaly.10.name:0 "Plasmatic Lifeforms"
+  ehof_anomaly.11.name:0 "Red Toxic World"
+  ehof_anomaly.13.name:0 "One Orbit"
+  ehof_anomaly.12.name:0 "The Scar"
+  ehof_anomaly.14.name:0 "Devastated System"
+
+
+  # Anomaly success results
+  ehof_anomaly.01.desc:0 "We have discovered that the gas giant §H[From.GetName]§! possesses a gigantic ring system, much bigger than the average ring system.\n\nThe ring system has an estimated diameter of about 3,78 million kilometers, surpassing the planets own diameter of 171,557 kilometers by many magnitudes.\n\nHow such an impressive ring system has formed is a subject of current analytic cosmological computation research and celestial mathematics."
+
+  ehof_anomaly.02.desc:0 "Our scientists have discovered that the seemingly barren planet §H[From.GetName]§! is not entirely barren.\n\nSmall oceans of liquid methane are located in the great asteroid impact craters of §H[From.GetName]§!. The oceans can exist because the surface temperature in these craters is between -193° Celsius and -143° Celsius, depending on the day/night cycle of the world.\n\nThe methane oceans of §H[From.GetName]§! may contain simple forms of anorganic, biological life.\n\nIf any form of life is present in the methane oceans, is up to debate within the exobiological research community."
+
+  ehof_anomaly.03.desc:0 "We have discovered that 50% of the deserts of §H[From.GetName]§! are composed of sand particles imitating nano-machines.\n\nThe other 50% of the deserts are composed of natural granular materials, like most of the deserts on other planets in the galaxy are.\n\nBased on direct analysis of the sampled 'nanite-sand', we have discovered that the nano-machines do not seem to possess any higher functions.\n\nThe nanite-sand looks identical to the 'normal' sand found other natural deserts and can only be distinguished via microscopic analysis.\n\nThe use of these nano-machines and why only 50% of §H[From.GetName]§!'s deserts are made out of them remains a mystery."
+
+  ehof_anomaly.04.desc:0 "Our scientists have discovered that the planet §H[From.GetName]§! has no real core.\n\nIt totally lacks an iron core and it's rock mantle reaches entirely down to the location where its core should be. In the middle of the planet, an anomalous structure is located.\n\nOur scientists are unsure if it composed of an exotic material or if it's an artificial structure.\n\nThey want to send an exploration team to the inside of the planet, to learn more about this anomaly, but it will take time and resources to reach the facility."
+
+  ehof_anomaly.05.desc:0 "We have discovered that the star §H[From.GetName]§! contains a §HD-class§! star in its core, a §HWhite dwarf§! star remnant.\n\nThe white dwarf increased the mass of the star by a factor of 1.2 and is located within the radioactive zone of the star, its "mantle".\n\nThe §HWhite dwarf§! is leading to extreme instabilities in §H[From.GetName]§!'s core, which appears to be the cause of intense, frequent and irregular plasma outbursts, which eject multiple billions of tonnes of stellar mass into space.\n\nThe §HD-class§! star probably collided with §H[From.GetName]§! a few million years ago and was completely consumed by the star.\n\n§H[From.GetName]§!'s instabilities will lead to a much earlier death for the star, most likely within the next 100,000 years."
+
+  ehof_anomaly.06.desc:0 "Our scientists have discovered that the surface ice of §H[From.GetName]§! is not water ice or dry ice, but instead crystallized oxygen.\n\nThe average surface temperature of §H[From.GetName]§! is extremely low and 51 Kelvin below the melting point of oxygen.\n\nThe requirements for stable solid oxygen to exist within a star system are extremely difficult to achieve.\n\n§H[From.GetName]§! is truly a unique world. §H[From.GetName]§! will be a central research site for future projects in low-temperature physics."
+
+  ehof_anomaly.07.desc:0 "Within the ring of debris around §H[From.GetName]§!, our scientists discovered a large space station.\n\nThe scans from our science ship hint that the space station shows signs of moderate structural damage and appears to be abandoned.\n\nThe undamaged structures of the station display a unique aesthetic compared to the rest of the space debris.\n\nOur Scientists assume that the station was of big importance to the civilization, that once inhabited its now destroyed world.\n\nThey want to investigate the station further, in hope of discovering what happened to §H[From.GetName]§!."
+
+  ehof_anomaly.08.desc:0 "We have discovered that the flora of §H[From.GetName]§! is connected by a gigantic network of interconnected plant colonies, all over the planet.\n\nThe network is embodied by one single genus of plants, which seem to have the ability to connect to each other via their roots. The plant genus is dominating the planet, with it making up about 65% of the global flora. They are the source of the strange signals, that were detected by our science ship.\n\nOur scientists assume that the network has at least a minor form of quasi-neurological activity. Said activity would probably still be really distinct from animal neural activity because of its plant-nature.\n\nOur scientists want to expand the research on the plants in order to find out more about them and the global network."
+
+  ehof_anomaly.09.desc:0 "It was revealed that the unnatural formation in the asteroid field of the §H[Root.Solar_System.GetName]§! system is a huge space station, composed of multiple asteroids. The station is about 35 kilometers at its largest diameter and consists of 23 individual asteroids with a diameter between 400 and 1.5 kilometers, connecting the asteroids via large metal tubes.\n\nBased on our latest scans, the station appeared to be abandoned, but undamaged. Further investigation is needed in order to confirm this conjecture.\n\nNo space ships or other activity has been detected around the station.\n\nOur scientists are requesting an exploration into the inside of the station in order to find out more."
+
+  ehof_anomaly.10.desc:0 "Intense remote investigation of the anomalous activity on the planet §H[From.GetName]§! lead to fascinating results.\n\nThe planet is indeed inhabited by a unique form of life named "Plasmatic Lifeforms" by our scientists. They appear to be composed of a pseudo-organic plasma, that functions in a similar way to how the bodies of organic lifeforms work.\n\nMany forms of these plasmatic lifeforms live on this world and it appears that the planet has developed a unique biosphere.\n\nIf they are composed of carbon based 'structures', they could theoretically count as organic lifeforms. Whether they are extremely rare anorganic lifeforms is unknown.\n\nDirect study of plasmatic life samples is needed in order to find this out, which will be dangerous because of the planets deadly environment."
+
+  ehof_anomaly.11.desc:0 "Through direct investigation of §H[From.GetName]§!'s atmosphere, we have discovered that the planet is in fact a toxic world. The colour of the planet, or to be more specific, its atmosphere, gets created by immensely toxic particles composed of an unknown substance.\n\nBased on the results of the chemical analysis of the particles, they are composed mostly of copper, carbon-compounds, phosphorus, sulfur, cobalt and even actinides, thus making the toxin radioactive.\n\nIn addition to its radioactivity, it is also very corrosive, damaging both organic and inorganic structures.\n\nEven inorganic metals are getting corroded to a certain degree.\n\nBesides the fact that it is terribly lethal to any organic lifeform, it is also extremely dense and opaque, making it impossible to see through it. Weaker forms of radiation are unable to penetrate the surface as well, making it incredibly difficult to scan the surface.\n\nOur researchers request the use of high-intensity scanners to analyse the surface of the planet and learn about what's behind the red fog."
+
+  ehof_anomaly.13.desc:0 "Only a short time after we arrived in the §H[Root.Solar_System.GetName]§! system, our sensors began to detect some strange planetary arrangements within the system.\n\nIt appears that the star system possesses two planets, but they both share the same orbit. Their distance from their star is almost exactly the same.\n\nOur scientists want to investigate these two planets in order to find out more about them and this strange orbital arrangement."
+
+  ehof_anomaly.12.desc:0 "Through our investigation of §H[From.GetName]§!'s gigantic canyon, we were able to discover that the canyon itself, which stretches over 1600 Kilometers and reaches down to the upper mantle, is not a natural formation. The structure of the canyon itself indicates that it can't be natural.\n\nIf our researchers theory is correct, the planetary ring may possibly also be a result of the canyon's formation, depending on what has caused it.\n\nWe haven't found out yet, what has caused the 'scar', as our scientists are already calling it, but deeper analysis of the planetary material of the scar and the planetary ring, may give us clues for what it could have been."
+
+  ehof_anomaly.14.desc:0 "The moment we reached the §H[Root.Solar_System.GetName]§! system, we detected a short subspace signal, that had been sent from the system's star. The subspace signal was similar to the one that broadcasted the message about the solution against $ehof_the_compound$, throughout the galaxy.\n\nHowever, the signal is not the only thing we detected in the system. Devastation is spread all across the system. All planets are either broken into pieces or are burning. The innermost planet is even totally obliterated, with only a few larger parts and an asteroid belt around the center remaining.\n\nThe cause for this devastation is still unknown, but it appears to have been caused by the systems star. It has an anomalous energy distribution and shows unusual properties in its surface and layers.\n\nSuch incredible destruction can naturally only be caused by an extremely immense energy outburst like a supernova, but the star is still there.\n\nSomething terrifying happened to this star and it seemingly being the source of the message, makes its investigation more important than anything else."
+
+  # Anomaly success answers
+  ehof_anomaly.01.a:0 "Fascinating."
+  ehof_anomaly.02.a:0 "Exciting."
+  ehof_anomaly.03.a:0 "Amazing!"
+  ehof_anomaly.04.a:0 "Impressive, send out the exploration team."
+  ehof_anomaly.04.b:0 "We shouldn't do that."
+  ehof_anomaly.05.a:0 "Terrifying!"
+  ehof_anomaly.06.a:0 "Astonishing!"
+  ehof_anomaly.07.a:0 "Interesting, investigate the station!"
+  ehof_anomaly.07.b:0 "Not all secrets have to be revealed."
+  ehof_anomaly.08.a:0 "Fascinating, expand the research on the plants!"
+  ehof_anomaly.08.b:0 "Let the plants be plants."
+  ehof_anomaly.09.a:0 "Explore the station, but be careful."
+  ehof_anomaly.09.b:0 "Just ignore the station."
+  ehof_anomaly.10.a:0 "Fascinating, expand the study of this lifeforms."
+  ehof_anomaly.10.b:0 "We shouldn't risk our scientists lives and resources for that."
+  ehof_anomaly.11.a:0 "How terrifying and yet fascinating! Try to penetrate the atmosphere."
+  ehof_anomaly.11.b:0 "It's probably better if we don't know what's behind the fog."
+  ehof_anomaly.12.a:0 "Interesting, what could have formed such a vast canyon?"
+  ehof_anomaly.12.b:0 "No time for geology. Leave."
+  ehof_anomaly.10020.a:0 "Finally! Hopefully we can end this galactic nightmare!"
+  ehof_anomaly.10416.a:0 "This is incredible!"

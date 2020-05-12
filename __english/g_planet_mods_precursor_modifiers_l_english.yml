@@ -1,0 +1,97 @@
+﻿l_english:
+
+ ###################################################
+ # Precursor Planet Modifiers
+ ###################################################
+ 
+ 
+ 
+ 
+ 
+ gpm_precursor_remnants:0 "Precursor Remnants"
+ gpm_precursor_remnants_desc:0 "There is still a significant amount of infrastructure left on this world, built by an ancient unknown interstellar empire. While the technology that powers these buildings has long since ceased functioning, its advanced functions can still be observed in their designs. "
+ 
+ gpm_precursor_energy_grid:0 "Precursor Energy Grid"
+ gpm_precursor_energy_grid_desc:0 "All that remains of this ancient world is the power infrastructure of their cities and energy grids. While the homes, roads, and other signs of former life have crumbled to dust, the beautiful glow of the still-functioning power grids remain."
+ 
+ gpm_precursor_satalite_grid:0 "Precursor Satellite Grid"
+ gpm_precursor_satalite_grid_desc:0 "This world has a large amount of precursor satellites in very efficient orbits. Hundreds of small satellites and arrays orbit this world. We believe it may have once been linked to a communications array."
+ 
+ gpm_precursor_city:0 "Precursor City"
+ gpm_precursor_city_desc:0 "Ancient city ruins belonging to an unknown interstellar empire can be found on this world. Most look strangely intact, as if their creators simply vanished..."
+ 
+ gpm_precursor_shipyards:0 "Precursor Shipyards"
+ gpm_precursor_shipyards_desc:0 "Surrounding this world are several ancient and powerful shipyards. Some appear to be quite damaged while others look like they could still be functional. Deep within these vast space stations rests a powerful graviton power core, a technology not fully understood but which appears to be the source of both its power and its ability to stay in orbit for so long. Perhaps, one day, we can claim it for our own."
+ gpm_precursor_shipyardsTT:0 "Unique Starbase Module: §GPrecursor Shipyard Uplink§!\n   Starbase Ship Build Speed: §G+20%§!\n   Starbase Ship Build Cost: §G-10%§!\n   Starbase Shipyard Capacity: §G+6§!"
+ 
+ gpm_precursor_planetary_gun:0 "Precursor Defence Grid"
+ gpm_precursor_planetary_gun_desc:0 "What may have been a once thriving world has been transformed into a planetwide weapons battery. These powerful and advanced gun emplacements are capable of firing beyond orbit and were perhaps key to the defense network of an ancient civilization."
+ 
+ gpm_precursor_bunker_grid:0 "Precursor Bunker Grid"
+ gpm_precursor_bunker_grid_desc:0 "A sprawling bunker complex has been constructed across the entire planet. The remnants of the lost civilization that garrisoned it scatter the hallways, ghosts of a battle long since lost."
+ gpm_precursor_bunker_gridTT:0 "Planet Unique Building: §GPrecursor Bunker Command Center§!"
+
+ gpm_precursor_mechs:0 "Precursor Mechs"
+ gpm_precursor_mechs_desc:0 "Legions of abandoned titanic mechs stand across the surface of this world, waiting to be reactivated. Despite their age, these machines show little evidence of deterioration."
+ gpm_precursor_mechsTT:0 "Planet Unique Army: §GPrecursor Mech§!"
+
+ gpm_precursor_planetary_shield:0 "Precursor Shield Arrays"
+ gpm_precursor_planetary_shield_desc:0 "An impressive array of shield systems is spread around this worldproviding a safehaven for all."
+ gpm_precursor_planetary_shieldTT:0 "Planetary Shield: §LPowered Down§!"
+
+ gpm_precursor_planetary_shield_on:0 "Powered Precursor Shield Arrays"
+ gpm_precursor_planetary_shield_on_desc:0 "An impressive array of shield systems is spread around this world."
+ gpm_precursor_planetary_shield_onTT:0 "Planetary Shield: §GActive§!"
+
+#  gpm_precursor_planetary_shield_on:0 "Powered Precursor Shield"
+#  gpm_precursor_planetary_shield_on_desc:0 "Witnes the power of this fully operational planetary shield!"
+#  gpm_precursor_planetary_shield_onTT:0 "Planetary Shield: §GActive§!"
+ 
+ gpm_precursor_floating_city:0 "Precursor Floating Cities"
+ gpm_precursor_floating_city_desc:0 "Several self-sustaining cities float around this world. Despite some slight damage, they appear to function well. Scattered across the surface are the remains of other buildings and infrastructure. Whether they were precursors to the floating cities above or former ones themselves, we may never know. "
+ 
+ gpm_precursor_capital_complex:0 "Precursor Capital Complex"
+ gpm_precursor_capital_complex_desc:0 "The ruins of an advanced metropolis drape across this world. Dominating all around it, an enormous and once elaborate structure lies within, leading us to believe this was a capital to a long lost culture, perhaps even an empire."
+ 
+ gpm_precursor_communication_hub:0 "Precursor Communication Hub"
+ gpm_precursor_communication_hub_desc:0 "A single large spire is all that stands out among the ruins of this world. This tower still emits a strong beam of light that runs from the centre up into orbit. Remains of a satellite grid lead us to believe they were formerly linked. Mostly functional, we may be able to use it for communication or monitoring."
+ 
+ gpm_precursor_singularity_drive:0 "Precursor Singularity Drive"
+ gpm_precursor_singularity_drive_desc:0 "This world appears to have underground regions resembling laboratories and experimentation facilities, leading to a central room containing an enormous singularity drive that resonates with energy. Automatons are scattered about the room, frequently taking each other apart and repairing one another with no discernible pattern."
+ 
+ gpm_precursor_eternal_fortress:0 "Precursor Eternal Fortress"
+ gpm_precursor_eternal_fortress_desc:0 "An ancient empire has built a massive fortress into the most northern mountain range of this world. This fortress is built out of a network that spans 20 square miles and is composed of bunkers, tunnels, and trenches. The entire complex is shaped like a massive eight-pointed star. Strangely, the supposed command center of the complex is completely empty."
+ 
+ gpm_precursor_prison_planet:0 "Precursor Prison Planet"
+ gpm_precursor_prison_planet_desc:0 "Thousands upon thousands of barracks-like buildings litter the surface of this world, while beneath lie the remains of a vast planet-wide prison system. Built within the very bedrock are cells and containment fields, their purpose clear."
+ 
+ gpm_precursor_mines:0 "Precursor Mines"
+ gpm_precursor_mines_desc:0 "This high mineral world was once some kind of mining centre for an ancient forgotten civilization. Why it was abandoned is a mystery to us, but the glimmering mineral deposits left to accumulate over thousands of years offers an easy yield for our workers."
+
+ gpm_precursor_manufactorium:0 "Precursor Manufactorium"
+ gpm_precursor_manufactorium_desc:0 "Deep scans of the planet’s surface reveal a network of tunnels and vaults buried beneath. Access points on the surface eventually lead to a massive industrial complex surrounding the planet’s core. Timeworn technology of an advanced civilization once allowed the complex to drain the core’s energy to feed its massive production line."
+ 
+ gpm_precursor_vaults:0 "Precursor Vaults"
+ gpm_precursor_vaults_desc:0 "Scattered across the mountains of this world are what appear to be small outposts. Further investigation reveals various hidden entrances into large storage facilities. Most lie empty, either looted in its ancient past or never filled to begin with. A few, however, contain untold treasures, both archaeological and technological in nature."
+ 
+ gpm_precursor_crashed_spacestation:0 "Precursor Crashed Orbital"
+ gpm_precursor_crashed_spacestation_desc:0 "A colossal crater marks this otherwise unremarkable planet, containing the remains of an archaic space station. Due to the extensive damage, not much can be gleaned from examining the wreckage, though our scientists suspect it belonged to a time-lost empire."
+ 
+ # Generic Ruins
+ gpm_precursor_battleground_ruins:0 "Precursor Battleground Ruins"
+ gpm_precursor_battleground_ruins_desc:0 "Scorch marks, half-wrecked buildings, and the detritus of a thousand weapons are all that remains of this world. After careful examination, our surveyors have determined that a massive battle proved the end of whatever civilization once inhabited this place."
+ 
+ gpm_precursor_outpost_ruins:0 "Precursor Outpost Ruins"
+ gpm_precursor_outpost_ruins_desc:0 "This world is untouched, save for a lone structure lying in the heart of a forest. The building is still powered and contains only a few rooms. Strange markings not too dissimilar from runes skitter across the display surfaces. It is possible that this could be the remnants of an archaic language. Or the ramblings of a long-dead madman."
+
+ gpm_precursor_harbor_ruins:0 "Precursor Harbor Ruins"
+ gpm_precursor_harbor_ruins_desc:0 "On the many coasts of this world lie the remains of a sophisticated harbor system. Whomever occupied this planet eons ago utilized the bounty of this world to its maximum potential through efficient fishing and processing facilities."
+ 
+ gpm_precursor_ruins:0 "Precursor Ruins"
+ gpm_precursor_ruins_desc:0 "Desolate heat from above and infernal sands below make this world a living hell. Despite that, several abandoned and odd edifices mark the surface. Surveyors report a possible religious nature to these structures and posit that the inhabitants may have been originators of bio-technology."
+ 
+ gpm_precursor_obelisks:0 "Precursor Obelisks"
+ gpm_precursor_obelisks_desc:0 "Three obelisks placed at specific corresponding geographic locations are all that remain of this world’s occupants. As night falls, the obelisks glow with psi energy, illuminating the various markings engraved upon them. We theorize that these obelisks could be the key to understanding psionics and gateway technologies."
+ 
+
+ 

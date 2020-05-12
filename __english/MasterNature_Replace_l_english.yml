@@ -1,0 +1,15 @@
+﻿l_english:
+
+ mod_planets_minerals_produces_add: "Monthly £minerals£ Minerals"
+ mod_planet_researchers_engineering_research_produces_add:0 "£engineering£ $ENGINEERING$ from £job_researcher£ $job_researcher_plural$"
+ mod_planet_researchers_physics_research_produces_add:0 "£physics£ $PHYSICS$ from £job_researcher£ $job_researcher_plural$"
+ mod_planet_researchers_society_research_produces_add:0 "£society£ $SOCIETY$ from £job_researcher£ $job_researcher_plural$"
+
+ allow_decision_mastery_of_nature:0 "\n§HBypass Technology Requirment for:§! \n§ESubterranean Cities:§! Add up to §Y4§! district slots (best on larger worlds), a unique planet £alloys£/£job_researcher£/£orbital_bombardment_damage£ modifier and one £mod_job_subterranean_foundry_add£/£mod_job_subterranean_soldier_add£/£mod_job_subterranean_refiner_add£/£mod_job_subterranean_researcher_add£ job per 50 £pop£. §YGain an extra district from this decision§! \n\n§ESky Islands:§! Add up to §Y4§! district slots (best on smaller worlds), a unique planet £influence£/£unity£/£mod_planet_amenities_add£/£mod_planet_amenities_no_happiness_mult£ modifier and one £mod_job_sky_clerk_add£/£mod_job_sky_noble_add£/£mod_job_sky_replicator_add£/£mod_job_sky_ranger_add£ job per 40 £pop£. §YGain an extra district from this decision§!"
+
+ describe_decision_mastery_of_nature:0 "\n§HUnlocks Decisions:§!\n§ESubterranean Expansion:§! Gain additional district slots and jobs from Subterranean Cities. §YRepeatable twice§!, for one less district each time. \n\n§ESky Expansion:§! Gain additional district slots and jobs from Sky Islands. §YRepeatable twice§!, for one less district each time. \n\n§EMastery of Nature:§! Planet Habitability §G+10%§!"
+
+ decision_mastery_of_nature:0 "Mastery of Nature"
+ decision_mastery_of_nature_desc:0 "Our population must adapt to the environment we live in, or the environment must adapt to us. Nature will not stand in the way of progress."
+
+

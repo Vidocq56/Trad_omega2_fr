@@ -1,0 +1,425 @@
+﻿l_english:
+
+ ####################################
+ # How these files work:
+ # Only edit stuff between " "
+ # Change the number from :0 to :1 after you edit so I know which parts have been updated
+ # \n = next line (forces next line)
+ # &G or any other next letter is colour code, you can ignore this. Feel free to keep a space behind it. Example: "&G This text is green &!" &G = green
+ # &! ends the previous colour code. This is required so do not delete otherwise everything turns to the previous colour.
+ # I'll add what I would like for descriptions by a comment like this: "# The description below needs to be a bit longer, add in some details and descriptive words where able". or "# This description needs to be at least a paragraph longer, needs a bit more creative description about <this> or <that>"
+ # Unless specified Max 10 lines of writing for each description.
+ ####################################
+
+ ####################################
+ # Colour Tricks
+ # ignore these, they are used to trick name localisation in colour.
+ ####################################
+ # Change name to red with skull icon
+ color_red:0 "£military_power_boss  §R [This.GetName] §!"
+ 
+ # Change name to orange with something icon
+ # color_planet_wonder:0 "£gpm_planet_wonder  §H[This.GetName]§!"
+ color_planet_wonder:0 "§H[This.GetName]§!"
+ color_planet_wonder_col:0 "§H[This.GetName]§!"
+ 
+ # Change name to teal with something icon
+ # color_precursor:0 "£gpm_precursor  §B[This.GetName]§!"
+ color_precursor:0 "§B[This.GetName]§!"
+ color_precursor_col:0 "§B[This.GetName]§!"
+ 
+ # reset to default, only applies to planet names
+ color_default_white:0 "[Root.Solar_System.GetName] ruined world"
+ color_default_white_col:0 "§W[This.GetName]§!"
+ 
+ gpm_infested:0 "£military_power_boss §R Infested World§!"
+
+ ####################################
+ # Discovery Rewards
+ ####################################
+ gpm_precursor_remnants_discovery:0 "Ancient Remnants Discovered"
+ gpm_precursor_remnants_discovery_2:0 "Ancient Remnants Discovered"
+ gpm_precursor_energy_grid_discovery:0 "Ancient Energy Grid Discovered"
+ gpm_precursor_energy_grid_discovery_2:0 "Ancient Energy Grid Discovered"
+ gpm_precursor_satellite_grid_discovery:0 "Ancient Satellite Grid Discovered"
+ gpm_precursor_satellite_grid_discovery_2:0 "Ancient Satellite Grid Discovered"
+ gpm_precursor_city_discovery:0 "Ancient City Discovered"
+ gpm_precursor_city_discovery_2:0 "Ancient City Discovered"
+ gpm_precursor_shipyards_discovery:0 "Ancient Shipyards Discovered"
+ gpm_precursor_shipyards_discovery_2:0 "Ancient Shipyards Discovered"
+ gpm_precursor_planetary_gun_discovery:0 "Ancient Planetary Gun Discovered"
+ gpm_precursor_planetary_gun_discovery_2:0 "Ancient Planetary Gun Discovered"
+ gpm_precursor_bunker_grid_discovery:0 "Ancient Bunker Grid Discovered"
+ gpm_precursor_bunker_grid_discovery_2:0 "Ancient Bunker Grid Discovered"
+ gpm_precursor_mechs_discovery:0 "Ancient Mechs Discovered"
+ gpm_precursor_mechs_discovery_2:0 "Ancient Mechs Discovered"
+ gpm_precursor_planetary_shield_discovery:0 "Ancient Planetary Shield Discovered"
+ gpm_precursor_planetary_shield_discovery_2:0 "Ancient Planetary Shield Discovered"
+ gpm_precursor_floating_city_discovery:0 "Ancient Floating City Discovered"
+ gpm_precursor_floating_city_discovery_2:0 "Ancient Floating City Discovered"
+ gpm_precursor_capital_complex_discovery:0 "Ancient Capital Complex Discovered"
+ gpm_precursor_capital_complex_discovery_2:0 "Ancient Capital Complex Discovered"
+ gpm_precursor_communication_hub_discovery:0 "Ancient Communication Hub Discovered"
+ gpm_precursor_communication_hub_discovery_2:0 "Ancient Communication Hub Discovered"
+ gpm_precursor_singularity_drive_discovery:0 "Ancient Singularity Drive Discovered"
+ gpm_precursor_singularity_drive_discovery_2:0 "Ancient Singularity Drive Discovered"
+ 
+ gpm_precursor_eternal_fortress_discovery:0 "Ancient Eternal Fortress Discovered"
+ gpm_precursor_eternal_fortress_discovery_2:0 "Ancient Eternal Fortress Discovered"
+ gpm_precursor_prison_planet_discovery:0 "Ancient Prison Discovered"
+ gpm_precursor_prison_planet_discovery_2:0 "Ancient Prison Discovered"
+ gpm_precursor_mines_discovery:0 "Ancient Mines Discovered"
+ gpm_precursor_mines_discovery_2:0 "Ancient Mines Discovered"
+ gpm_precursor_manufactorium_discovery:0 "Ancient Manufactorium Discovered"
+ gpm_precursor_manufactorium_discovery_2:0 "Ancient Manufactorium Discovered"
+ gpm_precursor_vaults_discovery:0 "Ancient Vaults Discovered"
+ gpm_precursor_vaults_discovery_2:0 "Ancient Vaults Discovered"
+ gpm_precursor_crashed_spacestation_discovery:0 "Ancient Crashed Spacestation Discovered"
+ gpm_precursor_crashed_spacestation_discovery_2:0 "Ancient Crashed Spacestation Discovered"
+ gpm_precursor_battleground_ruins_discovery:0 "Ancient Battlegrounds Discovered"
+ gpm_precursor_battleground_ruins_discovery_2:0 "Ancient Battlegrounds Discovered"
+ gpm_precursor_outpost_ruins_discovery:0 "Ancient Outpost Discovered"
+ gpm_precursor_outpost_ruins_discovery_2:0 "Ancient Outpost Discovered"
+ gpm_precursor_harbor_ruins_discovery:0 "Ancient Harbor Discovered"
+ gpm_precursor_harbor_ruins_discovery_2:0 "Ancient Harbor Discovered"
+ gpm_precursor_ruins_discovery:0 "Ancient Ruins Discovered"
+ gpm_precursor_ruins_discovery_2:0 "Ancient Ruins Discovered"
+ gpm_precursor_obelisks_discovery:0 "Ancient Obelisk Discovered"
+ gpm_precursor_obelisks_discovery_2:0 "Ancient Obelisk Discovered"
+ 
+ gpm_very_hot_core_discovery:0 "Hot Core Discovery"
+ gpm_very_hot_core_discovery_2:0 "Hot Core Discovery"
+ gpm_gaia_world_discovery:0 "Gaia World Discovery"
+ gpm_gaia_world_discovery_2:0 "Gaia World Discovery"
+ gpm_holy_world_discovery:0 "Holy Planet Discovery"
+ gpm_holy_world_discovery_2:0 "Holy Planet Discovery"
+ gpm_floating_islands_discovery:0 "Floating Islands Discovery"
+ gpm_floating_islands_discovery_2:0 "Floating Islands Discovery"
+ gpm_ruined_battlefield_discovery:0 "Ruined Battlefield Discovery"
+ gpm_ruined_battlefield_discovery_2:0 "Ruined Battlefield Discovery"
+ gpm_spaceship_graveyard_discovery:0 "Spaceship Graveyard Discovery"
+ gpm_spaceship_graveyard_discovery_2:0 "Spaceship Graveyard Discovery"
+ gpm_artificial_water_discovery:0 "Artificial Water Discovery"
+ gpm_artificial_water_discovery_2:0 "Artificial Water Discovery"
+ gpm_android_pleasure_palace_discovery:0 "Pleasure Palace Discovery"
+ gpm_android_pleasure_palace_discovery_2:0 "Pleasure Palace Discovery"
+ gpm_ancient_temple_discovery:0 "Ancient Temple Discovery"
+ gpm_ancient_temple_discovery_2:0 "Ancient Temple Discovery"
+ gpm_crystal_moon_palace_discovery:0 "Crystal Palace Discovery"
+ gpm_crystal_moon_palace_discovery_2:0 "Crystal Palace Discovery"
+ gpm_plasmoid_life_discovery:0 "Plasmoid Life Discovery"
+ gpm_plasmoid_life_discovery_2:0 "Plasmoid Life Discovery"
+ gpm_temple_of_the_ancient_one_discovery:0 "Ancient One Discovery"
+ gpm_temple_of_the_ancient_one_discovery_2:0 "Ancient One Discovery"
+ gpm_proto_forests_discovery:0 "Proto Forests Discovery"
+ gpm_proto_forests_discovery_2:0 "Proto Forests Discovery"
+ gpm_hiveworld_discovery:0 "gpm_hiveworld Discovery"
+ gpm_hiveworld_discovery_2:0 "gpm_hiveworld Discovery"
+ gpm_arachnophobia_discovery:0 "Giant Arachnids Discovery"
+ gpm_arachnophobia_discovery_2:0 "Giant Arachnids Discovery"
+ gpm_giant_worm_discovery:0 "Giant Worm Discovery"
+ gpm_giant_worm_discovery_2:0 "Giant Worm Discovery"
+ gpm_artificial_core_discovery:0 "Artificial Core Discovery"
+ gpm_artificial_core_discovery_2:0 "Artificial Core Discovery"
+ gpm_surface_of_bones_discovery:0 "Planet Of The Dead"
+ gpm_surface_of_bones_discovery_2:0 "Planet Of The Dead"
+ gpm_strange_alien_eggs_discovery:0 "Xenomorph Eggs Discovery"
+ gpm_strange_alien_eggs_discovery_2:0 "Xenomorph Eggs Discovery"
+ gpm_mushroom_forest_discovery:0 "Mushroom Planet Discovery"
+ gpm_mushroom_forest_discovery_2:0 "Mushroom Planet Discovery"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ####################################
+ # Naming stuff
+ ####################################
+ 
+ gpm_crystal_ship_large_blue_elite:0 "Crystaline Beast"
+ gpm_crystal_ship_large_blue_elite_plural:0 "Crystaline Beasts"
+ gpm_crystal_ship_large_blue_elite_section:0 " "
+
+ gpm_crystal_ship_large_green_elite:0 "Crystaline Beast"
+ gpm_crystal_ship_large_green_elite_plural:0 "Crystaline Beasts"
+ gpm_crystal_ship_large_green_elite_section:0 " "
+
+ gpm_crystal_ship_large_yellow_elite:0 "Crystaline Beast"
+ gpm_crystal_ship_large_yellow_elite_plural:0 "Crystaline Beasts"
+ gpm_crystal_ship_large_yellow_elite_section:0 " "
+
+ gpm_crystal_ship_large_red_elite:0 "Crystaline Beast"
+ gpm_crystal_ship_large_red_elite_plural:0 "Crystaline Beasts"
+ gpm_crystal_ship_large_red_elite_section:0 " "
+
+
+
+ gpm_precursor_shipyards_star:0 "Ancient Shipyards"
+ gpm_precursor_shipyards_star_rs:0 "Ancient Shipyards"
+ gpm_precursor_shipyards_30:0 "Precursor Shipyards"
+ gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_7:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_30:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_7:0 "$gpm_precursor_shipyards_30$"
+
+ gpm_precursor_shipyards_star_cybrex_desc:0 "Collosal shipyards once used by the Cybrex. The extended construction bays bend down thanks to the star's gravity, absorbing raw energy to used in the production of ships."
+ gpm_precursor_shipyards_star_desc:0 "Collosal shipyards once used by an ancient precursor race. The extended construction bays bend down thanks to the planet's gravity."
+
+ gpm_Robot_Lover:0 "Robot Lover"
+ gpm_Robot_Lover_Plural:0 "Robot Lovers"
+
+ gpm_binary_asteroids:0 "[gpm_double_asteroid.GetName]'s Twin"
+ 
+ sm_gpm_precursor_shipyards_uplink:0 "Precursor Shipyard Uplink"
+ sm_gpm_precursor_shipyards_uplink_desc:0 "This specially designed uplink connects the starbase to the ancient precursor shipyards in this solar system. Our starbase will be able to delegate new ship designs to the precursor shipyards for construction.\n"
+ 
+ 
+ ####################################
+ ### Buildings 
+ ####################################
+  
+ gpm_building_stronghold:0 "Salvaged Precursor Bunker Command Center"
+ gpm_building_stronghold_desc:0 "This command center oversees the deployment of your defensive armies to various ancient precursor bunkers. Overtime, more bunkers will become availible."
+ 
+ gpm_building_mining_nanite_nexus:0 "Mining Nanite Nexus"
+ gpm_building_mining_nanite_nexus_desc:0 "Storage and control centre for our mining nanites. These nanites, once released, will dig smooth large tunnels towards any otherwise unreachable mineral veins."
+
+ gpm_precursor_research_center:0 "Arcane Institute"
+ gpm_precursor_research_center_desc:0 "Specialised research facilities to assist in researching the ancient and powerful precursor civilisations."
+ 
+ ####################################
+ # Game Start Manu
+ ####################################
+ 
+ gpm_start_menu.1.name:0 "Guilli's Planet Modifiers"
+ gpm_start_menu.1.desc:0 "Pick the number of planet modifiers you wish to spawn on planets. This option will also affect planet modifier generation on ringworlds, habitats and when terraforming unless disabled in the options.\n\n§HTips:§!\n  §Y- Make sure to set the options you want first!§!\n  §Y- Modifiers will spawn after you unpause over 2-5 ingame days.§!\n  §Y- Wait with queueing up science ship surveys until a few ingame days have passed.\n\n "
+
+ # §HThe mod might takes a few moments after unpausing to spawn everything during which the game may act slow or freeze for a second.§!
+
+ gpm_start_menu.1.START:0 "Start the game"
+ gpm_start_menu.1.STARTTT:0 "This will start the game. Any settings you selected will be applied and cannot be undone without starting a new game!"
+ 
+ gpm_start_menu.1.max_one:0 "§YNumber of Modifiers:§! Max One"
+ gpm_start_menu.1.max_oneTT:0 "§HClick to Cycle§! through the settings that determine the minimum and maximum number of modifiers that can spawn on a planet.\n-----§HNumber of Modifiers§!:-----\n§W 0-1 per planet§! §G(currently selected)§!\n§L 0-2 per planet (low)§!\n§L 0-3 per planet (default)§!\n§L 1-3 per planet (high)§!"
+
+ gpm_start_menu.1.low:0 "§YNumber of Modifiers:§! Low"
+ gpm_start_menu.1.lowTT:0 "§HClick to Cycle§! through the settings that determine the minimum and maximum number of modifiers that can spawn on a planet.\n-----§HNumber of Modifiers§!:-----\n§L 0-1 per planet (max one)§!\n§W 0-2 per planet§! §G(currently selected)§!\n§L 0-3 per planet (default)§!\n§L 0-4 per planet (high)§!"
+
+ gpm_start_menu.1.normal:0 "§YNumber of Modifiers:§! Default (§Grecommended§!)"
+ gpm_start_menu.1.normalTT:0 "§HClick to Cycle§! through the settings that determine the minimum and maximum number of modifiers that can spawn on a planet.\n-----§HNumber of Modifiers§!:-----\n§L 0-1 per planet (max one)§!\n§L 0-2 per planet (low)§!\n§W 0-3 per planet§! §G(currently selected)§!\n§L 1-3 per planet (high)§!"
+
+ gpm_start_menu.1.high:0 "§YNumber of Modifiers:§! High"
+ gpm_start_menu.1.highTT:0 "§HClick to Cycle§! through the settings that determine the minimum and maximum number of modifiers that can spawn on a planet.\n-----§HNumber of Modifiers§!:-----\n§L 0-1 per planet (max one)§!\n§L 0-2 per planet (low)§!\n§L 0-3 per planet (default)§!\n§W 1-3 per planet§! §G(currently selected)§!"
+ 
+ # gpm_start_menu.1.max_oneTT:0 "Set the max amount of modded planet modifiers to 1.\nWith this setting, every world will have up to 1 planet modifier.\n§RThis will start the game!§!\n\n§HModifier Spawn Chance§!:\n  §GHabitable Planets:§! 85%\n  §GUninhabitable Planets:§! 50%"
+
+ # gpm_start_menu.1.lowTT:0 "Set the amount of planet modifiers to low.\nWith this setting, every world will have 0 to 2 planet modifiers.\n§RThis will start the game!§!\n\n§HModifier Spawn Chance§!:\n  §GHabitable Planets:§! 65%\n  §GUninhabitable Planets:§! 25%"
+ 
+ # gpm_start_menu.1.normalTT:0 "Set the amount of planet modifiers to medium.\nWith this setting, every world will have 0 to 3 planet modifiers.\n§RThis will start the game!§!\n\n§HModifier Spawn Chance§!:\n  §GHabitable Planets:§! 85%\n  §GUninhabitable Planets:§! 50%"
+ 
+ # gpm_start_menu.1.highTT:0 "Set the amount of planet modifiers to high.\nWith this setting, every world will have 1 to 3 planet modifiers.\n§RThis will start the game!§!\n\n§HModifier Spawn Chance§!:\n  §GHabitable Planets:§! 100%\n  §GUninhabitable Planets:§! 100%"
+
+ gpm_start_menu.1.options:0 "£options_icon  §YOptions§! £options_icon"
+ gpm_start_menu.1.optionsTT:0 "Set various options for Guilli's Planet Modifiers mod. You can disable or enable various features of the mod here.\n\n§YMake sure to set any options you want before choosing the amount of modifiers!§!"
+
+ gpm_start_menu.2.enabled_homeworld:0 "£options_icon  §GEnable Capital Modifiers§!"
+ gpm_start_menu.2.enabled_homeworldTT:0 "§HClick this to enable Capital Modifiers§!\nThis will spawn §Hrandom§! planet modifiers on your capital planet."
+ gpm_start_menu.2.disable_homeworld:0 "£options_icon  §RDisable Capital Modifiers§!"
+ gpm_start_menu.2.disable_homeworldTT:0 "§HClick this to disable Capital Modifiers§!\nThis will prevent modifiers from spawning on your capital planet."
+
+ gpm_start_menu.2.disable_precursor:0 "£options_icon  §RDisable Precursor Modifiers§!"
+ gpm_start_menu.2.enable_precursor:0 "£options_icon  §GEnable Precursor Modifiers§!"
+ gpm_start_menu.2.disable_fallen_empire:0 "£options_icon  §RDisable Fallen Empire Modifiers§!"
+ gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §GEnable Fallen Empire Modifiers§!"
+ gpm_start_menu.2.disable_habitats:0 "£options_icon  §RDisable Habitat Modifiers§!"
+ gpm_start_menu.2.enable_habitats:0 "£options_icon  §GEnable Habitat Modifiers§!"
+ gpm_start_menu.2.disable_ringworlds:0 "£options_icon  §RDisable Ringworld Modifiers§!"
+ gpm_start_menu.2.enable_ringworlds:0 "£options_icon  §GEnable Ringworld Modifiers§!"
+ gpm_start_menu.2.disable_wonders:0 "£options_icon  §RDisable Planetary Wonders§!"
+ gpm_start_menu.2.enable_wonders:0 "£options_icon  §GEnable Planetary Wonders§!"
+ gpm_start_menu.2.disable_planetary_rings:0 "£options_icon  §RDisable Planetary Rings§!"
+ gpm_start_menu.2.enable_planetary_rings:0 "£options_icon  §GEnable Planetary Rings§!"
+ gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §GEnable Minor Artifacts§!"
+ gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §RDisable Minor Artifacts§!"
+ gpm_start_menu.2.enable_precursor_ai_chain:0 "£options_icon  §GEnable Precursor Chains for AI§!"
+ gpm_start_menu.2.disable_precursor_ai_chain:0 "£options_icon  §RDisable Precursor Chains for AI§!"
+
+ gpm_start_menu.2.disable_precursorTT:0 "§HClick this to disable Precursor Modifiers§!\nThis will prevent precursor modifiers from spawning in the galaxy."
+ gpm_start_menu.2.enable_precursorTT:0 "§HClick this to enable Precursor Modifiers§!"
+ gpm_start_menu.2.disable_fallen_empireTT:0 "§HClick this to disable Fallen Empire Modifiers§!\nThis will prevent fallen empire modifiers from spawning in the galaxy."
+ gpm_start_menu.2.enable_fallen_empireTT:0 "§HClick this to enable Fallen Empire Modifiers§!"
+ gpm_start_menu.2.disable_habitatsTT:0 "§HClick this to disable Habitat Modifiers§!\nThis will prevent habitat modifiers from spawning on habitats."
+ gpm_start_menu.2.enable_habitatsTT:0 "§HClick this to enable Habitat Modifiers§!"
+ gpm_start_menu.2.disable_ringworldsTT:0 "§HClick this to disable Ringworld Modifiers§!\nThis will prevent ringworld modifiers from spawning on ringworlds."
+ gpm_start_menu.2.enable_ringworldsTT:0 "§HClick this to enable Ringworld Modifiers§!"
+ gpm_start_menu.2.disable_wondersTT:0 "§HClick this to disable Planetary Wonders§!\nThis will prevent planetary wonder modifiers and tileblockers from spawning in the galaxy."
+ gpm_start_menu.2.enable_wondersTT:0 "§HClick this to enable Planetary Wonders§!"
+ gpm_start_menu.2.disable_planetary_ringsTT:0 "§HClick this to disable Planetary Rings§!\nThis will prevent planetary rings and their rich resources from spawning in the galaxy."
+ gpm_start_menu.2.enable_planetary_ringsTT:0 "§HClick this to enable Planetary Rings§!"
+ 
+ gpm_start_menu.2.disable_precursor_ai_chainTT:0 "§HClick this to disable§! precursor event chains for the AI. The AI will not be able to do precursor chains."
+ gpm_start_menu.2.enable_precursor_ai_chainTT:0 "§HClick this to enable§! precursor event chains for the AI. The AI will be able to research precursor chains."
+
+ gpm_start_menu.2.back:0 "§YBack to main menu§!"
+ gpm_start_menu.2.backTT:0 "Return to the main menu to start."
+ 
+ 
+ ####################################
+ # cheats 
+ ####################################
+ gpm_debug_cheat_modifier:0 "DEBUG MODIFIER KAPPA"
+ gpm_debug_cheat_modifier_desc:0 "You cheaty little bastard!"
+ 
+ opinion_respected_species:0 "Respected Children"
+ opinion_respected_species_desc:0 "For some reason this Fallen Empire has taken a liking to you. They seem highly interested in your origins."
+ 
+ ####################################
+ # RES
+ ####################################
+ pc_gpm_res:0 "Mining Site"
+ pc_gpm_res_anomaly_name:0 "Ring Site"
+ pc_gpm_res_resource_name:0 "Rich Resources"
+ pc_gpm_res_exploited_name:0 "Resource Extraction Site"
+ pc_gpm_res_tiyanki_name:0 "Tiyanki Feeding Grounds"
+ pc_gpm_res_desc:0 "These planetary rings have a substantial amount of resources ready to be extracted."
+
+ ####################################
+ # Precursor artifact discovery
+ ####################################
+ gpm_precursor.9000.desc:0 "Our science vessal's prospectors are indicating that they have found something relating to an ancient Precursor civilization on §H[precursor_planet.GetName]§! and would like to further study these findings. This is a great oppertunity to search for ancient precursor artifacts."
+ gpm_precursor.9000.a:0 "A new archeological special project is availible on §H[precursor_planet.GetName]§!."
+ gpm_unknown_precursor_empire:0 "§LPrecursor§!"
+
+ ####################################
+ # Special Projects
+ ####################################
+ EGO_THE_FIRST_VISIT:0 "The First Visit"
+ EGO_THE_FIRST_VISIT_DESC:0 "Our first investigation should be the molten world. Perhaps that can explain the amount of debris."
+ EGO_THE_SECOND_VISIT:0 "The Second Visit"
+ EGO_THE_SECOND_VISIT_DESC:0 "Our second investigation leads us to the lush gaia looking planet. Let us hope there are more answers there."
+ GPM_COLONY_SHIP_3:0 "Not exactly scrap metal"
+ GPM_COLONY_SHIP_3_DESC:0 "Investigate whether any of the crashed starships can still be salvaged."
+ GPM_COLONY_SHIP_4:0 "Too good to be true"
+ GPM_COLONY_SHIP_4_DESC:0 "Your science and engineering teams will attempt to salvage as many ships as possible using parts of nearby destroyed starships."
+
+ gpm_colony_ship_event_chain_title:0 "Scrap Metal"
+ gpm_colony_ship_event_chain_desc:0 "A world covered in ancient crashed starships of unknown make and origin ready for salvaging expeditions."
+
+ GPM_CRYSTALINE_BEASTS_RESEARCH:0 "Setting Up Camp"
+ GPM_CRYSTALINE_BEASTS_RESEARCH_DESC:0 "The explorers on [from.GetName] need to setup a forward research camp as the study of the mysterious crystal cave can take weeks, if not months"
+
+ GPM_CRYSTALIZATION_RESEARCH:0 "Plant Crystallization Research"
+ GPM_CRYSTALIZATION_RESEARCH_DESC:0 "Our explorers have brought in additional scientists and have set up a complete research base. The process of analysing the many crystal fauna and flora around the crystaline cave can begin."
+
+ ####################################
+ # Modifiers localisation
+ ####################################
+ mod_planet_districts_minerals_cost_add:0 "Planet District £minerals£ Mineral Cost"
+ mod_planet_buildings_minerals_cost_add:0 "Planet Building £minerals£ Mineral Cost"
+ mod_planet_buildings_minerals_cost_mult:0 "Planet Building £minerals£ Mineral Cost"
+ mod_ship_components_alloys_cost_add:0 "Ship Components £alloys£ Alloy Cost"
+ mod_ship_components_alloys_cost_mult:0 "Ship Components £alloys£ Alloy Cost"
+ mod_ship_upgrades_alloys_cost_mult:0 "Ship £alloys£ Alloy Upgrade Cost"
+ mod_starbase_outpost_influence_cost_add:0 "Starbase Outpost £influence£ Influence Cost"
+ mod_station_observer_missions_society_research_produces_mult:0 "Primitive Observation £society_research£ Society Research"
+ mod_stations_energy_upkeep_mult:0 "Station £energy£ Energy Upkeep"
+ mod_planet_buildings_energy_upkeep_mult:0 "Building £energy£ Energy Upkeep"
+ mod_planet_districts_energy_upkeep_mult:0 "Districts £energy£ Energy Upkeep"
+ mod_planet_districts_time_cost_mult:0 "Districts £time£ Buildtime"
+ mod_ship_upgrades_time_cost_mult:0 "Ship Upgrade £time£ Time:"
+ mod_planet_pops_food_upkeep_mult:0 "Pop £food£ Food Upkeep"
+ mod_edicts_influence_cost_mult:0 "Edict £influence£ Influence Cost:"
+ MOD_SHIP_ARMOR_ADD:0 "Ship £armor£ Armor Hit Points"
+ MOD_SHIP_ARMOR_MULT:0 "Ship £armor£ Armor Hit Points"
+ mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "Fanatic Spiritualist Ethic Attraction"
+ mod_planet_districts_minerals_cost_mult: "District £minerals£ Mineral Cost"
+ mod_ship_sections_alloys_cost_mult:0 "Ship Section £alloys£ Alloy Cost"
+ mod_country_base_physics_research_produces_add:0 "Monthly £physics_research£ Physics Research"
+ mod_country_base_society_research_produces_add:0 "Monthly £society_research£ Society Research"
+ mod_country_base_engineering_research_produces_add:0 "Monthly £engineering_research£ Engineering Research"
+ mod_country_base_minor_artifacts_produces_add:0 "Monthly £minor_artifacts£ Minor Artifacts"
+ mod_country_base_nanites_produces_add:0 "Monthly £nanites£ Nanites"
+ mod_ship_sections_alloy_cost_multi:0 "Ship Section £alloys£ Alloy Cost"
+ mod_planet_refiners_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_gas_refiner£ Refiners"
+ mod_planet_chemists_volatile_motes_produces_add:0 "£volatile_motes£ Volatile Motes from £job_chemist£ Chemists"
+ mod_planet_translucers_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_translucer£ Translucers"
+ mod_planet_soldiers_unity_produces_add:0 "£unity£ Unity from £job_soldier£ Soldier"
+ mod_starbases_energy_upkeep_mult:0 "Starbase £energy£ Energy Upkeep"
+ mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "Point Defence Weapon Fire Rate"
+ mod_shipclass_starbase_build_speed_mult:0 "Starbase £time£ Buildspeed"
+ 
+ 
+ 
+ ####################################
+ # Edicts Localisation
+ ####################################
+ edict_gpm_edict_pop_assembly:0 "Archeotech Machine Assembly"
+ edict_gpm_edict_pop_assembly_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to boost the production of new machines. This process is highly unstable and will destroy the Minor Artifacts."
+ edict_gpm_edict_tech_alternatives:0 "Archeotech Research Alternatives"
+ edict_gpm_edict_tech_alternatives_desc:0 "Researchers will attempt to decipher some £minor_artifacts£  §BMinor Artifacts§! in hopes of learning new things."
+ edict_gpm_edict_station_production:0 "Archeotech Station Production"
+ edict_gpm_edict_station_production_desc:0 "Upgrade your mining stations with some £minor_artifacts£  §BMinor Artifacts§!. This upgrade is highly unstable and will destroy the Minor Artifacts upgrades after some time."
+ edict_gpm_edict_alloy_production:0 "Archeotech Alloy Production"
+ edict_gpm_edict_alloy_production_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to boost the production of £alloys£ §HAlloys§!. This process is highly unstable and will destroy the Minor Artifacts."
+ edict_gpm_edict_consumer_goods_production:0 "Archeotech Consumer Goods Production"
+ edict_gpm_edict_consumer_goods_production_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to boost the production of £consumer_goods£ §HConsumer Goods§!. This process is highly unstable and will destroy the Minor Artifacts."
+ edict_gpm_edict_exotic_production:0 "Archeotech Exotic Materials Production"
+ edict_gpm_edict_exotic_production_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to boost the production of §HExotic Materials§!. This process is highly unstable and will destroy the Minor Artifacts."
+ edict_gpm_edict_planet_sensor_range:0 "Archeotech Sensors Boosters"
+ edict_gpm_edict_planet_sensor_range_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to temporarily improve the sensor capability of your planets and colonies."
+ edict_gpm_edict_terraform_speed:0 "Archeotech Terraforming Knowledge"
+ edict_gpm_edict_terraform_speed_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to improve the terraforming process. This is very energy intensive and will drain the Minor Artifacts of its power."
+ edict_gpm_edict_armor_regen:0 "Archeotech Repair Fluids"
+ edict_gpm_edict_armor_regen_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to improve the armor regeneration of ships."
+ edict_gpm_edict_shield_regen:0 "Archeotech Shield Boosters"
+ edict_gpm_edict_shield_regen_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to improve the shield regeneration of ships."
+ edict_gpm_edict_ship_bombard_dmg:0 "Archeotech Planetary Warheads"
+ edict_gpm_edict_ship_bombard_dmg_desc:0 "Use £minor_artifacts£  §BMinor Artifacts§! to improve the destructive capability of your ship's planetary bombardment weapons."
+ edict_gpm_edict_army_boost:0 "Archeotech Army Supplies"
+ edict_gpm_edict_army_boost_desc:0 "Distribute £minor_artifacts£  §BMinor Artifacts§! to your armies to improve their combat effectiveness."
+
+
+ # artifact action localisations
+ requires_artifact_sell_collector_cooldown_no_cooldown:0 "$TRIGGER_FAIL$§RCannot sell more artifacts yet.§!"
+ artifact_sell_collector_cooldown:0 "$artifact_sell_collector$ Cooldown"

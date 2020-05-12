@@ -1,0 +1,29 @@
+﻿l_french:
+
+ ###################
+ # Station Defense
+ ###################
+ shipsize_eac_military_station_heavy_small_upkeep_mult:0 "Lourde $shipsize_military_station_small_upkeep_mult$"
+ shipsize_eac_military_station_heavy_small_build_cost_mult:0 "Lourde $shipsize_military_station_small_build_cost_mult$"
+ shipsize_eac_military_station_heavy_small_construction_speed_mult:0 "Vitesse de construction de la plate-forme de défense lourde"
+ mod_shipsize_eac_military_station_heavy_small_hull_add:0 "Points de coque de plate-forme de défense lourde"
+ eac_military_station_heavy_small_plural:0 "Lourde $military_station_small_plural$"
+ eac_military_station_heavy_small:0 "Lourde $military_station_small$"
+ EAC_PLATFORM_FISSION_REACTOR:0 "$PLATFORM_FISSION_REACTOR$"
+ EAC_PLATFORM_FUSION_REACTOR:0 "$PLATFORM_FUSION_REACTOR$"
+ EAC_PLATFORM_COLD_FUSION_REACTOR:0 "$PLATFORM_COLD_FUSION_REACTOR$"
+ EAC_PLATFORM_ANTIMATTER_REACTOR:0 "$PLATFORM_ANTIMATTER_REACTOR$"
+ EAC_PLATFORM_ZERO_POINT_REACTOR:0 "$PLATFORM_ZERO_POINT_REACTOR$"
+ EAC_PLATFORM_DARK_MATTER_REACTOR:0 "$PLATFORM_DARK_MATTER_REACTOR$"
+ EAC_STARBASE_FISSION_REACTOR:0 "$STARBASE_FISSION_REACTOR$"
+ EAC_STARBASE_FUSION_REACTOR:0 "$STARBASE_FUSION_REACTOR$"
+ EAC_STARBASE_COLD_FUSION_REACTOR:0 "$STARBASE_COLD_FUSION_REACTOR$"
+ EAC_STARBASE_ANTIMATTER_REACTOR:0 "$STARBASE_ANTIMATTER_REACTOR$"
+ EAC_STARBASE_ZERO_POINT_REACTOR:0 "$STARBASE_ZERO_POINT_REACTOR$"
+ EAC_STARBASE_DARK_MATTER_REACTOR:0 "$STARBASE_DARK_MATTER_REACTOR$"
+ sm_eac_gun_battery:0 "Batterie de Canon Lourd"
+ sm_eac_gun_battery_desc:0 "Ajoute huit emplacements d'armes (4 larges, 2 intermdéiaire, et 2 Pts. de Déf) à la plateforme.\n"
+ sm_eac_missile_battery:0 "Batterie de Missiles Lourd"
+ sm_eac_missile_battery_desc:0 "Ajoute six emplacements d'armes torpille, et 2 d'armes petites à la plateforme.\n"
+ sm_eac_hangar_bay:0 "Bay à Hangars Lourd"
+ sm_eac_hangar_bay_desc:0 "Ajoute huit hangars pour chasseurs à la plateforme.\n"

@@ -1,0 +1,172 @@
+﻿l_french:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr18_planet_modifier:0 "Mining Complex of the Ancients"
+ apsr18_planet_modifier_desc:0 "This whole planet is a decrepit mining facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ 
+ apsr18_deposit:0 "$apsr18_planet_modifier$"
+ apsr18_deposit_desc:0 "$apsr18_planet_modifier_desc$\n\n§M$apsr18_deposit_effect$§!" 
+ apsr18_deposit_effect:0 "Unique resource available: $apsr18_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr18_building_part1_text:0 "Shadow of the Ancients' faded glory"
+ 
+ apsr18_building_part2_text:0 "Fraction of the restored Mining Complex"
+ 
+ apsr18_building_part3_text:0 "Partly restored Mining Complex"
+ 
+ apsr18_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr18_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have the proper technologies required in order to maximize the output of this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr18_building_part1:0 "Mining Complex of the Ancients: Incipient"
+ apsr18_building_part1_desc:0 "$apsr18_building_predesc$\n$apsr18_building_part1_text$"
+ 
+ apsr18_building_part2:0 "Mining Complex of the Ancient: Section"
+ apsr18_building_part2_desc:0 "$apsr18_building_predesc$\n$apsr18_building_part2_text$"
+ 
+ apsr18_building_part3:0 "Mining Complex of the Ancients"
+ apsr18_building_part3_desc:0 "$apsr18_building_predesc$\n$apsr18_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr18_building_part1_fake:0 "$apsr18_building_part1$"
+ apsr18_building_part1_fake_desc:0 "$apsr18_building_fake_predesc$\n$apsr18_building_part1_text$"
+ 
+ apsr18_building_part2_fake:0 "$apsr18_building_part2$"
+ apsr18_building_part2_fake_desc:0 "$apsr18_building_fake_predesc$\n$apsr18_building_part2_text$"
+ 
+ apsr18_building_part3_fake:0 "$apsr18_building_part3$"
+ apsr18_building_part3_fake_desc:0 "$apsr18_building_fake_predesc$\n$apsr18_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr18_building_part1:0 "Restoring the Glory of the Ancients: Stage 1"
+ tech_apsr18_building_part1_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr18_building_part2:0 "Restoring the Glory of the Ancients: Stage 2"
+ tech_apsr18_building_part2_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ tech_apsr18_building_part3:0 "Restoring the Glory of the Ancients: Stage 3"
+ tech_apsr18_building_part3_desc:0 "The artifacts of the bygone civilization can and must be used."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.18001.title:0 "$apsr18_building_part1$ completed"
+ apsr.18001.desc:0 "We have completed the §Y$apsr18_building_part1$§!, the first step in restoring the Ancients' glory."
+ apsr.18001.ok-button:0 "Perfect"
+ 
+ apsr.18002.title:0 "$apsr18_building_part2$ completed"
+ apsr.18002.desc:0 "We have completed the §Y$apsr18_building_part2$§!! Its construction marks a breakthrough in our industrial development and in the studies of the Ancients' civilization."
+ apsr.18002.ok-button:0 "Perfect"
+ 
+ apsr.18003.title:0 "$apsr18_building_part3$ completed"
+ apsr.18003.desc:0 "We have restored as much as we could of the §YMining Complex of the Ancients§! and gained access to its restored industrial might. Unfortunately, there is only so much we could do, as the passage of time caused destruction beyond recovery!"
+ apsr.18003.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.18811.title:0 "Performance restored"
+ apsr.18811.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr18_building_part1$§!, and developed methodological and technological guidelines for its use. Now we can start using it at an acceptable level."
+ apsr.18811.ok-button:0 "Fine"
+ 
+ apsr.18812.title:0 "Performance improved"
+ apsr.18812.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr18_building_part2$§!, and improved the methodological and technological guidelines for its use. Its output has been greatly increased."
+ apsr.18812.ok-button:0 "Fine"
+ 
+ apsr.18813.title:0 "Performance maximised"
+ apsr.18813.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr18_building_part3$§!, and perfected the methodological and technological guidelines for its use. Now we can use this building with maximum benefit."
+ apsr.18813.ok-button:0 "Fine"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.18011.title:0 "Point of Interest found: §M$apsr18_planet_modifier$§!"
+ apsr.18011.desc:0 "A research team led by §H[Root.GetLeaderName]§! from the ship §H[Root.GetName]§! has discovered something peculiar! \nThis whole planet is a decrepit mining facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.18011.button:1 "We must get this artifact!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.18013.title:0 "Point of Interest found: §M$apsr18_planet_modifier$§!"
+ apsr.18013.desc:0 "This whole planet is a decrepit mining facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.18013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.18015.title:0 "Point of Interest found: §M$apsr18_planet_modifier$§!"
+ apsr.18015.desc:0 "Our intelligence services, while checking for information about the planets of other empires, has found something interesting!\nOn one of the planets a decrepit mining facility belonging to an ancient civilization can be found. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr18_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr18_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr18_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr18_resource_planet.Owner.GetName]§!"
+ apsr.18015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr18_special:0 "$apsr18_planet_modifier$"
+ apsr18_special_desc:0 "$apsr18_planet_modifier_desc$"
+ 
+ APSR18_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR18_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr18_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr18_anomaly:0 "Interesting data"
+ apsr18_anomaly_desc:0 "During the survey of [From.GetName]'s surface we aquired data that definitely needs further investigation."
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.18601.title:0 "$apsr.18011.title$"
+ apsr.18601.desc:0 "$apsr.18011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr18_planet_geologist_normal:0 "Geophysicists"
+ job_apsr18_geologist_normal:0 "Geophysicist"
+ job_apsr18_geologist_normal_plural:0 "Geophysicists"
+ job_apsr18_geologist_normal_desc:0 "A specialist that studies the physical properties of minerals, their chemical composition and interaction, and analyzes and develops methods of deep mining."
+ mod_job_apsr18_geologist_normal_add:0 "Geophysicist"
+ 
+ apsr18_planet_geologist_hive:0 "Geophysicists drones"
+ job_apsr18_geologist_hive:0 "Geophysicist drone"
+ job_apsr18_geologist_hive_plural:0 "Geophysicist drones"
+ job_apsr18_geologist_hive_desc:0 "A being that studies the physical properties of minerals, their chemical composition and interaction, and analyzes and develops methods of deep mining."
+ mod_job_apsr18_geologist_hive_add:0 "Geophysicist drone"
+ 
+ apsr18_planet_geologist_machine:0 "Geophysicists drones"
+ job_apsr18_geologist_machine:0 "Geophysicist drone"
+ job_apsr18_geologist_machine_plural:0 "Geophysicist drones"
+ job_apsr18_geologist_machine_desc:0 "A special drone model that studies the physical properties of minerals, their chemical composition and interaction, and analyzes and develops methods of deep mining."
+ mod_job_apsr18_geologist_hive_add:0 "Geophysicist drone"
+ 
+ 
+ 
+ 
+ 

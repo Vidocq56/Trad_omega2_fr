@@ -1,0 +1,32 @@
+﻿l_english:
+
+ must_be_habitable:2 "Target is a §YHabitable§! target"
+
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_DIGEST:0 "Preparing to digest planet $PLANET|Y$"
+
+
+ PLANET_KILLER_DIGEST:0 "Planetary Digester"
+ PLANET_KILLER_DIGEST_ACTION:0 "Digest World"
+ PLANET_KILLER_DIGEST_DESC:0 "A beam of heat that disperses enzymes and bacteria into the atmosphere in order to decompose and extract essential components from the planet. This process will break down organic and metallic beings into useable resources."
+ 
+ tech_pk_digest:0 "Planetary Digester"
+ tech_pk_digest_desc:0 "$PLANET_KILLER_DIGEST_DESC$"
+ 
+
+ MESSAGE_DESC_FOR_PLANET_KILLER_DIGEST:0 "was digested by"
+ 
+ d_food_1:0 "£food£ +1"
+ d_food_2:0 "£food£ +2"
+ d_food_3:0 "£food£ +3"
+ d_food_4:0 "£food£ +4"
+ d_food_5:0 "£food£ +5"
+ d_food_6:0 "£food£ +6"
+ d_food_7:0 "£food£ +7"
+ d_food_8:0 "£food£ +8"
+ d_food_9:0 "£food£ +9"
+ d_food_10:0 "£food£ +10"
+ 
+ 
+ planet_destruction_digest.2.name:0 "Planet Digested"
+ planet_destruction_digest.2.desc:0 "The [From.From.GetName] has completed the deployment of the digestive enzymes and bacteria payload.\n\nThe bacteria consumed absolutely everything: Oceans, plants, metals, organic and synthetic life alike, leaving [From.GetName] a barren world with nothing but mountains of processed resources ready to be harvested."
+ planet_destruction_digest.2.a:0 "Eat that!"

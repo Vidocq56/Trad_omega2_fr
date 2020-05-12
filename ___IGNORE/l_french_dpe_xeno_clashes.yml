@@ -1,0 +1,167 @@
+﻿l_french:
+
+ ####################################
+ # Dynamic Political Event mod by caligula, Translation by Calvitix
+ # Translation check : OK 17.04.2020
+ ####################################
+
+
+cc_xeno_clashes.2.name:0 "Discours de haine sur [root.GetName]"
+cc_xeno_clashes.2.desc:0 "Une série d'incidents a provoqué une augmentation des tensions entre les [species1.GetNamePlural] et les [species2.GetNamePlural] sur [root.GetName]. Le discours public a pris une tournure nettement xénophobe, les dirigeants des deux camps affirmant que [root.GetName] leur appartient à juste titre. Des documents ont circulé décrivant les autres espèces respectives en termes hautement péjoratifs, et il y a même eu des murmures sinistres parmi les [espèces2.GetNamePlural] sur la façon de résoudre le 'problème [species1.GetAdj]'."
+cc_xeno_clashes.2.desc.phile:0 "Dans une tournure des événements bizarre, les débats sur la question de savoir si les [species1.GetNamePlural] ou les [species2.GetNamePlural] sont plus favorisés par les [root.owner.GetSpeciesNamePlural] se sont intensifiés de façon drastique. Le discours public a pris une tournure nettement xénophobe, les dirigeants des deux parties insultant publiquement les autres espèces respectives et affirmant que [root.GetName] leur appartient à juste titre. Il y a même eu des murmures sinistres parmi les [espèces2.GetNamePlural] sur la façon de résoudre le 'problème [species1.GetAdj]'."
+cc_xeno_clashes.2.phile.own:0 "Les [species1.GetNamePlural] doivent donner un meilleur exemple !"
+cc_xeno_clashes.2.phobe.own:0 "L'attitude xéno ne correspond pas aux [species1.GetNamePlural]."
+cc_xeno_clashes.2.own:0 "Nous devons maintenir la paix."
+cc_xeno_clashes.2.no_own:0 "$cc_xeno_clashes.2.own$"
+cc_xeno_clashes.2.phobe.no_own:0 "Laissez ces sales xénos se déchirer entre eux."
+
+cc_planet_hate_speech:0 "Discours de haine"
+cc_planet_hate_speech_desc:0 "Un discours immoral contribue à des relations inter-espèces tendues sur cette planète."
+
+cc_xeno_clashes.3.name:0 "Les tensions inter-espèces bouillonnent sur [root.GetName]"
+cc_xeno_clashes.3.desc.A:0 "Les tensions inter-espèces sur [root.GetName] ont atteint un point de rupture après que des protestations massives parmi la population [species2.GetAdj] ont été déclenchées par l'arrestation d'un éminent [species2.GetName] pour corruption. Les [species2.GetNamePlural] pensent qu'il s'agit de la dernière d'une série de manoeuvres oppressives des autorités  [species1.GetAdj] contre eux et sont descendus dans la rue pour exprimer leur mécontentement face à la situation. Ces protestations ont été accueillies par des contre-protestations tout aussi importantes de la part des [species1.GetAdj] loyalistes. Les événements ont rapidement échappé à tout contrôle, la police n'ayant pas pu séparer les deux parties, ce qui a provoqué une effusion de sang généralisée. L'armée a été déployée pour rétablir l'ordre dans les rues. Cependant, la situation reste tendue.\n\nQue faire de la situation ?"
+cc_xeno_clashes.3.desc.B:0 "Les tensions inter-espèces sur [root.GetName] ont atteint un point de rupture après que des protestations massives parmi la population [species2.GetAdj] ont été déclenchées par l'arrestation d'un [species2.GetName] éminent pour discours de haine à la suite d'un discours appelant les [species1.GetNamePlural] à rentrer chez eux. Les [species2.GetNamePlural] sont exaspérés par cette décision, qu'ils estiment être la dernière d'une série de mesures oppressives prises par les autorités [species1.GetAdj] contre eux et sont descendus dans la rue pour exprimer leur mécontentement face à la situation. Ces protestations ont été accueillies par des contre-protestations tout aussi importantes de la part des [species1.GetAdj] loyalistes. Les événements ont rapidement échappé à tout contrôle, la police n'ayant pas pu séparer les deux parties, ce qui a provoqué une effusion de sang généralisée. L'armée a été déployée pour rétablir l'ordre dans les rues. Cependant, la situation reste tendue.\n\nComment les autorités [species1.GetAdj] devraient-elles réagir ?"
+cc_xeno_clashes.3.A:0 "Les [species2.GetNamePlural] n'ont pas leur place dans '[root.owner.GetName]'."
+cc_xeno_clashes.3.A.tooltip:0 "La population [species2.GetAdj] de [root.owner.GetName] sera insultée."
+cc_xeno_clashes.3.B:0 "De tels incidents sont inévitables, mais regrettables."
+cc_xeno_clashes.3.B.tooltip:0 "Il est possible que les tensions s'intensifient et se propagent."
+cc_xeno_clashes.3.C:0 "Nous devons trouver un moyen de réunir toutes les espèces."
+cc_xeno_clashes.3.C.tooltip:0 "Une campagne de réconciliation - soutenue par des investissements considérables - apaisera les tensions sur cette planète."
+
+cc_xeno_clashes.31.name:0 "Formation d'un Front d'indépendance [species2.GetAdj]"
+cc_xeno_clashes.31.desc:0 "A l'attention du maudit [root.GetRulerTitle] [root.GetRulerName],\n\nNous devons vous remercier d'avoir clarifié quelque chose que la communauté [species2.GetAdj] soupçonnait depuis longtemps : nous ne sommes pas les bienvenus dans votre '[root.GetName]'. Vous serez donc heureux d'apprendre que nous prévoyons de faire sécession, dès que possible. La tyrannie [species1.GetAdj] ne peut pas - ne durera pas - pour toujours !\n\nCordialement,\n[annoyed_xeno.GetName],\nChef du Front de l'indépendance [species2.GetAdj]"
+cc_xeno_clashes.31.tooltip:0 "Tous les [species2.GetAdj] £pops Pops gagnent le modificateur §R$cc_feels_unwelcome$§!, donnant -20% de bonheur.\nD'autres troubles inter-espèces sont probables."
+
+cc_planet_interspecies_tensions:0 "Tension inter-espèces"
+cc_planet_interspecies_tensions_desc:0 "Les tensions entre les différentes espèces de cette planète sont élevées."
+cc_empire_interspecies_tensions:0 "Tension inter-espèces généralisée"
+cc_empire_interspecies_tensions_desc:0 "Les tensions entre les différentes espèces de l'empire sont élevées."
+cc_feels_unwelcome:0 "Se sent rejetté"
+cc_xenos_disparaged:0 "Étrangers rejettés"
+cc_xenos_disparaged_sup:0 "$cc_xenos_disparaged$"
+cc_xenos_encouraged:0 "Encouragé à une coexistence pacifique"
+
+cc_xeno_reconciliation:0 "Réconciliation Xéno"
+cc_xeno_reconciliation_desc:0 "Après une période de désagréments, le gouvernement a mis en place un programme pour assurer la réconciliation et la coexistence pacifique entre les espèces."
+cc_investment_package:0 "Budget d'investissement"
+cc_investment_package_desc:0 "Le gouvernement central «investit» pour que cette planète reste calme."
+
+cc_xeno_clashes.32.name:0 "La milice [species2.GetAdj] frappe !"
+cc_xeno_clashes.32.desc:0 "Le Front de l'indépendance [species2.GetAdj] a frappé sur [root.GetName]. Les miliciens de [espèce2.GetName] sont tombés sur [species1.GetAdj] communautés sans avertissement, tuant un grand nombre de [species1.GetNamePlural]."
+cc_xeno_clashes.32.option:0 "Nous devons agir pour empêcher de nouveaux massacres."
+
+cc_xeno_clashes.33.name:0 "Le front de l'indépendance [species2.GetAdj frappe !"
+cc_xeno_clashes.33.desc:0 "Des agents du Front d'indépendance [species2.GetAdj] ont ciblé des [species1.GetNamePlural] sur [root.GetName] dans une attaque dévastatrice : une puissante bombe nucléaire a explosé au milieu d'une zone très peuplée de [species1.GetNamePlural], faisant un nombre incalculable de victimes. Les Survivants [species1.GetNamePlural] lancent un appel urgent pour obtenir de l'aide contre de nouvelles attaques terroristes."
+cc_xeno_clashes.33.option:0 "$cc_xeno_clashes.32.option$"
+
+
+cc_xeno_clashes.34.name:0 "Le Front de l'indépendance [species2.GetAdj frappe !"
+cc_xeno_clashes.34.desc:0 "Le Front de l'indépendance [species2.GetAdj] a lancé une cyberattaque dévastatrice contre nos autorités sur [root.GetName], paralysant ses systèmes et volant des données classifiées. Avec notre gouvernement encore sous le choc, ils tentent de le remplacer par une autre administration planétaire [species2.GetAdj]."
+cc_xeno_clashes.34.option:0 "Nous devons agir pour rétablir l'ordre."
+
+cc_xeno_clashes.35.name:0 "La milice [species2.GetAdj] frappe !"
+cc_xeno_clashes.35.desc:0 "Le Front de l'indépendance [species2.GetAdj] a frappé sur [root.GetName]. Les miliciens de [espèce2.GetName] sont tombés sur nos responsables locaux, tuant certains et empêchant les autres d'administrer la planète efficacement. Au lendemain de cet événement, les [species2.GetNamePlural] tentent de mettre en place une autre administration planétaire, [species2.GetAdj]."
+cc_xeno_clashes.35.option:0 "$cc_xeno_clashes.34.option$"
+
+cc_xeno_clashes.36.name:0 "Le front de l'indépendance [species2.GetAdj frappe !"
+cc_xeno_clashes.36.desc:0 "Des agents du Front de l'indépendance [species2.GetAdj] ont frappé '[root.GetName]'. Il semble qu'une petite équipe de kamikazes ait réussi à faire entrer une bombe de grande puissance dans les bâtiments du gouvernement et à la faire exploser. Notre gouvernement est paralysé par la perte de personnel et d'infrastructures et peine à contenir la situation."
+cc_xeno_clashes.36.option:0 "$cc_xeno_clashes.34.option$"
+
+cc_disrupted_government:0 "Gouvernement perturbé"
+cc_disrupted_government_desc:0 "Des éléments rebelles de la population ont perturbé l'administration de cette planète et tentent d'établir un gouvernement parallèle."
+
+cc_xeno_clashes.37.name:0 "Massacres sur [root.GetName]"
+cc_xeno_clashes.37.desc:0 "La situation sur [root.GetName] s'est aggravée au point qu'un génocide est imminent si nous n'intervenons pas immédiatement. Des milices des [species1.GetNamePlural] et des [species2.GetNamePlural] se sont formées en secret et ont lancé une série d'attaques. Les [espèces2.GetNamePlural] ont le dessus dans les premiers échanges et ont capturé et rasé l'une des principales villes [species1.GetAdj], faisant un nombre incalculable de victimes."
+
+cc_xeno_clashes.371.name:0 "Massacres sur [root.GetName]"
+cc_xeno_clashes.371.desc:0 "Le chef de la milice [species1.GetAdj] a demandé le soutien du gouvernement - et aucune conséquence plus tard - aux représailles de ses soldats, promettant qu'il sera en mesure de se venger et de nettoyer la planète de [species2.GetNamePlural]. Comment devons-nous réagir ?"
+cc_xeno_clashes.371.A:0 "Ils doivent faire ce qui est nécessaire."
+cc_xeno_clashes.371.B:0 "Instaurer la loi martiale pour empêcher de nouveaux massacres."
+
+cc_allowed_genocide_of_us:0 "Génocide autorisé de nos espèces"
+
+cc_xeno_clashes.372.name:0 "$cc_xeno_clashes.31.name$"
+cc_xeno_clashes.372.desc:0 "A l'attention du maudit [root.GetRulerTitle] [root.GetRulerName],\n\nIl n'y a pas de mots capables d'exprimer les profondeurs de votre trahison. Sachez que vous vous êtes fait notre ennemi. Votre tyrannie ne peut pas - ne durera pas - pour toujours !\n\nCordialement,\n[annoyed_xeno.GetName],\nChef du Front de l'indépendance [species2.GetAdj]"
+cc_xeno_clashes.372.tooltip:0 "Toutes les £pops Pops [species2.GetAdj] gagnent le modificateur §R$cc_pop_fears_genocide$§!, donnant -50% de bonheur.\nD'autres troubles inter-espèces sont probables."
+
+cc_pop_fears_genocide:0 "Craint le génocide"
+cc_xenos_spared_from_massacre:0 "Xénos épargnés"
+cc_xenos_massacred:0 "Xénos massacrés"
+
+cc_martial_law:0 "Loi martiale instaurée"
+cc_martial_law_desc:0 "Le gouvernement central a dû instaurer une loi martiale pour maintenir la paix sur cette planète."
+
+
+cc_xeno_clashes.382.name:0 "Les tensions inter-espèces s'étendent à [root.GetName]"
+cc_xeno_clashes.382.desc:0 "Les populations [species1.GetAdj] et [espèce2.GetAdj] sur [root.GetName] ont avidement suivi les événements sur [from.GetName], et le discours public sur la planète a commencé à refléter cela sur [from.GetName]. Bien que les incidents ne se soient pas considérablement intensifiés jusqu'à présent, les tensions sont élevées."
+
+cc_xeno_clashes.383.name:0 "Les tensions inter-espèces prennent racine dans [root.GetName]"
+cc_xeno_clashes.383.desc:0 "Les tensions entre les [species2.GetNamePlural] et les [espèce1.GetNamePlural] se sont propagées et dominent désormais le discours partout où les deux populations entrent en contact. Si aucune action n'est entreprise, il y aura sûrement de la violence, et bientôt !"
+
+cc_xeno_clashes.383.A:0 "Instaurer la Loi martiale."
+cc_xeno_clashes.383.B:0 "Nous serions mieux sans les [species2.GetNamePlural]."
+cc_xeno_clashes.383.B.tooltip:0 "Les tensions entre les espèces vont probablement déborder."
+
+
+
+cc_xeno_clashes.4.name:0 "Les tensions inter-espèces bouillonnent sur [root.GetName]"
+cc_xeno_clashes.4.desc:0 "Les tensions inter-espèces entre les [species1.GetNamePlural] et les [species2.GetNamePlural] sur [root.GetName] ont atteint un point de rupture suite à l'assassinat d'un [species1.GetName] éminent par un loyaliste de [espèce2.GetAdj]. Cela a déclenché des manifestations violentes massives parmi la population [species1.GetAdj], qui a commencé à attaquer les [species2.GetNamePlural] dans les rues. Les [espèces2.GetNamePlural] ont rapidement organisé des contre-manifestations, et les événements ont échappé à tout contrôle, avec un bain de sang généralisé car la police n'a pas pu séparer les deux parties. L'armée a été déployée pour rétablir l'ordre dans les rues. Cependant, la situation reste tendue. Les délégations des deux parties ont présenté leur cas au gouverneur planétaire, qui a demandé à l'exécutif des instructions sur la façon de résoudre la situation.\n\nQuelle devrait être la réponse officielle du gouvernement ?"
+cc_xeno_clashes.4.A:0 "Soutenez les [species1.GetNamePlural]."
+cc_xeno_clashes.4.A.tooltip:0 "La population [species2.GetAdj] de [root.owner.GetName] sera insultée, mais les [species1.GetNamePlural] se sentiront légitimés."
+cc_xeno_clashes.4.B:0 "Soutenez les [species2.GetNamePlural]."
+cc_xeno_clashes.4.B.tooltip:0 "La population [espèce1.GetAdj] de [root.owner.GetName] sera insultée, mais les [species2.GetNamePlural] se sentiront légitimés."
+cc_xeno_clashes.4.C:0 "Instaurer la loi martiale jusqu'à ce qu'ils apprennent à s'entendre."
+cc_xeno_clashes.4.D:0 "Envoyez une équipe de négociation."
+cc_xeno_clashes.4.D.tooltip:0 "Peut-être que les tensions peuvent être résolues par la diplomatie."
+cc_xeno_clashes.4.E:0 "Aucun d'entre eux ne mérite une place dans notre '[root.owner.GetName]'."
+cc_xeno_clashes.4.E.tooltip:0 "Les populations [espèce1.GetAdj] et [species2.GetAdj] de [root.owner.GetName] seront insultées."
+
+#E:
+cc_xeno_clashes.41.name:0 "Formation d'un Front d'indépendance [species1.GetAdj]-[espèce2.GetAdj]"
+cc_xeno_clashes.41.desc:0 "A l'attention du maudit [root.GetRulerTitle] [root.GetRulerName],\n\nJusqu'à récemment, nous, les signataires de cette lettre, étions en désaccord. Cependant, votre réponse nous a amenés à réaliser que nous avons un ennemi commun plus grand : les [root.GetSpeciesNamePlural]. Nous avons résolu nos différends et allons maintenant agir ensemble pour créer un état harmonieux - en dehors de [root.GetName].\n\nCordialement,\n[annoyed_xeno.GetName] et [annoyed_xeno2.GetName]\nDirigeants du Front de l'indépendance [species1.GetAdj]-[species2.GetAdj]"
+cc_xeno_clashes.41.tooltip:0 "Tous les [species1.GetAdj] et [species2.GetAdj] £pops Pops obtiennent le modificateur §R$cc_feels_unwelcome$§!, donnant -20% de bonheur.\nD'autres troubles inter-espèces sont probables."
+
+
+cc_xeno_clashes.42.name:0 "[species1.GetAdj] - La milice [species2.GetAdj] frappe !"
+cc_xeno_clashes.42.desc:0 "Le [species1.GetAdj] - Front de l'indépendance [species2.GetAdj] a frappé sur [root.GetName]. Les milices [espèces1.GetNamePlural] et [species2.GetName] sont tombées sur les communautés [root.owner.GetSpeciesAdj] sans avertissement, tuant un grand nombre de [root.owner.GetSpeciesNamePlural]."
+cc_xeno_clashes.42.option:0 "Nous devons agir pour empêcher de nouveaux massacres."
+
+cc_xeno_clashes.43.name:0 "Le Front de l'indépendance [species1.GetAdj]-[espèce2.GetAdj] frappe !"
+cc_xeno_clashes.43.desc:0 "Des agents du Front d'indépendance  [species1.GetAdj]-[espèces2.GetAdj] ont ciblé des [root.owner.GetSpeciesNamePlural] sur [root.GetName] dans une attaque dévastatrice : une puissante bombe nucléaire a explosé au milieu d'une zone très peuplée de [root.owner.GetSpeciesNamePlural], provoquant un nombre incalculable de victimes. Les [root.owner.GetSpeciesNamePlural] survivant lancent un appel urgent pour obtenir de l'aide contre de nouvelles attaques terroristes."
+cc_xeno_clashes.43.option:0 "$cc_xeno_clashes.42.option$"
+
+
+cc_xeno_clashes.44.name:0 "Le Front de l'indépendance [species1.GetAdj]-[espèce2.GetAdj] frappe !"
+cc_xeno_clashes.44.desc:0 "Le Front de l'indépendance [species1.GetAdj]-[species2.GetAdj] a lancé une cyberattaque dévastatrice contre nos autorités sur [root.GetName], paralysant ses systèmes et volant des données classifiées. Avec notre gouvernement encore sous le choc, ils tentent de le remplacer par une administration planétaire alternative [species1.GetAdj]-[espèces2.GetAdj]."
+cc_xeno_clashes.44.option:0 "Nous devons agir pour rétablir l'ordre."
+
+cc_xeno_clashes.45.name:0 "La milice [species1.GetAdj]-[species2.GetAdj] frappe !"
+cc_xeno_clashes.45.desc:0 "Le Front de l'indépendance [species1.GetAdj]-[species2.GetAdj] a frappé [root.GetName]. Les miliciens de [espèce2.GetName] sont tombés sur nos responsables locaux, tuant certains et empêchant les autres d'administrer la planète efficacement. Au lendemain de cette grève, les [species1.GetNamePlural] et les [espèces2.GetNamePlural] tentent de remplacer notre gouvernement par une alternative, [species1.GetAdj]-[espèces2.GetAdj] l'administration planétaire."
+cc_xeno_clashes.45.option:0 "$cc_xeno_clashes.44.option$"
+
+cc_xeno_clashes.46.name:0 "Le Front de l'indépendance [species1.GetAdj]-[espèce2.GetAdj] frappe !"
+cc_xeno_clashes.46.desc:0 "Des agents du Front d'indépendance [species1.GetAdj]-[espèce2.GetAdj] ont frappé sur [root.GetName]. Il semble qu'une petite équipe de kamikazes ait réussi à faire entrer une bombe de grande puissance dans les bâtiments du gouvernement et à la faire exploser. Notre gouvernement est paralysé par la perte de personnel et d'infrastructures et peine à contenir la situation."
+cc_xeno_clashes.46.option:0 "$cc_xeno_clashes.44.option$"
+
+cc_xeno_clashes.5.name:0 "Les négociations échouent sur [root.GetName]"
+cc_xeno_clashes.5.desc:0 "Les négociations pour résoudre les tensions entre les [species1.GetNamePlural] et les [espèce2.GetNamePlural] ont échoué sur [root.GetName]. Il n'y aura pas de fin rapide aux tensions."
+cc_xeno_clashes.5.A:0 "Ensuite, nous devons faire respecter la paix."
+cc_xeno_clashes.5.B:0 "Et bien."
+
+cc_xeno_clashes.51.name:0 "Une solution aux tensions sur [root.GetName] ?"
+cc_xeno_clashes.51.desc:0 "Les négociations pour résoudre les tensions entre les [species1.GetNamePlural] et les [espèce2.GetNamePlural] ont permis aux deux espèces de trouver un terrain d'entente. En effet, ils sont désormais d'accord pour dire qu'ils peuvent facilement garantir le rétablissement de la paix, s'ils bénéficient du soutien du gouvernement [root.owner.GetSpeciesAdj]. De façon suspecte, il semble que ce soutien impliquera un large 'budget de développement', apparemment pour garantir que la planète est suffisamment prospère pour que les tensions ne réapparaissent pas."
+cc_xeno_clashes.51.A:0 "Ils auront notre soutien"
+cc_xeno_clashes.51.B:0 "Les impudents !"
+cc_xeno_clashes.51.B.tooltip:0 "La paix sur [root.GetName] pourrait à nouveau s'effondrer."
+
+cc_xeno_clashes.52.name:0 "La paix s'effondre sur [root.GetName]"
+cc_xeno_clashes.52.desc:0 "Le cessez-le-feu difficile a été rompu sur [root.GetName]."
+cc_xeno_clashes.52.A:0 "Alors, nous devons imposer la paix."
+cc_xeno_clashes.52.B:0 "Et bien."
+
+cc_xeno_clashes.53.name:0 "La paix tient sur [root.GetName]"
+cc_xeno_clashes.53.desc:0 "Malgré notre refus d'être extorqués de nos fonds gouvernementaux, les [species1.GetNamePlural] et les [espèces2.GetNamePlural] n'ont pas donné suite à leurs menaces de reprendre la violence, et la paix difficile entre les espèces sur [root.GetName] s'est maintenue."
+
+#cc_ruled_against_our_pops:0 "A statué contre nos citoyens"
+cc_ruled_against_us_pops:0 "A statué contre nous"
+cc_ruled_in_our_favour_pops:0 "A statué en notre faveur"

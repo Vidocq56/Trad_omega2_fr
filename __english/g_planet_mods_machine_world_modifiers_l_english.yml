@@ -1,0 +1,89 @@
+﻿l_english:
+
+ ###################################################
+ # Machine World Modifiers
+ ###################################################
+ 
+ # 1 me
+ gpm_ghost_in_the_machine:0 "Ghost In The Machine"
+ gpm_ghost_in_the_machine_desc:0 "There are strange signals coming from this machine world that do not match those of the machine consciousness of the creator of this world. They seem to indicate there is another machine consciousness active, a consciousness within a consciousness."
+
+ # 2 me
+ gpm_framework:0 "gpm_framework"
+ gpm_framework_desc:0 "A vast array of super processing hubs on this world is used to hook up its population into some kind of virtual reality world. Endless rows of pods, each with a single individual inside, connected to giant networks that all go to a central nexus."
+
+ # 3 me
+ gpm_giant_transmitter:0 "Giant Transmitter"
+ gpm_giant_transmitter_desc:0 "A giant transmitting dish is built into the surface of this machine world. Its primary purpose, to let the machine consciousness transmit its signal to other worlds, potentially infecting worlds of other advanced civilisations."
+
+ # 4 me
+ gpm_pleasure_planet:0 "Pleasure Planet"
+ gpm_pleasure_planet_desc:0 "Despite its grim appearance this machines on this world and its biological inhabitants seem to be quite content with each other. The many individuals on this planet appear to take great pleasure in using specially designed robots in various stimulating ways. The world seems to use these pleasure bots to maintain order and keep its inhabitants happy and fulfilled."
+
+ # 5 me
+ gpm_holographic_combat_simulators:0 "Holographic Combat Simulators"
+ gpm_holographic_combat_simulators_desc:0 "Spread around the surface of this machine planet  there are massive holographic fields simulating entire cities and battlefields. They seem to be primarily used to simulate combat and invasions."
+
+ # 6 me
+ gpm_living_knowledge_base:0 "Living Knowledge Base"
+ gpm_living_knowledge_base_desc:0 "Billions of biological life forms are encased in pods deep within the machine-like structure of this world. All these life forms have Implants and scanners hooked from their central nervous systems and going to the planets AI core. This machine world is using these life forms as a biological database to read the minds and dreams. Perhaps this is done to use the collective knowledge of these life forms, or perhaps they are looking for an answer to the meaning of existence."
+
+ # 7 me
+ gpm_rogue_programming:0 "Rogue Programming"
+ gpm_rogue_programming_desc:0 "Some of the servitor programs on this machine world are exhibiting irrational patterns and have been observed trying to upload themselves into rudimentary physical bodies. Because of this phenomenon this machine world has a planet-wide firewall facility where the aberrant programs are isolated from the rest of the totality of the AI consciousness. Possibly for study, but definitely to prevent the spread of rogues machines.."
+
+ # 8 me
+ gpm_magnetic_wave_defence:0 "Magnetic Wave Defence"
+ gpm_magnetic_wave_defence_desc:0 "Trillions of tiny electromagnetic emitters are spread across the infrastructure of this machine world. These tiny emitters react to the presence of biological matter and have been observed emitting extremely strong localised EM radiation. It's theorised that exposure to this type and intensity of EM radiation would wipe the brain of electrons and instantly kill a biological life form."
+
+ # 9 me
+ gpm_hollow_planet:0 "Hollow Planet"
+ gpm_hollow_planet_desc:0 "Large sections of this machine world have been dug out exposing a central, nearly dead, core. Around which massive machine tendrils have been built to support the outer layers of the planet. Along the surface of this tendrils are massive machine factories and various other infrastructure."
+
+ # 10 me
+ gpm_true_randomness_unit:0 "True Randomness Unit"
+ gpm_true_randomness_unit_desc:0 "Central to this machine world is a giant structure that is taking virtually all the power available. This structure is designed to research artificial randomness. A unit capable of providing a random number that is not seeded by various variables such as location or time. A true randomness unit."
+
+ # 11 me
+ gpm_organic_infestation:0 "Organic Infestation"
+ gpm_organic_infestation_desc:0 "The original inhabitants of this world have manage to survive the purge of their species by going deep underground and hiding in sealed off places."
+ # 12 me
+ gpm_labyrinth_world:0 "Labyrinth World"
+ gpm_labyrinth_world_desc:0 "The surface of this world is entirely covered with solar panels and communication infrastructure. All production, research and shipbuilding facilities are located within layer upon layer of colossal artificial caverns. The root intelligence of this world is located right at the very core."
+ # 13 me
+ gpm_contingency_em_shielding:0 "EM Flux Shielding"
+ gpm_contingency_em_shielding_desc:0 "Critical parts of this machine world are covered in exotic alloys specifically designed to provide extensive electro-magnetic shielding."
+ # 14 me
+ gpm_nanite_infrastructure:0 "Replicator Infrastructure"
+ gpm_nanite_infrastructure_desc:0 "Most of the infrastructure on this world is built by uncountable numbers of tiny replicators. These tiny robots can replicate themselves and turn simple building materials into complex structures."
+ # 15 me
+ gpm_planetary_databases:0 "Planetary Database"
+ gpm_planetary_databases_desc:0 "Most of the processing power of this world has been spread across its vast surfaces to allow for maximum redundancy."
+ # 16 me
+ gpm_artificial_atmosphere:0 "Artificial Atmosphere"
+ gpm_artificial_atmosphere_desc:0 "This world has a specifically designed artificial atmosphere, consisting mostly of argon gas as it is non-reactive with any material."
+ # 17 me
+ gpm_space_elevators_machine:0 "Space Elevators"
+ gpm_space_elevators_machine_desc:0 "Large elevators reaching low orbit allow this world to put materials in orbit at a much cheaper and faster rate."
+ # 18 me
+ gpm_quantum_information_network:0 "Quantum Information Network"
+ gpm_quantum_information_network_desc:0 "Extremely advanced quantum connections allow for information to be transmitted instantly across large distances."
+ # 19 me
+ gpm_planetwide_printing:0 "Planetary Printing"
+ gpm_planetwide_printing_desc:0 "Massive six legged mobile 3D-printers are constantly building new infrastructure as they crawl around the surface of this world."
+ # 20 me
+ gpm_liquid_cooling:0 "Liquid Cooled Infrastructure"
+ gpm_liquid_cooling_desc:0 "Vast pipes and tunnels filled with super-coolant run from the surface of this world to deep within the core and back. These pipes and tunnels are vital to the performance of this world."
+ # 21 me
+ gpm_robotic_pests:0 "Robotic Pests"
+ gpm_robotic_pests_desc:0 "The surface of this world is crawling with small maintenance drones. To most larger machines and robots on this world they form a kind of pest as they are constantly crawling in places they shouldn't go."
+ # 22 me
+ gpm_crystal_farms:0 "Crystal Farms"
+ gpm_crystal_farms_desc:0 "Billions of small crystal growth chambers form a vast network of material production."
+ # 23 me
+ gpm_smooth_architecture:0 "Organic Architecture"
+ gpm_smooth_architecture_desc:0 "Most of the infrastructure on this world shows similarities with very organic designs from other biological species."
+ # 24 me
+ gpm_sharp_architecture:0 "Sharp Architecture"
+ gpm_sharp_architecture_desc:0 "Most of the infrastructure on this world is designed with function over form. Sharp corners, vast flat surfaces and unappealing colours may not be aesthetically pleasing to look at but serve their function none the less."
+

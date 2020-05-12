@@ -1,0 +1,281 @@
+﻿l_english:
+  #Housing Districts:
+  
+  district_suburban_city:0 "Suburban Housing"
+  mod_district_suburban_city_max:0 "Suburban Housing"
+  district_suburban_city_plural:0 "Suburban Housing"
+  district_suburban_city_desc:0 ""
+  
+  district_slums:0 "Slums"
+  mod_district_slums_max:0 "Slums"
+  district_slums_plural:0 "Slums"
+  district_slums_desc:0 ""
+  
+  district_shelters:0 "Shelters"
+  mod_district_shelters_max:0 "Shelters"
+  district_shelters_plural:0 "Shelters"
+  district_shelters_desc:0 ""
+  
+  district_underground_city:0 "Underground City"
+  mod_district_underground_city_max:0 "Underground City"
+  district_underground_city_plural:0 "Underground City"
+  district_underground_city_desc:0 ""
+  
+  district_rw_ascended_housing:0 "Ascended Housing"
+  mod_district_rw_ascended_housing_max:0 "Ascended Housing"
+  district_rw_ascended_housing_plural:0 "Ascended Housing"
+  district_rw_ascended_housing_desc:0 "This district uses restored precursor gravity-modifying technology to allow construction of ridiculously tall and spacious housing."
+  
+  #Energy Districts:
+  
+  district_wind_turbines:0 "Wind Park"
+  mod_district_wind_turbines_max:0 "Wind Park"
+  district_wind_turbines_plural:0 "Wind Parks"
+  district_wind_turbines_desc:0 "Intense winds on this part of the planet can be efficiently converted into energy."
+  
+  district_geothermal_generator:0 "Geothermal Power Plant"
+  mod_district_geothermal_generator_max:0 "Geothermal Power Plant"
+  district_geothermal_generator_plural:0 "Geothermal Power Plants"
+  district_geothermal_generator_desc:0 "A geothermal power plant uses the planet’s natural geothermal activity and converts it to energy."
+  
+  district_solar_generator:0 "Solar Array"
+  mod_district_solar_generator_max:0 "Solar Array"
+  district_solar_generator_plural:0 "Solar Arrays"
+  district_solar_generator_desc:0 "Large flat plains and clear skies make this area perfect for low-maintenance high-output solar arrays."
+  
+  district_tidal_generator:0 "Tidal Generator"
+  mod_district_tidal_generator_max:0 "Tidal Generator"
+  district_tidal_generator_plural:0 "Tidal Generators"
+  district_tidal_generator_desc:0 "These Tidal Generators are installed in the ocean and use the planets tidal forces to produce energy."
+  
+  #Mining Districts:
+  
+  district_cheap_mining:0 "Low Cost Mines"
+  mod_district_cheap_mining_max:0 "Low Cost Mines"
+  district_cheap_mining_plural:0 "Low Cost Mines"
+  district_cheap_mining_desc:0 "Safety regulations and worker happiness are secondary to high mineral output in those mines."
+  
+  district_secure_mining:0 "High Cost Mines"
+  mod_district_secure_mining_max:0 "High Cost Mines"
+  district_secure_mining_plural:0 "High Cost Mines"
+  district_secure_mining_desc:0 "Who thought that a mine could be such a pleasant work environment?"
+  
+  district_surface_mining:0 "Surface Mines"
+  mod_district_surface_mining_max:0 "Surface Mines"
+  district_surface_mining_plural:0 "Surface Mines"
+  district_surface_mining_desc:0 "Collecting rocks one at a time..."
+  
+  district_asteroid_belt_mining:0 "Asteroid Belt Mining"
+  mod_district_asteroid_belt_mining_max:0 "Asteroid Belt Mining"
+  district_asteroid_belt_mining_plural:0 "Asteroid Belt Mining"
+  district_asteroid_belt_mining_desc:0 ""
+  
+  district_rw_asteroid_belt_mining:0 "Asteroid Belt Mining"
+  mod_district_rw_asteroid_belt_mining_max:0 "Asteroid Belt Mining"
+  district_rw_asteroid_belt_mining_plural:0 "Asteroid Belt Mining"
+  district_rw_asteroid_belt_mining_desc:0 ""
+  
+  #Farming Districts:
+  
+  district_hydroponic_bay:0 "Hydroponic Bay"
+  mod_district_hydroponic_bay_max:0 "Hydroponic Bay"
+  district_hydroponic_bay_plural:0 "Hydroponic Bays"
+  district_hydroponic_bay_desc:0 "Hydroponics require energy but produce food on otherwise less hospitable planets."
+  
+  district_nature_farms:0 "Nature Farm"
+  mod_district_nature_farms_max:0 "Nature Farm"
+  district_nature_farms_plural:0 "Nature Farms"
+  district_nature_farms_desc:0 "Going out into the wild and farming, what nature provides us with."
+  
+  district_efficient_farms:0 "Efficient Farm"
+  mod_district_efficient_farms_max:0 "Efficient Farm"
+  district_efficient_farms_plural:0 "Efficient Farms"
+  district_efficient_farms_desc:0 "Space efficient Farms use more workers to produce more food."
+  
+  district_ocean_farms:0 "Ocean Farm"
+  mod_district_ocean_farms_max:0 "Ocean Farm"
+  district_ocean_farms_plural:0 "Ocean Farms"
+  district_ocean_farms_desc:0 "Ocean Farms use seaweed to produce healthy food."
+  
+  district_exotic_farms:0 "Exotic Farm"
+  mod_district_exotic_farms_max:0 "Exotic Farm"
+  district_exotic_farms_plural:0 "Exotic Farms"
+  district_exotic_farms_desc:0 ""
+  
+  #Primary Districts:
+  
+  district_nature_reserve:0 "Nature Reserve"
+  mod_district_nature_reserve_max:0 "Nature Reserve"
+  district_nature_reserve_plural:0 "Nature Reserves"
+  district_nature_reserve_desc:0 "A patch of natural planetary environment free from industrial activity, maintained and guarded by the rangers."
+  
+  district_research_complex:0 "Research Complex"
+  mod_district_research_complex_max:0 "Research Complex"
+  district_research_complex_plural:0 "Research Complexes"
+  district_research_complex_desc:0 "Physics research complexes will bring groundbreaking (sometimes literally) research to your empire."
+  
+  district_tourism:0 "Tourism District"
+  mod_district_tourism_max:0 "Tourism District"
+  district_tourism_plural:0 "Tourism Districts"
+  district_tourism_desc:0 "The number one holiday destination in the Galaxy!"
+  
+  district_chemistry_industry:0 "Chemical Industry"
+  mod_district_chemistry_industry_max:0 "Chemical Industry"
+  district_chemistry_industry_plural:0 "Chemical Industries"
+  district_chemistry_industry_desc:0 "It might not be that good for the environment, but you can always just colonize another planet."
+  
+  district_gas_refinery:0 "Gas Refinery"
+  mod_district_gas_refinery_max:0 "Gas Refinery"
+  district_gas_refinery_plural:0 "Gas Refineries"
+  district_gas_refinery_desc:0 "Trace amounts of exotic gases can be found in the planet’s deposits. This district-wide facility is dedicated to extracting and refining them into usable concentrations."
+  
+  district_crystal_mines:0 "Crystal Mines"
+  mod_district_crystal_mines_max:0 "Crystal Mines"
+  district_crystal_mines_plural:0 "Crystal Mines"
+  district_crystal_mines_desc:0 "Rare crystals can be found in this planet’s crust. It takes a district-wide facility to dig deep enough for them."
+  
+  district_ocean_housing:0 "Ocean Housing"
+  mod_district_ocean_housing_max:0 "Ocean Housing"
+  district_ocean_housing_plural:0 "Ocean Housing"
+  district_ocean_housing_desc:0 "These districts are gigantic buildings floating on the ocean."
+  
+  district_ecogardens:0 "Ecogarden"
+  mod_district_ecogardens_max:0 "Ecogarden"
+  district_ecogardens_plural:0 "Ecogardens"
+  district_ecogardens_desc:0 "Most beautiful flora and fauna of this world is gathered here to create a perfect harmony of life."
+  
+  district_gardens:0 "Garden"
+  mod_district_gardens_max:0 "Garden"
+  district_gardens_plural:0 "Gardens"
+  district_gardens_desc:0 "Beautiful flora and fauna of this world is gathered here to create a perfect harmony of life."
+  
+  district_ascended_housing:0 "Ascended Housing"
+  mod_district_ascended_housing_max:0 "Ascended Housing"
+  district_ascended_housing_plural:0 "Ascended Housing"
+  district_ascended_housing_desc:0 "This district uses restored precursor gravity-modifying technology to allow construction of ridiculously tall and spacious housing."
+  
+  district_cloning_facility:0 "Cloning Facility"
+  mod_district_cloning_facility_max:0 "Cloning Facility"
+  district_cloning_facility_plural:0 "Cloning Facilities"
+  district_cloning_facility_desc:0 ""
+  
+  district_robot_assembly:0 "Robot Assembly"
+  mod_district_robot_assembly_max:0 "Robot Assembly"
+  district_robot_assembly_plural:0 "Robot Assemblys"
+  district_robot_assembly_desc:0 ""
+  
+  district_drone_lab:0 "Drone Lab"
+  mod_district_drone_lab_max:0 "Drone Lab"
+  district_drone_lab_plural:0 "Drone Lab"
+  district_drone_lab_desc:0 ""
+  
+  district_archeology:0 "Archeology District"
+  mod_district_archeology_max:0 "Archeology District"
+  district_archeology_plural:0 "Archeology Districts"
+  district_archeology_desc:0 ""
+  
+  district_rw_universal:0 "Universal District"
+  mod_district_rw_universal_max:0 "Universal District"
+  district_rw_universal_plural:0 "Universal Districts"
+  district_rw_universal_desc:0 ""
+  
+  #Secondary Districts (Tier 1):
+  
+  district_local_stores:0 "Local Store"
+  mod_district_local_stores_max:0 "Local Store"
+  district_local_stores_plural:0 "Local Stores"
+  district_local_stores_desc:0 "Your friendly neighborhood store."
+  
+  district_spaceport:0 "Spaceport"
+  mod_district_spaceport_max:0 "Spaceport"
+  district_spaceport_plural:0 "Spaceports"
+  district_spaceport_desc:0 "A spaceport enables more trade and pilots working there will increase your naval capacity."
+  
+  district_workshops:0 "Workshop"
+  mod_district_workshops_max:0 "Workshop"
+  district_workshops_plural:0 "Workshops"
+  district_workshops_desc:0 "Engineers engineer engineering things here."
+  
+  district_local_industry:0 "Local Industry"
+  mod_district_local_industry_max:0 "Local Industry"
+  district_local_industry_plural:0 "Local Industries"
+  district_local_industry_desc:0 "Local industries produce limited amounts of alloys."
+  
+  district_production_hub:0 "Production Hub"
+  mod_district_production_hub_max:0 "Production Hub"
+  district_production_hub_plural:0 "Production Hubs"
+  district_production_hub_desc:0 "A production hub produces/manufactures everything your pops require. Galaxy-wide shipping included. (Free Galaxy wide Shipping!!!)"
+  
+  district_academy:0 "Academy"
+  mod_district_academy_max:0 "Academy"
+  district_academy_plural:0 "Academy"
+  district_academy_desc:0 ""
+  
+  district_university:0 "University"
+  mod_district_university_max:0 "University"
+  district_university_plural:0 "Universitys"
+  district_university_desc:0 ""
+  
+  district_logistics_hub:0 "Logistics Hub"
+  mod_district_logistics_hub_max:0 "Logistics Hub"
+  district_logistics_hub_plural:0 "Logistics Hub"
+  district_logistics_hub_desc:0 ""
+  
+  #Secondary Districts (Tier 2):
+  
+  district_commerce:0 "Commerce Sector §R(Tier II)§!"
+  mod_district_commerce_max:0 "Commerce Sector §R(Tier II)§!"
+  district_commerce_plural:0 "Commerce Sectors §R(Tier II)§!"
+  district_commerce_desc:0 "Let the commerce flow!"
+  
+  district_workshops_t2:0 "Workshop §R(Tier II)§!"
+  mod_district_workshops_t2_max:0 "Workshop §R(Tier II)§!"
+  district_workshops_t2_plural:0 "Workshops §R(Tier II)§!"
+  district_workshops_t2_desc:0 "Engineers engineer engineering things here."
+  
+  district_university_t2:0 "University §R(Tier II)§!"
+  mod_district_university_t2_max:0 "University §R(Tier II)§!"
+  district_university_t2_plural:0 "Universitys §R(Tier II)§!"
+  district_university_t2_desc:0 ""
+  
+  district_industry:0 "Industry §R(Tier II)§!"
+  mod_district_industry_max:0 "Industry §R(Tier II)§!"
+  district_industry_plural:0 "Industries §R(Tier II)§!"
+  district_industry_desc:0 "Industries produce large amounts of alloys."
+  
+  district_civilian_industry:0 "Civilian Industry §R(Tier II)§!"
+  mod_district_civilian_industry_max:0 "Civilian Industry §R(Tier II)§!"
+  district_civilian_industry_plural:0 "Civilian Industries §R(Tier II)§!"
+  district_civilian_industry_desc:0 "A civilian industries produces/manufactures everything your pops require. Galaxy-wide shipping included. (Free Galaxy wide Shipping!!!)"
+
+  district_spaceport_t2:0 "Spaceport §R(Tier II)§!"
+  mod_district_spaceport_t2_max:0 "Spaceport §R(Tier II)§!"
+  district_spaceport_t2_plural:0 "Spaceports §R(Tier II)§!"
+  district_spaceport_t2_desc:0 "A spaceport enables more trade and pilots working there will increase your naval capacity."
+  
+  district_academy_t2:0 "Academy §R(Tier II)§!"
+  mod_district_academy_t2_max:0 "Academy §R(Tier II)§!"
+  district_academy_t2_plural:0 "Academy §R(Tier II)§!"
+  district_academy_t2_desc:0 ""
+  
+  district_logistics_hub_t2:0 "Logistics Hub §R(Tier II)§!"
+  mod_district_logistics_hub_t2_max:0 "Logistics Hub §R(Tier II)§!"
+  district_logistics_hub_t2_plural:0 "Logistics Hub §R(Tier II)§!"
+  district_logistics_hub_t2_desc:0 ""
+  
+  # Mod Districts:
+  
+  district_dyson_spaceport:0 "Spaceport"
+  mod_district_dyson_spaceport_max:0 "Spaceport"
+  district_dyson_spaceport_plural:0 "Spaceports"
+  district_dyson_spaceport_desc:0 "A spaceport enables more trade and pilots working there will increase your naval capacity."
+  
+  district_tibanna_gas_mines:0 "Planetary Tibanna Mine"
+  mod_district_tibanna_gas_mines_max:0 "Planetary Tibanna Mines"
+  district_tibanna_gas_mines_plural:0 "Planetary Tibanna Mines"
+  district_tibanna_gas_mines_desc:0 "Tibanna Mines allow specialised miners to drill down below a planet's crust and harvest gas pockets there. They are not as effective as Gas Giant Tibanna Mining Stations."
+  
+  district_kyber_crystal_mines:0 "Planetary Kyber Mine"
+  mod_district_kyber_crystal_mines_max:0 "Planetary Kyber Mines"
+  district_kyber_crystal_mines_plural:0 "Planetary Kyber Mines"
+  district_kyber_crystal_mines_desc:0 "Kyber Mines allow for the harvesting of extremely valuable Kyber Crystals, which are used in advanced weapon types. Not as effective as Star Kyber Mining Stations."

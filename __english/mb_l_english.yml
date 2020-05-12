@@ -1,0 +1,56 @@
+﻿l_english:
+
+ civic_mutualistic_behavior:0 "Mutualistic Behavior"
+ civic_mutualistic_behavior_desc:1 "Mutualism plays a key part in ecology and so has this Hive learned to thrive by cooperating with other species from its home planet, now looking at the stars for new species to cooperate with."
+ civic_tooltip_mutualistic_behavior_effects:0 "§ECan establish §YBranch Offices§! without §YCommercial Pacts§!§!\n§ECannot use §HUnrestricted Wars§! policy§!\n§ECannot engage in §HIndiscriminate§! Orbital Bombardment§!\n§HRefugees§! §Eare always welcome§!\n§ECan always §HAssimilate§! biological pops§!\n§ECan form §HMigration Pacts§!§!\n§ECan not §HPurge§! nor §HEnslave§! pops§!\n\n"
+
+
+ gov_mutualistic_behavior:0 "Mutualistic Cooperators"
+ gov_mutualistic_behavior_desc:0 "This Hive continues to grow its relationships with other species, seeking mutually beneficial arrangements."
+
+ building_targeted_flora:0 "Planetary Care Facilities"
+ building_targeted_flora_desc:0 "Do not judge each day by the harvest you reap, but by the seeds that you plant."
+ building_targeted_fauna:0 "Local Fauna Cultural Centers"
+ building_targeted_fauna_desc:0 "Until one has loved an animal, a part of one's soul remains unawakened."
+ building_observatory:0 "Long Range Observatory"
+ building_observatory_desc:0 "Not all who wander are lost."
+ building_foreign_arquitecture:0 "Foreign Architecture"
+ building_foreign_arquitecture_desc:0 "Recognizing the need is the primary condition for design."
+ building_species_protector_center:0 "Species Protection Generator"
+ building_species_protector_center_desc:0 "We all have a responsibility to protect endangered species, both for their sake and for the sake of our own future generations."
+ building_urban_maintenance:0 "Urban Maintnence Systems"
+ building_urban_maintenance_desc:0 "Happiness is a by-product of a life well lived."
+ building_tourism_campaign:0 "Tourism Center"
+ building_tourism_campaign_desc:0 "Travel makes one modest. You see what a tiny place you occupy in the galaxy."
+ building_recycling_center:0 "Recycling Complex"
+ building_recycling_center_desc:0 "Often when you think you're at the end of something, you're at the beginning of something else."
+ 
+ 
+ building_organic_targeted_flora:0 "Planetary Care Facilities"
+ building_organic_targeted_flora_desc:0 "Do not judge each day by the harvest you reap, but by the seeds that you plant."
+ building_organic_targeted_fauna:0 "Local Fauna Cultural Centers"
+ building_organic_targeted_fauna_desc:0 "Until one has loved an animal, a part of one's soul remains unawakened."
+ building_organic_observatory:0 "Long Range Observatory"
+ building_organic_observatory_desc:0 "Not all who wander are lost."
+ building_organic_foreign_arquitecture:0 "Foreign Architecture"
+ building_organic_foreign_arquitecture_desc:0 "Recognizing the need is the primary condition for design."
+ building_organic_species_protector_center:0 "Species Protection Generator"
+ building_organic_species_protector_center_desc:0 "We all have a responsibility to protect endangered species, both for their sake and for the sake of our own future generations."
+ building_organic_urban_maintenance:0 "Urban Maintnence Systems"
+ building_organic_urban_maintenance_desc:0 "Happiness is a by-product of a life well lived."
+ building_organic_tourism_campaign:0 "Tourism Center"
+ building_organic_tourism_campaign_desc:0 "Travel makes one modest. You see what a tiny place you occupy in the galaxy."
+ building_organic_larvae_chamber:0 "Larvae Chamber"
+ building_organic_larvae_chamber_desc:0 "Slimy, yet satisfying. These chambers are breeding cells for larvae, locals will take care of the growing larvae, tho I dont think they will like this job very much."
+ building_organic_recycling_center:0 "Recycling Complex"
+ building_organic_recycling_center_desc:0 "Often when you think you're at the end of something, you're at the beginning of something else."
+ 
+ 
+ opinion_mutualistic_behavior:0 "Mutualistic Behavior"
+ protection_wars_name: "Protect Endangered Species"
+ casus_belli_cb_protect: "Force Protection"
+ protection_wars: "Protection Wars"
+ protection_wars_desc: "Wage war to prevent extinction, recover imperiled plants, planets and animals, and protect the ecosystems on which they depend."
+ war_goal_wg_protect: "Protect Endangered Species"
+ war_goal_wg_protect_desc: "Wage war to prevent extinction, recover imperiled plants, planets and animals, and protect the ecosystems on which they depend."
+ 

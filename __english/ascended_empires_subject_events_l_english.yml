@@ -1,0 +1,89 @@
+﻿l_english:
+
+ ascended_empires_subject.2.name:0 "Too Brilliant for a Primitive"
+ ascended_empires_subject.2.desc:0 "It has come to our attention that a primitive scientist - [AscendedEmpireScientistTarget.GetName] - was the mastermind behind many of the recent technological breakthroughs in the §H[NoobEmpire.GetName]§!. At this rate, it may not be long before they achieve a level that could threaten our technological edge. Interestingly, [AscendedEmpireScientistTarget.GetName] is fascinated by Dark Matter. If we offer a once-in-a-life-time opportunity for [AscendedEmpireScientistTarget.GetHimHer] to study the Dark Matter Power Core, [AscendedEmpireScientistTarget.GetHeShe] will surely not refuse. To allay suspicion, we will inform the §H[NoobEmpire.GetName]§! that [AscendedEmpireScientistTarget.GetName] is a brilliant scientist deserving a place among our archives. Those primitives are sure to be overjoyed with national pride. En route to our capital, the shuttle with [AscendedEmpireScientistTarget.GetName] onboard will experience a minor incident. No evidence will be left behind, and we will have eliminated a great threat. Alternatively, we can offer to 'upgrade' their science facilities instead. Secret malwares will be installed to deter further technological progress, and unfortunately for them, these can take up to a decade to remove completely."
+ 
+ ascended_empires_subject.2.a:0 "Nab that scientist."
+ ascended_empires_subject.2.b:0 "Install malwares on their science facilities instead."
+ ascended_empires_subject.2.c:0 "We're better than that..."
+ 
+ ascended_empires_subject.3.name:0 "Communication from §H[AscendedEmpireOverlord.GetName]§!"
+ 
+ ascended_empires_subject.3.desc.scientist:0 "[NoobEmpire.GetRulerTitle] [NoobEmpire.GetRulerName]. We understand that your empire is home to an individual whose brilliant mind transcends the tragical primitiveness of your species. While the talents of §H[AscendedEmpireScientistTarget.GetName]§! are sadly wasted in the [NoobEmpire.GetName], we [AscendedEmpireOverlord.GetSpeciesNamePlural] always have a use for skilled scientists to work in our archives. As such, we have decided to take charge of [AscendedEmpireScientistTarget.GetHimHer]. We have already picked [AscendedEmpireScientistTarget.GetHimHer] up moments ago, so you don't need to do anything.\n\nThis is merely a courtesy notice. I hope you won't miss your scientist too much. Look on the bright side, §H[AscendedEmpireScientistTarget.GetName]§! is now much safer in our hands than [AscendedEmpireScientistTarget.GetHeShe] will ever be in yours, and this will be for the better."
+ ascended_empires_subject.3.desc.sabotage:0 "[NoobEmpire.GetRulerTitle] [NoobEmpire.GetRulerName]. We understand that your primitive science facilities are in desperate need of an upgrade. While our services normally come at great cost, we [AscendedEmpireOverlord.GetSpeciesNamePlural] have always valued your empire's services towards us. As such, we have taken the liberty to enhance your science facilities by installing a number of AI programmes. I am sure you will find this an invaluable boost to your research.\n\nThis is merely a courtesy notice. Do not attempt to uninstall or analyze the AI programmes. You are unlikely to understand its intricate code base anyway."
+ 
+ ascended_empires_subject.3.a:0 "Did we have a choice?"
+ ascended_empires_subject.3.b:0 "Many thanks!"
+ 
+ ascended_empires_subject.5.name:0 "Terror Attack Imminent"
+ ascended_empires_subject.5.desc:0 "Members of a religious cult with radical views is planning an unprecedented terror attack against civilians in the capital of §H[NoobEmpire.GetName]§!. Our intelligence service had intercepted transmissions between the perpetrators and determined the most probable time and place of the attack. Unfortunately, due to lackluster surveillance technologies, our subject seemed unaware of this imminent attack. We can offer an annonymous tip-off to their security forces to bring these terrorists to justice before their plot succeeds, or we stand idly by and watch the §H[NoobEmpire.GetName]§! get the punishment they were due."
+ 
+ ascended_empires_subject.5.a:0 "Tip-off their security."
+ ascended_empires_subject.5.b:0 "About time they are punished for their many crimes in the past."
+ 
+ ascended_empires_subject.6.name:0 "Terror Plot"
+ ascended_empires_subject.6.desc.informed:0 "Members of a religious cult with radical views had been planning an unprecedented terror attack against civilians in the capital of §H[NoobEmpire.GetName]§!. The attack was prevented by an annonymous tip-off who provided the most probable time and place of the attack, which enabled our security forces to intercept the would-be perpetrators before real harm was done. Many lives were saved today."
+ ascended_empires_subject.6.desc.not_informed:0 "Today is a black day for our empire. Members of a religious cult with radical views have carried out an unprecedented attack against civilians in the capital of §H[NoobEmpire.GetName]§!. Our security services had failed to pick up any signs of an imminent attack, and as a consequence, the resulting blast had destroyed several buildings and killed a large number of unsuspecting citizens. The perpetrators of the attack have escaped."
+ 
+ ascended_empires_subject.6.a:0 "Execute these terrorists."
+ ascended_empires_subject.6.b:0 "It's a tragedy. Our nation will mourn the dead."
+ 
+ ascended_empires_subject.8.name:0 "A Joint Naval Exercise"
+ ascended_empires_subject.8.desc:0 "Reports indicate that the §H[NoobEmpire.GetName]§! have expanded their naval forces considerably over the last few years in response to security threats. Some of our more progressive admirals have put forward a proposal of a joint naval exercise, between by our forces and the navy of §H[NoobEmpire.GetName]§!. A successful exercise will boost their effectiveness in combat which in turn, may give us an edge should we enter a conflict of a cataclysmic scale. Some of our more conservative admirals however, saw this as an opportunity to sabotage some of their military hardware, which for the forseeable future will make them less effective in combat against ships of Ascended Empires."
+ 
+ ascended_empires_subject.8.a:0 "We will conduct joint military exercises."
+ ascended_empires_subject.8.b:0 "Sabotage their equipments."
+ ascended_empires_subject.8.c:0 "We have better things to do."
+ 
+ ascended_empires_subject.9.name:0 "Communication from §H[AscendedEmpireOverlord.GetName]§!"
+ 
+ ascended_empires_subject.9.desc.fleet_exercised:0 "We are pleased that you have taken the necessary steps to expand your primitive naval forces. To be of any use to us should the galaxy finds itself in a cataclysmic conflict, we have deemed it best to conduct a joint naval exercise with your fleet to boost its overall combat effectiveness. Do not squander this opportunity."
+ ascended_empires_subject.9.desc.fleet_sabotaged:0 "We are pleased that you have taken the necessary steps to expand your primitive naval forces. To be of any use to us should the galaxy finds itself in a cataclysmic conflict, we have deemed it best to send a team of engineers to enhance your fleet's combat equipments. Do not squander our goodwill."
+ 
+ ascended_empires_subject.9.a:0 "This will enhance our naval capabilities."
+ ascended_empires_subject.9.b:0 "But what are these modifications?"
+ 
+ ascended_empires_subject.11.name:0 "Communication from §H[NoobEmpire.GetName]§!"
+ ascended_empires_subject.11.desc:0 "We are renegotiating the bad deal between us. It is very bad. You are killing our jobs, our economy, and you're taking advantage of us. You get everything you need, while we get no help on our rivals. Not fair! This has to stop, and believe me, I will make our country great again. And you will pay for it. On behalf of my people, I have drafted a new deal. Sign it."
+ 
+ ascended_empires_subject.11.a:0 "Very well. A renegotiated deal you will have."
+ ascended_empires_subject.11.b:0 "Who do you think you are talking to? (Take out that leader)"
+ ascended_empires_subject.11.c:0 "Nope. (Ignore the fool)"
+ 
+ ascended_empires_subject.12.name:0 "Communication from §H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.12.desc.renegotiated:0 "We have reviewed our options and deemed it best to agree to your proposal of renegotiating the deals between us. You will find this new deal a great deal more pleasant." 
+ ascended_empires_subject.12.desc.assassination:0 "We have deemed your ruler unfit to rule your nation. No one speaks to us that way, primitive or otherwise. You will thank us later, I'm sure."
+ 
+ ascended_empires_subject.12.a:0 "Great news!"
+ ascended_empires_subject.12.b:0 "That was mean."
+ 
+ ascended_empires_subject.14.name:0 "Communication from §H[NoobEmpire.GetName]§!"
+ ascended_empires_subject.14.desc:0 "Many [NoobEmpire.GetSpeciesName] victims are coming forward with reports of abuse from the [AscendedEmpireOverlord.GetSpeciesName] armed forces during the last war. Surely an empire of your stature must be as deeply disappointed by your soldiers' conducts as we are. We demand justice for our victims."
+ 
+ ascended_empires_subject.14.a:0 "Accept this generous payment as compensation."
+ ascended_empires_subject.14.b:0 "Those responsible will be tried in our military courts."
+ ascended_empires_subject.14.c:0 "Lies. No crime has been committed."
+ 
+ ascended_empires_subject.15.name:0 "Communication from §H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.15.desc.compensation:0 "Accept this generous payment as our deepest regret to what your people suffered on our behalf. I hope we can move forward from this and start a new chapter in our relationship."
+ ascended_empires_subject.15.desc.tribunal:0 "This is to inform that we have taken your grievances against our armed forces seriously, and those responsible will be held accountable should they be found guilty at our military courts."
+ 
+ ascended_empires_subject.15.a:0 "We can forgive, but we will never forget."
+ ascended_empires_subject.15.b:0 "Justice will be served."
+ 
+ ascended_empires_subject.17.name:0 "Growing Concern"
+ ascended_empires_subject.17.desc:0 "For years, our admirals watched the rapid naval expansion of the [NoobEmpire.GetName] with growing concern. Despite being our subject for some time and their supposed loyalty, one can never be too careful or too comfortable in their seat of power. We are receiving news that populism have sprung up across the worlds of [NoobEmpire.GetName], spreading fake news regarding their subject taxes and how the problems created by their inept government were some how the fault of [AscendedEmpireOverlord.GetName]. Current polls suggest the majority of citizens favor independence from our control. To discourage further delusions of a grand future as an independent nation, we could invoke article 50 of our treaty as a show of force, which allowed the [AscendedEmpireOverlord.GetName] to commandeer their entire fleet, effective immediately. Another option is to rig their fleet to self-destruct using highly advanced, encrypted commands, sent by a prisoner we can then use to scapegoat as the hacker responsible for the sabotage. Without a standing navy, their ignorant dreams of independence could finally be dispelled for good."
+ 
+ ascended_empires_subject.17.a:0 "Commandeer their fleets."
+ ascended_empires_subject.17.b:0 "Rig their fleets to self-destruct."
+ ascended_empires_subject.17.c:0 "Give them independence."
+ ascended_empires_subject.17.d:0 "Do nothing."
+ 
+ ascended_empires_subject.18.name:0 "Communication from §H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.18.desc.nabbed_fleet:0 "We have observed persistently how you misuse your naval strength, and deemed your actions not to be in our interest. As such. we have decided to invoke article 50 of our treaty which allowed the [AscendedEmpireOverlord.GetName] to seize control of the fleets of [NoobEmpire.GetName], effective immediately. This process is irreversible once triggered, so do not resist, or face the wrath of the [AscendedEmpireOverlord.GetName]."
+ ascended_empires_subject.18.desc.destroyed_fleet:0 "It would seem that your fleets were the targets of a malicious cyber attack, which resulted, in many instances, the self-destruct protocols being engaged. As the hackers seemed to be using [AscendedEmpireOverlord.GetSpeciesName] technology, we shall conduct a full investigation to track down the culprit responsible. In the mean time, we should take this opportunity to remind ourselves the importance of obedience and the benefits of being in our charge."
+ 
+ ascended_empires_subject.18.a:0 "What? No!"
+ ascended_empires_subject.18.b:0 "This can't happen again. Find the perpetrators."
+ 
+ 

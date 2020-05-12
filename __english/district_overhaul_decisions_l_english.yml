@@ -1,0 +1,77 @@
+﻿l_english:
+  # Underground City Decision
+  decision_search_for_cave_systems:0 "Underground Exploration"
+  decision_search_for_cave_systems_desc:0 ""
+  decision_search_for_cave_systems_effects:0 "The underground exploration will provide suitable caves for the construction of underground cities."
+  
+  # Underground City AP
+  
+  allow_underground_city_project:0 "New technologies allow us to construct large cities in large planetary caves."
+  
+  # Secondary District Decisions
+  decision_remove_secondary_district:0 "Remove Secondary District"
+  decision_remove_secondary_district_desc:0 ""
+  decision_remove_secondary_districts_requirements:0 "There must not be any secondary district built."
+  decision_remove_secondary_district_effects:0 "The secondary district will be removed, but in turn you are able to construct a new one."
+  
+  decision_secondary_workshops:0 "Construct Workshop District"
+  decision_secondary_workshops_desc:0 ""
+  
+  decision_secondary_university:0 "Construct University District"
+  decision_secondary_university_desc:0 ""
+  
+  decision_secondary_local_industry:0 "Construct Alloy Industry District"
+  decision_secondary_local_industry_desc:0 ""
+  
+  decision_secondary_production_hub:0 "Construct Production Hub District"
+  decision_secondary_production_hub_desc:0 ""
+  
+  decision_secondary_local_stores:0 "Construct Local Stores District"
+  decision_secondary_local_stores_desc:0 ""
+  
+  decision_secondary_spaceport:0 "Construct Spaceport District"
+  decision_secondary_spaceport_desc:0 ""
+  
+  decision_secondary_academy:0 "Construct Academy District"
+  decision_secondary_academy_desc:0 ""
+  
+  decision_secondary_logistics_hub:0 "Construct Logistics Hub"
+  decision_secondary_logistics_hub_desc:0 ""
+  
+  # Ringworld Secondary Districts
+  
+  decision_secondary_asteroid_belt_mines:0 "Construct Asteroid Belt Mines"
+  decision_secondary_asteroid_belt_mines_desc:0 ""
+  
+  # Tier 2 Secondary Districts
+  decision_secondary_commerce:0 "Upgrade to Tier II Commerce District"
+  decision_secondary_commerce_desc:0 ""
+  decision_secondary_commerce_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_workshops_t2:0 "Upgrade to Tier II Workshops"
+  decision_secondary_workshops_t2_desc:0 ""
+  decision_secondary_workshops_t2_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_university_t2:0 "Upgrade to Tier II University"
+  decision_secondary_university_t2_desc:0 ""
+  decision_secondary_university_t2_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_industry:0 "Upgrade to Tier II Industry"
+  decision_secondary_industry_desc:0 ""
+  decision_secondary_industry_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_civilian_industry:0 "Upgrade to Tier II Civilian Industry"
+  decision_secondary_civilian_industry_desc:0 ""
+  decision_secondary_civilian_industry_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_spaceport_t2:0 "Upgrade to Tier II Spaceport"
+  decision_secondary_spaceport_t2_desc:0 ""
+  decision_secondary_spaceport_t2_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_academy_t2:0 "Upgrade to Tier II Academy"
+  decision_secondary_academy_t2_desc:0 ""
+  decision_secondary_academy_t2_requirements:0 "The planet requiers 40 pops for the upgrade."
+  
+  decision_secondary_logistics_hub_t2:0 "Upgrade to Tier II Logistics Hub"
+  decision_secondary_logistics_hub_t2_desc:0 ""
+  decision_secondary_logistics_hub_t2_requirements:0 "The planet requiers 40 pops for the upgrade."

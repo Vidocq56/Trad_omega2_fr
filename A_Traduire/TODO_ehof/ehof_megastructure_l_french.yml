@@ -1,0 +1,525 @@
+﻿l_french:
+
+	#########
+	# Names #
+	#########
+
+	ehof_cohesive:0 "§HWormhole-Cohesive§!"
+	ehof_wormhole:0 "§BMicro-Wormhole§!"
+	ehof_wormholes:0 "$ehof_wormhole$§Bs§!"
+	ehof_ehof:0 "Event Horizon Offset Facility"
+	ehof_ehofs:0 "Event Horizon Offset Facility's"
+	ehof_ehof_abr:0 "E.H.O.F."
+	eho_eh:0 "§HEvent Horizon§!"
+	ehof_director_name:0 "$ehof_ehof_abr$ Director"
+	ehof_qf:0 "Quantum Fluctuations"
+	ehof_qf2:0 "Quantum Foam"
+	ehof_ehofp0:0 "$ehof_ehof_abr$ Construction Site"
+	ehof_ehofp1:0 "$ehof_ehof_abr$ Alpha"
+	ehof_ehofp2:0 "$ehof_ehof_abr$ Lambda"
+	ehof_ehofp3:0 "$ehof_ehof_abr$ Omega"
+	ehof_ehofp4:0 "$ehof_ehof_abr$ Ultima"
+	ehof_ehofp5:0 "$ehof_ehof_abr$ Micro"
+	ehof_darkmatter:0 "§H£sr_dark_matter£ Dark Matter§!"
+
+	###########
+	# Options #
+	###########
+
+	ehof_toggle_temp_tooltip:0 "Toggle the $ehof_ehof$ to create §HTemporary§! $ehof_wormhole$ connections"
+	ehof_toggle_perm_tooltip:0 "Toggle the $ehof_ehof$ to create §HPermanent§! $ehof_wormhole$ connections"
+
+	ehof_traders_tooltip:0 "Open communications with the $ehof_trader$"
+
+	ehof_category_00:0 "Random system"
+	ehof_category_01:0 "§EPoints of Interest§!"
+	ehof_category_02:0 "§BBountiful Star§!"
+	ehof_category_03:0 "§HCohesive Star§!"
+	ehof_category_05:0 "Stellar Remnant"
+	ehof_category_06:0 "Binary"
+	ehof_category_07:0 "Trinary"
+	ehof_category_08:0 "Giant Star"
+	ehof_category_09:0 "Fledgling Star"
+	ehof_category_10:0 "Dwarf Star"
+
+	ehof_redo_prefix:0 "§GAttempt to connect to the last specified system type§!"
+	ehof_redo_tooltip:0 "$ehof_disabled_tooltip$\n\n$ehof_redo_prefix$"
+	ehof_category_00_redo:0 "$ehof_redo_prefix$ ($ehof_category_00$)"
+	ehof_category_01_redo:0 "$ehof_redo_prefix$ ($ehof_category_01$)"
+	ehof_category_02_redo:0 "$ehof_redo_prefix$ ($ehof_category_02$)"
+	ehof_category_03_redo:0 "$ehof_redo_prefix$ ($ehof_category_03$)"
+	ehof_category_05_redo:0 "$ehof_redo_prefix$ ($ehof_category_05$)"
+	ehof_category_06_redo:0 "$ehof_redo_prefix$ ($ehof_category_06$)"
+	ehof_category_07_redo:0 "$ehof_redo_prefix$ ($ehof_category_07$)"
+	ehof_category_08_redo:0 "$ehof_redo_prefix$ ($ehof_category_08$)"
+	ehof_category_09_redo:0 "$ehof_redo_prefix$ ($ehof_category_09$)"
+	ehof_category_10_redo:0 "$ehof_redo_prefix$ ($ehof_category_10$)"
+	ehof_new_system:0 "(§GNew§!)"
+	ehof_category_01_new:0 "$ehof_category_01$ $ehof_new_system$"
+	ehof_category_02_new:0 "$ehof_category_02$ $ehof_new_system$"
+	ehof_category_03_new:0 "$ehof_category_03$ $ehof_new_system$"
+
+	ehof_disabled_btn:0 "§R< < No Fleet Detected > >§!"
+	ehof_disabled_tooltip:0 "§RThere must be at least one ship inside the $ehof_ehof$ system in order to activate it§!\n\n$ehof_activate_tooltip$"
+
+	ehof_cooldown_btn:0 "§R< < On Cooldown > >§!"
+	ehof_cooldown_tooltip:0 "§RThe $ehof_ehof$ is cooling down§!\n\n$ehof_activate_tooltip$"
+
+	ehof_upgrading_btn:0 "§M< < Upgrading > >§!"
+	ehof_upgrading_tooltip:0 "§MThe $ehof_ehof$ is upgrading§!\n\n$ehof_activate_tooltip$"
+
+	ehof_malfunctioning_btn:0 "§R< < Malfunctioning > >§!"
+	ehof_malfunctioning_tooltip:0 "§RThe $ehof_ehof$ is malfunctioning§!\n\n$ehof_activate_tooltip$"
+
+	ehof_activating_btn:0 "§H< < Firing Up > >§!"
+	ehof_activating_tooltip:0 "§HThe $ehof_ehof$ is preparing for travel§!"
+
+	ehof_activated_btn:0 "§B< < Activated > >§!"
+	ehof_activated_tooltip:0 "§BThe $ehof_ehof$ is currently active§!\n\n$ehof_activate_tooltip$"
+
+	ehof_activate_btn:0 "§G< < Activate > >§!"
+	ehof_activate_tooltip:0 "§GContact the $ehof_ehof$§!"
+
+	ehof_deactivate_btn:0 "§M< < Deactivate > >§!"
+	ehof_deactivate_tooltip:0 "§MDeactivate the $ehof_ehof$§!"
+
+	ehof_mega_phase.10041_option_1:0 "Choose a destination"
+	ehof_mega_phase.10041_option_2:0 "How does it work?"
+	ehof_mega_phase.10041_option_3:0 "Hazardous?"
+	ehof_mega_phase.10041_option_4:0 "$ehof_qnm$"
+	ehof_leavestation:0 "§RLeave the station§!"
+	ehof_mega_phase.10041_option_6:0 "§HStatistics§!"
+	ehof_mega_phase.10041_option_7:0 "§RI wish to dismantle the $ehof_ehof_abr$§!"
+
+	ehof_btn_letsdoit:0 "Let's do it"
+	ehof_reply_not_good:0 "That's not good..."
+	ehof_timetoresearch:0 "Tell the scientists to look into $tech_negative_pressure$!"
+
+	ehof_megastructure.410.desc:0 "I am sure you have your reasons, are you 100% sure you would like to dismantle the $ehof_ehof$?\n\n§RThis action is irreversible§!"
+	ehof_megastructure.410.a:0 "I am 100% sure"
+
+	###################
+	# Salvage Vessels #
+	###################
+
+	ehof_megastructure.407.name:0 "Lost in Space"
+	ehof_megastructure.407.desc:0 "§H[this.GetName]§! has finished surveying §H[this.solar_system.GetName]§!, but has no means of return.\n\nOur engineers have been prepared for this occurrence since the conception of the $ehof_ehof$ and have outfitted all science vessels in such a way that they are able to deploy an outpost.\n\nThough it wouldn't directly give them any means of return, it would give the crew a chance of a new life in the §H[this.solar_system.GetName]§! system."
+	ehof_megastructure.407_a:0 "Build Starbase (Outpost) §H(£influence£[root.owner.ehof_outpost_influence_cost] £alloys£150)§!"
+	ehof_megastructure.407_b:0 "We have other plans for them"
+	ehof_megastructure.407_c:0 "§HNever§! salvage our science vessels"
+	ehof_megastructure.407_d:0 "§HAlways§! salvage our science vessels"
+	ehof_megastructure.407_c_tooltip:0 "When a science vessel has finished surveying a new $ehof_cohesive$ system it will §Hnever§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+	ehof_megastructure.407_d_tooltip:0 "When a science vessel has finished surveying a new $ehof_cohesive$ system it will §Halways§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+
+	ehof_megastructure.011_name:0 "Construction Complete"
+	ehof_megastructure.011_desc:0 "The construction vessels in the §H[root.solar_system.GetName]§! system have completed construction of all research and mining stations in the system, what should their next course of action be?"
+
+	ehof_megastructure.011_a:0 "Salvage the vessels (§H£alloys£[root.owner.ehof_vessel_refund]§!)"
+	ehof_megastructure.011_b:0 "We have other plans for them"
+	ehof_megastructure.011_c:0 "§HNever§! salvage our construction vessels"
+	ehof_megastructure.011_d:0 "§HAlways§! salvage our construction vessels"
+	ehof_megastructure.011_c_tooltip:0 "When construction vessels completes their work in a $ehof_cohesive$ system it will §Hnever§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+	ehof_megastructure.011_d_tooltip:0 "When construction vessels completes their work in a $ehof_cohesive$ system it will §Halways§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+
+	ehof_megastructure.400_a:0 "Salvage the vessels (§H£alloys£[root.ehof_vessel_refund]§!)"
+	ehof_megastructure.400_b:0 "We have other plans for them"
+	ehof_megastructure.400_c:0 "§HNever§! salvage our vessels"
+	ehof_megastructure.400_d:0 "§HAlways§! salvage our vessels"
+	ehof_megastructure.400_c_tooltip:0 "When a vessel cannot perform further orders once entering a new $ehof_cohesive$ system it will §Hnever§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+	ehof_megastructure.400_d_tooltip:0 "When a vessel cannot perform further orders once entering a new $ehof_cohesive$ system it will §Halways§! be salvaged.\n\n§RWarning: If this option is chosen, we will not be prompted about it again§!"
+
+	#######################
+	# Quasi-Negative Mass #
+	#######################
+
+	# Name
+	ehof_sr_negative_mass:0 "Quasi-Negative Mass"
+	ehof_qnm:0 "£ehof_sr_negative_mass£ §H$ehof_sr_negative_mass$§!"
+	mod_station_gatherers_ehof_sr_negative_mass_produces_mult:0 "£ehof_sr_negative_mass£ from $mod_station_researchers_produces_mult$"
+
+	# Description
+	ehof_sr_negative_mass_desc:0 "A extremely exotic form of matter that defies the known laws of physics by possessing negative mass.\n\nOriginally thought to be impossible to exist, this matters unique properties create a negative gravitational curvature, anti-gravity so to speak, which has limitless technological potential."
+	ehof_mega_phase.10041_response_4:0 "$ehof_sr_negative_mass_desc$\n\nOur scientists have long speculated that it is much more valuable than previously believed and thanks to advancements in technology, we have the technology ready to begin harvesting this resource."
+
+	# Discovered QNM
+	ehof_sr_negative_mass_discovery:0 "Whilst surveying §H[FROM.GetName]§!, the §H[ROOT.GetName]§! discovered deposits of §H$ehof_sr_negative_mass$§!.\n\nOur physicists say that this resource can be helpful in the creation of $ehof_wormholes$ and could teach us a lot about the very fabric of the universe."
+	ehof_sr_negative_mass.tooltip:0 "£ehof_sr_negative_mass£ §H$ehof_sr_negative_mass$§!\n§E$ehof_sr_negative_mass_desc$§!"
+	qnm_deficit:0 "Due to a lack of $ehof_sr_negative_mass$, our physicists which depend on the resource are temporarily unable to continue their work at full efficiency."
+
+	########################
+	# Names / Descriptions #
+	########################
+
+	# Construction site
+	ehof_megastructure_phase0:0 "$ehof_ehofp0$"
+	ehof_megastructure_phase0_DESC:0 "The initial site will serve as the base for the construction of the facility."
+	ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS:0 "Inflates and stabilizes $ehof_wormholes$ for boundless interstellar travel.\n§RPotentially Hazardous§!"
+	ehof_megastructure_phase0_CONSTRUCTION_INFO_DELAYED:0 "Inflates and stabilizes $ehof_wormholes$ for boundless interstellar travel."
+
+	# Phase1
+	ehof_megastructure_phase1_idle:0 "$ehof_ehofp1$"
+	ehof_megastructure_phase1_idle_DESC:0 "Manipulates and inflates $ehof_wormholes$ for interstellar travel.\n\n"
+	ehof_megastructure_phase1_idle_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase1_activating:0 "$ehof_megastructure_phase1_idle$"
+	ehof_megastructure_phase1_activating_DESC:0 "$ehof_megastructure_phase1_idle_DESC$"
+	ehof_megastructure_phase1_activating_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase1_active:0 "$ehof_ehofp1$ ($ehof_wormhole$)"
+	ehof_megastructure_phase1_active_DESC:0 "$ehof_megastructure_phase1_idle_DESC$"
+	ehof_megastructure_phase1_active_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase1_decommissioned:0 "$ehof_ehofp1$ (§EDecommissioned§!)"
+	ehof_megastructure_phase1_decommissioned_DESC:0 "Encrypted, we cannot regain control of this facility, but it still produces valuable $ehof_qnm$."
+	ehof_megastructure_phase1_decommissioned_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase1_decommissioned_DESC$"
+
+	# Phase2
+	ehof_megastructure_phase2_idle:0 "$ehof_ehofp2$"
+	ehof_megastructure_phase2_idle_DESC:0 "Manipulates and inflates $ehof_wormholes$ for interstellar travel and $ehof_qnm$ extraction.\n\n"
+	ehof_megastructure_phase2_idle_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase2_activating:0 "$ehof_megastructure_phase2_idle$"
+	ehof_megastructure_phase2_activating_DESC:0 "$ehof_megastructure_phase2_idle_DESC$"
+	ehof_megastructure_phase2_activating_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase2_active:0 "$ehof_ehofp2$ ($ehof_wormhole$)"
+	ehof_megastructure_phase2_active_DESC:0 "$ehof_megastructure_phase2_idle_DESC$"
+	ehof_megastructure_phase2_active_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase2_decommissioned:0 "$ehof_ehofp2$ (§EDecommissioned§!)"
+	ehof_megastructure_phase2_decommissioned_DESC:0 "$ehof_megastructure_phase1_decommissioned_DESC$"
+	ehof_megastructure_phase2_decommissioned_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase2_decommissioned_DESC$"
+
+	# Phase3
+	ehof_megastructure_phase3_idle:0 "$ehof_ehofp3$"
+	ehof_megastructure_phase3_idle_DESC:0 "Uses §H£sr_dark_matter£Dark Matter§! to stabilize $ehof_wormholes$ for interstellar travel and $ehof_qnm$ extraction."
+	ehof_megastructure_phase3_idle_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase3_activating:0 "$ehof_megastructure_phase3_idle$"
+	ehof_megastructure_phase3_activating_DESC:0 "$ehof_megastructure_phase3_idle_DESC$"
+	ehof_megastructure_phase3_activating_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase3_active:0 "$ehof_ehofp3$ ($ehof_wormhole$)"
+	ehof_megastructure_phase3_active_DESC:0 "$ehof_megastructure_phase3_idle_DESC$"
+	ehof_megastructure_phase3_active_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase3_decommissioned:0 "$ehof_ehofp3$ (§EDecommissioned§!)"
+	ehof_megastructure_phase3_decommissioned_DESC:0 "$ehof_megastructure_phase1_decommissioned_DESC$"
+	ehof_megastructure_phase3_decommissioned_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase3_decommissioned_DESC$"
+
+	# Phase4
+	ehof_megastructure_phase4_idle:0 "$ehof_ehofp4$"
+	ehof_megastructure_phase4_idle_DESC:0 "Uses §H£sr_dark_matter£Dark Matter§! to stabilize $ehof_wormholes$ for stabilized interstellar travel and $ehof_qnm$ extraction."
+	ehof_megastructure_phase4_idle_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase4_activating:0 "$ehof_megastructure_phase4_idle$"
+	ehof_megastructure_phase4_activating_DESC:0 "$ehof_megastructure_phase4_idle_DESC$"
+	ehof_megastructure_phase4_activating_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase4_active:0 "$ehof_ehofp4$ ($ehof_wormhole$)"
+	ehof_megastructure_phase4_active_DESC:0 "$ehof_megastructure_phase4_idle_DESC$"
+	ehof_megastructure_phase4_active_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase4_decommissioned:0 "$ehof_ehofp4$ (§EDecommissioned§!)"
+	ehof_megastructure_phase4_decommissioned_DESC:0 "$ehof_megastructure_phase1_decommissioned_DESC$"
+	ehof_megastructure_phase4_decommissioned_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase4_decommissioned_DESC$"
+
+	# Micro
+	ehof_megastructure_phase5_idle:0 "$ehof_ehofp5$"
+	ehof_megastructure_phase5_idle_DESC:0 "Consumes §H£sr_dark_matter£Dark Matter§! to stabilize $ehof_wormholes$ to $ehof_cohesive$ systems."
+	ehof_megastructure_phase5_idle_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase5_activating:0 "$ehof_megastructure_phase5_idle$"
+	ehof_megastructure_phase5_activating_DESC:0 "$ehof_megastructure_phase5_idle_DESC$"
+	ehof_megastructure_phase5_activating_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase5_active:0 "$ehof_ehofp5$ ($ehof_wormhole$)"
+	ehof_megastructure_phase5_active_DESC:0 "$ehof_megastructure_phase5_idle_DESC$"
+	ehof_megastructure_phase5_active_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_phase5_decommissioned:0 "$ehof_ehofp5$ (§EDecommissioned§!)"
+	ehof_megastructure_phase5_decommissioned_DESC:0 "Used as a final stand against $ehof_the_compound$, the $ehof_ehofp5$ is now used for scientific endeavors"
+	ehof_megastructure_phase5_decommissioned_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase5_decommissioned_DESC$"
+
+	# Ruined
+	ehof_megastructure_restored:0 "$ehof_megastructure_phase2_idle$"
+	ehof_megastructure_restored_DESC:0 "$ehof_megastructure_phase2_idle_DESC$"
+	ehof_megastructure_restored_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure_ruined:0 "Ruined $ehof_ehofp2$"
+	ehof_megastructure_ruined_DESC:0 "A partially constructed orbital structure in severe disrepair. This $ehof_ehof$ was once used for interstellar travel."
+	ehof_megastructure_ruined_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase0_MEGASTRUCTURE_DETAILS$"
+
+	ehof_megastructure.409.name:0 "Ruined $ehof_ehofp2$"
+	ehof_megastructure.409.desc:0 "A partially constructed orbital structure in severe disrepair. This $ehof_ehof$ appears to have once been able to manipulate black holes on a vast scale.\n\nWe believe it was used for interstellar travel."
+	ehof_megastructure.409.a:0 "It's a shame we have no use for it."
+
+	# Preservation sphere dyson
+	ehof_presphere_ruined:0 "Ruined $ehof_presphere_dyson$"
+	ehof_presphere_ruined_DESC:0 "Destroyed in the effort to defeat $ehof_the_compound$"
+	ehof_presphere_ruined_MEGASTRUCTURE_DETAILS:0 "Capable of drawing unparalleled energy, this should not lay ruined forever"
+
+	ehof_presphere_dyson:0 "§BPreservation Sphere§!"
+	ehof_presphere_dyson_DESC:0 "Restored after the defeat of $ehof_the_compound$, the $ehof_presphere_dyson$ is capable of drawing drawing unparalleled energy."
+	ehof_presphere_dyson_MEGASTRUCTURE_DETAILS:0 "Capable of drawing drawing unparalleled energy"
+
+	# Wormholes
+	ehof_trader_wormhole_01:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_01_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_01_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_02:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_02_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_02_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_03:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_03_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_03_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_04:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_04_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_04_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_05:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_05_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_05_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_06:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_06_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_06_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_07:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_07_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_07_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_08:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_08_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_08_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_09:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_09_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_09_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_10:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_10_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_10_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_trader_wormhole_external:0 "$ehof_trader_gateway$"
+	ehof_trader_wormhole_external_DESC:0 "$ehof_trader_gateway_DESC$"
+	ehof_trader_wormhole_external_MEGASTRUCTURE_DETAILS:0 "$ehof_trader_gateway_DESC$"
+
+	ehof_compound_phase1:0 "$ehof_ehofp1$ (§MSeized§!)"
+	ehof_compound_phase1_DESC:0 "$ehof_megastructure_phase1_idle_DESC$"
+	ehof_compound_phase1_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase1_idle_DESC$"
+
+	ehof_compound_phase2:0 "$ehof_ehofp2$ (§MSeized§!)"
+	ehof_compound_phase2_DESC:0 "$ehof_megastructure_phase2_idle_DESC$"
+	ehof_compound_phase2_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase2_idle_DESC$"
+
+	ehof_compound_phase3:0 "$ehof_ehofp3$ (§MSeized§!)"
+	ehof_compound_phase3_DESC:0 "$ehof_megastructure_phase3_idle_DESC$"
+	ehof_compound_phase3_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase3_idle_DESC$"
+
+	ehof_compound_phase4:0 "$ehof_ehofp4$ (§MSeized§!)"
+	ehof_compound_phase4_DESC:0 "$ehof_megastructure_phase4_idle_DESC$"
+	ehof_compound_phase4_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_phase4_idle_DESC$"
+
+	ehof_megastructure_compound_gateway_exit:0 "§R$ehof_wormhole$§!"
+	ehof_megastructure_compound_gateway_exit_DESC:0 "$ehof_megastructure_wormhole_destination_DESC$"
+	ehof_megastructure_compound_gateway_exit_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_wormhole_destination_DESC$"
+
+	ehof_megastructure_wormhole_destination:0 "$ehof_wormhole$"
+	ehof_megastructure_wormhole_destination_DESC:0 "$ehof_wormholes$ are artificial in creation and connect the galaxy from point to point."
+	ehof_megastructure_wormhole_destination_MEGASTRUCTURE_DETAILS:0 "$ehof_megastructure_wormhole_destination_DESC$"
+
+	# Build requirements
+	ehof_megastructure_activate_owner:0 "$TRIGGER_FAIL$Cannot activate $ehof_ehof$ if there is no owned fleet in the system."
+	ehof_megastructure_activate_noupgrade:0 "$TRIGGER_FAIL$Cannot activate $ehof_ehof$ if any ship is upgrading in this system."
+	requires_star:0 "$TRIGGER_FAIL$Must build around a star."
+	requires_no_existing_megastructure_system:0 "$TRIGGER_FAIL$Cannot build due to existing megastructure in system."
+	requires_no_existing_ehof:0 "$TRIGGER_FAIL$Cannot build more than one $ehof_ehof$."
+	requires_non_habitable_planet:0 "$TRIGGER_FAIL$Cannot build on habitable planet."
+	requires_not_have_minor_planetary_body:0 "$TRIGGER_FAIL$Cannot build on a planet that has a moon."
+	requires_large_planetary_body:0 "$TRIGGER_FAIL$Must build on a large planet."
+	requires_no_ring:0 "$TRIGGER_FAIL$Cannot build on a planet that has a ring."
+	requires_ehof_not_in_use:0 "$TRIGGER_FAIL$Cannot upgrade while $ehof_ehof$ is in use."
+
+	################
+	# Built dialog #
+	################
+
+	ehof_megastructure.101_name:0 "$ehof_ehof$"
+	ehof_megastructure.101_desc_0:0 "The construction site for our planned $ehof_ehof$ is completed and ready for the next stage. Once we have the necessary resources, construction of the facility may commence."
+
+	ehof_megastructure.101_desc_1:0 "The $ehof_ehofp1$ has been completed\n\nThis facility is by far one of our society's greatest achievements! With it, we can now bend the very fabric of the universe and create a $ehof_wormhole$ to anywhere in the galaxy."
+
+	ehof_megastructure.101_desc_2:0 "The $ehof_ehofp2$ has been completed\n\nWith further upgrades to the facility, we have unlocked new capabilities and knowledge of the $ehof_wormhole$ stabilization process."
+
+	ehof_megastructure.101_desc_3:0 "The $ehof_ehofp3$ has been completed\n\nWith further upgrades to the facility, we have furthered the efficiency of the $ehof_wormhole$ stabilization processes and potential targets."
+
+	ehof_megastructure.101_desc_4:0 "An astonishing achievement. The final addition to the facility gives those who control it total dominion over $ehof_wormhole$ travel!\n\n$ehof_wormhole$ stabilization is 100% efficient and there is no limitation to the travel destinations."
+
+	ehof_megastructure.101_desc_5:0 "The $ehof_ehofp5$ is our only hope of finding the solution against $ehof_the_compound$. It is now ready for deployment."
+
+	ehof_megastructure.101_desc_restored:0 "The $ehof_ehofp2$ in §H[ehof_recently_built_system.GetName]§! has been restored to its former glory.\n\nWith it, we can now bend the very fabric of the universe and create a $ehof_wormhole$ to anywhere in the galaxy."
+
+	ehof_megastructure.102_name:0 "$ehof_ehof$ Construction"
+	ehof_megastructure.102_desc_5:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp5$ in the §H[ehof_recently_built_system.GetName]§! system. We should assume this will enable them to help in the search of a solution to $ehof_the_compound$"
+
+	ehof_megastructure.102_desc_4:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp4$ in the §H[ehof_recently_built_system.GetName]§! system. We need to very cautious, they now have the ability to open permanent, safe, 100% accurate connections to selected destinations. §RThey have the ability to travel to ANY system now§!"
+
+	ehof_megastructure.102_desc_3:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp3$ in the §H[ehof_recently_built_system.GetName]§! system. They appear to have almost perfected their ability for accurate, safe, boundless interstellar travel."
+
+	ehof_megastructure.102_desc_2:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp2$ in the §H[ehof_recently_built_system.GetName]§! system. As they upgrade the $ehof_ehof$ further, their accuracy in $ehof_wormhole$ generation gets greater."
+
+	ehof_megastructure.102_desc_1:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp1$ in the §H[ehof_recently_built_system.GetName]§! system. We should be aware, they are now capable of boundless interstellar travel. Being in the first stages, it's highly unlikely they have the ability to control their destination accurately."
+
+	ehof_megastructure.102_desc_0:0 "§H[ehof_recently_built_country.GetName]§! have completed their construction of the $ehof_ehofp0$ in the §H[ehof_recently_built_system.GetName]§! system. Although this is only the initial platform for construction, we should be aware that they will soon have the capability of boundless interstellar travel"
+
+	##################
+	# Initial dialog #
+	##################
+
+	ehof_megastructure.301_1_desc:0 "This facility isn't fully equipped yet.\nTravelling from an $ehof_ehofp1$ is potentially hazardous to the travellers and even the entire populace!\n\nWe do have some ability to aim a $ehof_wormhole$ at a target destination.\n\nThe data that we've collected suggests that some systems are actually more $ehof_cohesive$ for the $ehof_ehof$ than others. We weren't able to figure out as to why they are more cohesive, but from what we can tell, they have no natural wormholes and are isolated from the hyperlane network.\n\nEven if we traverse there successfully, it could prove difficult to return."
+
+	ehof_megastructure.301_2_desc:0 "This facility is advanced, but it's full potential has not been unfolded yet.\nTravelling from an $ehof_ehofp2$ is potentially hazardous to the travellers and even the entire populace!\n\nOur ability to aim a $ehof_wormhole$ at a target destination is satisfactory, but not perfect.\n\n$ehof_cohesive$ systems have the highest probability for successful $ehof_wormhole$ travel, but have no natural wormholes and are isolated from the hyperlane network.\n\nEven if we traverse there successfully, it could prove difficult to return."
+
+	ehof_megastructure.301_3_desc:0 "This facility is fully equipped.\nTravelling from an $ehof_ehofp3$ is potentially hazardous to the travellers and even the entire populace!\n\nOur ability to aim a $ehof_wormhole$ at a target destination is excellent.\n\nWe can target all possible types of systems, but $ehof_wormhole$ systems still have the highest security and probability of being reached.\n\nEven if we traverse there successfully, it could prove difficult to return."
+
+	ehof_megastructure.301_4_desc:0 "This facility has been improved to its absolute maximum.\nTravelling from an $ehof_ehofp4$ is perfectly secure!\n\nOur ability to aim a $ehof_wormhole$ at a target destination has been perfected.\n\nAll systems within the galaxy can be targeted directly, will never be inaccurate and can be opened without collapsing now.\n\nThe $ehof_ehofp4$ allows us to generate permanent $ehof_wormhole$ connections, which can stay open as long as we desire!"
+
+	ehof_megastructure.301_5_desc:0 "The $ehof_ehofp5$ is a fully functional $ehof_ehof$, which is still in an experimental stage of its development.\n\nIts capabilities are limited to $ehof_cohesive$ systems only."
+
+	#####################
+	# How does it work? #
+	#####################
+
+	ehof_mega_phase.10041_response_2_p1:0 "Due to the uncertainty principle, $ehof_qf$ of virtual particle-antiparticle pairs occur countless times, everywhere in space, every fraction of a second.\n\nThese fluctuations stimulate incredibly tiny volumes of space and create the microcosmic structure of space, known as $ehof_qf2$. In this $ehof_qf2$, virtual micro-black holes, which only exist an immensely short amount of time, can emerge.\n\nIn rare cases, these black holes can turn, via quantum tunneling, into real $ehof_wormhole$. The lifetime of these $ehof_wormholes$ is much longer than that of the black holes, but still extremely short. The $ehof_wormholes$ can potentially be inflated for space travel, but the number of occurrences is too small in average space.\n\nThe highest density of $ehof_qf$, is at the $eho_eh$ of a black hole.\n\nThe already enormously twisted space at the edge of a black hole is filled with even more virtual particles, because of the hawking radiation of black holes, which is responsible for the decay of black holes.\n\nThe $ehof_qf2$ structure of space is so intensely stimulated in these volumes, that the number of emerging micro-black holes is many magnitudes larger than in average space and thus the number of $ehof_wormholes$ which can be inflated.\n\nThe $ehof_ehofp1$ utilizes the phenomenons of squeezed, condensed electromagnetic fields, to inflate and stabilize these $ehof_wormholes$.\n\nThe fields serve as enormous immaterial tweezers for the inflation process and are also keeping the $ehof_wormholes$ open.\n\nUnfortunately, this facility is still at a very experimental stage and the inflation and stabilization process is very unreliable.\n\nProbabilistic Target Routines for the $ehof_ehofp1$ targeting mechanisms include randomized destinations, black holes, neutron stars, pulsars and $ehof_cohesive$ systems, which for unknown reason, based on our calculations, have the highest probability of successful and accurate travel."
+
+	ehof_mega_phase.10041_response_2_p2:0 "Due to the uncertainty principle, $ehof_qf$ of virtual particle-antiparticle pairs occur countless times, everywhere in space, every fraction of a second.\n\nThese fluctuations stimulate incredibly tiny volumes of space and create the microcosmic structure of space, known as $ehof_qf2$. In this $ehof_qf2$, virtual micro-black holes, which only exist an immensely short amount of time, can emerge.\n\nIn rare cases, these black holes can turn into real $ehof_wormhole$. The lifetime of these $ehof_wormholes$ is much longer than that of the black holes, but still extremely short. The $ehof_wormholes$ can potentially be inflated for space travel, but the number of occurrences is too small in average space.\n\nThe highest density of $ehof_qf$, is at the $eho_eh$ of a black hole.\n\nThe already enormously twisted space at the edge of a black hole is filled with even more virtual particles, because of the hawking radiation of black holes, which is responsible for the decay of black holes.\n\nThe $ehof_qf2$ structure of space is so intensely stimulated in these volumes, that the number of emerging micro-black holes is many magnitudes larger than in average space and thus the number of $ehof_wormholes$ which can be inflated.\n\nThe $ehof_ehofp2$ utilizes the phenomenons of squeezed, condensed electromagnetic fields and the application of negative pressure onto the black holes $eho_eh$, to inflate and stabilize $ehof_wormholes$ at a black hole's $eho_eh$. The fields serve as enormous immaterial tweezers for the inflation process and are also keeping the $ehof_wormholes$ open.\n\nIn order to increase the stability of the $ehof_wormholes$, the $ehof_ehofp2$ is equipped with Negative Pressure Application Plates, which apply negative pressure to the $eho_eh$, while a $ehof_wormhole$ is getting inflated. This cools down the local space around the black hole, by reducing the number of $ehof_qf$ and as a consequence the quantum tunneling effects. This reduces the probability for the $ehof_wormholes$ to tunnel to different locations and increases the general security of the process.\n\n$ehof_wormhole$ travel is still not entirely secure. Collapses and inaccuracies may still occur. Probabilistic Target Routines for the $ehof_ehofp2$ targeting mechanisms include randomized destinations, black holes, neutron stars, pulsars, binary systems, trinary systems, red giants and the more secure $ehof_cohesive$ systems."
+
+	ehof_mega_phase.10041_response_2_p3:0 "$ehof_qf$ and hawking radiation at the $eho_eh$, enormously twist and energize the space around a black hole. This creates virtual micro-black holes, which can turn into real $ehof_wormholes$, that can be inflated and stabilized by the $ehof_ehof$ and used for interstellar travel.\n\nThe $ehof_ehofp3$ makes use of the breakthroughs in abstract physics and experiments with $ehof_qnm$, which allow us to effectively control gravitational fields.\n\nGravitational projectors and dampers are added to the $ehof_wormholes$ inflation mechanism and combined with the squeezed, condensed electromagnetic field projectors. This allows the creation of gravielectromagnetic quasi-fields, which create a repulsive force, that can be used to inflate the $ehof_wormholes$. This new inflation system is much more efficient and reduces instabilities by 90%.\n\n$ehof_darkmatter$ combined with negative pressure, create $ehof_qnm$, which can further stabilize inflated $ehof_wormholes$. For this reason, $ehof_darkmatter$ Injectors have been integrated into the $ehof_ehofp3$, to inject $ehof_qnm$ into the $eho_eh$.\n\nTo integrate all these new innovations into the $ehof_ehofp3$, it has been enlarged. More negative pressure can be applied which, besides producing $ehof_qnm$, cools down the local space around the black hole even further. The probability for tunneling inaccuracies is reduced even further.\n\nThe $ehof_ehofp3$ is the most efficient a facility could be and increasing the efficiency of the $ehof_ehof$ would be almost impossible.\n\n$ehof_wormhole$ travel is almost entirely secure, but inaccuracies may still occur once in a while. Probabilistic Target Routines for the $ehof_ehofp3$ targeting mechanisms include randomized destinations, any star type and the more secure $ehof_cohesive$ systems."
+
+	ehof_mega_phase.10041_response_2_p4:0 "$ehof_qf$ and hawking radiation at the $eho_eh$, enormously twist and energize the space around a black hole. This creates virtual micro-black holes, which can turn into real $ehof_wormholes$, that can be inflated and stabilized by the $ehof_ehof$ and used for interstellar travel.\n\nThe $ehof_ehofp4$ utilizes the principles of the technological marvels of $ehof_the_sphere$, to fully master the way of generating artificial $ehof_wormholes$, via $ehof_wormhole$ inflation.\n\n$ehof_wormhole$ destination precognition is an astonishing addition to the $ehof_ehof$. Through the use of ultra-fast reacting tachyon sensors, the $ehof_ehof$ will be able to detect the destination of a $ehof_wormhole$ before it even gets inflated, which allows the $ehof_ehof$ to choose any possible destination in the galaxy and beyond.\n\nJust like the $ehof_ehofp3$, the $ehof_ehofp4$ utilizes gravitational projectors and dampers, condensed electromagnetic field projectors, Dark Matter Injection and negative pressure to stabilize inflated $ehof_wormholes$. These processes may be extremely efficient at what they are supposed to do, but they are still not perfect.\n\nHowever, through our knowledge yielded from $ehof_the_sphere$, we were able to develope Vacuum Energy Density Resonance Stimulation. This allows us to increase or decrease the vacuum energy density in a limited volume, which determines not only the way matter and energy behaves, but also the quantum fluctuations and quantum tunneling.\n\nThe probability for the $ehof_wormholes$ to tunnel to a different location has been eliminated entirely with this astonishing technology. The $ehof_ehofp4$ is truly the perfect form of the $ehof_ehof$ and the pinnacle of interstellar travel!"
+
+	ehof_mega_phase.10041_response_2_p5:0 "By collapsing a planet to a small black hole, the $ehof_ehofp5$ can utilize the same mechanisms as the original $ehof_ehof$, but on a much smaller scale."
+
+	##############
+	# Hazardous? #
+	##############
+
+	ehof_mega_phase.10041_response_3_p1:0 "$ehof_wormholes$ have a high probability of spontaneously tunneling to a different destination, leading to inaccuracies in the targeting process.\n\nThey may lead to locations, where hostile entities reside, which could potentially enter the $ehof_wormhole$ while still being open. They could then attack our $ehof_ehof$ or even our population.\n\nWe need to be careful and secure the system, where the $ehof_ehof$ is located.\n\nThe $ehof_wormholes$ also have a moderate probability of collapsing while being inflated or even while being used for travel.\n\nResources utilized for the process will be lost and ships traveling through can be destroyed,when a $ehof_wormhole$ collapses.\nWe recommend the usage of dispensable research units for the $ehof_wormhole$ travel, as units may be lost forever."
+
+	ehof_mega_phase.10041_response_3_p2:0 "Thanks to the Negative Pressure Application Plates, $ehof_wormholes$ have only a moderate probability of spontaneously tunneling to a different destination, leading to inaccuracies in the targeting process.\n\nThey may lead to locations, where hostile entities reside, which could potentially enter the $ehof_wormhole$ while still being open. They could then attack our $ehof_ehof$ or even our population.\n\nWe need to be careful and secure the system, where the $ehof_ehof$ is located.\n\nThe $ehof_wormholes$ also have a low probability of collapsing! while being inflated or even while being used for travel.\n\nResources utilized for the process will be lost and ships traveling through can be destroyed, when a $ehof_wormhole$ collapses.\n\nWe recommend the usage of dispensable research units for the $ehof_wormhole$ travel, as units may be lost forever."
+   
+	ehof_mega_phase.10041_response_3_p3:0 "Thanks to the additional Negative Pressure Application Plates and the addition of Dark Matter injection, $ehof_wormholes$ now have a low probability of spontaneously tunneling to a different destination, leading to inaccuracies in the targeting process.\n\nThey may still lead to locations, where hostile entities reside, which could potentially enter the $ehof_wormhole$ while still being open. They could then attack our $ehof_ehof$ or even our population.\n\nWe need to be careful and secure the system, where the $ehof_ehof$ is located.\n\nThe probability for $ehof_wormholes$ to collapse has also been reduced to an infinitesimal magnitude, thanks to the usage of gravielectromagnetic fields, making it extremely unlikely that one may collapse."
+
+	ehof_mega_phase.10041_response_3_p4:0 "The $ehof_ehofp4$ possesses no dangers. $ehof_wormhole$ travel is absolutely secure thanks to all the technological marvels we have integrated."
+
+	ehof_mega_phase.10041_response_3_p5:0 "Even though the $ehof_ehofp5$ only allows travel to $ehof_cohesive$ systems, it is still only an experimental facility. Inaccuracies may still occur."
+
+	######################
+	# Destination dialog #
+	######################
+
+	ehof_megastructure.302_1_desc:0 "The $ehof_ehofp1$ can engage a $ehof_wormhole$ with a limited type of star-systems:\n\n§HBlack Holes§!\n§HNeutrons§!\n§HPulsars§!\n\nHowever, we have discovered a number of star systems which are not attached to the hyperlane network, yet for some reason they seem to have a special $ehof_cohesive$ bond.\n\nThese systems are much easier to engage stable $ehof_wormholes$ with, no matter what kind of star is there. We have no idea what we'll find there."
+
+	ehof_megastructure.302_2_desc:0 "The $ehof_ehofp2$ can engage a $ehof_wormhole$ with a limited type of star-systems:\n\n§HBlack Holes§!\n§HNeutrons§!\n§HPulsars§!\n§HBinary§!\n§HTrinary§!\n§HRed Giant§!\n\nOur scientists have strived to understand the manner of which these $ehof_wormholes$ connect to star systems and have drastically increased the targeting mechanism and ability to send fleets to distant star systems!\n\nOf course, the $ehof_cohesive$ systems are still the easiest and safest $ehof_wormhole$ travel."
+
+	ehof_megastructure.302_3_desc:0 "The $ehof_ehofp3$ can not only connect to any kind of star system, but the aiming mechanism has improved to the point that we can now send a fleet to all types of systems!"
+  
+	ehof_megastructure.302_4_desc:0 "The $ehof_ehofp4$ is the crowning glory of our empire.\n\nIt is capable of creating a $ehof_wormhole$ in any system in the galaxy."
+
+	ehof_megastructure.302_5_desc:0 "The $ehof_ehofp5$ allows travel to $ehof_cohesive$ systems only.\nIt is still only an experimental facility. Inaccuracies may still occur."
+
+	# Cooldown
+	ehof_cooldown:0 "\n\nThe $ehof_ehof$ is on cooldown for §H£time£[root.ehof_cooldown_days] day§!"
+
+	ehof_mega_check_title:0 "Travel Report"
+	ehof_mega_check_prefix:0 "After successfully firing a $ehof_wormhole$ from the $ehof_ehof$ in §H[ehof_megastructure_system.GetName]§!, our engineers have the following to report:\n"
+	ehof_mega_check_accurate:0		"\n  - The destination was reached: §GAccurately§!"
+	ehof_mega_check_inaccurate:0	"\n  - The destination was reached: §RInaccurately§!"
+	ehof_mega_check_unexplored:0	"\n  - The destination is: §GUnexplored§!"
+	ehof_mega_check_explored:0		"\n  - The destination is: §RExplored§!"
+	ehof_mega_check_no_owner:0		"\n  - The destination is owned by: §GNot Applicable§!"
+	ehof_mega_check_we_own:0		"\n  - The destination is owned by: §H[root.GetName]§!"
+	ehof_mega_check_they_own:0		"\n  - The destination is owned by: §R[ehof_system_already_taken_by.GetName]§!"
+	ehof_mega_check_system:0		"\n  - System name: [ehof_destination_system.GetName]"
+	ehof_mega_check_star:0			"\n  - Star class: §H[ehof_destination_system.star.GetClassName]§!"
+	ehof_mega_check_suffix:0 "$ehof_mega_check_system$$ehof_mega_check_star$$ehof_cooldown$"
+
+	####################### Accurate #######################
+	######### Is Not Owned
+	ehof_mega_check_01_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_accurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_no_owner$    $ehof_mega_check_suffix$"
+	ehof_mega_check_02_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_accurate$    $ehof_mega_check_explored$      $ehof_mega_check_no_owner$    $ehof_mega_check_suffix$"
+	######### Owned by Us
+	ehof_mega_check_03_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_accurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_we_own$      $ehof_mega_check_suffix$"
+	######### Owned by someone else
+	ehof_mega_check_04_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_accurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_they_own$    $ehof_mega_check_suffix$"
+	ehof_mega_check_05_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_accurate$    $ehof_mega_check_explored$      $ehof_mega_check_they_own$    $ehof_mega_check_suffix$"
+
+	####################### Inaccurate #######################
+	######### Is Not Owned
+	ehof_mega_check_06_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_inaccurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_no_owner$    $ehof_mega_check_suffix$"
+	ehof_mega_check_07_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_inaccurate$    $ehof_mega_check_explored$      $ehof_mega_check_no_owner$    $ehof_mega_check_suffix$"
+	######### Owned by Us
+	ehof_mega_check_08_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_inaccurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_we_own$      $ehof_mega_check_suffix$"
+	######### Owned by someone else
+	ehof_mega_check_09_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_inaccurate$    $ehof_mega_check_unexplored$    $ehof_mega_check_they_own$    $ehof_mega_check_suffix$"
+	ehof_mega_check_10_desc:0 "$ehof_mega_check_prefix$    $ehof_mega_check_inaccurate$    $ehof_mega_check_explored$      $ehof_mega_check_they_own$    $ehof_mega_check_suffix$"
+
+	####################### Failed to Generate Wormhole #######################
+	ehof_megastructure.405_name:0 "§RFailed to Generate $ehof_wormhole$!§!"
+	ehof_megastructure.405_desc:0 "The $ehof_ehof$ failed to generate a $ehof_wormhole$ connection at all.$ehof_cooldown$"
+
+	ehof_good_response_01: "Explore the system"
+	ehof_good_response_02: "Uncharted space, marvelous"
+	ehof_good_response_03: "Lets see what lies in the unknown"
+	ehof_good_response_04: "Excellent"
+	ehof_good_response_05: "Great"
+
+	ehof_med_response_01: "No harm, no foul"
+	ehof_med_response_02: "Maybe next time..."
+	ehof_med_response_03: "It seems luck is not with us"
+	ehof_med_response_04: "I'm sure we'll hit the jackpot soon"
+	ehof_med_response_05: "Figures..."
+
+	ehof_bad_response_01: "That's not good..."
+	ehof_bad_response_02: "..."
+	ehof_bad_response_03: "Losing my patience now..."
+	ehof_bad_response_04: "This is costing us!"
+	ehof_bad_response_05: "*Throws a chair*"
+
+	##############
+	# Statistics #
+	##############
+
+	ehof_btn_acc_true:0           "Generated both successfully and accurately"
+	ehof_btn_acc_false:0          "Generated successfully, but inaccurately"
+	ehof_btn_nogo:0               "Failed to generate"
+	ehof_btn_damaged:0    		  "Destroyed in transit (ships)"
+	ehof_btn_debris:0         	  "Destroyed upon arrival"
+	ehof_btn_detonated:0          "Detonated upon departing"
+
+	ehof_stats_acc_true:0           "§G[root.ehof_acc_true]§!"
+	ehof_stats_acc_false:0          "§P[root.ehof_acc_false]§!"
+	ehof_stats_nogo:0               "§P[root.ehof_nogo]§!"
+	ehof_stats_damaged:0   			"§P[root.ehof_stats_damaged]§!"
+	ehof_stats_debris:0        		"§P[root.ehof_stats_debris]§!"
+	ehof_stats_detonated:0        	"§P[root.ehof_stats_detonated]§!"
+
+	ehof_megastructure.406_name:0 "$ehof_ehof$ Travel Statistics"
+	ehof_megastructure.406_desc:0 "We have faced many struggles whilst trying to create $ehof_wormholes$.\n\n§B$ehof_wormholes$§!\n$ehof_btn_acc_true$ - $ehof_stats_acc_true$\n$ehof_btn_acc_false$ - $ehof_stats_acc_false$\n$ehof_btn_nogo$ - $ehof_stats_nogo$\n\n§BFleets§!\n$ehof_btn_damaged$ - $ehof_stats_damaged$\n$ehof_btn_debris$ - $ehof_stats_debris$\n$ehof_btn_detonated$ - $ehof_stats_detonated$"
+
+	################## NEGATIVE FLEET EFFECTS
+	ehof_megastructure.411_name:0 "Shattering Wormhole"
+	ehof_megastructure.411_desc:0 "Fleets travelling to the §H[ehof_destination_system.GetName]§! system arrived there as debris.\n\nPhysicists at the $ehof_ehof$ theorize that the $ehof_wormhole$ traversed by these fleets may have collapsed enroute to their destination and insist that we must better equip our $ehof_ehof$ in order to protect our travellers from this sort of thing happening again.\n\nThe crews from the fleets have been officially and unfortunately declared killed in action and the $ehof_ehof$ has been temporarily shut down whilst the investigation into the accident is ongoing.$ehof_cooldown$"
+	ehof_megastructure.411_a:0 "This must never happen again!"
+
+	ehof_megastructure.412_name:0 "Wormhole Detonation"
+	ehof_megastructure.412_desc:0 "The $ehof_wormhole$ we opened, whilst attempting to travel to the §H[ehof_destination_system.GetName]§! system has collapsed.\n\nIt is thought that the $ehof_wormhole$ collapsed for a split second just as the fleets entered it. Engineers insist more could be done to improve our $ehof_ehof$ in an effort to prevent this sort of disaster ever happening again.\n\nThe crew from the fleet have been officially and unfortunately declared killed in action and the $ehof_ehof$ has been temporarily shut down whilst the investigation into the accident is ongoing.$ehof_cooldown$"
+	ehof_megastructure.412_a:0 "It's a sad day for the whole nation..."
+
+	ehof_megastructure.413_name:0 "Hostile Wormhole"
+	ehof_megastructure.413_desc:0 "The fleets we sent through the $ehof_wormhole$ have arrived damaged somehow...\n\nThe men and women of the fleets report how they encountered hostile vessels when they arrived at an unknown location and fought them constantly whilst they were there. They believe they were there for years, even though almost no time passed.\n\nThey are not sure where they have been, what they have seen or what happened to them, but they are glad to have finally returned!"
+	ehof_megastructure.413_a:0 "Though we mourn the dead, we celebrate the living"

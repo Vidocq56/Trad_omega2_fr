@@ -1,0 +1,113 @@
+﻿l_english:
+    
+    #Archetype
+    
+    FIRE:0 "Infernoid"
+    FIERY:0 "Infernoid"
+    
+    #Traits
+    
+    trait_fire_species:0 "Infernoid"
+    trait_fire_cool:0 "Cold Burn"
+    trait_fire_kelvin:0 "Plasmatic"
+    trait_fire_gas:0 "Gaseous Pyre"
+    trait_fire_oil:0 "Oil Pyre"
+    trait_fire_perk1:0 "Inferno"
+    trait_fire_perk2:0 "Infernal"
+    
+    admiral_trait_fire_perk1:0 "Inferno"
+    admiral_trait_fire_perk2:0 "Infernal"
+    general_trait_fire_perk1:0 "Inferno"
+    general_trait_fire_perk2:0 "Infernal"
+    ruler_trait_fire_perk1:0 "Inferno"
+    ruler_trait_fire_perk2:0 "Infernal"
+    governor_trait_fire_perk1:0 "Inferno"
+    governor_trait_fire_perk2:0 "Infernal"
+    scientist_trait_fire_perk1:0 "Inferno"
+    scientist_trait_fire_perk2:0 "Infernal"
+
+    trait_fire_species_desc:0 "Functioning similarly to a star, this species burns bio-fuels within itself to continue to burn bright and hot."
+    trait_fire_cool_desc:0 "These beings burn hot, just not very hot."
+    trait_fire_kelvin_desc:0 "These beings burn hot, my goodness the flames are so hot!"
+    trait_fire_gas_desc:0 "The primary source of fuel for this species is gaseous."
+    trait_fire_oil_desc:0 "The primary source of fuel for this species is a viscous oil, and it sticks. Oh no... GET IT OFF!"
+    trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    
+    admiral_trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    admiral_trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    general_trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    general_trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    ruler_trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    ruler_trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    governor_trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    governor_trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    scientist_trait_fire_perk1_desc:0 "Consumed in fire, we burn so brightly!"
+    scientist_trait_fire_perk2_desc:0 "Witness perfection fleshy bio-solids. Beautiful inferno will illuminate our galaxy!"
+    
+    trait_pc_molten_2_preference:0 "Volcanic Habitability"
+    trait_pc_molten_2_preference_desc:0 "The molten hellscape of Volcanic Worlds are perfect for this species."
+    mod_pc_molten_2_habitability:0 "Volcanic Habitability"
+    
+    #Origin
+    
+    origin_fire_species:0 "Primordial Inferno"
+    origin_fire_species_desc:0 "Heat is essential for most living things, from the scorching lakes of this Volcanic World we forge our destiny. The stars are bright in the night sky, lets make them even brighter!"
+    origin_tooltip_fire_species_effects:0 "Our species gains a starting colony on an §Y$pc_molten_2$§!."
+    
+    #Planet
+    
+    pc_m_star_big:0 "Super Giant Star"
+    pc_m_star_big_desc:0 "Pushed to a near death state, but not lacking in fuel, unlike it's natural counter-part. The Super Giant produces far more heat than any star in the galaxy, there is no planet left in its gravity well that could sustain typical organic life."
+    pc_molten_2:0 "Volcanic World"
+    pc_molten_2_desc:0 "Rocky world that is scorching hot. The atmosphere is thin, and lava from the interior flows freely due to constant volcanic eruptions. This type of planet cannot sustain normal organic life."
+    
+    #Ascension Perks
+    
+    requires_species_type_fire:0 "You must be an §Y$FIERY$§! to choose this perk."
+    
+    requires_ap_inferno:0 "Requires §Y$ap_inferno$§!"
+    
+    ap_inferno:0 "Fuel For The Pyre"
+    ap_infernal:0 "Incite The Inferno"
+    
+    ap_inferno_desc:0 "Without heat, without light there is so little, the galaxy beckons and our tips flickers in delight! Fuel the pyres and spread, just as nature intended."
+    ap_infernal_desc:0 "The very stars tells us how it must be, all or nothing. We cannot hold back, dazzle them with our alluring infernos! Our species gains the §Y$trait_fire_perk2$§! trait, and can construct."
+    
+    fiery.01.name:0 "Fuel For The Pyre"
+    fiery.01.desc:0 "Do you see it!? The fire burn like never before, it's more than we ever expected. The other will see our light, it shines so bright!"
+    fiery.01.a:0 "Illuminating!"
+    
+    fiery.03.name:0 "Incite The Inferno"
+    fiery.03.desc:0 "Before was only the beginning, this is the destiny of our people. Even the Stars bend to our will. What a glorious age to burn!"
+    fiery.03.a:0 "Glorious Pyromania!"
+    
+    inferno_tooltip:0 "Our species gains the §Y$trait_fire_perk1$§! trait."
+    infernal_tooltip:0 "Our species gains the §Y$trait_fire_perk2$§! trait, and can construct the §Y$hydrogen_injector_1$§! Megastructure."
+    
+    #Deposits
+    
+    magma_veins:0 "Magma Veins"
+    mote_clouds:0 "Volatile Mote Clouds"
+    lava_banks:0 "Lava Banks"
+    fungal_catacombs:0 "Fungal Catacombs"
+    molten_active_volcano:0 "Volcanic Eruption"
+    
+    magma_veins_desc:0 "Molten minerals flow through these veins."
+    mote_clouds_desc:0 "Asteroids impacted the area, spewing volatile motes."
+    lava_banks_desc:0 "Volcanic rivers lap against the scorched banks."
+    fungal_catacombs_desc:0 "Damp and warm catacombs stretch for kilometers, the walls lined with fungi."
+    molten_active_volcano_desc:0 "This volcano is erupting, who knows when it will stop."
+    
+    #Megastructure
+    
+    hydrogen_injector_0:0 "Hydrogen Injector Construction Site"
+    hydrogen_injector_0_MEGASTRUCTURE_DETAILS:0 "The Hydrogen Injector is designed to artificially age a star, the effects of which are currently irreversible."
+    hydrogen_injector_1:0 "Hydrogen Injector"
+    hydrogen_injector_1_DESC:0 "The Hydrogen Injector has artificially aged this star, the effects of which are currently irreversible."
+    
+    #Technology
+    
+    tech_hydrogen_injector:0 "Hydrogen Injector"
+    tech_hydrogen_injector_desc:0 "With this megastructure we can excelerate the age of a star, subsequently superheating all planetary bodies within the system."
+    

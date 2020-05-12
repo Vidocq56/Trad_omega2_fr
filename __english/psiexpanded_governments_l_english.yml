@@ -1,0 +1,41 @@
+﻿l_english:
+ #Authority
+ auth_psiocratic:0 "Psiocratic"
+ auth_psiocratic_desc:0 "A Psiocratic administration is one that closely resembles a hive mind, but with the population having free will. The ruler schedules regular meetings where he unlocks his psionic brain to receive all the input from the people."
+ AUTHORITY_ELECTION_PSIOCRATIC:0 "Holds an election every §H40§! years to select a new Ruler."
+ #Militarist
+ psionic_empire:0 "Psionic Empire"
+ psionic_empire_desc:0 "This government is a militaristic form of psiocracy, where the people and the army are one in the same. Rulers are the generals and admirality that lead them into battle."
+ psi_militarist_ruler:0 "Chosen One"
+ #Pacifist
+ psionic_bureaucracy:0 "Psionic Bureaucracy"
+ psionic_bureaucracy_desc:0 "This government is a pacifistic form of psionic government where the ruler is charged with using their psionic powers to protect the people from all dangers."
+ psi_pacifist_ruler:0 "High Psion"
+ #Spiritualist
+ psionic_ascendancy:0 "Psionic Ascendancy"
+ psionic_ascendancy_desc:0 "This government is a spiritual form of psiocracy where the people deeply worship the ruler, believing them to be the source of their psionic abilities and a gift from the gods."
+ psi_spiritualist_ruler:0 "Shroudborn"
+ #Materialist
+ psionic_directorate:0 "Psionic Directorate"
+ psionic_directorate_desc:0 "This government is a materialistic form of psiocracy, where the needs of the scientists are considered above the needs of all others."
+ psi_materialist_ruler:0 "Head Telepath"
+ #Xenophobe
+ psionic_supremacy:0 "Psionic Supremacy"
+ psionic_supremacy_desc:0 "This government is a xenophobic form of psiocracy based around the firm belief that their species psionic abilities define racial purity in the galaxy."
+ psi_xenophobe_ruler:0 "Shroudborn"
+ #Xenophile
+ psionic_haven:0 "Psionic Haven"
+ psionic_haven_desc:0 "This government is a xenophilic form of psiocracy where the right of everyone is held in equal regards and all members of all species have their own place in the governmental strata."
+ psi_xenophile_ruler:0 "Head Telepath"
+ #Egalitarian
+ psionic_democracy:0 "Psionic Democracy"
+ psionic_democracy_desc:0 "This government is a psionic form of democracy resembling that of a direct democracy, where the people are capable of psionically deciding on all matters of the state telepathically."
+ psi_egalitarian_ruler:0 "High Psion"
+ #Authoritarian
+ psionic_dictatorship:0 "Psionic Dictatorship"
+ psionic_dictatorship_desc:0 "This government is a psionic form of authoritarianism resembling that of a hive mind where the individual desires of the working class only exist to serve the desires of the ruling class."
+ psi_authoritarian_ruler:0 "Chosen One"
+ #Generic
+ psionic_nation:0 "Psionic Nation"
+ psionic_nation_desc:0 "This government is a psionic form of a nation which openly allows the use of psionic powers in their territories."
+ psi_generic_ruler:0 "Psychich Dynamo"

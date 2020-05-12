@@ -1,0 +1,87 @@
+﻿l_english:
+
+
+ ######################
+ # Precursor Event Text
+ ######################
+ 
+ looptech_applytechs_special.5.name:0 "Ancients Unknown"
+ looptech_applytechs_special.5.desc:0 "We have a report of potentially interesting artifacts that could lead into the discovery of greater secrets. Though the nature of the artifacts eludes us due to the antediluvian nature these artifacts. Although our scientists are debating day and night about their nature we feel that your input is needed to end this debate once and for all."
+ looptech_applytechs_special.5.enigmatic_remnates:0 "The nature of these relics have an...enigmatic nature to them."
+ looptech_applytechs_special.5.loop_artifacts:0 "These artifacts have a strange...adherence to them."
+ looptech_applytechs_special.5.ancient_hoax:0 "This junk is meaningless we have better things to worry about."
+ 
+ 
+ enigmatic_precursors.1.name:0 "Unknown Heirs"
+ enigmatic_precursors.1.desc:0 "Our discovery teams have found the remains of a civilization thats...old. It was the best way the head scientist could explain the age of the artifacts and they are yet so incredibly advanced that some of them are still working though there are not enough examples of these amazing devices. The most strange thing is that these people from what we could gather as we could from their data cores are not the creators of their technology but merely heirs of it. Perhaps we should look into this more to see what wonders it could bring us?"
+ enigmatic_precursors.1.option:0 "Then we shall walk the path of the Heirs Unknown"
+ 
+ enigmatic_precursors.2.name:0 "Antediluvian Fleet Battle"
+ enigmatic_precursors.2.desc:0 "We have discovered the remains of a truly massive fleet battle with ship designs so advanced that comparing our fleets to them is like comparing a water toy to a tank. We should investigate these wrecks to see what we can find."
+ UNKNOWN_HEIRS_ARCHEOLOGY_1:0 "Antediluvian Fleet Battle"
+ enigmatic_precursors.2006.name:0 "Antediluvian Fleet Battle"
+ enigmatic_precursors.2006.desc:0 ""
+ 
+ enigmatic_precursors.2010.name:0 "Dead Colony"
+ enigmatic_precursors.2010.desc:0 "We have found to what we believe to be a colony of these Heirs an expedition may give us an insight to how they lived."
+ UNKNOWN_HEIRS_ARCHEOLOGY_2:0 "Dead Colony"
+ enigmatic_precursors.completed.name:0 "Dead Colony"
+ enigmatic_precursors.2011.desc:0 "Under most of the ruble and melted slag we found a faulty daracore which strangely we were able to interface with. Though most of the data is corrupted and faulty we were able to get some images and video feeds which showed something disturbing to say the least. Though oddly we weren't able to get well...any images of the heirs as a race but the feeds showed use the colony under attack by even stranger ships and I dare say...monsters and at times it seems that events were playing out differently at the same time… .We could chalk up those events to the faulty daracore but if they were happening at the same time well...what kind of war did these Heirs engage in?"
+ 
+ enigmatic_precursors.2015.name:0 "Broken Fortress"
+ enigmatic_precursors.2015.desc:0 "We have found a space station of a near megastructure level it is massive and seems to have all sorts of gun ports and weapon batteries all over the structure a more indepth study is needed for more clues."
+ UNKNOWN_HEIRS_ARCHEOLOGY_3:0 "Broken Fortress"
+ enigmatic_precursors.completed.name:0 "Broken Fortress"
+ enigmatic_precursors.2016.desc:0 "To call this station a military outpost would be an understatement. The Station we have found is the a main battle fortress pattern surrounded by auxiliary support stations that provides additional firepower as well as being cheaper to maintain. It would appear that whatever battle took place here was so fierce that the lesser stations were all destroyed as the station released such sort of self destruction protocol. Although we weren't able to get much data from the wreck we did discover something...ominous listen. Data Log 83900484-U2 3rd Age of creation ‘we have failed to hold back the fleets of the Dread One initiating self-destruct lets see how these monsters like the fire of a nova burst’ log ends..."
+ 
+ 
+ 
+ 
+ ######################
+ # Ascension Event Text
+ ######################
+ 
+ enigmatic_designs.01.name:0 "Enigmatic Heirdom"
+ enigmatic_designs.01.desc:0 "It seems there is more to this Enigmatic technology than we have at first thought. As soon as we cracked the code contained in the enigmatic technology that we have already researched our computer systems had been flooded with new building designs and our AI's have reported that their effiency has been improved by nearly 100 percent and state that the signal refured to us as worthy heirs. In addition we have recevied technology templates containting the rest of the technologies we have witnessed used by the enigmatic fortress and technologies that we can only speculate their purpose by their names and possible designs of what seem to be of megastructure scale. If we continue with this research who knows were it will lead us? We don't know who the single came from but it would be safe to call them the Enigmatics."
+ enigmatic_designs.01.neutral.a:0 "What ever their reasons these...Enigmatics clearly wanted us to know."
+ enigmatic_designs.01.enigmatic_heirs.a:0 "Let us not keep our parents waiting."
+ enigmatic_designs.01.spiritual.a:0 "Clearly the Enigmatics are higher beings"
+ enigmatic_designs.01.materialist.a:0 "Find out where that signal came from we have more to learn"
+ enigmatic_designs.01.xenophobe.a:0 "These fools will regret shareing their secrets with us."
+ enigmatic_designs.01.xenophile.a:0 "It seems friends come from many places but where are they?"
+ enigmatic_designs.01.militarist.a:0 "Perhaps they want us prepared for a war unlike any other..."
+ enigmatic_designs.01.pacifist.a:0 "They call us heirs but give us tools of war..."
+ 
+ cryptic_heirdom.01.name:0 "Cryptic Heirdom"
+ cryptic_heirdom.01.desc:0 "Once again our systems have been bombarded with technological templates of an even higher level of technology almost more than twice the effectiveness of the Enigmatic Patterns. We can start the research into these technologies at your orders but even then we won't have a complete understanding of how these wonders work. It would be safe to refure to these technologies as the Cryptic Pattern."
+ cryptic_heirdom.01.neutral.a:0 "Why would they allow us to have this technology?"
+ cryptic_heirdom.01.enigmatic_heirs.a:0 "Our Adolences if almost over it seems."
+ cryptic_heirdom.01.spiritual.a:0 "The Divine know many secrets it seems."
+ cryptic_heirdom.01.materialist.a:0 "Is there no limit to how advanced they were..."
+ cryptic_heirdom.01.xenophobe.a:0 "Scan of these technologies there may be a trap."
+ cryptic_heirdom.01.xenophile.a:0 "They share their gifts but are nowhere to be found..."
+ cryptic_heirdom.01.militarist.a:0 "What wars in this galaxy required this level of technology?"
+ cryptic_heirdom.01.pacifist.a:0 "Were they warmongers? Or Guardians? I wonder"
+ 
+ 
+ loop_adherence.01.name:0 "Loop Adherence"
+ loop_adherence.01.desc:0 "Ever since our race has met the Worm-In-Waiting it was odd to find such a friendly creature of it's nature. We have followed up on the whispers that we have listen to in the Omega Project and after we placed those madding phrases into our computers they have been bombarded with technologies that are far beyond us but not our understanding of those technologies it seems the Worm has more gifts to give us. But the Better question is what more can it teach us?"
+ loop_adherence.01.neutral.a:0 "What are Worms's reasons for us know?"
+ loop_adherence.01.loop_adherents.a:0 "We greatfully accept such fine gifts from our beloved"
+ loop_adherence.01.spiritual.a:0 "The Divine take many forms it seems."
+ loop_adherence.01.materialist.a:0 "This should not have been possible from those words."
+ loop_adherence.01.xenophobe.a:0 "Find out how those mad scribles lead to this"
+ loop_adherence.01.xenophile.a:0 "For a godlike enity it is very nice it seems."
+ loop_adherence.01.militarist.a:0 "The Worm wishes us to be are par with someone else..."
+ loop_adherence.01.pacifist.a:0 "Perhaps this will lead to a new era of peace..."
+ 
+ spiral_revolutation.01.name:0 "Spiral Revolutions"
+ spiral_revolutation.01.desc:0 "It is as though our eyes have been open. The Worm has revealed a grand revelation to us...as we have discovered that loops eventutally become spirals and in those spirals hold even greater secrets than we are bearlly unble to understand but with the loving guidance of our Waiting-Worm we shall make us of them. This is the knowlege that was and shall be that Our race will, would discover and create, but yet never did create...it was and shall be us for the first time and again..."
+ spiral_revolutation.01.neutral.a:0 "We have seen much if only I were a pote"
+ spiral_revolutation.01.loop_adherents.a:0 "The spirals show so much"
+ spiral_revolutation.01.spiritual.a:0 "We have walked down the path that few others have."
+ spiral_revolutation.01.materialist.a:0 "This is what is called a Bootstrap Paradox but how did it begin?"
+ spiral_revolutation.01.xenophobe.a:0 "Ba who cares how it comes about get these technologies"
+ spiral_revolutation.01.xenophile.a:0 "The Spirals show so much pontential for friendship"
+ spiral_revolutation.01.militarist.a:0 "What kind of war requires such powerful secrets"
+ spiral_revolutation.01.pacifist.a:0 "These will be needed to safeguard the peace"

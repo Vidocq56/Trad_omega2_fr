@@ -1,0 +1,448 @@
+﻿l_french:
+
+##############
+### Events ###
+##############
+
+infestation_hive_cb_option_window:0 "Infestation, a Hive Mind Origin - Casus Belli?"
+infestation_hive_cb_option_description:0 "Do you want to use the §YSpread Infestation§! Total War Casus Belli? It will be permanetly available on this Safe File"
+
+infestation_hive_cb_yes:0 "Yes, i want to use the Casus Belli."
+infestation_hive_cb_no:0 "No, i do not want to use the Casus Belli."
+
+##############
+### Origin ###
+##############
+
+origin_infestation_hive:0 "Infestation"
+origin_infestation_hive_desc:0 ""
+origin_tooltip_infestation_hive:0 "- Starts on a §YInfected World§!.\n- §YInfected Worlds§! can not be invaded, their Colonies get destoyed and they turn into §YTomb Worlds§! when Devestation reaches 100%.\n- §YInfected Worlds§! have special Districts.\n- §YEvery§! Planet colonized gets turned into a §YInfected World§!.\n- Can colonize every Planet.\n- Suffers §Rpenalties§! if there is §Yno§! or only a §Ysmall§! amount Infestation on a Planet.\n- Gets special §YDecisions§! to infect conquered Worlds and to §Yspread§! the Infestation.\n- Ships cost £alloys£ §YAlloys§!, £food£ §YFood§! and £exotic_gases£ §YExotic Gases§!.\n- Buildings cost £minerals£ §YMinerals§!, £food£ §YFood§! and £exotic_gases£ §YExotic Gases§!\n"
+
+##############
+### Planet ###
+##############
+
+pc_infestation:0 "Infested World"
+pc_infestation_desc:0 ""
+
+##############
+### Traits ###
+##############
+
+trait_pc_infestation_preference:0 "Infested World Preference"
+trait_pc_infestation_preference_desc:0 ""
+
+###################
+### Casus Belli ###
+###################
+
+casus_belli_cb_spread_infestation:0 "Spread Infestation"
+casus_belli_cb_spread_infestation_desc:0 ""
+
+war_goal_wg_spread_infestation:0 "Infest"
+war_goal_wg_spread_infestation_desc:0 "Infest"
+
+#################
+### Districts ###
+#################
+
+district_infestation_hive_city:0 "Hive District"
+district_infestation_hive_city_plural:0 "Hive Districts"
+district_infestation_hive_city_desc:0 ""
+
+district_infestation_acidic_generator_uncapped:0 "Acidic Generator"
+district_infestation_acidic_generator_uncapped_plural:0 "Acidic Generators"
+district_infestation_acidic_generator_uncapped_desc:0 ""
+
+district_infestation_gas_uncapped:0 "Synthesis Vent"
+district_infestation_gas_uncapped_plural:0 "Synthesis Vents"
+district_infestation_gas_uncapped_desc:0 ""
+
+district_infestation_farming_uncapped:0 "Spore Field"
+district_infestation_farming_uncapped_plural:0 "Spore Fields"
+district_infestation_farming_uncapped_desc:0 ""
+
+############
+### Jobs ###
+############
+
+job_infestation_hive_maintenance_drone:0 "Maintenance Drone"
+job_infestation_hive_maintenance_drone_plural:0 "Maintenance Drones"
+job_infestation_hive_maintenance_drone_desc:0 ""
+job_infestation_hive_maintenance_drone_effect_desc:0 "£job_infestation_hive_maintenance_drone£ $job_infestation_hive_maintenance_drone_plural$ produce £amenities£ §YAmenities§! and £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+job_infestation_hive_desolver_drone:0 "Desolver Drone"
+job_infestation_hive_desolver_drone_plural:0 "Desolver Drones"
+job_infestation_hive_desolver_drone_desc:0 ""
+job_infestation_hive_desolver_drone_effect_desc:0 "£job_infestation_hive_desolver_drone£ $job_infestation_hive_desolver_drone_plural$ turn £alloys£ §YAlloys§! into £energy£ §YEnergy§! and £minerals£ §YMinerals§!"
+
+job_infestation_hive_gas_drone:0 "Synthesis Drone"
+job_infestation_hive_gas_drone_plural:0 "Synthesis Drones"
+job_infestation_hive_gas_drone_desc:0 ""
+job_infestation_hive_gas_drone_effect_desc:0 "£job_infestation_hive_gas_drone£ $job_infestation_hive_gas_drone_plural$ turn £food£ §YFood§!, £energy£ §YEnergy§! and £minerals£ §YMinerals§! into £exotic_gases£ §YExotic Gases§!"
+
+job_infestation_hive_agri_drone:0 "Spore Tender Drone"
+job_infestation_hive_agri_drone_plural:0 "Spore Tender Drones"
+job_infestation_hive_agri_drone_desc:0 ""
+job_infestation_hive_agri_drone_effect_desc:0 "£job_infestation_hive_agri_drone£ $job_infestation_hive_agri_drone_plural$ turn £minerals£ §YMinerals§! into £food£ §YFood§!"
+
+### Job Categories ###
+planet_desolver:0 "Desolver Drones"
+planet_desolver_desc:0 ""
+
+planet_synthesis:0 "Synthesis Drones"
+planet_synthesis_desc:0 ""
+
+################
+### Deposits ###
+################
+
+infestation_hive_gas_deposit:0 "Poisonous Pustules"
+infestation_hive_gas_deposit_desc:0 ""
+
+infestation_hive_energy_deposit:0 "Energy Crystals"
+infestation_hive_energy_deposit_desc:0 ""
+
+infestation_hive_mineral_deposit:0 "Mineral Fields"
+infestation_hive_mineral_deposit_desc:0 ""
+
+infestation_hive_food_deposit:0 "Natural Spore Fields"
+infestation_hive_food_deposit_desc:0 ""
+
+infestation_hive_origin_planet_deposit:0 "Origin Planet"
+infestation_hive_origin_planet_deposit_desc:0 ""
+
+#################
+### Decisions ###
+#################
+
+decision_infestation_hive_stage_1:0 "Sowing the Seed"
+decision_infestation_hive_stage_1_desc:0 ""
+
+decision_infestation_hive_stage_2:0 "Spreading the Corruption"
+decision_infestation_hive_stage_2_desc:0 ""
+
+decision_infestation_hive_stage_3:0 "Reaping the Rewards"
+decision_infestation_hive_stage_3_desc:0 ""
+
+############
+### Tech ###
+############
+
+infestation_hive_tech_mining_1:0 "Geothermal Fracking"
+infestation_hive_tech_mining_1_desc:0 "New fracking techniques will allow us to tap into previously unattainable pockets of geothermal resources deep beneath the planet's crust."
+
+infestation_hive_tech_mining_2:0 "Deep Core Mining"
+infestation_hive_tech_mining_2_desc:0 "These massive drills are needed to access the rich mineral deposits that can often be found close to a planet's core."
+
+infestation_hive_tech_mining_3:0 "Mineral Isolation"
+infestation_hive_tech_mining_3_desc:0 "Advanced spectrometry combines with fracking techniques and chemical flushing to rapidly exploit shallow and mid-depth deposits."
+infestation_hive_tech_mining_3_tooltip:0 "£minerals£ Minerals from £job£ Jobs: §G+20%§!\n£job_infestation_hive_desolver_drone£ Desolver Drone £minerals£ Minerals Produced: §G+1§!"
+
+infestation_hive_tech_repeatable_improved_tile_mineral_output:0 "Extraction Patterns"
+infestation_hive_tech_repeatable_improved_tile_mineral_output_desc:0 "Changes in how mineral deposits are evaluated relative to each other lead to more efficient boring patterns."
+
+infestation_hive_tech_power_plant_1:0 "Field Modulation"
+infestation_hive_tech_power_plant_1_desc:0 "Modulated fields allow for increased production and improved energy yield."
+
+infestation_hive_tech_power_plant_2:0 "Quantum Energy States"
+infestation_hive_tech_power_plant_2_desc:0 "Basic entanglement principles applied to energy generation provide a substantial increase in energy output."
+
+infestation_hive_tech_power_plant_3:0 "Quantum Field Manipulation"
+infestation_hive_tech_power_plant_3_desc:0 "Quantum superposition of energy coils, simultaneously drained and charged."
+infestation_hive_tech_power_plant_3_tooltip:0 "£energy£ Energy Credits from £job£ Jobs: §G+20%§!\n£job_infestation_hive_desolver_drone£ Desolver Drone £energy£ Energy Produced: §G+1§!"
+
+infestation_hive_tech_repeatable_improved_tile_energy_output:0 "Applied Superconductivity"
+infestation_hive_tech_repeatable_improved_tile_energy_output_desc:0 "Minor improvements to transmission efficiency adds up to a sizeable reduction in overall energy loss."
+
+infestation_hive_synthesis_production_1:0 "Synthesis Drone Improvement I"
+infestation_hive_synthesis_production_1_desc:0 ""
+
+infestation_hive_synthesis_production_2:0 "Synthesis Drone Improvement II"
+infestation_hive_synthesis_production_2_desc:0 ""
+
+infestation_hive_synthesis_production_3:0 "Synthesis Drone Improvement III"
+infestation_hive_synthesis_production_3_desc:0 ""
+
+infestation_hive_synthesis_production_4:0 "Synthesis Drone Improvement IV"
+infestation_hive_synthesis_production_4_desc:0 ""
+
+#################
+### Modifiers ###
+#################
+
+#Vanilla
+mod_planet_pops_food_upkeep_mult:0 "£food£ §YFood§! Upkeep from £pops£ §YPops§!"
+mod_country_resource_max_food_add:0 "Maximun £food£ §YFood§! Storage"
+mod_country_base_alloys_produces_add:0 "Base £alloys£ §YAlloys§! production"
+mod_country_base_minerals_produces_add:0 "Base £minerals£ §YMineral§! production"
+
+#Building
+mod_planet_buildings_minerals_cost_mult:0 "Building: £minerals£ §YMinerals§! cost"
+mod_planet_buildings_food_cost_add:0 "Building: £food£ §YFood§! cost"
+mod_planet_buildings_exotic_gases_cost_add:0 "Building: £exotic_gases£ §YExotic Gases§! cost"
+mod_planet_buildings_strongholds_minerals_cost_mult:0 "\nStrongholds: £minerals£ §YMinerals§! cost"
+mod_planet_buildings_strongholds_food_cost_add:0 "Strongholds: £food£ §YFood§! cost"
+mod_planet_buildings_strongholds_exotic_gases_cost_add:0 "Strongholds: £exotic_gases£ §YExotic Gases§! cost"
+
+#Jobs
+mod_job_infestation_hive_maintenance_drone_add:0 "Maintenance Drone Jobs"
+mod_job_infestation_hive_maintenance_drone_add_desc:0 ""
+
+mod_job_infestation_hive_desolver_drone_add:0 "Desolver Drone Jobs"
+mod_job_infestation_hive_desolver_drone_add_desc:0 ""
+
+mod_job_infestation_hive_gas_drone_add:0 "Synthesis Drone Jobs"
+mod_job_infestation_hive_gas_drone_add_desc:0 ""
+
+mod_job_infestation_hive_agri_drone_add:0 "Spore Tender Drone Jobs"
+mod_job_infestation_hive_agri_drone_add_desc:0 ""
+
+#Trait
+mod_pc_infestation_habitability:0 "Infested World Habitability"
+
+#Planet
+mod_planet_districts_exotic_gases_produces_add:0 "District £exotic_gases£ §YExotic Gas§! production"
+
+#Tech
+mod_planet_synthesis_produces_mult:0 "Synthesis Drone output"
+
+#Static
+infestation_hive_stage_0:0 "No Infestation"
+infestation_hive_stage_0_desc:0 "There is no Infestation on this Planet."
+
+infestation_hive_stage_1:0 "Festering Boils"
+infestation_hive_stage_1_desc:0 "There is only a small amount of Infestation on this Planet."
+
+infestation_hive_stage_2:0 "Rotting Wounds"
+infestation_hive_stage_2_desc:0 "Half of the Planet is Infected."
+
+infestation_hive_stage_3:0 "Cauldron of Pestilence"
+infestation_hive_stage_3_desc:0 "The whole Planet is Infected."
+
+infestation_hive_global_country_modifiers:0 "Global Empire Modifiers"
+infestation_hive_global_country_modifiers_desc:0 "These Modifiers apply to the whole Empire"
+
+infestation_hive_planet_buildings_cost:0 "Building Cost Modifiers"
+infestation_hive_planet_buildings_cost_desc:0 "The Modifiers handle the Building Costs"
+
+infestation_hive_global_ship_cost:0 "Global Ship Modifiers"
+infestation_hive_global_ship_cost_desc:0 "These Modifiers apply to all Ships. They can be overwritten by setting specific Values for the Ship Classes." 
+
+infestation_hive_vanilla_civilian_ship_cost:0 "Vanilla Civilian Ship Modifiers"
+infestation_hive_vanilla_civilian_ship_cost_desc:0 "Modifiers that handle the Ship costs for vanilla Civilian Ships."
+
+infestation_hive_vanilla_military_ship_cost:0 "Vanilla Military Ship Modifiers"
+infestation_hive_vanilla_military_ship_cost_desc:0 "Modifiers that handle the Ship costs for vanilla Military Ships."
+
+infestation_hive_nsc_vanilla_military_ship_cost:0 "Vanilla Military Ship Modifiers - NSC Compatibility"
+infestation_hive_nsc_vanilla_military_ship_cost_desc:0 "Modifiers that handle the Ship costs for vanilla Military Ships."
+
+infestation_hive_nsc_ship_cost:0 "NSC Ship Modifiers"
+infestation_hive_nsc_ship_cost_desc:0 "Modifiers that handle the Ship costs for NSC Ships."
+
+infestation_hive_rs_military_ship_cost:0 "Realistic Ships Modifiers"
+infestation_hive_rs_military_ship_cost_desc:0 "Modifiers that handle the Ship costs for Realistic Ships."
+
+infestation_hive_rs_heavy_dreadnought_ship_cost:0 "Realistic Ships Heavy Dreadnoughts Modifiers"
+infestation_hive_rs_heavy_dreadnought_ship_cost_desc:0 "Modifiers that handle the Ship costs for Realistic Ships Heavy Dreadnoughts."
+
+infestation_hive_at_war_pdf_upkeep:0 "At War: Planetary Defense Fleets Modifiers"
+infestation_hive_at_war_pdf_upkeep_desc:0 "Modifiers that handle the Ship upkeep for At War: Planetary Defense Fleets."
+
+######################
+### Ship Modifiers ###
+######################
+
+#############################
+### Global Ship Modifiers ###
+
+mod_ships_energy_upkeep_mult:0 "Ships £energy£ §YEnergy§! upkeep"
+mod_ships_alloys_cost_mult:0 "Ships £alloys£ §YAlloys§! cost"
+mod_ships_alloys_upkeep_mult:0 "Ships £alloys£ §YAlloys§! upkeep"
+
+### Global Ship Modifiers ###
+#############################
+
+##############################
+### Vanilla Civilian Ships ###
+
+mod_ship_science_food_cost_add:0 "Science Ship: £food£ §YFood§! cost"
+mod_ship_science_food_upkeep_add:0 "Science Ship: £food£ §YFood§! upkeep"
+mod_ship_science_exotic_gases_upkeep_add:0 "Science Ship: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_constructor_food_cost_add:0 "\nConstruction Ship: £food£ §YFood§! cost"
+mod_ship_constructor_food_upkeep_add:0 "Construction Ship: £food£ §YFood§! upkeep"
+mod_ship_constructor_exotic_gases_upkeep_add:0 "Construction Ship: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_colonizer_alloys_cost_mult:0 "\nColony Ship: £alloys£ §YAlloy§! cost"
+mod_ship_colonizer_food_cost_mult:0 "Colony Ship: £food£ §YFood§! cost"
+
+### Vanilla Civilian Ships ###
+##############################
+
+##############################
+### Vanilla Military Ships ###
+
+mod_ship_corvette_food_cost_add:0 "Corvette: £food£ §YFood§! cost"
+mod_ship_corvette_food_upkeep_add:0 "Corvette: £food£ §YFood§! upkeep"
+mod_ship_corvette_exotic_gases_cost_add:0 "Corvette: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_corvette_exotic_gases_upkeep_add:0 "Corvette: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_destroyer_food_cost_add:0 "\nDestroyer: £food£ §YFood§! cost"
+mod_ship_destroyer_food_upkeep_add:0 "Destroyer: £food£ §YFood§! upkeep"
+mod_ship_destroyer_exotic_gases_cost_add:0 "Destroyer: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_destroyer_exotic_gases_upkeep_add:0 "Destroyer: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_cruiser_food_cost_add:0 "\nCruiser: £food£ §YFood§! cost"
+mod_ship_cruiser_food_upkeep_add:0 "Cruiser: £food£ §YFood§! upkeep"
+mod_ship_cruiser_exotic_gases_cost_add:0 "Cruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_cruiser_exotic_gases_upkeep_add:0 "Cruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_battleship_food_cost_add:0 "\nBattleship: £food£ §YFood§! cost"
+mod_ship_battleship_food_upkeep_add:0 "Battleship: £food£ §YFood§! upkeep"
+mod_ship_battleship_exotic_gases_cost_add:0 "Bettleship: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_battleship_exotic_gases_upkeep_add:0 "Battleship: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_titan_food_cost_add:0 "\nTitan: £food£ §YFood§! cost"
+mod_ship_titan_food_upkeep_add:0 "Titan: £food£ §YFood§! upkeep"
+mod_ship_titan_exotic_gases_cost_add:0 "Titan: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_titan_exotic_gases_upkeep_add:0 "Titan: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_juggernaut_food_cost_add:0 "\nJuggernaut: £food£ §YFood§! cost"
+mod_ship_juggernaut_food_upkeep_add:0 "Juggernaut: £food£ §YFood§! upkeep"
+mod_ship_juggernaut_exotic_gases_cost_add:0 "Juggernaut: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_juggernaut_exotic_gases_upkeep_add:0 "Juggernaut: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_colossus_food_cost_add:0 "\nColossus: £food£ §YFood§! cost"
+mod_ship_colossus_food_upkeep_add:0 "Colossus: £food£ §YFood§! upkeep"
+mod_ship_colossus_exotic_gases_cost_add:0 "Colossus: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_colossus_exotic_gases_upkeep_add:0 "Colossus: £exotic_gases£ §YExotic Gas§! upkeep"
+
+### Vanilla Military Ships ###
+##############################
+
+#######################
+### Realistic Ships ###
+
+mod_ship_rs_support_cruiser_food_cost_add:0 "Support Cruiser: £food£ §YFood§! cost"
+mod_ship_rs_support_cruiser_food_upkeep_add:0 "Support Cruiser: £food£ §YFood§! upkeep"
+mod_ship_rs_support_cruiser_exotic_gases_cost_add:0 "Support Cruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_support_cruiser_exotic_gases_upkeep_add:0 "Support Cruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_ea_cruiser_food_cost_add:0 "\nEA Cruiser: £food£ §YFood§! cost"
+mod_ship_rs_ea_cruiser_food_upkeep_add:0 "EA Cruiser: £food£ §YFood§! upkeep"
+mod_ship_rs_ea_cruiser_exotic_gases_cost_add:0 "EA Cruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_ea_cruiser_exotic_gases_upkeep_add:0 "EA Cruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_battlecruiser_food_cost_add:0 "\nBattlecruiser: £food£ §YFood§! cost"
+mod_ship_rs_battlecruiser_food_upkeep_add:0 "Battlecruiser: £food£ §YFood§! upkeep"
+mod_ship_rs_battlecruiser_exotic_gases_cost_add:0 "Battlecruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_battlecruiser_exotic_gases_upkeep_add:0 "Battlecruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_dreadnought_food_cost_add:0 "\nDreadnought: £food£ §YFood§! cost"
+mod_ship_rs_dreadnought_food_upkeep_add:0 "Dreadnought: £food£ §YFood§! upkeep"
+mod_ship_rs_dreadnought_exotic_gases_cost_add:0 "Dreadnought: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_dreadnought_exotic_gases_upkeep_add:0 "Dreadnought: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_a_food_cost_add:0 "Variant A: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_a_food_upkeep_add:0 "Variant A: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_a_exotic_gases_cost_add:0 "Variant A: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_a_exotic_gases_upkeep_add:0 "Variant A: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_b_food_cost_add:0 "\nVariant B: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_b_food_upkeep_add:0 "Variant B: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_b_exotic_gases_cost_add:0 "Variant B: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_b_exotic_gases_upkeep_add:0 "Variant B: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_c_food_cost_add:0 "\nVariant C: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_c_food_upkeep_add:0 "Variant C: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_c_exotic_gases_cost_add:0 "Variant C: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_c_exotic_gases_upkeep_add:0 "Variant C: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_d_food_cost_add:0 "\nVariant D: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_d_food_upkeep_add:0 "Variant D: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_d_exotic_gases_cost_add:0 "Variant D: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_d_exotic_gases_upkeep_add:0 "Variant D: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_e_food_cost_add:0 "\nVariant E: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_e_food_upkeep_add:0 "Variant E: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_e_exotic_gases_cost_add:0 "Variant E: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_e_exotic_gases_upkeep_add:0 "Variant E: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_f_food_cost_add:0 "\nVariant F: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_f_food_upkeep_add:0 "Variant F: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_f_exotic_gases_cost_add:0 "Variant F: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_f_exotic_gases_upkeep_add:0 "Variant F: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_g_food_cost_add:0 "\nVariant G: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_g_food_upkeep_add:0 "Variant G: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_g_exotic_gases_cost_add:0 "Variant G: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_g_exotic_gases_upkeep_add:0 "Variant G: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_h_food_cost_add:0 "\nVariant H: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_h_food_upkeep_add:0 "Variant H: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_h_exotic_gases_cost_add:0 "Variant H: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_h_exotic_gases_upkeep_add:0 "Variant H: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_rs_heavy_dreadnought_type_i_food_cost_add:0 "\nVariant I: £food£ §YFood§! cost"
+mod_ship_rs_heavy_dreadnought_type_i_food_upkeep_add:0 "Variant I: £food£ §YFood§! upkeep"
+mod_ship_rs_heavy_dreadnought_type_i_exotic_gases_cost_add:0 "Variant I: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_rs_heavy_dreadnought_type_i_exotic_gases_upkeep_add:0 "Variant I: £exotic_gases£ §YExotic Gas§! upkeep"
+
+### Realistic Ships ###
+#######################
+
+###########
+### NSC ###
+
+mod_ship_explorationship_food_cost_add:0 "Exploration Cruiser: £food£ §YFood§! cost"
+mod_ship_explorationship_food_upkeep_add:0 "Exploration Cruiser: £food£ §YFood§! upkeep"
+mod_ship_explorationship_exotic_gases_cost_add:0 "Exploration Cruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_explorationship_exotic_gases_upkeep_add:0 "Exploration Cruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_StrikeCruiser_food_cost_add:0 "\nStrikecruiser: £food£ §YFood§! cost"
+mod_ship_StrikeCruiser_food_upkeep_add:0 "Strikecruiser: £food£ §YFood§! upkeep"
+mod_ship_StrikeCruiser_exotic_gases_cost_add:0 "Strikecruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_StrikeCruiser_exotic_gases_upkeep_add:0 "Strikecruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_escortcarrier_food_cost_add:0 "\nEscort Carrier: £food£ §YFood§! cost"
+mod_ship_escortcarrier_food_upkeep_add:0 "Escort Carrier: £food£ §YFood§! upkeep"
+mod_ship_escortcarrier_exotic_gases_cost_add:0 "Escort Carrier: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_escortcarrier_exotic_gases_upkeep_add:0 "Escort Carrier: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_Battlecruiser_food_cost_add:0 "\nBattlecruiser: £food£ §YFood§! cost"
+mod_ship_Battlecruiser_food_upkeep_add:0 "Battlecruiser: £food£ §YFood§! upkeep"
+mod_ship_Battlecruiser_exotic_gases_cost_add:0 "Battlecruiser: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_Battlecruiser_exotic_gases_upkeep_add:0 "Battlecruiser: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_Carrier_food_cost_add:0 "\nCarrier: £food£ §YFood§! cost"
+mod_ship_Carrier_food_upkeep_add:0 "Carrier: £food£ §YFood§! upkeep"
+mod_ship_Carrier_exotic_gases_cost_add:0 "Carrier: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_Carrier_exotic_gases_upkeep_add:0 "Carrier: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_Dreadnought_food_cost_add:0 "\nDreadnought: £food£ §YFood§! cost"
+mod_ship_Dreadnought_food_upkeep_add:0 "Dreadnought: £food£ §YFood§! upkeep"
+mod_ship_Dreadnought_exotic_gases_cost_add:0 "Dreadnought: £exotic_gases£ §YExotic Gas§! cost"
+mod_ship_Dreadnought_exotic_gases_upkeep_add:0 "Dreadnought: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_Flagship_food_cost_add:0 "\nFlagship: £food£ §YFood§! cost"
+mod_ship_Flagship_exotic_gases_cost_add:0 "Flagship: £exotic_gases£ §YExotic Gas§! cost"
+
+mod_ship_headquarters_food_cost_add:0 "\nHeadquarters: £food£ §YFood§! cost"
+mod_ship_headquarters_exotic_gases_cost_add:0 "Headquarters: £exotic_gases£ §YExotic Gas§! cost"
+
+### NSC ###
+###########
+
+##################
+### At War PDF ###
+
+mod_ship_eac_pdf_patrol_craft_1_food_upkeep_add:0 "Patrol Craft I: £food£ §YFood§! upkeep"
+mod_ship_eac_pdf_patrol_craft_1_exotic_gases_upkeep_add:0 "Patrol Craft I: £exotic_gases£ §YExotic Gas§! upkeep"
+
+mod_ship_eac_pdf_patrol_craft_2_food_upkeep_add:0 "\nPatrol Craft II: £food£ §YFood§! upkeep"
+mod_ship_eac_pdf_patrol_craft_2_exotic_gases_upkeep_add:0 "Patrol Craft II: £exotic_gases£ §YExotic Gas§! upkeep"
+    
+### At War PDF ###
+##################

@@ -1,0 +1,248 @@
+﻿l_french:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr19_planet_modifier:0 "Food Complex of the Ancients"
+ apsr19_planet_modifier_desc:0 "This whole planet is a decrepit food facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ 
+ apsr19_deposit:0 "$apsr19_planet_modifier$"
+ apsr19_deposit_desc:0 "$apsr19_planet_modifier_desc$\n\n§M$apsr19_deposit_effect$§!" 
+ apsr19_deposit_effect:0 "Unique resource available: $apsr19_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr19_building_part_b1_text:0 "Shadow of the Ancients' faded glory"
+ 
+ apsr19_building_part_b2_text:0 "Fraction of the restored Food Complex"
+ 
+ apsr19_building_part_b3_text:0 "Partly restored Food Complex"
+ 
+ 
+ apsr19_building_part_m1_text:0 "Shadow of the Ancients' faded glory"
+ 
+ apsr19_building_part_m2_text:0 "Fraction of the Biofuel Food Complex"
+ 
+ apsr19_building_part_m3_text:0 "Partly restored Biofuel Food Complex"
+ 
+ 
+ apsr19_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr19_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have the proper technologies required in order to maximize the output of this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr19_building_part_b1:0 "Food Complex of the Ancients: Incipient"
+ apsr19_building_part_b1_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b1_text$"
+ 
+ apsr19_building_part_b2:0 "Food Complex of the Ancients: Section"
+ apsr19_building_part_b2_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b2_text$"
+ 
+ apsr19_building_part_b3:0 "Food Complex of the Ancients"
+ apsr19_building_part_b3_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b3_text$"
+ 
+  
+ apsr19_building_part_m1:0 "Modified Food Complex of the Ancients: Incipient"
+ apsr19_building_part_m1_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m1_text$"
+ 
+ apsr19_building_part_m2:0 "Modified Food Complex of the Ancients: Section"
+ apsr19_building_part_m2_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m2_text$"
+ 
+ apsr19_building_part_m3:0 "Modified Food Complex of the Ancients"
+ apsr19_building_part_m3_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr19_building_part_b1_fake:0 "$apsr19_building_part_b1$"
+ apsr19_building_part_b1_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b1_text$"
+ 
+ apsr19_building_part_b2_fake:0 "$apsr19_building_part_b2$"
+ apsr19_building_part_b2_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b2_text$"
+ 
+ apsr19_building_part_b3_fake:0 "$apsr19_building_part_b3$"
+ apsr19_building_part_b3_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b3_text$"
+ 
+  
+ apsr19_building_part_m1_fake:0 "$apsr19_building_part_m1$"
+ apsr19_building_part_m1_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m1_text$"
+ 
+ apsr19_building_part_m2_fake:0 "$apsr19_building_part_m2$"
+ apsr19_building_part_m2_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m2_text$"
+ 
+ apsr19_building_part_m3_fake:0 "$apsr19_building_part_m3$"
+ apsr19_building_part_m3_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr19_building_part_b1:0 "Restoring the Glory of the Ancients: Stage 1"
+ tech_apsr19_building_part_b1_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ tech_apsr19_building_part_b2:0 "Restoring the Glory of the Ancients: Stage 2"
+ tech_apsr19_building_part_b2_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ tech_apsr19_building_part_b3:0 "Restoring the Glory of the Ancients: Stage 3"
+ tech_apsr19_building_part_b3_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ 
+ tech_apsr19_building_part_m1:0 "Restoring the Glory of the Ancients: Stage 1"
+ tech_apsr19_building_part_m1_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ tech_apsr19_building_part_m2:0 "Restoring the Glory of the Ancients: Stage 2"
+ tech_apsr19_building_part_m2_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ tech_apsr19_building_part_m3:0 "Restoring the Glory of the Ancients: Stage 3"
+ tech_apsr19_building_part_m3_desc:0 "Artifacts of the Ancients can and must be used."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.19001.title:0 "$apsr19_building_part_b1$ completed"
+ apsr.19001.desc:0 "We have completed the §Y$apsr19_building_part_b1$§!, the first step in restoring the Ancients' glory."
+ apsr.19001.ok-button:0 "Nice"
+ 
+ apsr.19002.title:0 "$apsr19_building_part_b2$ completed"
+ apsr.19002.desc:0 "We have completed the §Y$apsr19_building_part_b2$§!! Its construction marks a breakthrough in our agroindustrial development and in the studies of the Ancients' civilization."
+ apsr.19002.ok-button:0 "Wonderful"
+ 
+ apsr.19003.title:0 "$apsr19_building_part_b3$ completed"
+ apsr.19003.desc:0 "We have restored as much as we could of the §YFood Complex of the Ancients§! and gained access to its agroindustrial might. Unfortunately, there is only so much we could do, as the passage of time caused destruction beyond recovery!"
+ apsr.19003.ok-button:0 "Great"
+ 
+ apsr.19004.title:0 "$apsr19_building_part_m1$ completed"
+ apsr.19004.desc:0 "We have completed the §Y$apsr19_building_part_m1$§!, the first step in restoring the Ancients' glory, and repurposing it to suit our goals."
+ apsr.19004.ok-button:0 "Great"
+ 
+ apsr.19005.title:0 "$apsr19_building_part_m2$ completed"
+ apsr.19005.desc:0 "We have completed the §Y$apsr19_building_part_m2$§!! Its construction marks a breakthrough in our energoindustrial development and in the studies of the Ancients' civilization"
+ apsr.19005.ok-button:0 "Acknowledged"
+ 
+ apsr.19006.title:0 "$apsr19_building_part_m3$ completed"
+ apsr.19006.desc:0 "We have restored as much as we could of the §YModified Food Complex of the Ancients§! and gained access to its restored energoindustrial might. Unfortunately, there is only so much we could do, as the passage of time caused destruction beyond recovery!"
+ apsr.19006.ok-button:0 "Understood"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.19811.title:0 "Performance restored"
+ apsr.19811.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr19_building_part_b1$§!, and developed methodological and technological guidelines for its use. Now we can start using it at an acceptable level."
+ apsr.19811.ok-button:0 "Good"
+ 
+ apsr.19812.title:0 "Performance improved"
+ apsr.19812.desc:0 "A technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr19_building_part_b2$§!, and improved the methodological and technological guidelines for its use. Its output has been greatly increased."
+ apsr.19812.ok-button:0 "Great"
+ 
+ apsr.19813.title:0 "Performance maximised"
+ apsr.19813.desc:0 "TA technological breakthrough was achieved today in our empire! A team of scientists and engineers analyzed the §H$apsr19_building_part_b3$§!, and perfected the methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.19813.ok-button:0 "Perfect"
+ 
+ apsr.19814.title:0 "Performance restored"
+ apsr.19814.desc:0 "A technological breakthrough was achieved today in our empire! A team of science and engineering drones analyzed the §H$apsr19_building_part_m1$§!, and developed methodological and technological guidelines for its use. Now we can start using it at an acceptable level."
+ apsr.19814.ok-button:0 "Acknowledged"
+ 
+ apsr.19815.title:0 "Performance improved"
+ apsr.19815.desc:0 "A technological breakthrough was achieved today in our empire! A team of science and engineering drones analyzed the §H$apsr19_building_part_m2$§!, and improved the methodological and technological guidelines for its use. Its output has been greatly increased."
+ apsr.19815.ok-button:0 "Understood"
+ 
+ apsr.19816.title:0 "Performance maximised"
+ apsr.19816.desc:0 "A technological breakthrough was achieved today in our empire! A team of science and engineering drones analyzed the §H$apsr19_building_part_m3$§!, and perfected the methodological and technological guidelines for its use. Now we can use this building with maximum benefit."
+ apsr.19816.ok-button:0 "Received"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.19011.title:0 "Point of Interest found: §M$apsr19_planet_modifier$§!"
+ apsr.19011.desc:0 "A research team led by §H[Root.GetLeaderName]§! from the ship §H[Root.GetName]§! has discovered something peculiar! \nThis whole planet is a decrepit food facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.19011.button:1 "We must get this artifact!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.19013.title:0 "Point of Interest found: §M$apsr19_planet_modifier$§!"
+ apsr.19013.desc:0 "Something peculiar has been found on one of our new planets! \nThis whole planet is a decrepit food facility belonging to an ancient civilization. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored."
+ apsr.19013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.19015.title:0 "Point of Interest found: §M$apsr19_planet_modifier$§!"
+ apsr.19015.desc:0 "Our intelligence services, while checking for information about the planets of other empires, has found something interesting!\nOn one of the planets a decrepit food facility belonging to an ancient civilization can be found. It did not take to the passage of the ages well, but with an appropriate investment of time and resources, it can be restored.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr19_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr19_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr19_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr19_resource_planet.Owner.GetName]§!"
+ apsr.19015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr19_special:0 "$apsr19_planet_modifier$"
+ apsr19_special_desc:0 "$apsr19_planet_modifier_desc$"
+ 
+ APSR19_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR19_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr19_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr19_anomaly:0 "Interesting data"
+ apsr19_anomaly_desc:0 "During the survey of [From.GetName]'s surface we aquired data that definitely needs further investigation."
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.19601.title:0 "$apsr.19011.title$"
+ apsr.19601.desc:0 "$apsr.19011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr19_planet_agronomist_normal:0 "Agronomists"
+ job_apsr19_agronomist_normal:0 "Agronomist"
+ job_apsr19_agronomist_normal_plural:0 "Agronomists"
+ job_apsr19_agronomist_normal_desc:0 "A specialist with comprehensive knowledge of farming and livestock rearing."
+ mod_job_apsr19_agronomist_normal_add:0 "Agronomist"
+ 
+ apsr19_planet_agronomist_hive:0 "Agronomist Drones"
+ job_apsr19_agronomist_hive:0 "Agronomist Drone"
+ job_apsr19_agronomist_hive_plural:0 "Agronomist Drones"
+ job_apsr19_agronomist_hive_desc:0 "A specialised drone whose purpose lays within farming and livestock rearing areas."
+ mod_job_apsr19_agronomist_hive_add:0 "Agronomist Drone"
+ 
+ 
+ 
+ apsr19_planet_power_engineer_machine:0 "Power Drones"
+ job_apsr19_power_engineer_machine:0 "Power Drone"
+ job_apsr19_power_engineer_machine_plural:0 "Power Drones"
+ job_apsr19_power_engineer_machine_desc:0 "This drone model has an improved autonomous AI, whose main task is to monitor the operation of the facility, the work of ordinary drones-technicians, and the optimization of energy generation processes."
+ mod_job_apsr19_power_engineer_machine_add:0 "Power Drone"
+   
+ apsr19_planet_power_engineer_lithoid_normal:0 "Power Engineers"
+ job_apsr19_power_engineer_lithoid_normal:0 "Power Engineer"
+ job_apsr19_power_engineer_lithoid_normal_plural:0 "Power Engineers"
+ job_apsr19_power_engineer_lithoid_normal_desc:0 "The duties of the power engineer include overall control of the on-site energy production, optimization of production and consumption processes, tracking network load peaks and more."
+ mod_job_apsr19_power_engineer_lithoid_normal_add:0 "Power Engineer"
+   
+ apsr19_planet_power_engineer_lithoid_hive:0 "Power Drones"
+ job_apsr19_power_engineer_lithoid_hive:0 "Power Drone"
+ job_apsr19_power_engineer_lithoid_hive_plural:0 "Power Drones"
+ job_apsr19_power_engineer_lithoid_hive_desc:0 "This drone monitors the operation of the facility, and ensures a stable and uninterrupted operation."
+ mod_job_apsr19_power_engineer_lithoid_hive_add:0 "Power Drone"
+ 
+ 
+ 
+ 
+ 

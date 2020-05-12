@@ -1,0 +1,130 @@
+﻿l_english:
+
+  ####################################
+  # News Massage
+  ####################################
+  
+  complexDLC.101.name:0 "Hive DLC News."
+  complexDLC.101.desc:0 "§WForgotten Queens§! has been updated!\n 2.50 AND Lithoids are now supported!!.\nOrigins and Federations are nearly here too, which means some civics might get a rework or be moved as an origin once the patch is pushed. All of this is done thanks to my Patreon supporters, if you want to help please dont hessitate to do so at §Whttps://patreon.com/hivemods§!!\n\n§YForgotten Queens 2.50a: The Hive Rocks!§!\n As if you didn't get enough rock puns already hahaha. So, without further ado, the patchnotes:\n\nPatch §B2.50a:§!\n- Reworked Organic Structures to make it compatible with Lithoids: Lithoids now get Living Structures instead, which eat minerals instead of consuming energy credits.\n -Thriving Prey has been slightly reworked to bring compatibility with other mods!\n- Overmind now creates blockers according to the remote drone pop, so if your remote drones are lithoids you will get 4 monoliths.\n- Reworked Natural Attraction: It now provides +100% livestock minerals/food (Acording to species being farmed) instead of +1 food from livestock.\n- Updated gamerules to be consistent with 2.50 vanilla patch.\n- Planetary Digester now creates minerals as well if the pops are Lithoids.\n- Added sound effects to Planetary Digester\n\n\nPlease report any bugs and suggestions on Steam, Twitter or Reddit. Enjoy the game and cya next time!"
+  
+  ####################################
+  # Content
+  ####################################
+
+ job_cocoon:0 "Cocoon Caregiver"
+ job_cocoon_plural:0 "Cocoon Caregivers"
+ job_cocoon_desc:0 "Caregivers work in the den and help the cocoons with daily chores, such as feeding, cleaning and maintenance."
+ mod_job_cocoon_per_pop:0 "1 Cocoon Caregivers per 10 pops"
+ mod_job_cocoon_per_pop_short:0 ""
+  
+
+ job_purge_parasitic:0 "Purging"
+ job_purge_parasitic_plural:0 "Purging"
+ job_purge_parasitic_desc:2 "This pop is being purged in accordance with our policies."
+ 
+ building_cocoons_plant:0 "Artificial Cocoons"
+ building_cocoons_plant_desc:0 "A special building ment to host cocoons."
+ building_cocoons_plant_1:0 "Cocoon Cave"
+ building_cocoons_plant_1_desc:0 "The building has a connected cave full of cocoons."
+ building_cocoons_plant_2:0 "Cocoon Caverns"
+ building_cocoons_plant_2_desc:0 "The building has a network of caverns full of cocoons."
+ 
+ small_ship_swarm_bio:0 "Myrmling"
+ small_ship_swarm_bio_plural:0 "Myrmlings"
+ medium_ship_swarm_bio:0 "Myrmitogaster"
+ medium_ship_swarm_bio_plural:0 "Myrmitogasters"
+ large_ship_carrier_swarm_bio:0 "Aenictus"
+ large_ship_carrier_swarm_bio_plural:0 "Aenictus"
+ queen_swarm_bio:0 "Myrmicean Queen"
+ queen_swarm_bio_plural:0 "Myrmicean Queens"
+ 
+ tech_cocoons:0 "Artificial Cocoons"
+ tech_gene_manipulation:0 "Genetic Alterations"
+
+ tech_cocoons_desc:0 "Allows to build Artificial Cocoons where you can breed species."
+ tech_gene_manipulation_desc:0 "No longer will we be limited by the basic biological structure of a species when striving to improve them. DNA is just another material to be shaped as the sculptor wills it."
+
+ 
+ life_masters_tooltip:0 "§HCocoons§! can now grow other species from our empire.\nCan §YAssimilate§! other species.\nSpecies within our empire can §YCrossbreed§!.\nGene Modification Points: §G+1§! per unique species to a maximum of §Y10§!."
+ #Species grown in cocoons can now gain an additional otherwise unattainable random trait, the main species type will favor some traits over others.
+ life_crafters_tooltip:0 "Grants technologies to create space creatures in spaceports."
+ 
+ hive_mind_biological_ascension_only1:0 "Requires Hive Mind Authority"
+ 
+ ap_life_assemblers:0 "Life Assemblers"
+ ap_life_assemblers_desc:0 "The body is like a machine, and if you don't keep it in shape, it holds you back."
+ ap_life_masters:0 "Life Masters"
+ ap_life_masters_desc:0 "The organic bodies resonate at the same frequency as the Galaxy. We have to mend organics. And as we mend organics, we heal the Galaxy. "
+ ap_life_crafters:0 "Crafters of Life"
+ ap_life_crafters_desc:0 "Art never responds to the wish to make it democratic; it is not for everybody; it is only for those who are willing to undergo the effort needed to understand it."
+ requires_not_ap_overmind: "$TRIGGER_FAIL$May not have the §Y$ap_overmind$§! Ascension Perk."
+ casus_belli_cb_abduct:0 "Subjugation"
+ war_goal_wg_abduct:0 "Demand Sacrifice"
+ war_goal_wg_abduct_desc:0 "War is waged to subjugate the enemy as a Blood Tributary.\n\nIn the event of a Status Quo peace, systems we occupy will be released as a new Blood Tributary if they include at least one planet." 
+ #War is waged to sieze pops from the enemy empire for our own. Upon victory we will claim 25% of their population."
+ #wg_abduct_accept:0 "§Y[Root.GetName]§! gains §G25%§! §YPops§! from §Y[From.GetName]§!"
+ SUBJECT_pop_tributary:0 "Blood Tributary"
+ SUBJECT_DESC_pop_tributary:0 "Blood Tributaries are a type of subject which are diplomatically independent but every year must pay §Y1§! £pop£ §YPop§! per colony in tribute to their Overlord."
+ MESSAGE_POP_SACRIFICED:0 "A £pop£ §Y$SPECIES$ Pop§! from planet $PLANET|Y$ has been offered as tribute and resettled to $TARGET_PLANET|Y$"
+ MESSAGE_POP_SACRIFICED_FROM_US:0 "A £pop£ §Y$SPECIES$ Pop§! from $PLANET|Y$ was sent as tribute to our Overlord $ABDUCTER|Y$"
+
+ 
+ 
+ requires_technology_tech_cloning:0 "$TRIGGER_FAIL$Requires the £society£ §Y$tech_cloning$§! technology."
+ requires_ap_life_assemblers:0 "$TRIGGER_FAIL$Requires the £unity£ §Y$ap_life_assemblers$§! ascension perk."
+  
+ MESSAGE_PARASITE_COMPLETE_TITLE:0 "Pop infected"
+ MESSAGE_PARASITE_COMPLETE:0 "A £pop£ Pop has been bred after infection began in planet $PLANET|Y$"
+ 
+ MESSAGE_TRAIT_GAINED_TITLE:0 "Species Enhanced"
+ MESSAGE_TRAIT_GAINED:0 "A £pop£ Pop has been been enhanced while breeding them with cocoons in planet $PLANET|Y$"
+ 
+ life_masters_1_trait: "Life Masters"
+ life_masters_2_trait: "$life_masters_1_trait$"
+ life_masters_3_trait: "$life_masters_1_trait$"
+ life_masters_4_trait: "$life_masters_1_trait$"
+ life_masters_5_trait: "$life_masters_1_trait$"
+ life_masters_6_trait: "$life_masters_1_trait$"
+ life_masters_7_trait: "$life_masters_1_trait$"
+ life_masters_8_trait: "$life_masters_1_trait$"
+ life_masters_9_trait: "$life_masters_1_trait$"
+ life_masters_10_trait: "$life_masters_1_trait$"
+
+ 
+ 
+ trait_cortex:0 "Expanded Synaptic Cortex"
+ trait_cortex_desc:0 "§LThe Brain of this species has grown so much that a Synaptic Cortex was formed, allowing for better understanding of the universe.§!\n"
+ 
+ trait_diaphragm:0 "Iron Lungs"
+ trait_diaphragm_desc:0 "§LThis species can breathe and utilize the atmosphere more efficiently than others, which allows for a wider range of activity and the fuller exploitation of available ecosystems.§!\n"
+ 
+ trait_scales:0 "Slow Metabolism"
+ trait_scales_desc:0 "§LA Slow Metabolism allows the species organs to decay slower.§!\n"
+ 
+ trait_wings:0 "Exemplary Wings"
+ trait_wings_desc:0 "§LThe aerodynamic of this species wings allows new hights to be reached.§!\n"
+ 
+ trait_exoskeleton:0 "Flexible Exoskeleton"
+ trait_exoskeleton_desc:0 "§LA Flexible Exoskeleton that allows this species to move freely and through compact spaces.§!\n"
+ 
+ trait_shell:0 "Reinforced Outer Shell"
+ trait_shell_desc:0 "§LSometimes a home, others a defense mechanism. The species now can produce its own Reinforced Outer Shell.§!\n"
+ 
+ trait_pheromones:0 "Attractive Pheromones"
+ trait_pheromones_desc:0 "§LA chemical substance produced and released into the environment affecting the behaviour of others.§!\n"
+ 
+ trait_photosynthetic:0 "Photosynthetic"
+ trait_photosynthetic_desc:0 "§LThis species is able to synthesize sunlight.§!\n"
+  
+ trait_encrusted_minerals:0 "Encrusted Minerals"
+ trait_encrusted_minerals_desc:0 "§LThis species has encrusted minerals fused with the rest of their body. At least a percentage of their organic structure is Lithoid biology.§!\n"
+ 
+ trait_metal_blood:0 "Metallic Blood"
+ trait_metal_blood_desc:0 "§LLiving Metal flows in the veins of this species.§!\n"
+ 
+ larva:0 "Larva"
+ larva_desc:0 "A distinct juvenile form that will undergo metamorphosis into adult. What will it metamorphose into?"
+ 
+ mod_planet_livestock_minerals_produces_add: "£minerals£ §Y$minerals$§! from £job_livestock£ §Y$job_livestock_plural$§!"
+ mod_planet_livestock_sr_living_metal_produces_add: "£sr_living_metal£ §Y$sr_living_metal$§! from £job_livestock£ §Y$job_livestock_plural$§!"
+ mod_planet_pops_organics_upkeep_mult: "Biological Pop Upkeep"

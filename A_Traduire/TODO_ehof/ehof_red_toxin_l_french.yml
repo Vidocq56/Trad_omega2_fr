@@ -1,0 +1,17 @@
+﻿l_french:
+
+ # Red toxin bombardment
+ bombardment_redtoxin:0 "Scarlet Scourge"
+ bombardment_redtoxin_desc:3 "$bombardment_redtoxin$ Bombardment utilizes the Scarlet Scourge to poison a planet via orbital bombardment and kill of all life on the planet.\n- §RMassive§! damage to §HArmies§!\n- §RMassive§! damage to §HPlanet§!\n- §RMassive§! damage to §HPops§!\n- Will bombard undefended planets\n- Can reduce planets to uninhabitable, but easy terraformable Red Toxic World"
+ opinion_policy_orbital_bombardment_redtoxin:0 "We don't like yo mustard gas"
+ orbital_bombardment_redtoxin:0 "Scarlet Scourge"
+ orbital_bombardment_redtoxin_name:0 "Scarlet Scourge Orbital Bombardment"
+ orbital_bombardment_redtoxin_desc:0 "Allows the deployment of the Scarlet Scourge as a weapon for orbital bombardments.\n\n§EAllows 'Scarlet Scourge' orbital bombardment stances.§!"
+ ehof_red_toxin.2.name:0 "World bombed into Red Toxic World"
+ ehof_red_toxin.2.desc:0 "One of our planets was bombed into a Red Toxic World"
+ ehof_red_toxin.2.a:0 "This is horrible!"
+ bombed_to_red_toxic:0 "The world is now uninhabitable, but can be terraformed really fast."
+ ehof_red_toxin.3.desc:0 "Our fleets turned an enemy planet into a Red Toxic World via Scarlet Scourge bombardment."
+ ehof_red_toxic_world:0 "Terraforming Efficiency Increment"
+ ehof_red_toxic_world_desc:0 "The Scarlet Scourge increases the efficiency of terraforming, allowing us to terraform the planet really fast."
+ 

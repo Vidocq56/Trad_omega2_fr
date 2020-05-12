@@ -1,0 +1,86 @@
+﻿l_english:
+
+### ENGLISH LOCALIZATION
+
+########################################
+### Gravitational Anomaly Projector  ###
+########################################
+
+NHSC_SINGULARITY_CANNON_1: "Gravitational Anomaly Projector"
+NHSC_SINGULARITY_CANNON_1_DESC: "This weapon generates randomized gravitational waves to shake enemy ships apart."
+SMALL_NHSC_SINGULARITY_CANNON_1: "Small $NHSC_SINGULARITY_CANNON_1$"
+SMALL_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1: "Medium $NHSC_SINGULARITY_CANNON_1$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_1: "Large $NHSC_SINGULARITY_CANNON_1$"
+LARGE_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+
+########################################
+###    Spatial Distortion Cannon     ###
+########################################
+
+NHSC_SINGULARITY_CANNON_2: "Spatial Distortion Cannon"
+NHSC_SINGULARITY_CANNON_2_DESC: "An improved, more powerful version of the Gravitational Anomaly Projector."
+SMALL_NHSC_SINGULARITY_CANNON_2: "Small $NHSC_SINGULARITY_CANNON_2$"
+SMALL_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2: "Medium $NHSC_SINGULARITY_CANNON_2$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_2: "Large $NHSC_SINGULARITY_CANNON_2$"
+LARGE_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+
+########################################
+###     Microsingularity Cannon      ###
+########################################
+
+NHSC_SINGULARITY_CANNON_3: "Microsingularity Cannon"
+NHSC_SINGULARITY_CANNON_3_DESC: "This cannon shoots miniature, unstable spatial singularities that can easily annihilate all but sturdiest ships."
+SMALL_NHSC_SINGULARITY_CANNON_3: "Small $NHSC_SINGULARITY_CANNON_3$"
+SMALL_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3: "Medium $NHSC_SINGULARITY_CANNON_3$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_3: "Large $NHSC_SINGULARITY_CANNON_3$"
+LARGE_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+
+########################################
+###    Spatial Distortion Warhead    ###
+########################################
+
+NHSC_GRAVITY_TORPS_1: "Spatial Distortion Warhead"
+NHSC_GRAVITY_TORPS_1_DESC: "A torpedo that generates powerful gravitational waves, tearing anything near it apart on atomic level."
+
+########################################
+###     Microsingularity Warhead     ###
+########################################
+
+NHSC_GRAVITY_TORPS_2: "Microsingularity Warhead"
+NHSC_GRAVITY_TORPS_2_DESC: "Detonation of this warhead creates a small and very unstable black hole that will eat any ship unfortunate enough to be close to it before dissipating into nothingness."
+
+########################################
+###       Super-Graviton Cannon      ###
+########################################
+
+NHSC_GRAVITON_LANCE_1: "Super-Graviton Cannon"
+NHSC_GRAVITON_LANCE_1_DESC: "A particle cannon that warps space-time continuum along its firing path, tearing anything unlucky enough to be there apart."
+
+########################################
+###   Focused Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_2: "Focused Super-Graviton Cannon"
+NHSC_GRAVITON_LANCE_2_DESC: "An improved version of the Super-Graviton Cannon."
+
+########################################
+###   Titanic Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_TITANIC: "Titanic Super-Graviton Cannon"
+NHSC_GRAVITON_LANCE_TITANIC_DESC: "A super-sized version of the Super-Graviton Cannon for the biggest ships in our fleet."
+NHSC_GRAVITON_LANCE_JUGGERNAUT: "Juggernaut $NHSC_GRAVITON_LANCE_1$"
+NHSC_GRAVITON_LANCE_JUGGERNAUT_DESC: "$NHSC_GRAVITON_LANCE_TITANIC_DESC$"
+
+########################################
+###        Singularity Bombers       ###
+########################################
+
+NHSC_GRAVITY_BOMBERS: "Singularity Bombers"
+NHSC_GRAVITY_BOMBERS_DESC: "Strikecraft armed with gravity-based weapons."

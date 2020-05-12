@@ -1,0 +1,49 @@
+﻿l_french:
+  stargate_site: "La Porte des Étoiles"
+  stargate_world_site_desc: "Le déterrage de la Porte des Étoiles à tout changé !\n\nNotre civilisation a toujours su qu'elle n'était pas seule dans l'univers, mais en avoir la preuve sur notre propre planète démontre que le vie existait déjà avant notre apparition.\n\nCeux qui ont construit la Porte des Étoiles et la raison d'un tel acte restent un mystère. Une équipe de scientifiques a été formée pour inspecter l'artefact afin de lever le voile sur ses secrets, et peut-être un jour, sur ceux de l'univers."
+  
+  stargate_world.1.name: "Coordonnées tri-dimensionelles"
+  stargate_world.1.desc: "Les Glyphes autour de la Porte des Étoiles intriguent les scientifiques qui, incapables de déchiffrer le sens ou l'utilisation de ces icônes, ont demandé une investigation mondiale.\nDes citoyens aux quatres coins de la planète enquêtent sur ces symboles, en quête de sens. Certains en sont venus à des théories très controersées mais une équipe d'astronomes réputés ont reconnus que certains symboles recouvrant l'extérieur de la Porte sont des astérismes qui peuvent être utilisés en trois dimensions pour représenter les coordonées d'un système.\n\nDécouvrir la correcte combinaison et comment la mettre en place seront les defis de ces prochains mois."  
+  stargate_world.1.a: "Commençons !"
+   
+  stargate_world.2.name: "L'un de ces Glyphs n'est pas comme les autres"
+  stargate_world.2.desc: "En premier lieu, rentrer une séquence en appuyant de façon aléatoire sur le panneau de Glyphes à côté de la porte n'a rien donné. Mais avec du temps, nos scientifiques ont découverts qu'appuyer sur trois Glyphes sur le panneau puis un Glyphe sur la Porte active le mechanisme et crée une surcharge.\n\nAprès avoir réussi à stabiliser la Porte de Étoiles et d'avoir calibré la puissance nécessaire à son fonctionnement, nous avons été capable de l'activer !\nLorsqu'elle est active, la Porte ouvre une sorte de portail, ou bien un trou de ver qui pourrait tout à fait mener à des mondes inexplorés !\n\nNous scientifiques voudraient y envoyer des sondes afin d'y voir plus clair."  
+  stargate_world.2.a: "Evoyez ces sondes."
+        
+  stargate_world.3.name: "Ma batterie est faible et il commence à faire noir."
+  stargate_world.3.desc: "Toutes les séquences n'ont pas abouties à l'ouverture d'un portail, mais pour celles qui ont fonctionnées, les sondes envoyées ont été capables de relever un terrain et des données de l'atmosphère présents de l'autre côté de la Porte des Étoiles.\n\nCertain mondes ont été démontrés habitables. Cela réserve un grand futur pour notre espèce !\n\nComme les drones s'abîment dans l'inconnu, nous sommes face à un nouveau défi : devrions-nous envoyer des êtres vivant explorer ces nouvelles frontières ?"
+  stargate_world.3.a: "Oui, il est grand temps."
+      
+  stargate_world.4.name: "Ceux qui sont de retours"
+  stargate_world.4.desc: Pour chaque avancée, vient son rique et explorer ces nouveaux mondes en était un que notre civilisation était prête à prendre. Certains de nos explorateurs n'ont pas fait le chemin retour.\n\nEn revanche, ceux qui ont réussi sont porteurs de bonnes nouvelles ! Des mondes comme le nôtre nous attendent derrière la Porte des Étoiles !\n\nNéanmoins, nos scientifiques s'inquiètent pour ceux qui ne sont jamais revenus. Ils pensent que pour continuer les explorations et éventuellement commencer la colonisation, nous devrions prendre toutes les précautions nécessaires."
+  stargate_world.4.a: "Explorez les differentes solutions possibles."
+  
+  stargate_world.5.name: "Plus vite que la lumière"
+  stargate_world.5.desc: "Face à l'inconnu, aucune mesure n'est considérée comme exagérée. Heuresement, nos scientifiques partagent cette vision et ont décidé d'aller à l'encontre d'opérations militaires ou civiles non préparées.\n\nSelon nos scietifiques, la Porte crée un trou de ver temporel qui détruirait n'importe quel objet lent à faire passer au travers.\n\nIl est cependant possible, en théorie, de faire passer nos vaisseau étant équipé d'un moteur FTL leur permettant d'aller plus vite que la lumière.\nLa sécurité est primordiale et pour cela, nous devrions équiper nos vaisseaux pour leur permettre de voyager au travers la Porte des Étoiles."
+  stargate_world.5.a: "Vers l'Infini !"
+  
+  tech_hyper_drive_1b: "$tech_hyper_drive_1$"
+  tech_hyper_drive_1b_desc: "$tech_hyper_drive_1_desc$"
+  tech_hyper_drive_1a: "$tech_hyper_drive_1$"
+  tech_hyper_drive_1a_desc: "$tech_hyper_drive_1_desc$"
+  HYPER_DRIVE_1b: "$HYPER_DRIVE_1$"
+  
+  stargate_DESC: "Cette planète à une Porte Stellaire sur sa surface. La porte est faite de pierre et d'alliages et des Glyphes décorent toute sa circonférence."
+  
+  origin_stargate: "Porte des Étoiles"
+  origin_stargate_desc: "Le déterrage de la Porte des Étoiles à tout changé ! Ce morceau de technologie alien sur notre propre planète démontre que la vie existait déjà avant notre apparition !"
+  origin_tooltip_stargate_effects: "Commence avec une §YPorte des Étoiles§! et un §YSite Archéologique§! sur le système natal.\n§RPas de technologie FTL découverte !§!"
+  
+  
+  STARGATE_GALACTIC: "Porte des Étoile"	
+  STARGATE_GALACTIC_DESC: "Une planète de ce système contient une Porte des Étoiles"
+
+  START_SCREEN_STARGATE:0 "Autrefois, nous nous évoquions la possibilité d'une vie extraterrestre, jugeant l'éventuelle possibliltié d'en rencontrer la preuve. Alors que nous cherchions vers les étoiles, nos espoirs s'amaigrissaient.\n\nLorsqu'un jour, l'inattendu se produisit. Un groupe d'archéeologue ont déterrés ce que nous appelons La Porte des Étoiles ! Cette structure alien est antérieure à notre civilisation, ce qui est la preuve irrefutable d'une vie extraterrestre. La Porte a tout changé. Désormais les possibilités sont infinies et nos esprits grandissent à l'unisson.\n\nQui a construit une telle structure ? Dans quel objectif ? Où sont-ils ? Existent-ils toujours ? Ce sont les questions auxquelles notre civilisation fait face, des questions qui necessitent des réponses !" 
+  
+  stargate: "Stargate"
+  stargate_MEGASTRUCTURE_DETAILS: ""
+  
+  stargate_home_NAME: "Porte des Étoiles"
+  stargate_home_DESC: "Un système aléatoire avec une Porte des Étoiles et un site archéologique sur le système natal"
+  
+  new_worlds_rush: "Ruée vers de nouveaux mondes"

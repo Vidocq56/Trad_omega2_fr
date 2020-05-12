@@ -1,0 +1,114 @@
+﻿l_english:
+ 
+ ###########################
+ ### Made by Atoombom007 ###
+ ###########################
+
+#Player chooses scope of HARS-20
+waghotrigger01bio:"We've received interstellar communications from a ship within our empire! However, we can't tell whether they're truly alien or just distorted signals from one of our own satellites.\n\nRegardless, the message is a plea for help, to help the sick and injured crewmen. What should we do?"
+waghotrigger01mach:"Satellite NRX-35 picked up RF signal located at grid D4-H9.\n\n Threat analysis: <<§YINCOMPLETE§!>>\nHull Analysis: <<§YF-Class UFO§!>>\nCargo: <<§YOrganic Material§!>>\nCommunication Received: <<§YSOS§!>>\nWhat should the Central Nexus do?"
+waghotrigger01machterm:"Obliterator Satellite Zeus-1 picked up RF signal located at target location 243.192.\n\nThreat analysis: <<§RDANGER§!>>\nHull Analysis: <<§YF-Class UFO§!>>\nCargo: <<§YOrganic Material§!>>\nCommunication Received: <<§YSOS§!>>\nShould the Central Nexus deploy orbital platform Zeus-1 to eradicate the threat?"
+waghotrigger01hive:"Our Mind detected a new presence in our space. It is small and helpless, adrift in the void of space. In their voices we detect strong emotions of sadness and anger. Should we welcome them into the Hive?"
+waghotrigger01hivedev:"Our Mind detected an new presence in our space. It is small and helpless, adrift in our hunting grounds. We sense their fear, they are seeking for help. Will the Hive let this morsel get away of will we devour them tonight?"
+
+
+#event chain descriptions
+waghocountbioalone:"Our empire is under threat by an unknown disease. Our Department of Health, Sports and Wellness is working hard to collect real-time data regarding the infection, mortality and vaccination rates. "
+waghocountmachalone:"Galaxy [wagho_random_galaxy] contains organic lifeforms infected by harmful biological virus. Analysis subcores §BKM§! and §B50§! disassemble information amassed by intermittent data inquiries. They are collecting real-time data through periodical inquiries."
+waghocounthivealone:"The Mind is infected by radical elements that must be expelled from the body. We must track our drones to ensure the survival of the Mind."
+waghocountbioglobal:"The galaxy and our empire is under threat by a unknown disease. In a joint effort, the Department of Health, Sports and Wellness are cooperating with other instituations to collect and share real-time data regarding the severity of the disease."
+waghocountmachglobal:"Galaxy [wagho_random_galaxy] contains organic lifeforms infected by harmful biological virus. Analysis subcores §BKM§! and §B50§! disassemble information amassed by intermittent data inquiries. Social protocols are engaged in order to share and collect real-time data."
+waghocountmachtermglobal:"Galaxy [wagho_random_galaxy] contains organic lifeforms. The organic lifeforms are infected by unidentified biological pathogen. Collecting real-time foreign casualty projections."
+waghocounthiveglobal:"The galaxy and the Mind are infected by radical elements that must be expelled from the body. We must track our drones and other independent drones in the galaxy to ensure our survival."
+
+#event chain descriptions machine
+waghomachbio:"We detected a virus that wreaks havoc to any equipment fitted with circuit boards. Especially sentient or semi-sentient robotics are affected, causing them to shut down and become irreparably damaged. We are tracking the current robotics in our empire."
+waghomach:"Virus detected in multiple mainframes and is causing damage to our drone software, making them unusable. Primary purging systems were ineffective. Alternative solution is to track spread of virus across our drones and install preliminary intervention measures until solution is found."
+waghomachbioglobal:"We detected a virus that wreaks havoc to any equipment fitted with circuit boards. Especially sentient or semi-sentient robotics are affected, causing them to shut down and become irreparably damaged. We are tracking the current robotics in our empire, and sharing the data with other artificial and biological empires."
+waghomachglobal:"Virus detected in multiple mainframes and is causing damage to our drone software, making them unusable. Primary purging systems were ineffective. Alternative solution is to track spread of virus across our territory and share this data with other artificial and biological lifeforms."
+waghomachhiveglobal:"It seems the empty mechanical shells have fallen prey to a glitch in their systems. Their internal components shortcircuit and falter, leaving them vulnerable. It seems their mechanical form is less perfect than our transcendent biological Mind."
+
+#galaxy names
+ M34: "M34"
+ V87: "V87"
+ T500: "T500"
+ T9: "T9"
+ MX42: "MX42"
+ W1: "W1"
+ M0: "M0"
+ D5: "D5"
+ X26: "X26"
+ B75: "B75"
+ V98: "V98"
+ A12: "A12"
+ K7: "K7"
+ N7: "N7"
+ V54: "V54"
+ NL: "NL"
+ KM50: "KM50"
+ RM25: "RM25"
+ W10: "W10"
+ G32: "G32"
+ V1: "V1"
+ U97: "U97"
+ M8: "M8""
+ V2: "V2"
+ T2: "T2"
+ T85: "T85"
+ W2: "W2"
+ M12: "M12"
+ D284: "D284"
+ X45: "X45"
+ B21: "B21"
+ V4G69: "V4G69"
+ A3: "A3"
+ K28: "K28"
+ N28: "N28"
+ V86: "V86"
+ W426: "W426"
+ G693: "G693"
+ V391: "V391"
+ U690: "U690"
+ H666: "H666"
+ H3LL: "H3LL"
+ L33T: "L33T"
+ 045: "045" 
+ 40329: "40329"
+ 694: "694"
+ 583: "583"
+ 7601: "7601"
+ 5930: "5930"
+ F534: "F534"
+ G6: "G6"
+ R69: "R69"
+ U5007: "U5007"
+ B21: "B21"
+ B25: "B25"
+ 291: "291"
+ UVX: "M39"
+
+#random drones
+random_drone_0:"Drone I<3U"
+random_drone_1:"Drone IKR2"
+random_drone_2:"Drone M2"
+random_drone_3:"Drone M8T"
+random_drone_4:"Drone 69M"
+random_drone_5:"Drone 32X"
+random_drone_6:"Drone 91B"
+random_drone_7:"Drone 4647B"
+random_drone_8:"Drone C4"
+random_drone_9:"Drone G45"
+
+#buildings
+waghobuildingbio:"An Ode To Medicine"
+waghobuildingmach:"Parasidium"
+waghobuildinghive:"The Invisible Hunter"
+
+waghobuildingbiodesc:"A monument dedicated to our medical staff, doctors and nurses who prevented disaster"
+waghobuildingmachdesc:"Monument built as a real-life artificial memory to provide context for future iterations of the Central Nexus."
+waghobuildinghivedesc:"A towering achievement of our unity and strenght"
+
+#end of event chain
+waghoendofchain:"Attempts at protecting organic population have succeeded. "
+
+
