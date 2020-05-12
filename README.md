@@ -36,7 +36,7 @@ If the options listed are UTF-8 without BOM and UTF-8 (or similar), use UTF-8.
 
 >To overwrite vanilla localisation keys (or keys from other mods), create a folder named "replace" inside your "localisation" folder. Localisation files in this folder will load after all other localisation files, and overwrite any duplicate keys. In this way it is not necessary to overwrite entire localisation files, as individual key entries will be overwritten by the last loaded file, LIOS (Last in, only served). It is possible to overwrite localisation without a "replace" folder, however this is not a reliable method.
 
-## Colaborateur
+## Collaborateur
 
 Pull Review :
 
