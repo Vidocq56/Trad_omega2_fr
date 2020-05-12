@@ -8,7 +8,7 @@
 * Listes des mod du pack ici et checklist pour les id's
 * add - `/localisation-synced` et des sub de `/common` pour la trad.
 
-### Pour rapelle
+### Pour rappel
 
 ### Creating Localisation Files
 
