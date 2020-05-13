@@ -42,5 +42,6 @@ Pull Review :
 
 * DocteurHashley
 * Vidocq56
+* TrazynInfini
 
 Traduction :
