@@ -124,5 +124,5 @@
  edict_dmc_de_weapon_boost: "Surcharge d'énergie noire"
  edict_dmc_de_weapon_boost_desc: "L'augmentation de la production d'énergie par une attribution de ressources supplémentaires augmentera considérablement la cadence de feu de notre navire et la capacité de son bouclier pendant une courte période de temps". 
  
- construction_micro_trou_noir: "Extracteur de matière noire"
+ building_micro_black_hole: "Extracteur de matière noire"
  building_micro_black_hole_desc: "Ce grand bâtiment génère un micro trou noir, ce qui nous permet d'en extraire la matière noire. En raison de la nature dangereuse du trou noir, le processus est réalisé par des machines automatisées. Il nécessite cependant un immense entretien en énergie et en minéraux. "
